@@ -4,7 +4,8 @@ Winter Semester 2021/22 [@kozaka93](https://github.com/kozaka93) [@hbaniecki](ht
 
 Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisualizationTechniques)
 
-### Terminy i tematy zajęć
+## Schedule
+
 <table>
 <thead>
   <tr>
@@ -164,7 +165,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td rowspan="3"></td>
     <td rowspan="3">Python: matplotlib, seaborn</td>
     <td>Prototype</td>
-    <td rowspan="3">P1 (1p)<br><br>HW3 (10p)</td>
+    <td rowspan="3">P1 (1p)<br>HW3 (10p)</td>
   </tr>
   <tr>
     <td>11-24</td>
@@ -207,7 +208,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td>12-06</td>
     <td rowspan="3"></td>
     <td rowspan="3">R: Shiny - introduction</td>
-    <td rowspan="2">Discussing P1<br><br>Introducing P2</td>
+    <td rowspan="2">Discussing P1<br>Introducing P2</td>
     <td rowspan="3"></td>
   </tr>
   <tr>
@@ -230,7 +231,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td rowspan="3"></td>
     <td rowspan="3">R: Shiny - advanced</td>
     <td>Data analysis</td>
-    <td rowspan="3">P2 (1p)<br><br>HW5 (5p)</td>
+    <td rowspan="3">P2 (1p)<br>HW5 (5p)</td>
   </tr>
   <tr>
     <td>12-15</td>
@@ -274,7 +275,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td>01-03</td>
     <td rowspan="3">R: tidycharts, rpivotTable, visNetwork</td>
     <td>Prototype</td>
-    <td rowspan="3">P2 (2p)<br><br>HW6 (10p)</td>
+    <td rowspan="3">P2 (2p)<br>HW6 (10p)</td>
   </tr>
   <tr>
     <td>01-05</td>
@@ -352,3 +353,18 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   </tr>
 </tbody>
 </table>
+
+## General rules and course assessment
+
+You can obtain up to 100 points during the term, which will be assigned according to the following list:
+
+- Projects (2 x 25 points)
+- Homeworks (2 x 10 points, 6 x 5 points)
+
+You need at least 51 points overall, in this at least 13 points from each of the projects, in order to pass the course.
+
+The grades will be given according to the table:
+
+| Grade |  | 3 | 3.5 | 4 | 4.5 | 5 |
+|:---:| :---: |:---:|:---:|:---:|:---:|:---:|
+| Score |  | (50, 60] | (60, 70] | (70, 80] | (80, 90] | (90, ∞) |
