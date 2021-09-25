@@ -288,7 +288,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">13</td>
     <td>01-13</td>
-    <td>TBA</td>
+    <td>Guest lecturer</td>
     <td></td>
     <td></td>
     <td></td>
