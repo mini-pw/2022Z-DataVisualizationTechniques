@@ -258,7 +258,6 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>12-22</td>
     <td rowspan="2"></td>
-    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>12-21</td>
