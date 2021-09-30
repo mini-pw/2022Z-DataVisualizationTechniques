@@ -253,7 +253,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td rowspan="3"></td>
     <td rowspan="3">R: Xmas trees - gganimate, RBokeh, ggiraph, vegalite, googleVis</td>
     <td>Group work</td>
-    <td>P2 (2p)</td>
+    <td rowspan="3">P2 (2p)<br>HW6 (10p)</td>
   </tr>
   <tr>
     <td>12-22</td>
@@ -275,7 +275,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td>01-03</td>
     <td rowspan="3">R: tidycharts, rpivotTable, visNetwork</td>
     <td>Prototype</td>
-    <td rowspan="3">P2 (2p)<br>HW6 (10p)</td>
+    <td rowspan="3">P2 (2p)<br>HW7 (5p)</td>
   </tr>
   <tr>
     <td>01-05</td>
@@ -298,7 +298,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td rowspan="3"></td>
     <td rowspan="3">R: DataExplorer, visdat etc.</td>
     <td>Consultations</td>
-    <td rowspan="3">HW7 (5p)</td>
+    <td rowspan="3"></td>
   </tr>
   <tr>
     <td>01-12</td>
@@ -320,7 +320,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td rowspan="3"></td>
     <td rowspan="3">Python: pandas-profiler etc.</td>
     <td>Discussing P2</td>
-    <td rowspan="3"></td>
+    <td rowspan="3">HW8 (5p)</td>
   </tr>
   <tr>
     <td>01-19</td>
@@ -342,7 +342,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td rowspan="3"></td>
     <td rowspan="3">---</td>
     <td>---</td>
-    <td rowspan="3">HW8 (5p)</td>
+    <td rowspan="3"></td>
   </tr>
   <tr>
     <td>01-26</td>
