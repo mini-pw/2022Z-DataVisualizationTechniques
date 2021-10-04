@@ -29,7 +29,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>10-04</td>
     <td rowspan="3">R: review: proton, GitHub</td>
-    <td><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/projects/project1/Techniki%20Wizualizacji%20Danych%20-%20Projekt%201.pdf", Introducing&nbsp;&nbsp;P1  target="_blank" rel="noopener noreferrer"> </a></td>
+    <td><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/projects/project1/Techniki%20Wizualizacji%20Danych%20-%20Projekt%201.pdf"  target="_blank" rel="noopener noreferrer">Introducing&nbsp;&nbsp;P1  </a></td>
   </tr>
   <tr>
     <td>10-06</td>
