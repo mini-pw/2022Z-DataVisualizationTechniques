@@ -18,3 +18,14 @@ Za projekt można otrzymać od 0 do 25 punktów, z czego:
 - do 5 pkt. uzyskuje się, jeżeli przygotowane wykresy mają wszystkie niezbędne elementy do trafnego odczytania danych (tytuł, podtytuł, adnotacje na osiach, legenda, jednostki, opis jak czytać wykres),
 - do 5 pkt. uzyskuje się za znalezienie ciekawych danych, tematów mniej poluparnych w mediach, ale interesujących,
 - do 5 pkt. uzyskuje się za estetykę, spójność i pomysłowość aranżacji wykresów oraz ich opisów w jedną całość, umieszczenie informacji (tytuł, autorzy, źródło danych).
+
+## Materiały
+
+- https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+- https://ourworldindata.org/grapher/temperature-anomaly?country=~Global
+- https://www.gapminder.org/data/
+
+Plakaty z poprzednich lat
+
+- https://medium.com/responsibleml/poster-make-movie-book-series-3ac2c8a01180
+- https://medium.com/responsibleml/covid-19-data-visualization-bc0732c19d46
