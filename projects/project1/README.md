@@ -25,6 +25,11 @@ Za projekt można otrzymać od 0 do 25 punktów, z czego:
 - https://ourworldindata.org/grapher/temperature-anomaly?country=~Global
 - https://www.gapminder.org/data/
 
+Przykady narzędzi do tworzenia plakatów:
+
+- PowerPoint
+- https://www.canva.com/ (Pro with https://education.github.com/pack)
+
 Plakaty z poprzednich lat
 
 - https://medium.com/responsibleml/poster-make-movie-book-series-3ac2c8a01180
