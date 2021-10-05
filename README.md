@@ -199,7 +199,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">9</td>
     <td>11-25</td>
-    <td>Presentation of P1 (part 1)</td>
+    <td>Dashboards</td>
     <td></td>
     <td></td>
     <td>P1 (20p)</td>
@@ -221,7 +221,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">10</td>
     <td>12-02</td>
-    <td>Presentation of P1 (part 2)</td>
+    <td>Presentation of P1 (part 1)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -243,7 +243,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">11</td>
     <td>12-09</td>
-    <td>Dashboards</td>
+    <td>Presentation of P1 (part 2)</td>
     <td></td>
     <td></td>
     <td></td>
