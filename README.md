@@ -202,7 +202,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td>Dashboards</td>
     <td></td>
     <td></td>
-    <td>P1 (20p)</td>
+    <td></td>
   </tr>
   <tr>
     <td>12-06</td>
