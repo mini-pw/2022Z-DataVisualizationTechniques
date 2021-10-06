@@ -224,7 +224,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td>Presentation of P1 (part 1)</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>P1 (20p)</td>
   </tr>
   <tr>
     <td>12-13</td>
