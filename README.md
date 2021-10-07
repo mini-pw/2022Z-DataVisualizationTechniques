@@ -21,7 +21,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">1</td>
     <td>10-07</td>
-    <td rowspan="2">Course introduction, data types, visualization tools</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L1-intro.pdf"  target="_blank" rel="noopener noreferrer"> Course introduction, data types, visualization tools  </a></td>
     <td></td>
     <td></td>
     <td rowspan="4"></td>
