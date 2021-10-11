@@ -21,15 +21,15 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">1</td>
     <td>10-07</td>
-    <td rowspan="2">Course introduction, data types, visualization tools</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L1-intro.pdf"  target="_blank" rel="noopener noreferrer"> Course introduction, data types, visualization tools  </a></td>
     <td></td>
     <td></td>
     <td rowspan="4"></td>
   </tr>
   <tr>
     <td>10-04</td>
-    <td rowspan="3">R: review: proton, GitHub</td>
-    <td>Introducing&nbsp;&nbsp;P1</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab1" target="_blank" rel="noopener noreferrer">R: review: proton, GitHub</a></td>
+    <td><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/projects/project1/Techniki%20Wizualizacji%20Danych%20-%20Projekt%201.pdf"  target="_blank" rel="noopener noreferrer">Introducing&nbsp;&nbsp;P1  </a></td>
   </tr>
   <tr>
     <td>10-06</td>
@@ -50,7 +50,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>10-11</td>
     <td rowspan="3"></td>
-    <td rowspan="3">R: dplyr, tidyr, forecats</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab2" target="_blank" rel="noopener noreferrer">R: dplyr, tidyr, forecats</a></td>
     <td>Group work</td>
     <td>P1 (1p)</td>
   </tr>
@@ -199,10 +199,10 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">9</td>
     <td>11-25</td>
-    <td>Presentation of P1 (part 1)</td>
+    <td>Dashboards</td>
     <td></td>
     <td></td>
-    <td>P1 (20p)</td>
+    <td></td>
   </tr>
   <tr>
     <td>12-06</td>
@@ -221,10 +221,10 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">10</td>
     <td>12-02</td>
-    <td>Presentation of P1 (part 2)</td>
+    <td>Presentation of P1 (part 1)</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>P1 (20p)</td>
   </tr>
   <tr>
     <td>12-13</td>
@@ -243,7 +243,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">11</td>
     <td>12-09</td>
-    <td>Dashboards</td>
+    <td>Presentation of P1 (part 2)</td>
     <td></td>
     <td></td>
     <td></td>
