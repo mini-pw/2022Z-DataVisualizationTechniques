@@ -42,7 +42,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">2</td>
     <td>10-14</td>
-    <td>The Grammar of Graphics</td>
+    <td><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L2-gramatyka.pdf" target="_blank" rel="noopener noreferrer">The Grammar of Graphics</a></td>
     <td></td>
     <td></td>
     <td></td>
