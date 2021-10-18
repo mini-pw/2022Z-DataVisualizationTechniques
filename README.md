@@ -42,7 +42,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">2</td>
     <td>10-14</td>
-    <td>The Grammar of Graphics</td>
+    <td><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L2-gramatyka.pdf" target="_blank" rel="noopener noreferrer">The Grammar of Graphics</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -50,7 +50,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>10-11</td>
     <td rowspan="3"></td>
-    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab2" target="_blank" rel="noopener noreferrer">R: dplyr, tidyr, forecats</a></td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab2" target="_blank" rel="noopener noreferrer">R: dplyr, tidyr, forcats</a></td>
     <td>Group work</td>
     <td>P1 (1p)</td>
   </tr>
@@ -73,7 +73,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>10-18</td>
     <td rowspan="3"></td>
-    <td rowspan="3">R: ggplot2 - introduction</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab3" target="_blank" rel="noopener noreferrer">R: ggplot2 - introduction</a></td>
     <td>Data exploration</td>
     <td rowspan="3">P1 (1p)<br>HW1 (5p)</td>
   </tr>
