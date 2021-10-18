@@ -24,7 +24,7 @@ auta2012 %>%
   summarise(n = n()) %>% 
   slice_max(n, n = 1)
 
-## Odp: Tą marką jest Skoda.
+## Odp: Skoda.
 
 
 ## 3. Ile jest aut z silnikiem diesla wyprodukowanych w latach 2005-2011?
@@ -33,7 +33,7 @@ auta2012 %>%
   filter(Rodzaj.paliwa == "olej napedowy (diesel)" & between(Rok.produkcji, 2005, 2011)) %>% 
   count()
 
-## Odp: Jest ich 59534.
+## Odp: 59534.
 
 
 ## 4. Spośród aut z silnikiem diesla wyprodukowanych w 2011 roku, która marka jest średnio najdroższa?
@@ -75,29 +75,19 @@ auta2012 %>%
 ## 7. Spośród aut marki Skoda, który model ma najmniejszą różnicę średnich cen 
 ##    między samochodami z silnikiem benzynowym, a diesel?
 
-# uznaję, że rodzaje paliwa: benzyna, benzyna+LPG oznaczają silnik benzynowy
-# hybrydy, choć teoretycznie ma też silnik benzynowy, nie uznaję
-
 library(tidyr) # do użycia pivot_wider
 
 auta2012 %>% 
   filter(Marka == "Skoda") %>%
-  # kategoryzujemy silniki na benzynowe, diesel i inne
-  mutate(silnik = case_when(  
-    Rodzaj.paliwa %in% c("benzyna", "benzyna+LPG") ~ "benzynowy",
-    Rodzaj.paliwa == "olej napedowy (diesel)" ~ "diesel",
-    TRUE ~ "other"
-  )) %>% 
-  
-  filter(silnik != "other") %>% 
-  group_by(Model, silnik) %>% 
+  filter(Rodzaj.paliwa %in% c("benzyna", "olej napedowy (diesel)")) %>% 
+  group_by(Model, Rodzaj.paliwa) %>% 
   summarise(srednia.cena = mean(Cena.w.PLN)) %>%
-  pivot_wider(names_from = silnik, values_from = srednia.cena) %>% 
-  mutate(roznica.srednich.cen = abs(benzynowy - diesel)) %>%
+  pivot_wider(names_from = Rodzaj.paliwa, values_from = srednia.cena) %>% 
+  mutate(roznica.srednich.cen = abs(`benzyna` - `olej napedowy (diesel)`)) %>% 
   arrange(roznica.srednich.cen) %>%
   head(n = 1)
   
-## Odp: Ten model to Scoda Favorit
+## Odp: Scoda Felicia.
 
 
 ## 8. Znajdź najrzadziej i najczęściej występujące wyposażenie/a dodatkowe 
