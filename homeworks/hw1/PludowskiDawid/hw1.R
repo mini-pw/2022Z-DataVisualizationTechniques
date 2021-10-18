@@ -6,7 +6,7 @@ dim(auta2012)
 head(auta2012[,-ncol(auta2012)])
 sum(is.na(auta2012))
 
-## 1. Z którego rocznika jest najwiêcej aut i ile ich jest?
+## 1. Z ktÃ³rego rocznika jest najwiÄ™cej aut i ile ich jest?
 
 auta2012 %>%
   group_by(Rok.produkcji) %>%
@@ -16,7 +16,7 @@ auta2012 %>%
 ## Odp: 2011: 17418 cars
 
 
-## 2. Która marka samochodu wystêpuje najczêœciej wœród aut wyprodukowanych w 2011 roku?
+## 2. KtÃ³ra marka samochodu wystÄ™puje najczÄ™Å›ciej wÅ›rÃ³d aut wyprodukowanych w 2011 roku?
 
 auta2012 %>%
   filter(Rok.produkcji == 2011) %>%
@@ -37,7 +37,7 @@ auta2012 %>%
 ## Odp: 59534
 
 
-## 4. Spoœród aut z silnikiem diesla wyprodukowanych w 2011 roku, która marka jest œrednio najdro¿sza?
+## 4. SpoÅ›rÃ³d aut z silnikiem diesla wyprodukowanych w 2011 roku, ktÃ³ra marka jest Å›rednio najdroÅ¼sza?
 
 auta2012 %>%
   filter(Rok.produkcji == 2011 & Rodzaj.paliwa == "olej napedowy (diesel)") %>%
@@ -48,7 +48,7 @@ auta2012 %>%
 ## Odp: Porsche
 
 
-## 5. Spoœród aut marki Skoda wyprodukowanych w 2011 roku, który model jest œrednio najtañszy?
+## 5. SpoÅ›rÃ³d aut marki Skoda wyprodukowanych w 2011 roku, ktÃ³ry model jest Å›rednio najtaÅ„szy?
 
 auta2012 %>% 
   filter(Rok.produkcji == 2011 & Marka == "Skoda") %>%
@@ -59,8 +59,8 @@ auta2012 %>%
 ## Odp: Fabia      
 
 
-## 6. Która skrzynia biegów wystêpuje najczêœciej wœród 2/3-drzwiowych aut,
-##    których stosunek ceny w PLN do KM wynosi ponad 600?
+## 6. KtÃ³ra skrzynia biegÃ³w wystÄ™puje najczÄ™Å›ciej wÅ›rÃ³d 2/3-drzwiowych aut,
+##    ktÃ³rych stosunek ceny w PLN do KM wynosi ponad 600?
 
 auta2012 %>%
   mutate(ratio = Cena.w.PLN / KM) %>%
@@ -72,10 +72,8 @@ auta2012 %>%
 ## Odp: automatyczna
 
 
-## 7. Spoœród aut marki Skoda, który model ma najmniejsz¹ ró¿nicê œrednich cen 
-##    miêdzy samochodami z silnikiem benzynowym, a diesel?
-
-### popraw
+## 7. SpoÅ›rÃ³d aut marki Skoda, ktÃ³ry model ma najmniejszÄ… rÃ³Å¼nicÄ™ Å›rednich cen 
+##    miÄ™dzy samochodami z silnikiem benzynowym, a diesel?
 
 library(tidyr)
 library(forcats)
@@ -93,8 +91,8 @@ auta2012 %>%
 ## Odp: Felicia    
 
 
-## 8. ZnajdŸ najrzadziej i najczêœciej wystêpuj¹ce wyposa¿enie/a dodatkowe 
-##    samochodów marki Lamborghini
+## 8. ZnajdÅº najrzadziej i najczÄ™Å›ciej wystÄ™pujÄ…ce wyposaÅ¼enie/a dodatkowe 
+##    samochodÃ³w marki Lamborghini
 
 library(stringr)
 
@@ -111,11 +109,11 @@ wyp[order(wyp)]
 res[order(res)]
 
 ## Odp: 
-# najczêœciej: wspomaganie kierownicy, alufelgi, ABS
-# najrzadziej: blokada skrzyni biegów, klatka
+# najczÄ™Å›ciej: wspomaganie kierownicy, alufelgi, ABS
+# najrzadziej: blokada skrzyni biegÃ³w, klatka
 
-## 9. Porównaj œredni¹ i medianê mocy KM miêdzy grupami modeli A, S i RS 
-##    samochodów marki Audi
+## 9. PorÃ³wnaj Å›redniÄ… i medianÄ™ mocy KM miÄ™dzy grupami modeli A, S i RS 
+##    samochodÃ³w marki Audi
 
 auta2012 %>% 
   filter(Marka == "Audi") %>%
@@ -131,8 +129,8 @@ auta2012 %>%
 # 3 S          344.    344
 
 
-## 10. ZnajdŸ marki, których auta wystêpuj¹ w danych ponad 10000 razy.
-##     Podaj najpopularniejszy kolor najpopularniejszego modelu dla ka¿dej z tych marek.
+## 10. ZnajdÅº marki, ktÃ³rych auta wystÄ™pujÄ… w danych ponad 10000 razy.
+##     Podaj najpopularniejszy kolor najpopularniejszego modelu dla kaÅ¼dej z tych marek.
 
 auta2012 %>% 
   group_by(Marka) %>%
