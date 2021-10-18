@@ -73,7 +73,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>10-18</td>
     <td rowspan="3"></td>
-    <td rowspan="3">R: ggplot2 - introduction</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab3" target="_blank" rel="noopener noreferrer">R: ggplot2 - introduction</a></td>
     <td>Data exploration</td>
     <td rowspan="3">P1 (1p)<br>HW1 (5p)</td>
   </tr>
