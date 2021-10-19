@@ -65,7 +65,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">3</td>
     <td>10-19</td>
-    <td>Colors and scales</td>
+    <td><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L3-kolory-skale.pdf" target="_blank" rel="noopener noreferrer">Colors and scales</a></td>
     <td></td>
     <td></td>
     <td></td>
