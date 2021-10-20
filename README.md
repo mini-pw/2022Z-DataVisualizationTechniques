@@ -87,7 +87,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">4</td>
     <td>10-21</td>
-    <td>Don't do this at home</td>
+    <td><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L4-nie-popelniaj-tych-bledow.pdf" target="_blank" rel="noopener noreferrer"> Don't do this at home</a></td>
     <td></td>
     <td></td>
     <td></td>
