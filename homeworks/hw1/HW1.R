@@ -140,12 +140,12 @@ df %>%
 
 ## Odp:     Marka         Model  Kolor              cnt
 #          <fct>         <fct>  <fct>            <int>
-#         1 Audi          A4     czarny-metallic    853
-#         2 BMW           320    srebrny-metallic   441
-#         3 Ford          Focus  srebrny-metallic  1711
-#         4 Mercedes-Benz C 220  srebrny-metallic   205
-#         5 Opel          Astra  srebrny-metallic  1539
-#         6 Renault       Scenic srebrny-metallic   819
-#         7 Volkswagen    Passat srebrny-metallic  1466
+#          1 Audi          A4     czarny-metallic    853
+#          2 BMW           320    srebrny-metallic   441
+#          3 Ford          Focus  srebrny-metallic  1711
+#          4 Mercedes-Benz C 220  srebrny-metallic   204
+#          5 Opel          Astra  srebrny-metallic  1538
+#          6 Renault       Megane srebrny-metallic   733
+#          7 Volkswagen    Passat srebrny-metallic  1466
 
 
