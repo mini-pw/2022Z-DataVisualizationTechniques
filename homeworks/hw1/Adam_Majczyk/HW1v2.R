@@ -210,17 +210,6 @@ auta2012 %>%
   summarise(sredniaKM = mean(KM), medianaKM = median(KM))
 
 
-auta2012 %>% 
-  auta2012 %>% 
-  filter(Marka =="Audi") %>% 
-  select(Marka, Model, KM) %>% 
-  separate(Model, c("ModelA", "ModelB")) %>% 
-  select(ModelA, KM)%>% 
-  filter(grepl("^A|^S|^RS", ModelA)) %>% 
-  group_by(ModelA) %>% 
-  tally() %>% 
-  View()
-
 ## Odp:
 #   grupy sredniaKM medianaKM
 #   <chr>     <dbl>     <dbl>
