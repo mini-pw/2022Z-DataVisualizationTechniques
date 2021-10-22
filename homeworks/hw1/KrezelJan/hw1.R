@@ -133,7 +133,9 @@ auta2012 %>%
   
 
 ## Odp:
-
+## 1 A                160.       140 FALSE                         
+## 2 RS               500.       450 FALSE                         
+## 3 S                344.       344 TRUE 
 
 ## 10. Znajdź marki, których auta występują w danych ponad 10000 razy.
 ##     Podaj najpopularniejszy kolor najpopularniejszego modelu dla każdej z tych marek.
