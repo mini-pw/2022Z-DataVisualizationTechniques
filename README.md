@@ -65,7 +65,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">3</td>
     <td>10-19</td>
-    <td>Colors and scales</td>
+    <td><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L3-kolory-skale.pdf" target="_blank" rel="noopener noreferrer">Colors and scales</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -73,9 +73,9 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>10-18</td>
     <td rowspan="3"></td>
-    <td rowspan="3">R: ggplot2 - introduction</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab3" target="_blank" rel="noopener noreferrer">R: ggplot2 - introduction</a></td>
     <td>Data exploration</td>
-    <td rowspan="3">P1 (1p)<br>HW1 (5p)</td>
+    <td rowspan="3">P1 (1p)<br><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/55" target="_blank" rel="noopener noreferrer"> HW1 (5p)</a></td>
   </tr>
   <tr>
     <td>10-20</td>
@@ -87,7 +87,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">4</td>
     <td>10-21</td>
-    <td>Don't do this at home</td>
+    <td><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L4-nie-popelniaj-tych-bledow.pdf" target="_blank" rel="noopener noreferrer"> Don't do this at home</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -120,7 +120,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td rowspan="3"></td>
     <td rowspan="3">R: ggplot2 - advanced, extensions: patchwork, ggstatsplot, ggmap</td>
     <td>Consultations</td>
-    <td rowspan="3">HW2 (5p)</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/97" target="_blank" rel="noopener noreferrer">HW2 (5p)</a></td>
   </tr>
   <tr>
     <td>11-03</td>
@@ -165,7 +165,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td rowspan="3"></td>
     <td rowspan="3">Python: matplotlib, seaborn</td>
     <td>Prototype</td>
-    <td rowspan="3">P1 (1p)<br>HW3 (10p)</td>
+    <td rowspan="3">P1 (1p)<br><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/98"  target="_blank" rel="noopener noreferrer">HW3 (10p)</a></td>
   </tr>
   <tr>
     <td>11-24</td>
