@@ -95,7 +95,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>10-25</td>
     <td rowspan="3"></td>
-    <td rowspan="3">R: ggplot2 - plot modification, theme, facets</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab4" target="_blank" rel="noopener noreferrer"> R: ggplot2 - plot modification, theme, facets</a></td>
     <td>First visualizations</td>
     <td>P1 (1p)</td>
   </tr>
