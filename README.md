@@ -118,7 +118,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>11-08</td>
     <td rowspan="3"></td>
-    <td rowspan="3">R: ggplot2 - advanced, extensions: patchwork, ggstatsplot, ggmap, ggrepel</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab5" target="_blank" rel="noopener noreferrer">R: ggplot2 - advanced, extensions: patchwork, ggstatsplot, map, ggrepel</a></td>
     <td>Consultations</td>
     <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/97" target="_blank" rel="noopener noreferrer">HW2 (5p)</a></td>
   </tr>
