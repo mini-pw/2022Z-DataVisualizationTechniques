@@ -132,7 +132,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">6</td>
     <td>11-04</td>
-    <td rowspan="2">The International Business Communication Standards</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L6-IBCS.pdf" target="_blank" rel="noopener noreferrer">The International Business Communication Standards</a></td>
     <td></td>
     <td></td>
     <td></td>
