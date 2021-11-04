@@ -110,7 +110,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">5</td>
     <td>10-28</td>
-    <td>Other plot types</td>
+    <td><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L5-inne-rodzaje-wykresow.pdf" target="_blank" rel="noopener noreferrer"> Other plot types</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -118,7 +118,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>11-08</td>
     <td rowspan="3"></td>
-    <td rowspan="3">R: ggplot2 - advanced, extensions: patchwork, ggstatsplot, ggmap, ggrepel</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab5" target="_blank" rel="noopener noreferrer">R: ggplot2 - advanced, extensions: patchwork, ggstatsplot, map, ggrepel</a></td>
     <td>Consultations</td>
     <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/97" target="_blank" rel="noopener noreferrer">HW2 (5p)</a></td>
   </tr>
@@ -132,7 +132,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">6</td>
     <td>11-04</td>
-    <td rowspan="2">The International Business Communication Standards</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L6-IBCS.pdf" target="_blank" rel="noopener noreferrer">The International Business Communication Standards</a></td>
     <td></td>
     <td></td>
     <td></td>
