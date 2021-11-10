@@ -155,7 +155,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">7</td>
     <td>11-10</td>
-    <td>History of Statistical Graphics</td>
+    <td><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L7-historia.pdf" target="_blank" rel="noopener noreferrer">History of Statistical Graphics</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -177,7 +177,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">8</td>
     <td>11-18</td>
-    <td rowspan="3">Hans Rosling: The best stats you've ever seen, Let my dataset change your mindset</td>
+    <td rowspan="3">How to work in a graphics program? Hans Rosling: The best stats you've ever seen, Let my dataset change your mindset</td>
     <td></td>
     <td></td>
     <td></td>
