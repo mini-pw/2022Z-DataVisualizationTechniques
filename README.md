@@ -139,7 +139,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   </tr>
   <tr>
     <td>11-15</td>
-    <td rowspan="3">Python: pandas, numpy, pandas.plot</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab6" target="_blank" rel="noopener noreferrer">Python: pandas, numpy, pandas.plot</a></td>
     <td>Advanced visualizations</td>
     <td>P1 (1p)</td>
   </tr>
