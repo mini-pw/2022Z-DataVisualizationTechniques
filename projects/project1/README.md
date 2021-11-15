@@ -8,7 +8,7 @@ Plakat powinien składać się ze zbioru przynajmniej trzech spójnych tematyczn
 
 Wykresy mogą być wykonane w dowolnym narzędziu i złożone w plakat z użyciem dowolnej techniki. Podczas Wykładów 9 i 10 zespoły przedstawiają krótkie prezentacje swojej pracy (max. 3 minuty), które zależą od trybu zajęć.
 
-Czas na wykonanie projektu jest do 24.11 - do tego dnia (włącznie) będą przyjmowane Pull Requests z plikiem pdf na GitHub. W trybie stacjonarnym zajęć należy wydrukować plakat i przynieść go na Wykład 9. W trybie zdalnym należy nagrać prezentację opisującą pracę i załączyć ją w PR na GitHub (można nagrać prezentację w trybie stacjonarnym).
+Czas na wykonanie projektu jest do **1 grudnia (środa)** - do tego dnia (włącznie) będą przyjmowane Pull Requests z plikiem pdf na GitHub. W trybie stacjonarnym zajęć należy wydrukować plakat i przynieść go na Wykład 9. W trybie zdalnym należy nagrać prezentację opisującą pracę i załączyć ją w PR na GitHub (można nagrać prezentację w trybie stacjonarnym).
 
 ## Ocena
 
