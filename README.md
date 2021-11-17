@@ -177,7 +177,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">8</td>
     <td>11-18</td>
-    <td rowspan="3">How to work in a graphics program? Hans Rosling: The best stats you've ever seen, Let my dataset change your mindset</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/lectures/L8" target="_blank" rel="noopener noreferrer">How to work in a graphics program? </a><a href="https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen" target="_blank" rel="noopener noreferrer">Hans Rosling: The best stats you've ever seen</a>,<a href="https://www.ted.com/talks/hans_rosling_let_my_dataset_change_your_mindset" target="_blank" rel="noopener noreferrer"> Let my dataset change your mindset</a></td>
     <td></td>
     <td></td>
     <td></td>
