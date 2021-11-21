@@ -186,7 +186,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td>11-29</td>
     <td rowspan="3">R: plotly - interactive visualization</td>
     <td>Consultations</td>
-    <td rowspan="3">HW4 (5p)</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/197" target="_blank" rel="noopener noreferrer">HW4 (5p)</a></td>
   </tr>
   <tr>
     <td>12-01</td>
