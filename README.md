@@ -163,7 +163,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>11-22</td>
     <td rowspan="3"></td>
-    <td rowspan="3">Python: matplotlib, seaborn</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/labs/lab7/Lab_7.ipynb" target="_blank" rel="noopener noreferrer">Python: matplotlib, seaborn</a></td>
     <td>Prototype</td>
     <td rowspan="3">P1 (1p)<br><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/98"  target="_blank" rel="noopener noreferrer">HW3 (10p)</a></td>
   </tr>
