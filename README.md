@@ -199,7 +199,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">9</td>
     <td>11-25</td>
-    <td>Dashboards</td>
+    <td><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/blob/main/lectures/L9-dashboards.pdf" target="_blank" rel="noopener noreferrer">Dashboards</a></td>
     <td></td>
     <td></td>
     <td></td>
