@@ -1,0 +1,224 @@
+Country.Code,MtCO2eq,Country.Name
+ABW,0.138,Aruba
+AFG,20.847,Afghanistan
+AGO,133.207,Angola
+AIA,0.007,Anguilla
+AIR,2.708,Int. Aviation
+ALB,5.018,Albania
+ANT,0.903,Netherlands Antilles
+ARE,23.205,United Arab Emirates
+ARG,328.938,Argentina
+ARM,3.55,Armenia
+ASM,0.027,American Samoa
+ATG,0.141,Antigua and Barbuda
+AUS,195.485,Australia
+AUT,21.537,Austria
+AZE,18.121,Azerbaijan
+BDI,8.619,Burundi
+BEL,32.262,Belgium
+BEN,17.285,Benin
+BFA,34.653,Burkina Faso
+BGD,174.885,Bangladesh
+BGR,14.863,Bulgaria
+BHR,4.036,Bahrain
+BHS,0.694,Bahamas
+BIH,4.992,Bosnia and Herzegovina
+BLR,60.086,Belarus
+BLZ,5.08,Belize
+BMU,0.074,Bermuda
+BOL,118.222,Bolivia
+BRA,1327.035,Brazil
+BRB,0.455,Barbados
+BRN,2.096,Brunei Darussalam
+BTN,0.841,Bhutan
+BWA,133.235,Botswana
+CAF,17.717,Central African Republic
+CAN,383.409,Canada
+CHE,13.134,Switzerland
+CHL,31.993,Chile
+CHN,2418.637,China
+CIV,17.627,Cote d'Ivoire
+CMR,141.366,Cameroon
+COD,181.812,Congo_the Democratic Republic of the
+COG,41.618,Congo
+COK,0.014,Cook Islands
+COL,115.055,Colombia
+COM,0.517,Comoros
+CPV,0.301,Cape Verde
+CRI,21.059,Costa Rica
+CUB,20.113,Cuba
+CYM,0.078,Cayman Islands
+CYP,2.263,Cyprus
+CZE,23.69,Czech Republic
+DEU,179.568,Germany
+DJI,1.181,Djibouti
+DMA,0.164,Dominica
+DNK,21.006,Denmark
+DOM,16.139,Dominican Republic
+DZA,54.666,Algeria
+ECU,59.116,Ecuador
+EGY,76.293,Egypt
+ERI,6.484,Eritrea
+ESH,0.632,Western Sahara
+ESP,97.052,Spain
+EST,6.902,Estonia
+ETH,137.892,Ethiopia
+FIN,27.884,Finland
+FJI,1.604,Fiji
+FLK,0.403,Falkland Islands (Malvinas)
+FRA,171.064,France
+FRO,0.052,Faroe Islands
+FSM,0.034,"Micronesia, Federated States of"
+GAB,3.37,Gabon
+GBR,112.854,United Kingdom
+GEO,6.202,Georgia
+GHA,13.073,Ghana
+GIB,0.063,Gibraltar
+GIN,34.357,Guinea
+GLP,0.561,Guadeloupe
+GMB,1.42,Gambia
+GNB,3.941,Guinea-Bissau
+GNQ,6.026,Equatorial Guinea
+GRC,21.547,Greece
+GRD,0.079,Grenada
+GRL,0.188,Greenland
+GTM,32.385,Guatemala
+GUF,0.208,French Guiana
+GUM,0.052,Guam
+GUY,46.002,Guyana
+HKG,7.146,Hong Kong
+HND,39.443,Honduras
+HRV,8.504,Croatia
+HTI,6.842,Haiti
+HUN,22.498,Hungary
+IDN,1580.602,Indonesia
+IND,1127.061,India
+IRL,31.377,Ireland
+IRN,143.017,"Iran, Islamic Republic of"
+IRQ,37.073,Iraq
+ISL,1.878,Iceland
+ISR,15.734,Israel
+ITA,98.576,Italy
+JAM,2.254,Jamaica
+JOR,8.164,Jordan
+JPN,209.61,Japan
+KAZ,53.44,Kazakhstan
+KEN,61.612,Kenya
+KGZ,8.867,Kyrgyzstan
+KHM,52.955,Cambodia
+KIR,0.029,Kiribati
+KNA,0.064,Saint Kitts and Nevis
+KOR,88.997,"Korea, Republic of"
+KWT,16.966,Kuwait
+LAO,18.613,Lao People's Democratic Republic
+LBN,5.81,Lebanon
+LBR,21.574,Liberia
+LBY,9.849,Libyan Arab Jamahiriya
+LCA,0.149,Saint Lucia
+LKA,19.362,Sri Lanka
+LSO,1.799,Lesotho
+LTU,17.793,Lithuania
+LUX,1.935,Luxembourg
+LVA,9.039,Latvia
+MAC,0.191,Macao
+MAR,43.541,Morocco
+MDA,3.523,"Moldova, Republic of"
+MDG,45.61,Madagascar
+MDV,0.166,Maldives
+MEX,237.555,Mexico
+MHL,0.002,Marshall Islands
+MKD,2.414,"Macedonia, the former Yugoslav Republic of"
+MLI,36.189,Mali
+MLT,0.491,Malta
+MMR,253.43,Myanmar
+MNG,46.869,Mongolia
+MNP,0.064,Northern Mariana Islands
+MOZ,48.065,Mozambique
+MRT,10.052,Mauritania
+MSR,0.03,Montserrat
+MTQ,0.394,Martinique
+MUS,0.935,Mauritius
+MWI,15.078,Malawi
+MYS,123.512,Malaysia
+MYT,0.081,Mayotte
+NAM,16.428,Namibia
+NCL,0.524,New Caledonia
+NER,29.708,Niger
+NGA,315.842,Nigeria
+NIC,17.95,Nicaragua
+NIU,0.05,Niue
+NLD,57.115,Netherlands
+NOR,18.115,Norway
+NPL,38.396,Nepal
+NRU,0.003,Nauru
+NZL,57.294,New Zealand
+OMN,12.872,Oman
+PAK,273.6,Pakistan
+PAN,15.166,Panama
+PER,120.081,Peru
+PHL,91.975,Philippines
+PLW,0.143,Palau
+PNG,113.641,Papua New Guinea
+POL,100.335,Poland
+PRI,2.418,Puerto Rico
+PRK,31.32,"Korea, Democratic People's Republic of"
+PRT,21.216,Portugal
+PRY,188.769,Paraguay
+PYF,0.182,French Polynesia
+QAT,21.126,Qatar
+REU,0.53,Reunion
+ROU,33.66,Romania
+RUS,465.547,Russian Federation
+RWA,8.885,Rwanda
+SAU,71.409,Saudi Arabia
+SCG,20.563,Serbia and Montenegro
+SDN,322.718,Sudan
+SEA,21.999,Int. Shipping
+SEN,22.538,Senegal
+SGP,5.708,Singapore
+SHN,0.003,Saint Helena
+SLB,1.878,Solomon Islands
+SLE,7.768,Sierra Leone
+SLV,6.559,El Salvador
+SOM,42.047,Somalia
+SPM,0.016,Saint Pierre and Miquelon
+STP,0.065,Sao Tome and Principe
+SUR,6.722,Suriname
+SVK,10.102,Slovakia
+SVN,4.858,Slovenia
+SWE,56.34,Sweden
+SWZ,1.787,Swaziland
+SYC,0.121,Seychelles
+SYR,15.838,Syrian Arab Republic
+TCA,0.029,Turks and Caicos Islands
+TCD,45.137,Chad
+TGO,10.734,Togo
+THA,158.209,Thailand
+TJK,9.567,Tajikistan
+TKL,0,Tokelau
+TKM,27.706,Turkmenistan
+TLS,5.041,Timor-Leste
+TON,0.116,Tonga
+TTO,12.776,Trinidad and Tobago
+TUN,13.505,Tunisia
+TUR,121.747,Turkey
+TUV,0.006,Tuvalu
+TWN,30.342,Taiwan_Province of China
+TZA,279.198,Tanzania_United Republic of
+UGA,62.329,Uganda
+UKR,80.755,Ukraine
+URY,33.621,Uruguay
+USA,1470.149,United States
+UZB,64.561,Uzbekistan
+VCT,0.074,Saint Vincent and the Grenadines
+VEN,164.27,Venezuela
+VGB,0.029,Virgin Islands_British
+VIR,0.066,Virgin Islands_USA
+VNM,163.308,Viet Nam
+VUT,0.561,Vanuatu
+WLF,0.014,Wallis and Futuna
+WSM,0.252,Samoa
+YEM,15.515,Yemen
+ZAF,99.335,South Africa
+ZMB,458.789,Zambia
+ZWE,51.738,Zimbabwe
