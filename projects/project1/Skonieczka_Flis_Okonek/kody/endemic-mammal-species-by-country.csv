@@ -1,0 +1,250 @@
+Entity,Code,Year,Mammals (total endemic)
+Afghanistan,AFG,2020,0
+Aland Islands,,2020,0
+Albania,ALB,2020,0
+Algeria,DZA,2020,1
+American Samoa,ASM,2020,0
+Andorra,AND,2020,0
+Angola,AGO,2020,10
+Anguilla,AIA,2020,0
+Antarctica,ATA,2020,2
+Antigua and Barbuda,ATG,2020,0
+Argentina,ARG,2020,85
+Armenia,ARM,2020,2
+Aruba,ABW,2020,0
+Australia,AUS,2020,255
+Austria,AUT,2020,0
+Azerbaijan,AZE,2020,0
+Bahamas,BHS,2020,1
+Bahrain,BHR,2020,0
+Bangladesh,BGD,2020,0
+Barbados,BRB,2020,0
+Belarus,BLR,2020,0
+Belgium,BEL,2020,0
+Belize,BLZ,2020,0
+Benin,BEN,2020,0
+Bermuda,BMU,2020,0
+Bhutan,BTN,2020,0
+Bolivia,BOL,2020,21
+Bonaire Sint Eustatius and Saba,BES,2020,0
+Bosnia and Herzegovina,BIH,2020,0
+Botswana,BWA,2020,0
+Bouvet Island,BVT,2020,0
+Brazil,BRA,2020,203
+British Indian Ocean Territory,IOT,2020,0
+British Virgin Islands,VGB,2020,0
+Brunei,BRN,2020,0
+Bulgaria,BGR,2020,0
+Burkina Faso,BFA,2020,0
+Burundi,BDI,2020,1
+Cambodia,KHM,2020,0
+Cameroon,CMR,2020,18
+Canada,CAN,2020,5
+Cape Verde,CPV,2020,0
+Cayman Islands,CYM,2020,19
+Central African Republic,CAF,2020,2
+Chad,TCD,2020,0
+Chile,CHL,2020,15
+China,CHN,2020,88
+Christmas Island,CXR,2020,4
+Cocos Islands,CCK,2020,0
+Colombia,COL,2020,45
+Comoros,COM,2020,4
+Congo,COG,2020,4
+Cook Islands,COK,2020,0
+Costa Rica,CRI,2020,5
+Cote d'Ivoire,CIV,2020,1
+Croatia,HRV,2020,0
+Cuba,CUB,2020,0
+Curacao,CUW,2020,0
+Cyprus,CYP,2020,1
+Czechia,CZE,2020,0
+Democratic Republic of Congo,COD,2020,39
+Denmark,DNK,2020,0
+Djibouti,DJI,2020,0
+Dominica,DMA,2020,1
+Dominican Republic,DOM,2020,0
+Ecuador,ECU,2020,33
+Egypt,EGY,2020,5
+El Salvador,SLV,2020,0
+Equatorial Guinea,GNQ,2020,3
+Eritrea,ERI,2020,0
+Estonia,EST,2020,0
+Eswatini,SWZ,2020,0
+Ethiopia,ETH,2020,38
+Faeroe Islands,FRO,2020,0
+Falkland Islands,FLK,2020,1
+Fiji,FJI,2020,1
+Finland,FIN,2020,0
+France,FRA,2020,0
+French Guiana,GUF,2020,0
+French Polynesia,PYF,2020,0
+French Southern Territories,ATF,2020,0
+Gabon,GAB,2020,3
+Gambia,GMB,2020,0
+Georgia,GEO,2020,0
+Germany,DEU,2020,0
+Ghana,GHA,2020,1
+Gibraltar,GIB,2020,0
+Greece,GRC,2020,2
+Greenland,GRL,2020,0
+Grenada,GRD,2020,1
+Guadeloupe,GLP,2020,2
+Guam,GUM,2020,1
+Guatemala,GTM,2020,6
+Guernsey,GGY,2020,0
+Guinea,GIN,2020,2
+Guinea-Bissau,GNB,2020,0
+Guyana,GUY,2020,0
+Haiti,HTI,2020,7
+Heard Island and McDonald Islands,HMD,2020,0
+Honduras,HND,2020,6
+Hong Kong,HKG,2020,0
+Hungary,HUN,2020,0
+Iceland,ISL,2020,0
+India,IND,2020,54
+Indonesia,IDN,2020,295
+Iran,IRN,2020,9
+Iraq,IRQ,2020,0
+Ireland,IRL,2020,0
+Isle of Man,IMN,2020,0
+Israel,ISR,2020,1
+Italy,ITA,2020,4
+Jamaica,JAM,2020,0
+Japan,JPN,2020,46
+Jersey,JEY,2020,0
+Jordan,JOR,2020,0
+Kazakhstan,KAZ,2020,4
+Kenya,KEN,2020,19
+Kiribati,KIR,2020,0
+Kuwait,KWT,2020,0
+Kyrgyzstan,KGZ,2020,1
+Laos,LAO,2020,4
+Latvia,LVA,2020,0
+Lebanon,LBN,2020,0
+Lesotho,LSO,2020,0
+Liberia,LBR,2020,0
+Libya,LBY,2020,2
+Liechtenstein,LIE,2020,0
+Lithuania,LTU,2020,0
+Luxembourg,LUX,2020,0
+Macao,MAC,2020,0
+Madagascar,MDG,2020,213
+Malawi,MWI,2020,3
+Malaysia,MYS,2020,20
+Maldives,MDV,2020,0
+Mali,MLI,2020,1
+Malta,MLT,2020,0
+Marshall Islands,MHL,2020,0
+Martinique,MTQ,2020,1
+Mauritania,MRT,2020,0
+Mauritius,MUS,2020,2
+Mayotte,MYT,2020,0
+Mexico,MEX,2020,152
+Micronesia (country),FSM,2020,3
+Moldova,MDA,2020,0
+Monaco,MCO,2020,0
+Mongolia,MNG,2020,0
+Montenegro,MNE,2020,0
+Montserrat,MSR,2020,0
+Morocco,MAR,2020,4
+Mozambique,MOZ,2020,3
+Myanmar,MMR,2020,5
+Namibia,NAM,2020,3
+Nauru,NRU,2020,0
+Nepal,NPL,2020,2
+Netherlands,NLD,2020,0
+New Caledonia,NCL,2020,6
+New Zealand,NZL,2020,4
+Nicaragua,NIC,2020,2
+Niger,NER,2020,0
+Nigeria,NGA,2020,5
+Niue,NIU,2020,0
+Norfolk Island,NFK,2020,0
+North Korea,PRK,2020,0
+North Macedonia,MKD,2020,0
+Northern Mariana Islands,MNP,2020,0
+Norway,NOR,2020,0
+Oman,OMN,2020,0
+Pakistan,PAK,2020,3
+Palau,PLW,2020,2
+Palestine,PSE,2020,0
+Panama,PAN,2020,12
+Papua New Guinea,PNG,2020,83
+Paraguay,PRY,2020,1
+Peru,PER,2020,57
+Philippines,PHL,2020,133
+Pitcairn,PCN,2020,0
+Poland,POL,2020,1
+Portugal,PRT,2020,1
+Puerto Rico,PRI,2020,1
+Qatar,QAT,2020,0
+Reunion,REU,2020,1
+Romania,ROU,2020,2
+Russia,RUS,2020,21
+Rwanda,RWA,2020,1
+Saint Barthlemy,,2020,0
+Saint Helena,SHN,2020,0
+Saint Kitts and Nevis,KNA,2020,0
+Saint Lucia,LCA,2020,1
+Saint Martin (French part),MAF,2020,0
+Saint Pierre and Miquelon,SPM,2020,0
+Saint Vincent and the Grenadines,VCT,2020,2
+Samoa,WSM,2020,2
+San Marino,SMR,2020,0
+Sao Tome and Principe,STP,2020,6
+Saudi Arabia,SAU,2020,0
+Senegal,SEN,2020,0
+Serbia,SRB,2020,0
+Seychelles,SYC,2020,3
+Sierra Leone,SLE,2020,0
+Singapore,SGP,2020,1
+Sint Maarten (Dutch part),SXM,2020,0
+Slovakia,SVK,2020,0
+Slovenia,SVN,2020,0
+Solomon Islands,SLB,2020,19
+Somalia,SOM,2020,9
+South Africa,ZAF,2020,37
+South Georgia and the South Sandwich Islands,SGS,2020,0
+South Korea,KOR,2020,0
+South Sudan,SSD,2020,1
+Spain,ESP,2020,3
+Sri Lanka,LKA,2020,18
+Sudan,SDN,2020,8
+Suriname,SUR,2020,0
+Svalbard and Jan Mayen,SJM,2020,0
+Sweden,SWE,2020,0
+Switzerland,CHE,2020,0
+Syria,SYR,2020,1
+Taiwan,TWN,2020,19
+Tajikistan,TJK,2020,0
+Tanzania,TZA,2020,33
+Thailand,THA,2020,5
+Timor,TLS,2020,1
+Togo,TGO,2020,0
+Tokelau,TKL,2020,0
+Tonga,TON,2020,0
+Trinidad and Tobago,TTO,2020,0
+Tunisia,TUN,2020,1
+Turkey,TUR,2020,8
+Turkmenistan,TKM,2020,0
+Turks and Caicos Islands,TCA,2020,0
+Tuvalu,TUV,2020,0
+Uganda,UGA,2020,0
+Ukraine,UKR,2020,3
+United Arab Emirates,ARE,2020,0
+United Kingdom,GBR,2020,0
+United States,USA,2020,104
+United States Minor Outlying Islands,UMI,2020,0
+United States Virgin Islands,VIR,2020,0
+Uruguay,URY,2020,3
+Uzbekistan,UZB,2020,0
+Vanuatu,VUT,2020,2
+Vatican,VAT,2020,0
+Venezuela,VEN,2020,28
+Vietnam,VNM,2020,20
+Wallis and Futuna,WLF,2020,0
+Western Sahara,ESH,2020,0
+Yemen,YEM,2020,4
+Zambia,ZMB,2020,5
+Zimbabwe,ZWE,2020,0
