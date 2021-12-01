@@ -1,0 +1,585 @@
+Entity,Code,Year,area_aggregated_categories
+Cropland,,-10000,0
+Cropland,,-9000,0
+Cropland,,-8000,0
+Cropland,,-7000,4.32402
+Cropland,,-6000,584.43044
+Cropland,,-5000,9803.74633
+Cropland,,-4000,160987.0974
+Cropland,,-3000,273721.0635
+Cropland,,-2000,405925.7757
+Cropland,,-1000,844290.8098
+Cropland,,0,1741559.199
+Cropland,,100,1767095.38
+Cropland,,200,1697587.409
+Cropland,,300,1359477.108
+Cropland,,400,1416910.061
+Cropland,,500,1410647.525
+Cropland,,600,1501091.139
+Cropland,,700,1447259.486
+Cropland,,800,1465292.82
+Cropland,,900,1695149.146
+Cropland,,1000,1798139.279
+Cropland,,1100,2483526.639
+Cropland,,1200,2917678.536
+Cropland,,1300,3024272.338
+Cropland,,1400,2668992.343
+Cropland,,1500,3167405.381
+Cropland,,1600,3108195.744
+Cropland,,1700,3322170.559
+Cropland,,1710,3466885.522
+Cropland,,1720,3617363.112
+Cropland,,1730,3770231.307
+Cropland,,1740,3921213.011
+Cropland,,1750,4115257.281
+Cropland,,1760,4365400.034
+Cropland,,1770,4567449.535
+Cropland,,1780,4608517.892
+Cropland,,1790,4787438.813
+Cropland,,1800,5073915.282
+Cropland,,1810,5275272.478
+Cropland,,1820,5513277.059
+Cropland,,1830,5826465.031
+Cropland,,1840,6526283.248
+Cropland,,1850,7073557.671
+Cropland,,1860,8000628.023
+Cropland,,1870,8726566.856
+Cropland,,1880,9817642.657
+Cropland,,1890,10793486.72
+Cropland,,1900,11516021.29
+Cropland,,1910,12756621.31
+Cropland,,1920,14127615.49
+Cropland,,1930,15497181.08
+Cropland,,1940,16754646.83
+Cropland,,1950,17919560.15
+Cropland,,1960,19099897.7
+Cropland,,1970,19069833.93
+Cropland,,1980,18952739.86
+Cropland,,1990,19071345.79
+Cropland,,2000,19065343.19
+Cropland,,2001,19087824.62
+Cropland,,2002,19062070.79
+Cropland,,2003,19180489.03
+Cropland,,2004,19218068.39
+Cropland,,2005,19258161.46
+Cropland,,2006,19152639.08
+Cropland,,2007,19132147.28
+Cropland,,2008,19202120.02
+Cropland,,2009,19198725.39
+Cropland,,2010,19140513.42
+Cropland,,2011,19199078.07
+Cropland,,2012,19291892.03
+Cropland,,2013,19295490.03
+Cropland,,2014,19343389.03
+Cropland,,2015,19379053.01
+Pasture,,-10000,0
+Pasture,,-9000,0
+Pasture,,-8000,16.39491
+Pasture,,-7000,29.852809
+Pasture,,-6000,36.406759
+Pasture,,-5000,102.649299
+Pasture,,-4000,107.022909
+Pasture,,-3000,53.706037
+Pasture,,-2000,1093.22638
+Pasture,,-1000,1001585.165
+Pasture,,0,1639259.295
+Pasture,,100,1759832.159
+Pasture,,200,1827159.067
+Pasture,,300,1845682.474
+Pasture,,400,1784231.465
+Pasture,,500,2266265.136
+Pasture,,600,3151200.449
+Pasture,,700,3841347.711
+Pasture,,800,4516501.897
+Pasture,,900,5057647.652
+Pasture,,1000,5414287.511
+Pasture,,1100,5738726.579
+Pasture,,1200,6049711.335
+Pasture,,1300,6288897.092
+Pasture,,1400,6676085.886
+Pasture,,1500,7176410.777
+Pasture,,1600,8205189.399
+Pasture,,1700,9054785.966
+Pasture,,1710,8994970.486
+Pasture,,1720,9376237.712
+Pasture,,1730,10353585.84
+Pasture,,1740,11293030.48
+Pasture,,1750,13508354.9
+Pasture,,1760,14120762.23
+Pasture,,1770,14746897.69
+Pasture,,1780,15338382.12
+Pasture,,1790,15739231.32
+Pasture,,1800,16560825.98
+Pasture,,1810,17006658.7
+Pasture,,1820,17381203.69
+Pasture,,1830,19215112.75
+Pasture,,1840,19894291.04
+Pasture,,1850,20223678.4
+Pasture,,1860,20448539.62
+Pasture,,1870,20464789.32
+Pasture,,1880,22371123.22
+Pasture,,1890,24767203.82
+Pasture,,1900,30587420.24
+Pasture,,1910,32083953.22
+Pasture,,1920,33201149.36
+Pasture,,1930,34233852.34
+Pasture,,1940,35620670.12
+Pasture,,1950,36608066.52
+Pasture,,1960,36701694.47
+Pasture,,1970,36435475.37
+Pasture,,1980,36589189.6
+Pasture,,1990,36198988.03
+Pasture,,2000,36224142.44
+Pasture,,2001,36135480.8
+Pasture,,2002,36079896.82
+Pasture,,2003,35886425.73
+Pasture,,2004,35837670.17
+Pasture,,2005,35661262.51
+Pasture,,2006,35686550.73
+Pasture,,2007,35660235.96
+Pasture,,2008,35557684.11
+Pasture,,2009,35495142.33
+Pasture,,2010,35468580.36
+Pasture,,2011,35282237.83
+Pasture,,2012,35162153.3
+Pasture,,2013,35097066.75
+Pasture,,2014,34995549.6
+Pasture,,2015,34900570.94
+Permanent ice,,-10000,2777111.152
+Permanent ice,,-9000,2775102.73
+Permanent ice,,-8000,2765375.684
+Permanent ice,,-7000,2748934.884
+Permanent ice,,-6000,2743655.829
+Permanent ice,,-5000,2742036.428
+Permanent ice,,-4000,2735735.615
+Permanent ice,,-3000,2732168.816
+Permanent ice,,-2000,2725568.373
+Permanent ice,,-1000,2720972.057
+Permanent ice,,0,2704668.543
+Permanent ice,,100,2706814.884
+Permanent ice,,200,2709404.687
+Permanent ice,,300,2711984.393
+Permanent ice,,400,2711388.712
+Permanent ice,,500,2709301.02
+Permanent ice,,600,2704643.783
+Permanent ice,,700,2707286.682
+Permanent ice,,800,2709153.685
+Permanent ice,,900,2706875.213
+Permanent ice,,1000,2703789.238
+Permanent ice,,1100,2681735.387
+Permanent ice,,1200,2664169.61
+Permanent ice,,1300,2670873.052
+Permanent ice,,1400,2673614.096
+Permanent ice,,1500,2667057.773
+Permanent ice,,1600,2663941.238
+Permanent ice,,1700,2649715.941
+Permanent ice,,1710,2676913.121
+Permanent ice,,1720,2670691.685
+Permanent ice,,1730,2667654.007
+Permanent ice,,1740,2662888.55
+Permanent ice,,1750,2654248.936
+Permanent ice,,1760,2649383.021
+Permanent ice,,1770,2643753.825
+Permanent ice,,1780,2632350.97
+Permanent ice,,1790,2629161.12
+Permanent ice,,1800,2629592.281
+Permanent ice,,1810,2623593.497
+Permanent ice,,1820,2622017.893
+Permanent ice,,1830,2617639.935
+Permanent ice,,1840,2615164.04
+Permanent ice,,1850,2613204.381
+Permanent ice,,1860,2612327.68
+Permanent ice,,1870,2617370.916
+Permanent ice,,1880,2617752.034
+Permanent ice,,1890,2617401.347
+Permanent ice,,1900,2616117.47
+Permanent ice,,1910,2613523.449
+Permanent ice,,1920,2608053.896
+Permanent ice,,1930,2605780.729
+Permanent ice,,1940,2602780.874
+Permanent ice,,1950,2603095.774
+Permanent ice,,1960,2592975.717
+Permanent ice,,1970,2588621.333
+Permanent ice,,1980,2580913.912
+Permanent ice,,1990,2574269.041
+Permanent ice,,2000,2563447.852
+Permanent ice,,2001,2562452.415
+Permanent ice,,2002,2561382.042
+Permanent ice,,2003,2560406.128
+Permanent ice,,2004,2560102.667
+Permanent ice,,2005,2559951.639
+Permanent ice,,2006,2559796.79
+Permanent ice,,2007,2559569.933
+Permanent ice,,2008,2559341.619
+Permanent ice,,2009,2559217.843
+Permanent ice,,2010,2559190.976
+Permanent ice,,2011,2559190.976
+Permanent ice,,2012,2559190.976
+Permanent ice,,2013,2558174.438
+Permanent ice,,2014,2558174.438
+Permanent ice,,2015,2558174.438
+Semi-natural land,,-10000,78894394.58
+Semi-natural land,,-9000,80218373.04
+Semi-natural land,,-8000,81465246.99
+Semi-natural land,,-7000,82617609.49
+Semi-natural land,,-6000,83693188.68
+Semi-natural land,,-5000,84459149.89
+Semi-natural land,,-4000,85056224.34
+Semi-natural land,,-3000,85511781.82
+Semi-natural land,,-2000,86305813.23
+Semi-natural land,,-1000,85642679.14
+Semi-natural land,,0,84629744.86
+Semi-natural land,,100,84818676.48
+Semi-natural land,,200,84991954.06
+Semi-natural land,,300,85459586.15
+Semi-natural land,,400,85793530.67
+Semi-natural land,,500,85496317.51
+Semi-natural land,,600,84704484.88
+Semi-natural land,,700,84171992
+Semi-natural land,,800,83513878.57
+Semi-natural land,,900,82783555.7
+Semi-natural land,,1000,82350071.9
+Semi-natural land,,1100,81432391.49
+Semi-natural land,,1200,80951746.84
+Semi-natural land,,1300,80619521.01
+Semi-natural land,,1400,80588655.02
+Semi-natural land,,1500,79677475.84
+Semi-natural land,,1600,78708678.07
+Semi-natural land,,1700,77347901.69
+Semi-natural land,,1710,77236364.6
+Semi-natural land,,1720,76740902.25
+Semi-natural land,,1730,75944746.6
+Semi-natural land,,1740,75008181.44
+Semi-natural land,,1750,72688939.79
+Semi-natural land,,1760,71742611.08
+Semi-natural land,,1770,70846364.32
+Semi-natural land,,1780,69919689.12
+Semi-natural land,,1790,69225924.66
+Semi-natural land,,1800,68232215.77
+Semi-natural land,,1810,67377905
+Semi-natural land,,1820,66680100.74
+Semi-natural land,,1830,65080886.35
+Semi-natural land,,1840,63599696.13
+Semi-natural land,,1850,62559624.02
+Semi-natural land,,1860,61364491.84
+Semi-natural land,,1870,60668693.66
+Semi-natural land,,1880,57920951.12
+Semi-natural land,,1890,55435314.59
+Semi-natural land,,1900,50489771.41
+Semi-natural land,,1910,47920335.25
+Semi-natural land,,1920,45376252.54
+Semi-natural land,,1930,42802265.74
+Semi-natural land,,1940,40007268.56
+Semi-natural land,,1950,37517883.07
+Semi-natural land,,1960,35482338.71
+Semi-natural land,,1970,34665012.89
+Semi-natural land,,1980,33517343.93
+Semi-natural land,,1990,32812778.52
+Semi-natural land,,2000,32002717.3
+Semi-natural land,,2001,31984038.65
+Semi-natural land,,2002,31975743.53
+Semi-natural land,,2003,31965190.42
+Semi-natural land,,2004,31911896.64
+Semi-natural land,,2005,31977818.72
+Semi-natural land,,2006,31984838.29
+Semi-natural land,,2007,31959854.76
+Semi-natural land,,2008,31926349.36
+Semi-natural land,,2009,31920645.4
+Semi-natural land,,2010,31924002.84
+Semi-natural land,,2011,31995423.52
+Semi-natural land,,2012,31958492.46
+Semi-natural land,,2013,32017059.58
+Semi-natural land,,2014,31988274.29
+Semi-natural land,,2015,31963460.83
+Urban,,-10000,0
+Urban,,-9000,0
+Urban,,-8000,60.2029
+Urban,,-7000,60.2029
+Urban,,-6000,44.117
+Urban,,-5000,44.117
+Urban,,-4000,277.7667
+Urban,,-3000,602.0583
+Urban,,-2000,1360.1656
+Urban,,-1000,4843.91682
+Urban,,0,31626.34486
+Urban,,100,42782.48874
+Urban,,200,53495.00687
+Urban,,300,66529.02137
+Urban,,400,82261.45547
+Urban,,500,98006.30389
+Urban,,600,107952.6252
+Urban,,700,114647.8743
+Urban,,800,122397.5312
+Urban,,900,127346.6337
+Urban,,1000,131672.0146
+Urban,,1100,141294.387
+Urban,,1200,154735.2825
+Urban,,1300,168097.0094
+Urban,,1400,178737.8853
+Urban,,1500,205792.696
+Urban,,1600,220516.0853
+Urban,,1700,405904.4614
+Urban,,1710,406312.5205
+Urban,,1720,392641.4358
+Urban,,1730,393722.8586
+Urban,,1740,399359.113
+Urban,,1750,390639.2577
+Urban,,1760,350354.9199
+Urban,,1770,317333.2401
+Urban,,1780,350030.62
+Urban,,1790,370208.7758
+Urban,,1800,344947.1745
+Urban,,1810,422972.0149
+Urban,,1820,429741.0722
+Urban,,1830,478829.7693
+Urban,,1840,508275.6305
+Urban,,1850,542151.9513
+Urban,,1860,568779.0793
+Urban,,1870,525658.3888
+Urban,,1880,578076.1975
+Urban,,1890,632155.1969
+Urban,,1900,704643.2937
+Urban,,1910,792202.5024
+Urban,,1920,895943.2978
+Urban,,1930,967237.3134
+Urban,,1940,1001898.714
+Urban,,1950,1101196.674
+Urban,,1960,1242104.486
+Urban,,1970,1482036.415
+Urban,,1980,1671676.877
+Urban,,1990,1739284.15
+Urban,,2000,1944387.438
+Urban,,2001,1964196.485
+Urban,,2002,1986866.642
+Urban,,2003,2009323.823
+Urban,,2004,2020720.07
+Urban,,2005,2042534.269
+Urban,,2006,2071488.415
+Urban,,2007,2091669.628
+Urban,,2008,2108382.42
+Urban,,2009,2126617.106
+Urban,,2010,2144993.97
+Urban,,2011,2159568.271
+Urban,,2012,2177427.111
+Urban,,2013,2196320.842
+Urban,,2014,2217319.656
+Urban,,2015,2237073.528
+Villages,,-10000,0
+Villages,,-9000,0
+Villages,,-8000,0
+Villages,,-7000,0
+Villages,,-6000,60.2029
+Villages,,-5000,177.5596
+Villages,,-4000,320.8751
+Villages,,-3000,320.8751
+Villages,,-2000,1742.49687
+Villages,,-1000,4829.56554
+Villages,,0,31944.69626
+Villages,,100,34466.69391
+Villages,,200,41164.1032
+Villages,,300,48878.39888
+Villages,,400,55693.08753
+Villages,,500,60695.91309
+Villages,,600,69662.18666
+Villages,,700,84278.44901
+Villages,,800,100211.2252
+Villages,,900,114005.0593
+Villages,,1000,126254.3953
+Villages,,1100,168697.8992
+Villages,,1200,207346.9072
+Villages,,1300,181508.5489
+Villages,,1400,174568.7934
+Villages,,1500,222495.8673
+Villages,,1600,301512.6237
+Villages,,1700,407561.8643
+Villages,,1710,448295.2088
+Villages,,1720,506879.2404
+Villages,,1730,563910.2303
+Villages,,1740,666820.0928
+Villages,,1750,861914.5422
+Villages,,1760,1034246.701
+Villages,,1770,1238385.782
+Villages,,1780,1567475.693
+Villages,,1790,1709888.157
+Villages,,1800,1757609.832
+Villages,,1810,1945806.65
+Villages,,1820,2055454.07
+Villages,,1830,2245289.183
+Villages,,1840,2365549.677
+Villages,,1850,2521307.3
+Villages,,1860,2617492.175
+Villages,,1870,2627772.129
+Villages,,1880,2748646.145
+Villages,,1890,2962308.008
+Villages,,1900,3145705.308
+Villages,,1910,3257883.866
+Villages,,1920,3407440.824
+Villages,,1930,3680251.528
+Villages,,1940,4032684.744
+Villages,,1950,4395845.544
+Villages,,1960,5158147.586
+Villages,,1970,6058581.594
+Villages,,1980,6958025.596
+Villages,,1990,7938662.596
+Villages,,2000,8573609.398
+Villages,,2001,8631618.119
+Villages,,2002,8683980.102
+Villages,,2003,8733576.051
+Villages,,2004,8794669.954
+Villages,,2005,8843846.934
+Villages,,2006,8884561.407
+Villages,,2007,8933730.252
+Villages,,2008,8983468.524
+Villages,,2009,9035198.19
+Villages,,2010,9079915.473
+Villages,,2011,9132977.332
+Villages,,2012,9179815.722
+Villages,,2013,9234276.497
+Villages,,2014,9300392.774
+Villages,,2015,9365333.442
+Wild barren land,,-10000,29697255.83
+Wild barren land,,-9000,28853606.63
+Wild barren land,,-8000,27977681.58
+Wild barren land,,-7000,27220850.87
+Wild barren land,,-6000,26590535.06
+Wild barren land,,-5000,26072751.08
+Wild barren land,,-4000,25551281.82
+Wild barren land,,-3000,25224190.69
+Wild barren land,,-2000,24758798.71
+Wild barren land,,-1000,24358634.78
+Wild barren land,,0,24134239.42
+Wild barren land,,100,24023481.67
+Wild barren land,,200,23961458.93
+Wild barren land,,300,23918203.97
+Wild barren land,,400,23810388.29
+Wild barren land,,500,23722866.33
+Wild barren land,,600,23566326.34
+Wild barren land,,700,23450215.87
+Wild barren land,,800,23403213.15
+Wild barren land,,900,23354816.64
+Wild barren land,,1000,23322827.17
+Wild barren land,,1100,23210371.28
+Wild barren land,,1200,22978990.42
+Wild barren land,,1300,22984173.72
+Wild barren land,,1400,22970835.75
+Wild barren land,,1500,22835039.9
+Wild barren land,,1600,22694541.54
+Wild barren land,,1700,22690585.96
+Wild barren land,,1710,22620303.2
+Wild barren land,,1720,22551467.34
+Wild barren land,,1730,22168104.1
+Wild barren land,,1740,21936763.14
+Wild barren land,,1750,21683581.87
+Wild barren land,,1760,21654151.08
+Wild barren land,,1770,21565584.52
+Wild barren land,,1780,21518226.5
+Wild barren land,,1790,21482475
+Wild barren land,,1800,21348329.7
+Wild barren land,,1810,21302295.83
+Wild barren land,,1820,21280504.13
+Wild barren land,,1830,20507074.5
+Wild barren land,,1840,20473421.5
+Wild barren land,,1850,20456981.78
+Wild barren land,,1860,20424959.21
+Wild barren land,,1870,20413390.36
+Wild barren land,,1880,20013549.68
+Wild barren land,,1890,18877313.98
+Wild barren land,,1900,17067084.76
+Wild barren land,,1910,16756466.78
+Wild barren land,,1920,16569896.13
+Wild barren land,,1930,16433752.91
+Wild barren land,,1940,16269087.78
+Wild barren land,,1950,16127209.37
+Wild barren land,,1960,16013569.34
+Wild barren land,,1970,15998872.97
+Wild barren land,,1980,16039937.08
+Wild barren land,,1990,15989021.57
+Wild barren land,,2000,15966603.13
+Wild barren land,,2001,15974579.24
+Wild barren land,,2002,15989638.49
+Wild barren land,,2003,16004558.34
+Wild barren land,,2004,15999344.02
+Wild barren land,,2005,15997067.86
+Wild barren land,,2006,16000405.34
+Wild barren land,,2007,16003762.23
+Wild barren land,,2008,16004035.11
+Wild barren land,,2009,16005010.08
+Wild barren land,,2010,16023664.64
+Wild barren land,,2011,16011668.33
+Wild barren land,,2012,16012905.6
+Wild barren land,,2013,16005446.9
+Wild barren land,,2014,16001298.8
+Wild barren land,,2015,16001211.19
+Wild woodlands,,-10000,20435277.54
+Wild woodlands,,-9000,19956956.7
+Wild woodlands,,-8000,19595658.26
+Wild woodlands,,-7000,19216549.47
+Wild woodlands,,-6000,18775934.37
+Wild woodlands,,-5000,18519973.63
+Wild woodlands,,-4000,18299104.56
+Wild woodlands,,-3000,18061200.08
+Wild woodlands,,-2000,17603737.13
+Wild woodlands,,-1000,17226203.67
+Wild woodlands,,0,16890996.75
+Wild woodlands,,100,16650889.34
+Wild woodlands,,200,16521815.84
+Wild woodlands,,300,16393697.58
+Wild woodlands,,400,16149635.36
+Wild woodlands,,500,16039939.37
+Wild woodlands,,600,15998677.7
+Wild woodlands,,700,15987011.03
+Wild woodlands,,800,15973390.23
+Wild woodlands,,900,15964643.06
+Wild woodlands,,1000,15956997.59
+Wild woodlands,,1100,15947295.44
+Wild woodlands,,1200,15879660.17
+Wild woodlands,,1300,15866696.32
+Wild woodlands,,1400,15872549.33
+Wild woodlands,,1500,15852360.87
+Wild woodlands,,1600,15901464.4
+Wild woodlands,,1700,15925412.65
+Wild woodlands,,1710,15953994.44
+Wild woodlands,,1720,15947856.32
+Wild woodlands,,1730,15942084.15
+Wild woodlands,,1740,15915783.28
+Wild woodlands,,1750,15901102.52
+Wild woodlands,,1760,15887130.03
+Wild woodlands,,1770,15878270.18
+Wild woodlands,,1780,15869366.18
+Wild woodlands,,1790,15859711.25
+Wild woodlands,,1800,15856603.07
+Wild woodlands,,1810,15849534.92
+Wild woodlands,,1820,15841740.44
+Wild woodlands,,1830,15832741.59
+Wild woodlands,,1840,15821357.84
+Wild woodlands,,1850,15813533.6
+Wild woodlands,,1860,15766821.48
+Wild woodlands,,1870,15759797.47
+Wild woodlands,,1880,15736298.05
+Wild woodlands,,1890,15718855.44
+Wild woodlands,,1900,15677275.33
+Wild woodlands,,1910,15623052.73
+Wild woodlands,,1920,15617687.56
+Wild woodlands,,1930,15583717.46
+Wild woodlands,,1940,15515001.47
+Wild woodlands,,1950,15531182
+Wild woodlands,,1960,15513311.09
+Wild woodlands,,1970,15505604.59
+Wild woodlands,,1980,15494212.24
+Wild woodlands,,1990,15479689.41
+Wild woodlands,,2000,15463788.35
+Wild woodlands,,2001,15463848.76
+Wild woodlands,,2002,15464460.69
+Wild woodlands,,2003,15464069.59
+Wild woodlands,,2004,15461567.18
+Wild woodlands,,2005,15463395.71
+Wild woodlands,,2006,15463759.05
+Wild woodlands,,2007,15463069.06
+Wild woodlands,,2008,15462657.95
+Wild woodlands,,2009,15463482.76
+Wild woodlands,,2010,15463177.43
+Wild woodlands,,2011,15463894.77
+Wild woodlands,,2012,15462161.91
+Wild woodlands,,2013,15400204.07
+Wild woodlands,,2014,15399640.51
+Wild woodlands,,2015,15399161.72
