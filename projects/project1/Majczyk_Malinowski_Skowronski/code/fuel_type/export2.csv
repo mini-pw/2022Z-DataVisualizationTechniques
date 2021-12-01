@@ -1,0 +1,241 @@
+date,country,monthly_hashrate_%,monthly_absolute_hashrate_EH/S
+2019/09/01,Mainland China,75.53%,66.76
+2019/09/01,Other,6.1%,5.39
+2019/09/01,Russian Federation,5.93%,5.24
+2019/09/01,United States,4.06%,3.59
+2019/09/01,Malaysia,3.25%,2.88
+2019/09/01,"Iran, Islamic Rep.",1.74%,1.54
+2019/09/01,Kazakhstan,1.42%,1.26
+2019/09/01,Canada,1.06%,0.94
+2019/09/01,Germany,0.9%,0.8
+2019/09/01,Ireland,0.0%,0.0
+2019/10/01,Mainland China,74.78%,71.03
+2019/10/01,Other,6.29%,5.98
+2019/10/01,Russian Federation,5.87%,5.57
+2019/10/01,United States,5.58%,5.3
+2019/10/01,Malaysia,3.26%,3.1
+2019/10/01,"Iran, Islamic Rep.",1.77%,1.68
+2019/10/01,Kazakhstan,1.37%,1.3
+2019/10/01,Canada,0.65%,0.61
+2019/10/01,Germany,0.43%,0.41
+2019/10/01,Ireland,0.0%,0.0
+2019/11/01,Mainland China,72.33%,66.21
+2019/11/01,Other,6.66%,6.1
+2019/11/01,United States,6.58%,6.02
+2019/11/01,Russian Federation,6.24%,5.72
+2019/11/01,Malaysia,3.66%,3.35
+2019/11/01,Kazakhstan,1.71%,1.56
+2019/11/01,"Iran, Islamic Rep.",1.6%,1.46
+2019/11/01,Canada,0.87%,0.79
+2019/11/01,Germany,0.34%,0.31
+2019/11/01,Ireland,0.0%,0.0
+2019/12/01,Mainland China,73.46%,70.06
+2019/12/01,Russian Federation,6.23%,5.94
+2019/12/01,Other,6.2%,5.92
+2019/12/01,Malaysia,3.92%,3.74
+2019/12/01,United States,3.87%,3.69
+2019/12/01,"Iran, Islamic Rep.",2.71%,2.59
+2019/12/01,Kazakhstan,2.18%,2.08
+2019/12/01,Canada,1.03%,0.98
+2019/12/01,Germany,0.4%,0.38
+2019/12/01,Ireland,0.0%,0.0
+2020/01/01,Mainland China,72.69%,79.41
+2020/01/01,Russian Federation,6.05%,6.6
+2020/01/01,Other,5.56%,6.08
+2020/01/01,Malaysia,4.13%,4.52
+2020/01/01,Kazakhstan,3.49%,3.81
+2020/01/01,United States,3.44%,3.76
+2020/01/01,"Iran, Islamic Rep.",3.2%,3.5
+2020/01/01,Canada,1.06%,1.16
+2020/01/01,Germany,0.38%,0.42
+2020/01/01,Ireland,0.0%,0.0
+2020/02/01,Mainland China,72.98%,80.59
+2020/02/01,Russian Federation,5.56%,6.14
+2020/02/01,Other,5.42%,5.98
+2020/02/01,United States,4.54%,5.02
+2020/02/01,Malaysia,3.94%,4.35
+2020/02/01,Kazakhstan,3.26%,3.6
+2020/02/01,"Iran, Islamic Rep.",3.01%,3.32
+2020/02/01,Canada,0.92%,1.02
+2020/02/01,Germany,0.37%,0.41
+2020/02/01,Ireland,0.0%,0.0
+2020/03/01,Mainland China,67.06%,71.65
+2020/03/01,United States,7.07%,7.55
+2020/03/01,Russian Federation,5.97%,6.37
+2020/03/01,Kazakhstan,5.62%,6.0
+2020/03/01,Other,5.42%,5.79
+2020/03/01,Malaysia,4.11%,4.39
+2020/03/01,"Iran, Islamic Rep.",3.53%,3.77
+2020/03/01,Canada,0.79%,0.85
+2020/03/01,Germany,0.43%,0.46
+2020/03/01,Ireland,0.0%,0.0
+2020/04/01,Mainland China,64.81%,72.19
+2020/04/01,United States,7.24%,8.07
+2020/04/01,Russian Federation,6.9%,7.69
+2020/04/01,Kazakhstan,6.17%,6.88
+2020/04/01,Other,5.35%,5.96
+2020/04/01,Malaysia,4.33%,4.82
+2020/04/01,"Iran, Islamic Rep.",3.82%,4.25
+2020/04/01,Canada,0.82%,0.91
+2020/04/01,Germany,0.56%,0.63
+2020/04/01,Ireland,0.0%,0.0
+2020/05/01,Mainland China,59.48%,62.89
+2020/05/01,Russian Federation,9.34%,9.87
+2020/05/01,United States,8.22%,8.69
+2020/05/01,Other,6.73%,7.11
+2020/05/01,Malaysia,5.21%,5.51
+2020/05/01,Kazakhstan,5.2%,5.5
+2020/05/01,"Iran, Islamic Rep.",3.85%,4.07
+2020/05/01,Canada,1.02%,1.08
+2020/05/01,Germany,0.94%,1.0
+2020/05/01,Ireland,0.0%,0.0
+2020/06/01,Mainland China,64.67%,72.19
+2020/06/01,Russian Federation,8.25%,9.21
+2020/06/01,United States,6.7%,7.47
+2020/06/01,Other,5.76%,6.43
+2020/06/01,Malaysia,5.46%,6.1
+2020/06/01,Kazakhstan,4.86%,5.43
+2020/06/01,"Iran, Islamic Rep.",3.0%,3.35
+2020/06/01,Germany,0.64%,0.72
+2020/06/01,Canada,0.62%,0.7
+2020/06/01,Ireland,0.02%,0.02
+2020/07/01,Mainland China,66.86%,81.71
+2020/07/01,Russian Federation,8.08%,9.87
+2020/07/01,Malaysia,5.62%,6.87
+2020/07/01,Other,5.45%,6.67
+2020/07/01,United States,5.09%,6.22
+2020/07/01,Kazakhstan,4.58%,5.6
+2020/07/01,"Iran, Islamic Rep.",2.81%,3.44
+2020/07/01,Canada,1.15%,1.4
+2020/07/01,Germany,0.35%,0.43
+2020/07/01,Ireland,0.01%,0.01
+2020/08/01,Mainland China,66.86%,82.71
+2020/08/01,Russian Federation,8.17%,10.1
+2020/08/01,Malaysia,6.23%,7.7
+2020/08/01,Other,5.01%,6.2
+2020/08/01,Kazakhstan,4.57%,5.65
+2020/08/01,United States,4.2%,5.2
+2020/08/01,"Iran, Islamic Rep.",2.67%,3.3
+2020/08/01,Canada,1.87%,2.32
+2020/08/01,Germany,0.39%,0.48
+2020/08/01,Ireland,0.03%,0.04
+2020/09/01,Mainland China,67.12%,91.1
+2020/09/01,United States,7.08%,9.61
+2020/09/01,Russian Federation,5.74%,7.79
+2020/09/01,Other,4.95%,6.72
+2020/09/01,Malaysia,4.48%,6.08
+2020/09/01,Kazakhstan,4.09%,5.55
+2020/09/01,"Iran, Islamic Rep.",2.47%,3.35
+2020/09/01,Canada,1.84%,2.49
+2020/09/01,Ireland,1.41%,1.91
+2020/09/01,Germany,0.82%,1.12
+2020/10/01,Mainland China,67.38%,88.92
+2020/10/01,United States,6.71%,8.86
+2020/10/01,Other,5.27%,6.96
+2020/10/01,Russian Federation,4.9%,6.47
+2020/10/01,Malaysia,4.12%,5.44
+2020/10/01,Kazakhstan,3.59%,4.74
+2020/10/01,"Iran, Islamic Rep.",2.82%,3.73
+2020/10/01,Ireland,2.51%,3.31
+2020/10/01,Canada,1.51%,2.0
+2020/10/01,Germany,1.18%,1.56
+2020/11/01,Mainland China,55.58%,71.7
+2020/11/01,United States,9.38%,12.1
+2020/11/01,Other,7.36%,9.49
+2020/11/01,Russian Federation,6.77%,8.73
+2020/11/01,Malaysia,5.27%,6.8
+2020/11/01,Kazakhstan,4.77%,6.15
+2020/11/01,"Iran, Islamic Rep.",4.0%,5.16
+2020/11/01,Ireland,3.07%,3.96
+2020/11/01,Germany,2.16%,2.79
+2020/11/01,Canada,1.65%,2.12
+2020/12/01,Mainland China,53.27%,72.72
+2020/12/01,United States,10.41%,14.21
+2020/12/01,Russian Federation,7.16%,9.78
+2020/12/01,Other,6.95%,9.48
+2020/12/01,Kazakhstan,5.35%,7.3
+2020/12/01,Malaysia,5.29%,7.21
+2020/12/01,"Iran, Islamic Rep.",4.78%,6.52
+2020/12/01,Ireland,3.09%,4.21
+2020/12/01,Germany,2.89%,3.94
+2020/12/01,Canada,0.83%,1.13
+2021/01/01,Mainland China,53.3%,79.53
+2021/01/01,United States,10.55%,15.74
+2021/01/01,Other,7.17%,10.7
+2021/01/01,Russian Federation,6.91%,10.3
+2021/01/01,Kazakhstan,6.17%,9.2
+2021/01/01,Malaysia,5.18%,7.73
+2021/01/01,"Iran, Islamic Rep.",4.15%,6.19
+2021/01/01,Germany,3.09%,4.61
+2021/01/01,Ireland,2.59%,3.86
+2021/01/01,Canada,0.9%,1.34
+2021/02/01,Mainland China,51.58%,80.01
+2021/02/01,United States,13.37%,20.74
+2021/02/01,Other,7.2%,11.17
+2021/02/01,Kazakhstan,6.71%,10.41
+2021/02/01,Russian Federation,6.43%,9.97
+2021/02/01,Malaysia,4.66%,7.22
+2021/02/01,"Iran, Islamic Rep.",4.15%,6.44
+2021/02/01,Germany,2.75%,4.27
+2021/02/01,Ireland,2.08%,3.23
+2021/02/01,Canada,1.07%,1.66
+2021/03/01,Mainland China,49.06%,78.29
+2021/03/01,United States,16.12%,25.73
+2021/03/01,Kazakhstan,7.65%,12.21
+2021/03/01,Russian Federation,6.47%,10.33
+2021/03/01,Other,6.02%,9.61
+2021/03/01,"Iran, Islamic Rep.",4.67%,7.45
+2021/03/01,Malaysia,3.66%,5.85
+2021/03/01,Germany,2.69%,4.29
+2021/03/01,Ireland,2.07%,3.31
+2021/03/01,Canada,1.58%,2.53
+2021/04/01,Mainland China,46.04%,72.39
+2021/04/01,United States,16.85%,26.49
+2021/04/01,Kazakhstan,8.19%,12.88
+2021/04/01,Russian Federation,6.84%,10.75
+2021/04/01,Other,5.92%,9.31
+2021/04/01,"Iran, Islamic Rep.",4.64%,7.3
+2021/04/01,Malaysia,3.44%,5.41
+2021/04/01,Canada,3.0%,4.73
+2021/04/01,Germany,2.81%,4.42
+2021/04/01,Ireland,2.27%,3.57
+2021/05/01,Mainland China,43.98%,70.91
+2021/05/01,United States,17.77%,28.66
+2021/05/01,Kazakhstan,7.37%,11.88
+2021/05/01,Russian Federation,7.19%,11.59
+2021/05/01,Other,6.36%,10.25
+2021/05/01,Canada,4.74%,7.64
+2021/05/01,"Iran, Islamic Rep.",4.3%,6.94
+2021/05/01,Malaysia,3.24%,5.23
+2021/05/01,Germany,2.79%,4.51
+2021/05/01,Ireland,2.25%,3.62
+2021/06/01,Mainland China,34.25%,41.12
+2021/06/01,United States,21.81%,26.18
+2021/06/01,Russian Federation,8.9%,10.68
+2021/06/01,Kazakhstan,8.8%,10.57
+2021/06/01,Other,6.91%,8.29
+2021/06/01,Canada,5.98%,7.18
+2021/06/01,Malaysia,3.79%,4.55
+2021/06/01,"Iran, Islamic Rep.",3.43%,4.11
+2021/06/01,Germany,3.28%,3.94
+2021/06/01,Ireland,2.86%,3.43
+2021/07/01,United States,35.12%,35.24
+2021/07/01,Kazakhstan,13.79%,13.83
+2021/07/01,Russian Federation,11.9%,11.94
+2021/07/01,Canada,10.83%,10.87
+2021/07/01,Other,9.41%,9.44
+2021/07/01,Malaysia,5.39%,5.41
+2021/07/01,Ireland,5.06%,5.08
+2021/07/01,Germany,4.7%,4.71
+2021/07/01,"Iran, Islamic Rep.",3.81%,3.82
+2021/07/01,Mainland China,0%,0
+2021/08/01,United States,35.4%,42.74
+2021/08/01,Kazakhstan,18.1%,21.85
+2021/08/01,Russian Federation,11.23%,13.56
+2021/08/01,Canada,9.55%,11.54
+2021/08/01,Other,8.86%,10.69
+2021/08/01,Ireland,4.68%,5.65
+2021/08/01,Malaysia,4.59%,5.54
+2021/08/01,Germany,4.48%,5.4
+2021/08/01,"Iran, Islamic Rep.",3.11%,3.75
+2021/08/01,Mainland China,0%,0
