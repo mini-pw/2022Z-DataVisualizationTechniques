@@ -1,0 +1,265 @@
+NR;WOJEWÓDZTWO;KOD STARY;KOD NOWY;NAZWA STACJI;MIEJSCOWOSC;ADRES
+1;DOLNOŒL¥SKIE;DsBogatMob;DsBogatFrancMOB;Bogatynia Mobil;Bogatynia;ul. Francuska/Krêta
+2;DOLNOŒL¥SKIE;DsCzer02;DsCzerStraza;Czerniawa;Czerniawa;ul. Stra¿acka
+3;DOLNOŒL¥SKIE;DsDzia01;DsDzialoszyn;Dzia³oszyn;Dzia³oszyn;
+4;DOLNOŒL¥SKIE;DsDzierPilsA;DsDziePilsud;Dzier¿oniów - Pi³sudskiego;Dzier¿oniów;ul. Pi³sudskiego
+5;DOLNOŒL¥SKIE;DsGlogWita;DsGlogWiStwo;G³ogów - Wita Stwosza;G³ogów;ul. Wita Stwosza
+6;DOLNOŒL¥SKIE;DsJeleniaGoraA;DsJelGorOgin;Jelenia Góra - Ogiñskiego;Jelenia Góra;ul. Ogiñskiego 6
+7;DOLNOŒL¥SKIE;DsJeleniaGoraPM;DsJelGorSoko;Jelenia Góra - Sokoliki;Jelenia Góra;ul. Sokoliki 6
+8;DOLNOŒL¥SKIE;DsKlodzkoA;DsKlodzSzkol;K³odzko - Szkolna;K³odzko;ul. Szkolna 8
+9;DOLNOŒL¥SKIE;DsLegRzeczA;DsLegAlRzecz;Legnica - Rzeczypospolitej;Legnica;al. Rzeczypospolitej 10/12
+10;DOLNOŒL¥SKIE;DsNRudaSrebP;DsNowRudSreb;Nowa Ruda - Srebrna;Nowa Ruda;ul. Srebrna 1a
+11;DOLNOŒL¥SKIE;DsOlawaSemi;DsOlawZolnAK;O³awa - ¯o³nierzy AK;O³awa;ul. ¯o³nierzy AK 9
+12;DOLNOŒL¥SKIE;DsOlesnicaPM;DsOlesBrzozo;Oleœnica - Brzozowa;Oleœnica;ul. Brzozowa 7
+13;DOLNOŒL¥SKIE;DsOsieczow;DsOsieczow21;Osieczów;Osieczów;
+14;DOLNOŒL¥SKIE;DsPolkKasz;DsPolKasztan;Polkowice - Kasztanowa;Polkowice;ul. Kasztanowa
+15;DOLNOŒL¥SKIE;DsSniezka;DsSniezkaObs;Œnie¿ka;;Œnie¿ka
+16;DOLNOŒL¥SKIE;DsSwidMob;DsSwidnMarciMOB;Œwidnica - Marcinkowskiego;Œwidnica;ul. Karola Marcinkowskiego 4-6
+17;DOLNOŒL¥SKIE;DsSwidRynek;DsSwidnRynek;Œwidnica - Rynek;Œwidnica;ul. Rynek 43
+18;DOLNOŒL¥SKIE;DsSzczDZPM;DsSzczaKolej;Szczawno-Zdrój - Kolejowa;Szczawno-Zdrój;ul. Kolejowa 14
+19;DOLNOŒL¥SKIE;DsWalbWysA;DsWalbrzWyso;Wa³brzych - Wysockiego;Wa³brzych;ul. Wysockiego 11
+20;DOLNOŒL¥SKIE;DsWrocWisA;DsWrocAlWisn;Wroc³aw - Wiœniowa;Wroc³aw;al. Wiœniowa/Powst. Œl¹skich
+21;DOLNOŒL¥SKIE;DsWrocBartA;DsWrocBartni;Wroc³aw - Bartnicza;Wroc³aw;ul. Bartnicza
+22;DOLNOŒL¥SKIE;DsWrocGrobla;DsWrocNaGrob;Wroc³aw - Na Grobli;Wroc³aw;ul. Na Grobli
+23;DOLNOŒL¥SKIE;DsWrocOrzech;DsWrocOrzech;Wroc³aw - Orzechowa;Wroc³aw;ul. Orzechowa 61
+24;DOLNOŒL¥SKIE;DsWrocKorzA;DsWrocWybCon;Wroc³aw - Korzeniowskiego;Wroc³aw;ul. Wyb. J.Conrada-Korzeniowskiego
+25;DOLNOŒL¥SKIE;DsZabkowSemi;DsZabkPowWar;Z¹bkowice Œl¹skie;Z¹bkowice Œl¹skie;ul. Powstañców Warszawy 5
+26;DOLNOŒL¥SKIE;DsZgorzBohA;DsZgorBohGet;Zgorzelec - Bohaterów Getta;Zgorzelec;ul. Bohaterów Getta
+27;DOLNOŒL¥SKIE;DsZlotoryjaPM;DsZlotoStasz;Z³otoryja - Staszica;Z³otoryja;ul. Stanis³awa Staszica 22
+28;KUJAWSKO-POMORSKIE;KpBrodnicaKochanowskiego;KpBrodKochan;Brodnica, Kochanowskiego;Brodnica;ul. Kochanowskiego
+29;KUJAWSKO-POMORSKIE;KpBydgBerlinga;KpBydBerling;Bydgoszcz, ul. Berlinga;Bydgoszcz;ul. Berlinga 13
+30;KUJAWSKO-POMORSKIE;KpBydgPlPozn;KpBydPlPozna;Bydgoszcz Plac Poznañski;Bydgoszcz;pl. Poznañski
+31;KUJAWSKO-POMORSKIE;KpBydgWarszawska;KpBydWarszaw;Warszawska;Bydgoszcz;ul. Warszawska 10
+32;KUJAWSKO-POMORSKIE;KpCiechoTezniowa;KpCiechTezni;Ciechocinek;Ciechocinek;ul. Tê¿niowa - Park Zdrojowy
+33;KUJAWSKO-POMORSKIE;KpAirpGrudz;KpGrudPilsud;Grudzi¹dz Airpointer;Grudzi¹dz;ul. Pi³sudskiego 51
+34;KUJAWSKO-POMORSKIE;KpGrudzStar;KpGrudSienki;Grudzi¹dz Starówka;Grudzi¹dz;ul. Sienkiewicza 27
+35;KUJAWSKO-POMORSKIE;KpAirpInowr;KpInowSolank;Inowroc³aw Airpointer;Inowroc³aw;ul. Solankowa
+36;KUJAWSKO-POMORSKIE;KpKoniczZMSP;KpKoniczynka;Koniczynka;Koniczynka;
+37;KUJAWSKO-POMORSKIE;KpNakloPiotraSkargi;KpNaklSkargi;Nak³o Piotra Skargi;Nak³o nad Noteci¹;ul. Piotra Skargi
+38;KUJAWSKO-POMORSKIE;KpTorunDziewulsk;KpToruDziewu;Toruñ POLICJA;Toruñ;ul. Dziewulskiego 1
+39;KUJAWSKO-POMORSKIE;KpTorunKaszownik;KpToruKaszow;Toruñ, KASZOWNIK;Toruñ;ul. Przy Kaszowniku
+40;KUJAWSKO-POMORSKIE;KpAirpTorunIMGW;KpToruStorczMOB;Toruñ, ul. Storczykowa;Toruñ;ul. Storczykowa 124
+41;KUJAWSKO-POMORSKIE;KpTorunRubITALTEL;KpToruSzLubi;"Toruñ, ""RUBINKOWO - ITALTEL""";Toruñ;ul. Szosa Lubicka / Przy Skarpie
+42;KUJAWSKO-POMORSKIE;KpAirpTorun;KpToruWSikor;Toruñ Airpointer;Toruñ;ul. Wa³y Gen. Sikorskiego 12
+43;KUJAWSKO-POMORSKIE;KpAirpWieniec;KpWieniecZdrMOB;Wieniec Zdrój, ul. Brzozowa;Wieniec Zdrój;ul. Brzozowa 
+44;KUJAWSKO-POMORSKIE;KpAirpWiktorowo;KpWiktorowoG;Lafarge- Airpointer;Wiktorowo;Wiktorowo 22
+45;KUJAWSKO-POMORSKIE;KpAirpWlocWod;KpWloclChelmMOB;Airpointer W³oc³awek;W³oc³awek;ul. Che³micka
+46;KUJAWSKO-POMORSKIE;KpWloclOkrzei;KpWloclOkrze;W³oc³awek OKRZEI;W³oc³awek;ul. Okrzei
+47;KUJAWSKO-POMORSKIE;KpWloclSielska;KpWloclSiels;"W³oc³awek ""Sielska DMD""";W³oc³awek;ul. Sielska 3
+48;KUJAWSKO-POMORSKIE;KpZielBoryTuch;KpZielBoryTu;Bory Tucholskie;Zielonka;
+49;KUJAWSKO-POMORSKIE;KpZninPotockiego;KpZninPotock;¯nin Starostwo Potockiego;¯nin;ul. Potockiego 1
+50;LUBELSKIE;LbBialaPOrzechowa;LbBiaPodOrze;WIOŒ-DBP-Orzechowa;Bia³a Podlaska;ul. Orzechowa
+51;LUBELSKIE;LbBialySlupRPN_Auto;LbBiaSlupRPN;Bia³y S³up Automat;Bia³y S³up;
+52;LUBELSKIE;LbChelmJagWIOS;LbChelJagiel;Che³m ul. Jagielloñska;Che³m;ul. Jagielloñska 64
+53;LUBELSKIE;LbJarczew;LbJarczWolaM;IMGW-Jarczew;Jarczew;ul. Jarczew
+54;LUBELSKIE;LbKrasnikKoszarowa;LbKrasKoszar;Kraœnik ul. Koszarowa 10A;Kraœnik;ul. Koszarowa 10A
+55;LUBELSKIE;LbLublinWIOS;LbLubObywate;Lublin ul. Obywatelska;Lublin;ul. Obywatelska 13
+56;LUBELSKIE;LbLublin_Sliwins_5;LbLubSliwins;Lublin Ul. Œliwiñskiego 5;Lublin;ul. Œliwiñskiego 5
+57;LUBELSKIE;LbPulawyKarp;LbPulaKarpin;;Pu³awy;ul. Karpiñskiego 5
+58;LUBELSKIE;LbPulawySkowieszynska;LbPulaSkowie;Pu³awy ul. Skowieszyñska;Pu³awy;ul. Skowieszyñska 51
+59;LUBELSKIE;LbRadzyPSitkowskiego;LbRadzPodSit;WIOŒ-RadzyñP-Sitkowskiego;Radzyñ Podlaski;ul. Sitkowskiego 1b
+60;LUBELSKIE;LbWilczopole;LbWilczopole;Lublin-Podmiejska;Wilczopole;
+61;LUBELSKIE;LbZamoscHrubieszowsk;LbZamoHrubie;Zamoœæ ul. Hrubieszowska 69A;Zamoœæ;ul. Hrubieszowska 69A
+62;£ÓDZKIE;LdBrzeziWIOSMReforma;LdBrzeReform;Brzeziny-Reformacka1;Brzeziny;ul. Reformacka 1
+63;£ÓDZKIE;LdGajewWIOSAGajew;LdGajewUjWod;Gajew;Gajew;Ujêcie wody
+64;£ÓDZKIE;LdKutnoWIOSMKoscius;LdKutnKosciu;Kutno-Koœciuszki 26;Kutno;ul. Koœciuszki 26
+65;£ÓDZKIE;LdLodzPalki;LdLodzAlPalk;£ódŸ-Al. Palki/Telefoniczna;£ódŸ;al. Palki
+66;£ÓDZKIE;LdLodzWIOSACzernik;LdLodzCzerni;£ódŸ-Widzew;£ódŸ;ul. Czernika 1/3
+67;£ÓDZKIE;LdLodzWIOSAGdanska;LdLodzGdansk;£ódŸ-Gdañska 16;£ódŸ;ul. Gdañska 16
+68;£ÓDZKIE;LdLodzWIOSAKilinsk;LdLodzKilins;£ódŸ-Kiliñskiego 102/102a;£ódŸ;ul. Kiliñskiego 102/102a
+69;£ÓDZKIE;LdLodzWSSEMLegiono;LdLodzLegion;£ódŸ-Legionów 1;£ódŸ;ul. Legionów 1
+70;£ÓDZKIE;LdLodzWIOSALipowa;LdLodzLipowa;£ódŸ-Lipowa;£ódŸ;ul. Lipowa 81
+71;£ÓDZKIE;LdLodzWSSEMRudzka;LdLodzRudzka;£ódŸ-Rudzka60;£ódŸ;ul. Rudzka 60
+72;£ÓDZKIE;LdLodzWIOSAZachodn;LdLodzZachod;£ódŸ-Zachodnia 40;£ódŸ;ul. Zachodnia 40
+73;£ÓDZKIE;LdLowSienkie;LdLowiczSien;£owicz-Henryka Sienkiewicza 62;£owicz;ul. Henryka Sienkiewicza 62
+74;£ÓDZKIE;LdOpocznWIOSMPlKosci;LdOpocPlKosc;Opoczno-Pl Koœciuszki 15;Opoczno;pl. Koœciuszki 15
+75;£ÓDZKIE;LdPabianWIOSMKilinsk;LdPabiKilins;Pabianice-Kiliñskiego 4;Pabianice;ul. Kiliñskiego 4
+76;£ÓDZKIE;LdPabianWIOSAKonstan;LdPabiKonsta;Pabianice-Polfa;Pabianice;ul. Konstantynowska
+77;£ÓDZKIE;LdParzniWIOSAParznie;LdParzniUjWo;Parzniewice;Parzniewice;Ujêcie wody
+78;£ÓDZKIE;LdPiotrkWIOSAKrakPrz;LdPioTrKraPr;Piotrków Tryb.-Krakowskie Przedmieœcie;Piotrków Trybunalski;ul. Krakowskie Przedmieœcie 13
+79;£ÓDZKIE;LdPiotrkWIOSMSienkie;LdPioTrSienk;PiotrkówTryb.-Sienkiewicza 16;Piotrków Trybunalski;ul. Sienkiewicza 16
+80;£ÓDZKIE;LdRadomsWIOSMRolna2;LdRadomsRoln;Radomsko-Rolna2;Radomsko;ul. Rolna 2
+81;£ÓDZKIE;LdRadomsWIOSASokola4;LdRadomsSoko;Radomsko-Sokola4;Radomsko;ul. Sokola 4
+82;£ÓDZKIE;LdRawaMaWIOSMNiepodl;LdRawaNiepod;Rawa Mazowiecka-Niepodleg³oœci 8;Rawa Mazowiecka;ul. Niepodleg³oœci 8
+83;£ÓDZKIE;LdSieradWSSEMGrunwal;LdSierGrunwa;Sieradz-Grunwaldzka 28;Sieradz;ul. Grunwaldzka 28
+84;£ÓDZKIE;LdSkiernWIOSMKonopni;LdSkierKonop;Skierniewice-Marii Konopnickiej 5;Skierniewice;ul. Marii Konopnickiej 5
+85;£ÓDZKIE;LdTomaszWIOSMSwAnton;LdToMaSwAnto;TomaszówMaz.-Œw. Antoniego43;Tomaszów Mazowiecki;ul. Œw. Antoniego 43/45
+86;£ÓDZKIE;LdWielunWIOSMPOW;LdWieluPOW12;Wieluñ-POW 12;Wieluñ;ul. P.O.W. 12
+87;£ÓDZKIE;LdZdWolaWIOSMKrolews;LdZduWoKrole;ZduñskaWola-Królewska10;Zduñska Wola;ul. Królewska 10
+88;£ÓDZKIE;LdZgierzWIOSAMielcza;LdZgieMielcz;Zgierz-Œródmieœcie;Zgierz;ul. Mielczarskiego 1
+89;LUBUSKIE;LuGorzowWIOS_AUT;LuGorzKosGdy;Gorzów Wlkp. ul. Kosynierów Gdyñskich;Gorzów Wielkopolski;ul. Kosynierów Gdyñskich
+90;LUBUSKIE;LuGorzowWIOS_MAN;LuGorzPilsud;Gorzów Wlkp. ul. Pi³sudskiego;Gorzów Wielkopolski;ul. Pi³sudskiego
+91;LUBUSKIE;LuSmobytWIOS_AUT;LuSmolBytnic;Smolary Bytnickie;Smolary Bytnickie;
+92;LUBUSKIE;LuSulecWIOS_MOB;LuSulecDudka;Sulêcin ul. Dudka;Sulêcin;ul. Dudka
+93;LUBUSKIE;LuWschowWIOS_AUT;LuWsKaziWiel;Wschowa ul. Kazimierza Wielkiego;Wschowa;ul. Kazimierza Wielkiego
+94;LUBUSKIE;LuZaryWIOS_AUT;LuZarySzyman;¯ary, ul. Szymanowskiego 8;¯ary;ul. Szymanowskiego 8
+95;LUBUSKIE;LuZgoraWIOS_AUT;LuZielKrotka;Zielona Góra ul. Krótka;Zielona Góra;ul. Krótka
+96;MA£OPOLSKIE;MpBochniWIOSKBar0106;MpBochKonfed;Bochnia, ul. Konfederatów Barskich;Bochnia;ul. Konfederatów Barskich
+97;MA£OPOLSKIE;MpBukownWIOSKole1206;MpBukowKolejMOB;Bukowno;Bukowno;ul. Kolejowa
+98;MA£OPOLSKIE;MpGorlicWIOSKras0511;MpGorlKrasin;Gorlice, ul. Krasiñskiego;Gorlice;ul. Krasiñskiego
+99;MA£OPOLSKIE;MpKetyWIOSWysp1304;MpKetyWyspiaMOB;Kêty, ul. Wyspiañskiego;Kêty;ul. Wyspiañskiego
+100;MA£OPOLSKIE;MpKrakowWIOSAKra6117;MpKrakAlKras;Kraków, Aleja Krasiñskiego;Kraków;al. Krasiñskiego
+101;MA£OPOLSKIE;MpKrakowWIOSBuja6119;MpKrakBujaka;Kraków, ul. Bujaka;Kraków;ul. Bujaka
+102;MA£OPOLSKIE;MpKrakowWIOSBulw6118;MpKrakBulwar;Kraków, ul. Bulwarowa;Kraków;ul. Bulwarowa
+103;MA£OPOLSKIE;MpLimanoWIOSMBBo0706;MpLimanoBoleMOB;Limanowa, ul. Matki Bo¿ej Bolesnej;Limanowa;ul. Matki Bo¿ej Bolesnej
+104;MA£OPOLSKIE;MpMyslenWIOSRyne0907;MpMysleRynekMOB;Myœlenice, Rynek;Myœlenice;Rynek
+105;MA£OPOLSKIE;MpWielicWIOSNiep1904;MpNiepo3Maja;Niepo³omice, ul. 3 Maja;Niepo³omice;ul. 3 Maja
+106;MA£OPOLSKIE;MpNSaczWIOSNadb6205;MpNoSaczNadb;Nowy S¹cz, ul. Nadbrze¿na;Nowy S¹cz;ul. Nadbrze¿na
+107;MA£OPOLSKIE;MpOlkuszWIOSNull1205;MpOlkuFrNull;Olkusz, ul. Francesco Nullo;Olkusz;ul. Francesco Nullo
+108;MA£OPOLSKIE;MpSkawinWIOSOsie0606;MpSkawOsOgro;Skawina, os. Ogrody;Skawina;os. Ogrody
+109;MA£OPOLSKIE;MpSlomniWIOSWoln0611;MpSlomWolnosMOB;S³omniki, ul. Wolnoœci;S³omniki;ul. Wolnoœci
+110;MA£OPOLSKIE;MpSuchaBWIOSSemi1513;MpSuchSemika;Sucha Beskidzka, ul. Semika;Sucha Beskidzka;ul. Semika
+111;MA£OPOLSKIE;MpSzarowWIOS1909;MpSzarowSpok;Szarów, ul. Spokojna;Szarów;ul. Spokojna
+112;MA£OPOLSKIE;MpSzczawWIOSSzal1116;MpSzczawJanaMOB;Szczawnica, ul. Jana Wiktora;Szczawnica;ul. Jana Wiktora
+113;MA£OPOLSKIE;MpSzymbaWIOS0507;MpSzymbaGorl;Szymbark;Szymbark;gm. Gorlice
+114;MA£OPOLSKIE;MpTarnowWIOSBitw6304;MpTarBitStud;Tarnów, ul. Bitwy pod Studziankami;Tarnów;ul. Bitwy pod Studziankami
+115;MA£OPOLSKIE;MpTrzebiWIOSZWM0305;MpTrzebOsZWM;Trzebinia, os. Zwi¹zku Walki M³odych;Trzebinia;os. Zwi¹zku Walki M³odych
+116;MA£OPOLSKIE;MpTuchowWIOSSzop1602;MpTuchChopin;Tuchów, ul. Chopina;Tuchów;ul. Chopina
+117;MA£OPOLSKIE;MpZakopaWIOSRown1701;MpZakopaSien;Zakopane, ul. Sienkiewicza;Zakopane;ul. Sienkiewicza
+118;MAZOWIECKIE;MzBelskIGFPAN;MzBelsIGFPAN;Belsk-IGFPAN;Belsk Du¿y;Osiedle PAN 1
+119;MAZOWIECKIE;MzGranicaKPN;MzGranicaKPN;Granica-KPN;Granica;ul. Kampinoski Park Narodowy
+120;MAZOWIECKIE;MzLegionZegIMGW;MzLegZegrzyn;Legionowo-Zegrzyñska;Legionowo;ul. Zegrzyñska 38
+121;MAZOWIECKIE;MzMlawaOrdona;MzMlawOrdona;M³awa-Ordona;M³awa;ul. Ordona 14
+122;MAZOWIECKIE;MzOstrolHallera;MzOstroHalle;Ostro³êka-Hallera;Ostro³êka;gen. J. Hallera 12
+123;MAZOWIECKIE;MzOtwockBrzoz;MzOtwoBrzozo;Otwock-Brzozowa;Otwock;ul. Brzozowa 2
+124;MAZOWIECKIE;MzPiastowPulask;MzPiasPulask;Piastów-Pu³askiego;Piastów;ul. Pu³askiego 6/8
+125;MAZOWIECKIE;MzPlockPKN;MzPlocKroJad;P³ock-Gimnazjum;P³ock;ul. Królowej Jadwigi 4
+126;MAZOWIECKIE;MzPlockReja;MzPlocMiReja;P³ock-Reja;P³ock;ul. Reja 28
+127;MAZOWIECKIE;MzRadomCz;MzRad25Czerw;Radom-Czerwca;Radom;ul. 25 Czerwca 1976
+128;MAZOWIECKIE;MzRadomHallera;MzRadHallera;Radom-Hallera;Radom;ul. Hallera
+129;MAZOWIECKIE;MzRadomTochter;MzRadTochter;Radom-Tochtermana;Radom;ul. Tochtermana 1
+130;MAZOWIECKIE;MzSiedlceKonar;MzSiedKonars;Siedlce-Konarskiego;Siedlce;ul. Konarskiego 11
+131;MAZOWIECKIE;MzWarszAKrzywon;MzWarAKrzywo;Warszawa-Anieli Krzywoñ;Warszawa;ul. Anieli Krzywoñ
+132;MAZOWIECKIE;MzWarNiepodKom;MzWarAlNiepo;Warszawa-Komunikacyjna;Warszawa;al. Niepodleg³oœci 227/233
+133;MAZOWIECKIE;MzWarTarKondra;MzWarKondrat;Warszawa-Targówek;Warszawa;ul. Kondratowicza 8
+134;MAZOWIECKIE;MzWarszMarsz;MzWarMarszal;Warszawa-Marsza³kowska;Warszawa;ul. Marsza³kowska 68
+135;MAZOWIECKIE;MzWarPodIMGW;MzWarPodlesn;Warszawa-Podleœna;Warszawa;ul. Podleœna 61
+136;MAZOWIECKIE;MzWarszPorajow;MzWarPorajow;Warszawa-Porajów;Warszawa;ul. Porajów 3
+137;MAZOWIECKIE;MzWarszPuszSolska;MzWarPuszSol;Warszawa-Puszczy Solskiej;Warszawa;ul. Puszczy Solskiej 5
+138;MAZOWIECKIE;MzWarszBielany;MzWarTolstoj;Warszawa-To³stoja;Warszawa;ul. To³stoja 2
+139;MAZOWIECKIE;MzWarszUrsynow;MzWarWokalna;Warszawa-Ursynów;Warszawa;ul. Wokalna 1
+140;MAZOWIECKIE;MzZyrardRoosevel;MzZyraRoosev;¯yrardów-Roosevelta;¯yrardów;ul. Roosevelta 2
+141;OPOLSKIE;OpGlub1pyl;OpGlubKochan;G³ubczyce manualna 1;G³ubczyce;ul. Kochanowskiego 23
+142;OPOLSKIE;OpKkozle1a;OpKKozBSmial;K-KoŸle automat 1;Kêdzierzyn-KoŸle;ul. Boles³awa Œmia³ego 5
+143;OPOLSKIE;OpKlucz2pyl;OpKluczMicki;Kluczbork manualna 2;Kluczbork;ul. Mickiewicza 10
+144;OPOLSKIE;OpNysa3pyl;OpNysaRodzie;Nysa manualna 3;Nysa;ul. Rodziewiczówny 1
+145;OPOLSKIE;OpOlesno4a;OpOlesSlowac;Olesno automat 4;Olesno;ul. S³owackiego
+146;OPOLSKIE;OpOpole3a;OpOpoleMinor;Opole automat 3;Opole;ul. Minorytów
+147;OPOLSKIE;OpOpole4pyl;OpOpoleOsAKr;Opole manualna 4;Opole;os. Armii Krajowej
+148;OPOLSKIE;OpZdze2a;OpZdziePiast;Zdzieszowice automat 2;Zdzieszowice;ul. Piastów 6
+149;PODLASKIE;PdBialyPodmiejska;PdBialPulPie;Bia³ystok-Podmiejska;Bia³ystok;ul. 42 Pu³ku Piechoty
+150;PODLASKIE;PdBialyWarszawska;PdBialWarsza;Bia³ystok-Warszawska;Bia³ystok;ul. Warszawska 75 A
+151;PODLASKIE;PdBialyMiejska;PdBialWaszyn;Bia³ystok-Miejska;Bia³ystok;ul. Waszyngtona 16
+152;PODLASKIE;PdBorsuWiejska;PdBorsukowiz;Borsukowizna-Wiejska;Borsukowizna;
+153;PODLASKIE;PdLomzaSikorskiego;PdLomSikorsk;Lomza Sikorskiego 48/94;£om¿a;ul. Sikorskiego 48/94
+154;PODLASKIE;PdSuwPulaski;PdSuwPulaski;Suwa³ki, ul. Pu³askiego 73;Suwa³ki;ul. Pu³askiego
+155;PODKARPACKIE;PkDebicaWIOSGrottgera;PkDebiGrottg;Dêbica-Grottgera-WIOS;Dêbica;Grottgera 3
+156;PODKARPACKIE;PkJarosWIOSPWSTE;PkJarosPruch;Jaros³aw-PWSTE-WIOS;Jaros³aw;ul. Pruchnicka
+157;PODKARPACKIE;PkJasloWIOSSikorskiego;PkJasloSikor;Jaslo-Sikorskiego-WIOS;Jas³o;ul. Sikorskiego
+158;PODKARPACKIE;PkKrempnaWIOSMPN;PkKrempnaMPN;Krempna-MPN-WIOS;Krempna;
+159;PODKARPACKIE;PkKrosnoWIOSKletowki;PkKrosKletow;Krosno-Kletówki;Krosno;ul. Kletówki
+160;PODKARPACKIE;PkMielecWIOSSolskiego;PkMielSolski;Mielec-MOSIR-WIOS;Mielec;ul. Solskiego
+161;PODKARPACKIE;PkMielWIOSZarzStr;PkMielZaStre;Mielec - Zarz¹d Strefy;Mielec;ul. Zarz¹d Strefy
+162;PODKARPACKIE;PkNiskoWIOSSzklar;PkNiskoSzkla;Nisko-Szklarniowa-WIOS;Nisko;ul. Szklarniowa
+163;PODKARPACKIE;PkPrzemyslWIOSGrunw;PkPrzemGrunw;Przemysl-Grunwaldzka-WIOS;Przemyœl;ul. Grunwaldzka
+164;PODKARPACKIE;PkRzeszWIOSNoweMiasto;PkRzeszRejta;Rzeszów-Nowe Miasto;Rzeszów;ul. Rejtana
+165;PODKARPACKIE;PkSanokWIOSSadowa;PkSanoSadowa;Sanok-Sadowa-WIOS;Sanok;ul. Sadowa
+166;PODKARPACKIE;PkTarnobWIOSDabrow;PkTarnDabrow;Tarnobrzeg-M.Dabrowskiej-WIOS;Tarnobrzeg;ul. Marii D¹browskiej
+167;POMORSKIE;Pm.D;PmGac;WIOŒ Gaæ - S³owiñski Park Narodowy;Gaæ;
+168;POMORSKIE;Pm.00.s481m;PmGdaGleboka;WIOŒ Gdañsk - G³êboka;Gdañsk;ul. G³êboka 11
+169;POMORSKIE;Pm.a02a;PmGdaKacze02;AM2 Gdañsk Stogi;Gdañsk;ul. Kaczeñce
+170;POMORSKIE;Pm.aw08m;PmGdaLecz08m;WIOŒ Gdañsk - Leczkowa;Gdañsk;ul. Leczkowa
+171;POMORSKIE;Pm.a08a;PmGdaLeczk08;AM8 Gdañsk Wrzeszcz;Gdañsk;ul. Leczkowa
+172;POMORSKIE;Pm.a05a;PmGdaOstrz05;AM5 Gdañsk Szadó³ki;Gdañsk;ul. Ostrzycka
+173;POMORSKIE;Pm.a01a;PmGdaPoWie01;AM1 Gdañsk Œródmieœcie;Gdañsk;ul. Powstañców Warszawskich
+174;POMORSKIE;Pm.01w.02m;PmGdaPowWiel;Zaspa;Gdañsk;ul. Powstañców Wielkopolskich
+175;POMORSKIE;Pm.a03a;PmGdaWyzwo03;AM3 Gdañsk Nowy Port;Gdañsk;ul. Wyzwolenia
+176;POMORSKIE;Pm.00.w237m;PmGdyJozBema;WIOŒ Gdynia - Bema;Gdynia;ul. Bema
+177;POMORSKIE;Pm.a04a;PmGdyPoreb04;AM4 Gdynia Pogórze;Gdynia;ul. Porêbskiego
+178;POMORSKIE;Pm.a09aN;PmGdySzaf09N;AM9 Gdynia D¹browa;Gdynia;ul. Szafranowa
+179;POMORSKIE;Pm.a10a;PmGdyWendy10;AM10 Gdynia Œródmieœcie;Gdynia;ul. Wendy
+180;POMORSKIE;Pm05KARTw01m;PmKartWejher;WIOŒ Kartuzy;Kartuzy;ul. Wejhera
+181;POMORSKIE;Pm.AM12.a;PmKosTargo12;AM12 Koœcierzyna Targowa;Koœcierzyna;ul. Targowa
+182;POMORSKIE;Pm.Kwidz.Sport.m;PmKwiSportow;WIOŒ Kwidzyn - Sportowa;Kwidzyn;ul. Sportowa
+183;POMORSKIE;Pm08LEBAiEMEPa;PmLebaRabkaE;IMGW £eba - R¹bka;£eba;
+184;POMORSKIE;Pm.AM16.a;PmLebMalcz16;AM16 Lêbork Malczewskiego;Lêbork;ul. Malczewskiego
+185;POMORSKIE;Pm.AM17.a;PmLinieKos17;AM17 Liniewko Koœcierskie;Liniewko Koœcierskie;
+186;POMORSKIE;Pm.AM15.a;PmMalMicki15;AM15 Malbork Mickiewicza;Malbork;ul. Mickiewicza
+187;POMORSKIE;Pm.63.wDSAa;PmSlupKniazi;AM11 S³upsk Kniaziewicza;S³upsk;ul. Kniaziewicza 30
+188;POMORSKIE;Pm.63.wDSPm;PmSlupOrzesz;WIOŒ S³upsk Orzeszkowej;S³upsk;ul. Orzeszkowej
+189;POMORSKIE;Pm.a06a;PmSopBitPl06;AM6 Sopot;Sopot;ul. Bitwy pod P³owcami
+190;POMORSKIE;Pm.polpharma.01.a;PmStaGdaLubi;POLPHARMA Starogard Gdañski - Lubichowska;Starogard Gdañski;ul. Lubichowska
+191;POMORSKIE;Pm.a07a;PmTczeTarg07;AM7 Tczew;Tczew;ul. Targowa
+192;POMORSKIE;Pm.15.s129m;PmWejhPlWejh;WIOŒ Wejherowo - Jakuba Wejhera;Wejherowo;pl. Jakuba Wejhera 8
+193;POMORSKIE;Pm11WLADw07m;PmWladywHallera;WIOŒ W³adys³awowo - Hallera;W³adys³awowo;ul. Hallera
+194;ŒWIÊTOKRZYSKIE;SkBuskoWios2;SkBuskRokosz;WIOŒ, Busko zdrój, ul. Rokosza;Busko-Zdrój;ul. Rokosza 1
+195;ŒWIÊTOKRZYSKIE;SkKielJagielWios;SkKielJagiel;WIOS Kielce, ul. Jagielloñska;Kielce;ul. Jagielloñska 68
+196;ŒWIÊTOKRZYSKIE;SkKielKusoc;SkKielKusoci;WIOŒ Kielce, ul. Kusociñskiego;Kielce;ul. Kusociñskiego 51
+197;ŒWIÊTOKRZYSKIE;SkMalogCemen3;SkMalo11List;Ma³ogoszcz, ul. 11 Listopada;Ma³ogoszcz;ul. 11 Listopada
+198;ŒWIÊTOKRZYSKIE;SkNowinyCemen2;SkNowiParkow;Nowiny, ul. Parkowa;Nowiny;ul. Parkowa
+199;ŒWIÊTOKRZYSKIE;SkOzarowOsWz52;SkOzarOsWzgo;O¿arów Os. Wzgórze 52;O¿arów;os. Wzgórze 52
+200;ŒWIÊTOKRZYSKIE;SkPolanRuszcz;SkPolaRuszcz;Po³aniec, ul. Ruszczañska;Po³aniec;ul. Ruszczañska 23
+201;ŒWIÊTOKRZYSKIE;SkStaracZlota2;SkStaraZlota;WIOŒ, Starachowice, ul. Z³ota;Starachowice;ul. Z³ota
+202;ŒWIÊTOKRZYSKIE;SkSwKrzyzZM;SkSwietKrzyz;Stacja Monitoringu UH-P w Kielcach;Œwiêty Krzy¿;
+203;ŒWIÊTOKRZYSKIE;SkPolanTrzc;SkTrzciOsiek;Trzcianka;Trzcianka;Trzcianka 7
+204;ŒL¥SKIE;SlBielbBiel_kossa;SlBielKossak;Bielsko B._kossak-WIOŒ;Bielsko-Bia³a;ul. Kossak-Szczuckiej
+205;ŒL¥SKIE;SlBielbBiel_stern;SlBielSterni;Bielsko-Bia³a_sternicza;Bielsko-Bia³a;ul. Sternicza 4
+206;ŒL¥SKIE;SlCieszCies_13mic;SlCiesMickie;Cieszyn_mickiewi13-WIOŒ;Cieszyn;ul. Mickiewicza 13
+207;ŒL¥SKIE;SlCzerKopaln;SlCzerKopaln;Czerwionka Leszczyny Kopalniana;Czerwionka-Leszczyny;ul. Kopalniana
+208;ŒL¥SKIE;SlCzestCzes_arkr1;SlCzestoArmK;Czêstochowa_armiikrajowej - WIOŒ;Czêstochowa;ul. Armii Krajowej 2
+209;ŒL¥SKIE;SlCzestCzes_baczy;SlCzestoBacz;Czêstochowa_bacz-WIOŒ;Czêstochowa;ul. Baczyñskiego 2
+210;ŒL¥SKIE;SlCzestCzes_zana6;SlCzestoZana;Czestochowa_zana-WIOŒ;Czêstochowa;ul. Zana 6
+211;ŒL¥SKIE;SlDabroDabr_1000L;SlDabro1000L;D¹bGór._1000-lecia-WIOŒ;D¹browa Górnicza;ul. 1000-lecia 25 a
+212;ŒL¥SKIE;SlGliwiGliw_mewy;SlGliwicMewy;Gliwice_mewy-WIOŒ;Gliwice;ul. Mewy 34
+213;ŒL¥SKIE;SlGodowWodz_wodzi;SlGodGliniki;Godów manualny - WIOŒ;Godów;ul. Gliniki
+214;ŒL¥SKIE;SlKatowKato_kossu;SlKatoKossut;Katowice_kossu-WIOŒ;Katowice;ul. Kossutha 6
+215;ŒL¥SKIE;SlKatowKato_aleja;SlKatoPlebA4;Katowice_komunikacyjna-WIOŒ;Katowice;al. Górnoœl¹ska
+216;ŒL¥SKIE;SlKnuroKnu1_gliwi;SlKnurJedNar;Knurów _jednoœci narod. - WIOŒ;Knurów;ul. Jednoœci Narodowej 5
+217;ŒL¥SKIE;SlLubliLubl_piask;SlLublPiasko;Lubliniec_piaskowa;Lubliniec;ul. Piaskowa 56
+218;ŒL¥SKIE;SlMyszkMysz_myszk;SlMyszMiedzi;Myszków_miedziana;Myszków;ul. Miedziana 3
+219;ŒL¥SKIE;SlPszczPszc_boged;SlPszczBoged;Pszczyna_bogedaina- WIOŒ;Pszczyna;ul. Bogedaina
+220;ŒL¥SKIE;SlRybniRybn_borki;SlRybniBorki;Rybnik_borki-WIOŒ;Rybnik;ul. Borki 37 d
+221;ŒL¥SKIE;SlSosnoSosn_lubel;SlSosnoLubel;Sosnowiec_lubelska -WIOŒ;Sosnowiec;ul. Lubelska 51
+222;ŒL¥SKIE;SlTarnoTarn_litew;SlTarnoLitew;Tarnowskie Góry_litewska-WIOŒ;Tarnowskie Góry;ul. Litewska
+223;ŒL¥SKIE;SlTychyTych_tolst;SlTychyTolst;Tychy_to³stoja-WIOŒ;Tychy;ul. To³stoja 1
+224;ŒL¥SKIE;SlUstroCies_sana7;SlUstronSana;Ustroñ_sanatoryjna 7;Ustroñ;ul. Sanatoryjna 7
+225;ŒL¥SKIE;SlWodziWodz_galcz;SlWodzGalczy;Wodzis³aw_Ga³czyñskiego-WIOŒ;Wodzis³aw Œl¹ski;ul. Ga³czyñskiego 1
+226;ŒL¥SKIE;SlZabrzZabr_sklod;SlZabSkloCur;Zabrze_sk³od-WIOŒ;Zabrze;ul. M. Sk³odowskiej-Curie 34
+227;ŒL¥SKIE;SlZawieZawi_zawie;SlZawSkloCur;Zawiercie_sk³od-curie- WIOŒ;Zawiercie;ul. Sk³odowskiej-Curie 16
+228;ŒL¥SKIE;SlZlotyJano_lesni;SlZlotPotLes;Z³oty Potok gm. Janów (automat);Z³oty Potok;ul. Leœniczówka Kamienna Góra
+229;ŒL¥SKIE;SlZoryzZory_sikor;SlZorySikors;¯ory_os.Sikorskiego-WIOŒ;¯ory;ul. Sikorskiego 52
+230;ŒL¥SKIE;SlZywieZywi_koper;SlZywieKoper;¯ywiec_kopernika-WIOŒ;¯ywiec;ul. Kopernika 84
+231;ŒL¥SKIE;SlZywieZywi_slowa;SlZywieSlowa;¯ywiec-s³owackiego-WIOŒ;¯ywiec;ul. S³owackiego 2
+232;WARMIÑSKO-MAZURSKIE;WmElblagWIOS_Bazynsk;WmElbBazynsk;WIOŒ Elbl¹g ul. Ba¿yñskiego;Elbl¹g;ul. Ba¿yñskiego 6
+233;WARMIÑSKO-MAZURSKIE;WmGoldapWIOS_Jacwies;WmGoldJacwie;WIOŒ Go³dap ul. Jaæwieska;Go³dap;ul. Jaæwieska 15
+234;WARMIÑSKO-MAZURSKIE;WmIlawaAnd;WmIlawAnders;WIOŒ I³awa ul.Andersa;I³awa;Andersa 8a
+235;WARMIÑSKO-MAZURSKIE;WmMragowWIOS_Parkowa;WmMragParkow;WIOŒ Mr¹gowo ul. Parkowa;Mr¹gowo;ul. Parkowa
+236;WARMIÑSKO-MAZURSKIE;WmNidzicaWIOS_Traugut;WmNiTraugutt;WIOŒ Nidzica ul.Traugutta;Nidzica;ul. Traugutta
+237;WARMIÑSKO-MAZURSKIE;WmOlsztyWIOS_Puszkin;WmOlsPuszkin;WIOŒ Olsztyn ul. Puszkina;Olsztyn;ul. Puszkina 16
+238;WARMIÑSKO-MAZURSKIE;WmOstrodWIOS_Chrobre;WmOstrChrobr;WIOŒ Ostróda ul. Chrobrego;Ostróda;ul. Chrobrego 3
+239;WARMIÑSKO-MAZURSKIE;WmPuszcz_IOS_Borecka;WmPuszczaBor;KMŒ Puszcza Borecka;;Diabla Góra
+240;WIELKOPOLSKIE;WpWKP011/10;WpBoroDrapal;WKPBorowiec;Borówiec;ul. Drapa³ka 4
+241;WIELKOPOLSKIE;WpGnieznoPM10/11;WpGniePaczko;Gniezno, ul. Paczkowskiego;Gniezno;ul. Paczkowskiego
+242;WIELKOPOLSKIE;WpWKPKalisz007/10;WpKaliSawick;WKPKalisz;Kalisz;ul. Hanki Sawickiej
+243;WIELKOPOLSKIE;WpKonin311009D009102;WpKoniWyszyn;Konin, ul. Wyszyñskiego 3a;Konin;ul. Wyszyñskiego 3
+244;WIELKOPOLSKIE;WpLesznoPM10/11;WpLeszKiepur;WpLesznoPM10/11;Leszno;ul. Kiepury
+245;WIELKOPOLSKIE;WpNowyTomyslPM10/11;WpNoTomSzpit;WpNowyTomyslPM10/11;Nowy Tomyœl;ul. Szpitalna
+246;WIELKOPOLSKIE;WpOstrowWlkpPM10;WpOstWieWyso;Ostrow Wlkp., ul. Wysocka 57;Ostrów Wielkopolski;ul. Wysocka 57
+247;WIELKOPOLSKIE;WpWKP004;WpPiaskiKrzy;WKPKrzyzowka;Krzy¿ówka;
+248;WIELKOPOLSKIE;WpPila5710111;WpPilaKusoci;Pila, ul. Kusocinkiego;Pi³a;ul. Kusociñskiego
+249;WIELKOPOLSKIE;WpPleszewPM10/14;WpPleszAlMic;WpPleszew;Pleszew;al. Mickiewicza
+250;WIELKOPOLSKIE;WpPoznanPOSIRPM10/11;WpPoznChwial;WpPoznanPOSIRPM10/11;Poznañ;ul. Chwia³kowskiego
+251;WIELKOPOLSKIE;WpWKP002;WpPoznDabrow;WKPPoznan 2;Poznañ;ul. D¹browskiego 169
+252;WIELKOPOLSKIE;WpWKP001;WpPoznPolank;WKPPoznan1;Poznañ;ul. Polanki
+253;WIELKOPOLSKIE;WpPoznanSzymanowskiego17;WpPoznSzyman;Poznan, ul. Szymanowskiego 17;Poznañ;ul. Szymanowskiego 17
+254;WIELKOPOLSKIE;WpTarnowoPodgornePM10/10;WpTarPodZach;WpTarnowoPodgornePM10/10;Tarnowo Podgórne;ul. Zachodnia
+255;WIELKOPOLSKIE;WpWagrowiecPM10/10;WpWagrowLipo;WpWagrowiecPM10/10;W¹growiec;
+256;ZACHODNIOPOMORSKIE;ZpKoszalin005;ZpKoszArKraj;Koszalin_ArmiiKrajowej;Koszalin;ul. Armii Krajowej
+257;ZACHODNIOPOMORSKIE;ZpKoszalin006;ZpKoszSpasow;Koszalin_Spasowskiego;Koszalin;ul. Spasowskiego 2f
+258;ZACHODNIOPOMORSKIE;ZpMysMysliborz007;ZpMyslZaBram;Myœlibórz_ZaBramk¹;Myœlibórz;ul. Za Bramk¹ 8
+259;ZACHODNIOPOMORSKIE;ZpSzczecin001;ZpSzczAndr01;Szczecin_Andrzejewskiego;Szczecin;ul. Andrzejewskiego 23
+260;ZACHODNIOPOMORSKIE;ZpSzcSzczecinek008;ZpSzczec1Maj;Szczecinek_1Maja;Szczecinek;ul. 1 Maja 22
+261;ZACHODNIOPOMORSKIE;ZpSzcSzczecinek010;ZpSzczecPrze;Szczecinek_Przemys³owa;Szczecinek;ul. Przemys³owa
+262;ZACHODNIOPOMORSKIE;ZpSzczecin004;ZpSzczLacz04;Szczecin_£¹czna;Szczecin;ul. £¹czna
+263;ZACHODNIOPOMORSKIE;ZpSzczecin002;ZpSzczPils02;Szczecin_Pi³sudskiego;Szczecin;ul. Pi³sudskiego 1
+264;ZACHODNIOPOMORSKIE;ZpGryfWiduchowa003;ZpWiduBulRyb;Widuchowa;Widuchowa;ul. Bulwary Rybackie 1
