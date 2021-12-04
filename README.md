@@ -230,7 +230,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td>12-13</td>
     <td rowspan="3"></td>
     <td rowspan="3">R: Shiny - advanced</td>
-    <td>Data analysis</td>
+    <td>Group work</td>
     <td rowspan="3">P2 (1p)<br> <a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/254" target="_blank" rel="noopener noreferrer">HW5 (5p)</a></td>
   </tr>
   <tr>
@@ -252,7 +252,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td>12-20</td>
     <td rowspan="3"></td>
     <td rowspan="3">R: Xmas trees - gganimate, RBokeh, ggiraph, vegalite, googleVis</td>
-    <td>Group work</td>
+    <td>Data analysis</td>
     <td rowspan="3">P2 (2p)<br>HW6 (10p)</td>
   </tr>
   <tr>
