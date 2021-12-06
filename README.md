@@ -253,7 +253,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td rowspan="3"></td>
     <td rowspan="3">R: Xmas trees - gganimate, RBokeh, ggiraph, vegalite, googleVis</td>
     <td>Data analysis</td>
-    <td rowspan="3">P2 (2p)<br>HW6 (10p)</td>
+    <td rowspan="3">P2 (2p)<br><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/311" target="_blank" rel="noopener noreferrer">HW6 (10p)</a></td>
   </tr>
   <tr>
     <td>12-22</td>
