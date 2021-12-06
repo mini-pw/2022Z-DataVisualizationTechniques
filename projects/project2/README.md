@@ -8,7 +8,7 @@ Celem drugiego projektu jest przygotowanie interaktywnego dashboardu/strony na t
 
 Projekt może być zrealizowany w dowolnym narzędziu, które umożliwi interakcję. 
 
-Realizowany jest w zespołach 3 osobowych -- innych niż projekt 2.
+Realizowany jest w zespołach 3 osobowych -- innych niż projekt 1.
 
 Ostateczny wynik prezentowany jest na wykładzie (nagranie prezentacji do 2 min).
 
