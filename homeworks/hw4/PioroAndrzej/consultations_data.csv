@@ -1,0 +1,31 @@
+"","Year","Country","Value"
+"1",2019,"Australia",1.1
+"2",2019,"Austria",1.2
+"3",2019,"Belgium",1.3
+"4",2019,"Canada",1.5
+"5",2019,"Czech Republic",1.6
+"6",2020,"Denmark",0.7
+"7",2019,"Finland",1
+"8",2018,"France",1.3
+"9",2019,"Germany",1.5
+"10",2019,"Hungary",0.7
+"11",2018,"Ireland",0.4
+"12",2019,"Italy",1.4
+"13",2018,"Japan",3.2
+"14",2019,"Korea",1.6
+"15",2019,"Luxembourg",1.4
+"16",2020,"Mexico",0.1
+"17",2019,"Netherlands",3
+"18",2019,"Poland",0.9
+"19",2019,"Slovak Republic",1.2
+"20",2020,"Spain",1
+"21",2020,"Sweden",1
+"22",2019,"Turkey",0.7
+"23",2018,"United Kingdom",0.7
+"24",2018,"United States",1.1
+"25",2020,"Chile",0.2
+"26",2019,"Estonia",1.5
+"27",2019,"Lithuania",1.7
+"28",2020,"Costa Rica",0.1
+"29",2019,"Latvia",0.9
+"30",2019,"Colombia",0.3
