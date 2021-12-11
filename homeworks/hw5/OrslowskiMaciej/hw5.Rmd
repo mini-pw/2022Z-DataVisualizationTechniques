@@ -1,0 +1,71 @@
+---
+title: "Praca domowa nr 5"
+author: "Maciej Orsłowski"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Poniższy wykres przedstawia liczbę przyznanych Nagród Nobla w zależności od
+kontynentu:
+
+```{r, message=FALSE, warning=FALSE}
+
+library(tidyverse)
+library(plotly)
+
+df_nobel <- read_csv("data/complete.csv")
+
+df_nobel_continents <- df_nobel %>% 
+  rename(continent = birth_continent) %>% 
+  mutate(century = ifelse(awardYear > 2000,
+                          "c21th", "c20th")) %>% 
+  group_by(continent, century) %>% 
+  summarise(count = n()) %>% 
+  ungroup() %>% 
+  pivot_wider(names_from = century,
+              values_from = count) %>% 
+  mutate(c20th = ifelse(is.na(c20th),
+                        0, c20th),
+         c21th = ifelse(is.na(c21th),
+                        0, c21th)) %>% 
+  mutate(total = c20th + c21th)
+
+plot_ly(
+  data = df_nobel_continents,
+  y = ~total,
+  x = ~continent,
+  type = "bar"
+) %>% 
+  layout(
+    title = "Number of Nobel Prize awards by continent",
+    yaxis = list(title = "Count",
+                 range = c(0, 500)),
+    xaxis = list(title = "Continent"),
+    updatemenus = list(
+      list(
+        x = 1, y = 1,
+        buttons = list(
+          list(
+            method = "restyle",
+            args = list("y", list(~total)),
+            label = "Total"
+          ),
+          list(
+            method = "restyle",
+            args = list("y", list(~c21th)),
+            label = "21th century"
+          ),
+          list(
+            method = "restyle",
+            args = list("y", list(~c20th)),
+            label = "20th century"
+          )
+        )
+      )
+    )
+  ) %>% 
+  config(displayModeBar = FALSE)
+```
