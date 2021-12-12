@@ -18,6 +18,8 @@ accumulate_by <- function(dat, var) {
   dplyr::bind_rows(dats)
 }
 
+tc <- c("France","Germany","Japan","Sweden","United Kingdom","USA")
+
 df <- my_data %>%
   select(awardYear,birth_country) %>%
   filter(birth_country %in% tc) %>%
