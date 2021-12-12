@@ -1,5 +1,5 @@
 1. https://github.com/rstudio/bslib
-2. https://github.com/ThinkR-open/golem
+2. https://github.com/Yang-Tang/shinyjqui
 3. https://github.com/daattali/shinyjs
 4. https://github.com/daattali/shinycssloaders
 5. https://github.com/daattali/shinyalert
