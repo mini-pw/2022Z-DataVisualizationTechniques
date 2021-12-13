@@ -229,7 +229,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>12-13</td>
     <td rowspan="3"></td>
-    <td rowspan="3">R: Shiny - advanced</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab10" target="_blank" rel="noopener noreferrer">R: Shiny - advanced</a></td>
     <td>Group work</td>
     <td rowspan="3">P2 (1p)<br> <a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/254" target="_blank" rel="noopener noreferrer">HW5 (5p)</a></td>
   </tr>
