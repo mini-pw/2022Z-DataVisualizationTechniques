@@ -274,7 +274,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td>01-03</td>
     <td rowspan="3">R: tidycharts, rpivotTable, visNetwork</td>
     <td>Prototype</td>
-    <td rowspan="3">P2 (2p)<br>HW7 (5p)</td>
+    <td rowspan="3">P2 (2p)<br><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/355" target="_blank" rel="noopener noreferrer"> HW7 (5p)</a></td>
   </tr>
   <tr>
     <td>01-05</td>
