@@ -207,8 +207,8 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>12-06</td>
     <td rowspan="3"></td>
-    <td rowspan="3">R: Shiny - introduction</td>
-    <td rowspan="2">Discussing P1<br>Introducing P2</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab9" target="_blank" rel="noopener noreferrer"> R: Shiny - introduction</a></td>
+    <td rowspan="2">Discussing P1<br><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/projects/project2" target="_blank" rel="noopener noreferrer"> Introducing P2</a></td>
     <td rowspan="3"></td>
   </tr>
   <tr>
@@ -229,8 +229,8 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>12-13</td>
     <td rowspan="3"></td>
-    <td rowspan="3">R: Shiny - advanced</td>
-    <td>Data analysis</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab10" target="_blank" rel="noopener noreferrer">R: Shiny - advanced</a></td>
+    <td>Group work</td>
     <td rowspan="3">P2 (1p)<br> <a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/254" target="_blank" rel="noopener noreferrer">HW5 (5p)</a></td>
   </tr>
   <tr>
@@ -252,8 +252,8 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td>12-20</td>
     <td rowspan="3"></td>
     <td rowspan="3">R: Xmas trees - gganimate, RBokeh, ggiraph, vegalite, googleVis</td>
-    <td>Group work</td>
-    <td rowspan="3">P2 (2p)<br>HW6 (10p)</td>
+    <td>Data analysis</td>
+    <td rowspan="3">P2 (2p)<br><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/311" target="_blank" rel="noopener noreferrer">HW6 (10p)</a></td>
   </tr>
   <tr>
     <td>12-22</td>
@@ -274,7 +274,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td>01-03</td>
     <td rowspan="3">R: tidycharts, rpivotTable, visNetwork</td>
     <td>Prototype</td>
-    <td rowspan="3">P2 (2p)<br>HW7 (5p)</td>
+    <td rowspan="3">P2 (2p)<br><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/355" target="_blank" rel="noopener noreferrer"> HW7 (5p)</a></td>
   </tr>
   <tr>
     <td>01-05</td>
