@@ -265,7 +265,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">12</td>
     <td>12-16</td>
-    <td rowspan="3">Scrollytelling: Pockets, Powerless, Here’s How America Uses Its Land</td>
+    <td rowspan="3">Scrollytelling: <a href="https://pudding.cool/2018/08/pockets/" target="_blank" rel="noopener noreferrer">Pockets</a>, <a href="https://projects.propublica.org/graphics/wva" target="_blank" rel="noopener noreferrer">Powerless </a>, <a href="https://www.bloomberg.com/graphics/2018-us-land-use/" target="_blank" rel="noopener noreferrer"> Here’s How America Uses Its Land</a></td>
     <td></td>
     <td></td>
     <td></td>
