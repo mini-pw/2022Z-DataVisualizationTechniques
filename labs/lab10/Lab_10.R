@@ -88,4 +88,4 @@ app_ui <- navbarPage(
   tabPanel("Introduction", ui),
   tabPanel("Advanced", ui2, icon = icon("database")))
 
-runApp(shinyApp(app_ui, server))
+shinyApp(app_ui, server)

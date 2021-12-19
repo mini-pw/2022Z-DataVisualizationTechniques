@@ -251,7 +251,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>12-20</td>
     <td rowspan="3"></td>
-    <td rowspan="3">R: Xmas trees - gganimate, RBokeh, ggiraph, vegalite, googleVis</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/tree/main/labs/lab11" target="_blank" rel="noopener noreferrer">R: Xmas trees - gganimate, RBokeh, ggiraph, vegalite, googleVis</a></td>
     <td>Data analysis</td>
     <td rowspan="3">P2 (2p)<br><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/311" target="_blank" rel="noopener noreferrer">HW6 (10p)</a></td>
   </tr>
@@ -265,7 +265,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td rowspan="4">12</td>
     <td>12-16</td>
-    <td rowspan="3">Scrollytelling: Pockets, Powerless, Here’s How America Uses Its Land</td>
+    <td rowspan="3">Scrollytelling: <a href="https://pudding.cool/2018/08/pockets/" target="_blank" rel="noopener noreferrer">Pockets</a>, <a href="https://projects.propublica.org/graphics/wva" target="_blank" rel="noopener noreferrer">Powerless </a>, <a href="https://www.bloomberg.com/graphics/2018-us-land-use/" target="_blank" rel="noopener noreferrer"> Here’s How America Uses Its Land</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -274,7 +274,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td>01-03</td>
     <td rowspan="3">R: tidycharts, rpivotTable, visNetwork</td>
     <td>Prototype</td>
-    <td rowspan="3">P2 (2p)<br>HW7 (5p)</td>
+    <td rowspan="3">P2 (2p)<br><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/355" target="_blank" rel="noopener noreferrer"> HW7 (5p)</a></td>
   </tr>
   <tr>
     <td>01-05</td>

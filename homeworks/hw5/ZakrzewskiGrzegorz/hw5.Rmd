@@ -1,0 +1,68 @@
+---
+title: "HW5"
+author: "Grzegorz Zakrzewski"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(fig.width=10, fig.height=8) 
+```
+
+Wykres przedstawia liczbę nagród Nobla z danej dziedziny przyznanych w każdy roku na przestrzeni lat 1901-2019.
+
+```{r message=FALSE, warning=FALSE}
+library(plotly)
+library(dplyr)
+
+df <- readr::read_csv("data/complete.csv");
+
+# przygotowanie danych
+df <- df %>% 
+  group_by(awardYear, category) %>% 
+  slice_max(sortOrder, n = 1) %>% 
+  select(c(awardYear, category, sortOrder))
+
+# wykres, domyślna kategoria - chemia
+plt <- plot_ly(
+  data = df[df$category == "Chemistry",],
+  x = ~awardYear,
+  y = ~sortOrder,
+  color = ~category,
+  type = "bar"
+) %>% 
+  layout(
+    title = "Liczba nagórd Nobla z danej dziedziny przyznanych w każdym roku na przestrzeni lat 1901-2019",
+    yaxis = list(
+      title = "Liczba nagród",
+      tickvals = c(1, 2, 3)
+    ),
+    
+    xaxis = list(
+      title = "Rok",
+      
+      # range slider
+      rangeselector = list(
+        buttons = list(list(step = "all"))),
+      
+      rangeslider = list(type = "date")
+    ),
+    legend = list(
+      title = list(text = "Dziedzina")
+    )
+) %>% 
+  # dodanie pozostałych kategorii
+  add_trace(
+    data = df[df$category != "Chemistry",],
+    x = ~awardYear,
+    y = ~sortOrder,
+    color = ~category,
+    type = "bar",
+    visible ='legendonly'
+  )
+```
+
+```{r echo = FALSE}
+plt
+```
+
