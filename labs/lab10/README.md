@@ -4,6 +4,7 @@
 4. https://github.com/daattali/shinycssloaders
 5. https://github.com/daattali/shinyalert
 6. Caching:https://shiny.rstudio.com/articles/caching.html; https://engineering-shiny.org/optimizing-shiny-code.html
+7. Table: https://rstudio.github.io/DT/shiny.html
 
 More:
 * Book: https://mastering-shiny.org
