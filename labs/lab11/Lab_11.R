@@ -108,7 +108,7 @@ ggplot(df_small,
 library(rbokeh)
 
 figure() %>% 
-  ly_points(birth.rate, death.rate, data = countries, 
+  ly_points(birth.rate, death.rate, data = SmarterPoland::countries, 
             color = continent)
 
 
