@@ -1,0 +1,75 @@
+---
+title: "HW5"
+author: "Agata Kopyt"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(plotly)
+```
+
+## Kod
+
+
+```{r kod, eval = FALSE}
+library(dplyr)
+library(plotly)
+
+
+df <- read.csv('complete.csv')
+
+X <- data.frame()
+for(i in distinct(df,awardYear)$awardYear){
+  new <- df %>% select(awardYear,category) %>% 
+    filter(awardYear<=i) %>% 
+    group_by(category) %>% 
+    summarise(n=n()) %>% 
+    mutate(awardYear = i)
+    X <- rbind(X,new)
+}
+
+
+fig <- plot_ly(data = X, x=~category, y= ~n, frame = ~awardYear, type = "bar")%>% 
+  layout(title = "Growth in number of Nobel Prize winners by category",
+         xaxis = list(fixedrange = TRUE,title = "Category"), 
+         yaxis = list(fixedrange = TRUE, title ="Winners by far"),
+         showlegend = FALSE) %>% 
+  animation_opts( frame = 400,
+                  transition = 400,
+                  easing = "cubic-in-out",
+                  mode = "immediate") %>%
+  animation_button(x = 0.05, y = 0.05) %>%
+  animation_slider(currentvalue = list(prefix = "Year: ", font = list(color="blue")))
+fig
+```
+
+## Wykres
+
+```{r wykres,  echo=FALSE}
+df <- read.csv('complete.csv')
+
+X <- data.frame()
+for(i in distinct(df,awardYear)$awardYear){
+  new <- df %>% select(awardYear,category) %>% 
+    filter(awardYear<=i) %>% 
+    group_by(category) %>% 
+    summarise(n=n()) %>% 
+    mutate(awardYear = i)
+    X <- rbind(X,new)
+}
+fig <- plot_ly(data = X, x=~category, y= ~n, frame = ~awardYear, type = "bar")%>% 
+  layout(title = "Growth in number of Nobel Prize winners by category",
+         xaxis = list(fixedrange = TRUE,title = "Category"), 
+         yaxis = list(fixedrange = TRUE, title ="Winners by far"),
+         showlegend = FALSE) %>% 
+  animation_opts( frame = 400,
+                  transition = 400,
+                  easing = "cubic-in-out",
+                  mode = "immediate") %>%
+  animation_button(x = 0.05, y = 0.05) %>%
+  animation_slider(currentvalue = list(prefix = "Year: ", font = list(color="blue")))
+fig
+```
+
