@@ -1,12 +1,3 @@
-#
-# This is the user-interface definition of a Shiny web application. You can
-# run the application by clicking 'Run App' above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
-
 library(shiny)
 library(dplyr)
 library(plotly)
@@ -15,13 +6,13 @@ library(shinycssloaders)
 
 df2 <- read.csv("complete.csv")
 
-# Define UI for application that draws a histogram
+
 shinyUI(fluidPage(
 
-    # Application title
+    
     titlePanel("Nobel Prize Data"),
 
-    # Sidebar with a slider input for number of bins
+    
     sidebarLayout(
         sidebarPanel(
             sliderInput("bins",
@@ -36,7 +27,7 @@ shinyUI(fluidPage(
             )
         ),
 
-        # Show a plot of the generated distribution
+        
         mainPanel(
             
             shiny::markdown("### Plot1: Contriubution of Men and Women \n #### in Nobel Prizes in given timeframe"),
