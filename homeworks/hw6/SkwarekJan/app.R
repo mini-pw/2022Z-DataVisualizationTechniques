@@ -65,7 +65,7 @@ ui1 <- shinyUI(fluidPage(
                          c("Male" = "Male",
                            "Female" = "Female",
                            "Other" = "Other"))
-      # selected = c("Human", "Droid", "Other"))
+      
     ),
     mainPanel(
       plotOutput("graph1")
@@ -85,7 +85,7 @@ ui2 <- shinyUI(fluidPage(
                          c("North America" = "North America",
                            "Europe" = "Europe",
                            "Other" = "Other"))
-      # selected = c("Human", "Droid", "Other"))
+      
     ),
     mainPanel(
       plotOutput("graph2")
