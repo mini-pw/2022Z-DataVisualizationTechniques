@@ -1,0 +1,1 @@
+https://almal01.shinyapps.io/MalinowskiAleksanderHW6/
