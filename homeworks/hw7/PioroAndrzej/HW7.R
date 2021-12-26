@@ -5,7 +5,6 @@ library(gganimate)
 library(Rcpp)
 
 
-# x <- strsplit("WESOŁYCHŚFIĄT", "")[[1]]
 x <- 0:12
 y <- 0:25
 data <- expand.grid(X=x, Y=y)
@@ -67,21 +66,6 @@ data$z[data$X == 11 & data$Y== 0] <- 5 # zolty - prezenty
 
 
 
-
-
-
-
-
-
-
-# data$z <- as.factor(sample(c(0,1,2,3), 338,replace=T))
-
-
-# xrep(x = strsplit("WESOŁYCHŚFIĄT", "")[[1]],  25)
-# rep(0:24, )
-
-
-
 # kosmetyczne zmiany w wygladzie wykresu 
 p <- ggplot(data =  data, aes(x = as.factor(X), y = Y)) + 
   geom_tile(aes(fill = as.factor(z)))+
@@ -98,7 +82,7 @@ p <- ggplot(data =  data, aes(x = as.factor(X), y = Y)) +
         axis.text.x = element_text(colour="white"))+
   scale_fill_manual(values = c("black", "white", "brown", "darkgreen", "green", "yellow", "red", "blue", "violet"))
 
-# anim <- p + transition_manual(Y, cumulative = TRUE)
+
 anim <- p +
   transition_time(Y) +
   shadow_mark()
