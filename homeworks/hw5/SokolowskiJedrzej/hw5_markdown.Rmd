@@ -1,0 +1,37 @@
+---
+title: "TWD Praca domowa nr 5"
+author: "Jędrzej Sokołowski nr. albumu 313507"
+date: "11.12.2021"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+ ```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+ ```
+ ```{r, include = FALSE}
+ source("hw5_sam_kod.R")
+ ```
+ 
+## Wykres 1
+
+
+ ```{r}
+ fig1
+ ```
+ 
+## Wykres 2
+
+
+ ```{r}
+ fig2 #click "Fix the scale" after changing polt type
+ ```
+ 
+## Animacja
+
+
+ ```{r}
+ anim
+ ```
+ 
