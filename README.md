@@ -319,7 +319,7 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
     <td rowspan="3"></td>
     <td rowspan="3">Python: pandas-profiler etc.</td>
     <td>Discussing P2</td>
-    <td rowspan="3">HW8 (5p)</td>
+    <td rowspan="3"><a href="https://github.com/mini-pw/2022Z-DataVisualizationTechniques/issues/451" target="_blank" rel="noopener noreferrer">HW8 (5p)</a></td>
   </tr>
   <tr>
     <td>01-19</td>
