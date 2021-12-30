@@ -8,7 +8,7 @@ Plakat powinien składać się ze zbioru przynajmniej trzech spójnych tematyczn
 
 Wykresy mogą być wykonane w dowolnym narzędziu i złożone w plakat z użyciem dowolnej techniki. Podczas Wykładów 9 i 10 zespoły przedstawiają krótkie prezentacje swojej pracy (max. 3 minuty), które zależą od trybu zajęć.
 
-Czas na wykonanie projektu jest do 24.11 - do tego dnia (włącznie) będą przyjmowane Pull Requests z plikiem pdf na GitHub. W trybie stacjonarnym zajęć należy wydrukować plakat i przynieść go na Wykład 9. W trybie zdalnym należy nagrać prezentację opisującą pracę i załączyć ją w PR na GitHub (można nagrać prezentację w trybie stacjonarnym).
+Czas na wykonanie projektu jest do **1 grudnia (środa)** - do tego dnia (włącznie) będą przyjmowane Pull Requests z plikiem pdf na GitHub. W trybie stacjonarnym zajęć należy wydrukować plakat i przynieść go na Wykład 9. W trybie zdalnym należy nagrać prezentację opisującą pracę i załączyć ją w PR na GitHub (można nagrać prezentację w trybie stacjonarnym).
 
 ## Ocena
 
@@ -18,3 +18,19 @@ Za projekt można otrzymać od 0 do 25 punktów, z czego:
 - do 5 pkt. uzyskuje się, jeżeli przygotowane wykresy mają wszystkie niezbędne elementy do trafnego odczytania danych (tytuł, podtytuł, adnotacje na osiach, legenda, jednostki, opis jak czytać wykres),
 - do 5 pkt. uzyskuje się za znalezienie ciekawych danych, tematów mniej poluparnych w mediach, ale interesujących,
 - do 5 pkt. uzyskuje się za estetykę, spójność i pomysłowość aranżacji wykresów oraz ich opisów w jedną całość, umieszczenie informacji (tytuł, autorzy, źródło danych).
+
+## Materiały
+
+- https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+- https://ourworldindata.org/grapher/temperature-anomaly?country=~Global
+- https://www.gapminder.org/data/
+
+Przykady narzędzi do tworzenia plakatów:
+
+- PowerPoint
+- https://www.canva.com/ (Pro with https://education.github.com/pack)
+
+Plakaty z poprzednich lat
+
+- https://medium.com/responsibleml/poster-make-movie-book-series-3ac2c8a01180
+- https://medium.com/responsibleml/covid-19-data-visualization-bc0732c19d46
