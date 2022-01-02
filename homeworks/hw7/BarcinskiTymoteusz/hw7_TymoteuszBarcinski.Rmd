@@ -1,0 +1,105 @@
+---
+title: "Praca domowa numer 7"
+author: "Tymoteusz Barcinski"
+date: "02.01.2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+library(plotly)
+library(ggplot2)
+
+set.seed(123)
+
+fig <- plot_ly()
+fig <- fig %>% add_trace(
+  x = c(0.5, 2, 3.5),
+  y = c(2, 14, 2),
+  type = 'scatter',
+  fill = 'toself',
+  fillcolor = '#4d9221',
+  marker = list(
+    color = '#4d9221'
+  ),
+  line = list(
+    color = '#4d9221'
+  )
+) 
+
+fig <- fig %>%  add_trace(
+  x = c(1.6, 1.6, 2.4, 2.4),
+  y = c(0, 2, 2, 0),
+  type = 'scatter',
+  fill = 'toself',
+  fillcolor = '#8c510a',
+  marker = list(
+    color = '#8c510a'
+  ),
+  line = list(
+    color = '#8c510a'
+  ),
+  text = ""
+) %>% layout(
+  title = "Customize your Christmas Tree!",
+  xaxis = list(
+    range = c(0,4)
+  ),
+  yaxis = list(
+    range = c(0,15)
+  ),
+  autosize = F, width = 500, height = 500,
+  showlegend = FALSE)
+
+n = 200
+m = 3
+x <- runif(n, 0.5, 3.5)
+y <- runif(n, 2, 14)
+df <- data.frame(x, y)
+bool_x <- ifelse(y<8*x-2, 1, 0)
+bool_y <- ifelse(y<(-8)*x+30, 1, 0)
+bool <- ifelse(bool_x == 1 & bool_y == 1, 1, 0)
+df <- cbind(df, bool)
+
+df_correct <- df %>% 
+  filter(bool == 1)
+
+fig <- fig %>% add_markers(
+  data = df_correct,
+  x = ~x,
+  y = ~y,
+  type = "scatter",
+  size = m,
+  color = "red",
+  text = ""
+) %>% layout(
+  xaxis = list(title = ''),
+  yaxis = list(title = ''),
+  updatemenus = list(
+    list(
+      type = "dropdown",
+      y = 0.8,
+      buttons = list(
+        
+        list(method = "restyle",
+             args = list("marker.color", "blue"),
+             label = "Blue"),
+        list(method = "restyle",
+             args = list("marker.color", "red"),
+             label = "Red"),
+        list(method = "restyle",
+             args = list("marker.color", "purple"),
+             label = "Purple"),
+        list(method = "restyle",
+             args = list("marker.color", "yellow"),
+             label = "Yellow"))
+  )))
+fig
+
+
+
+```
