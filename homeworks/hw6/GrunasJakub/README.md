@@ -1,0 +1,1 @@
+link do aplikacji: https://grooney.shinyapps.io/twd_hw6/
