@@ -1,0 +1,13 @@
+name: Nobel4me
+title: Nobel4me
+username:
+account: szymonm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5320257
+bundleId: 5381926
+url: https://szymonm.shinyapps.io/Nobel4me/
+when: 1639693498.26521
+lastSyncTime: 1639693498.26521
+asMultiple: FALSE
+asStatic: FALSE
