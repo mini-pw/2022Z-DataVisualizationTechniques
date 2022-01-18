@@ -1,6 +1,7 @@
 # Analiza danych z Messengera
 
 [Link do nagrania](https://www.youtube.com/watch?v=dItPH6t5Xtc)
+[Link do aplikacji](https://messenger-analysis.herokuapp.com/)
 
 Autorzy:
 
