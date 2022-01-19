@@ -1,0 +1,13 @@
+name: NobelPrize
+title: NobelPrize
+username:
+account: mdzlwsk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5364066
+bundleId: 5402693
+url: https://mdzlwsk.shinyapps.io/NobelPrize/
+when: 1640212571.57085
+lastSyncTime: 1640212571.57085
+asMultiple: FALSE
+asStatic: FALSE
