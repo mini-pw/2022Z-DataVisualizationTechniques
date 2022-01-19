@@ -1,0 +1,114 @@
+id,date,time,white,black,white elo,black elo,time control,opening code,opening name,length,termination,result,hero points,has eval,has increment,link
+1,2021.07.03,10:51:22,Kirill260809,grooney,2111,2164,600+5,D10,Slav Defense: Exchange Variation,12,Resign,0-1,1,True,True,https://lichess.org/Xff9fW5P
+2,2021.06.23,22:43:36,Juanpedroflorespicon,grooney,2076,2167,600+5,D00,Queen's Pawn Game: Mason Variation,32,Resign,1-0,0,True,True,https://lichess.org/2lNiNYVJ
+3,2021.06.21,21:43:05,sbdunlaoghaire,grooney,2193,2136,600+5,B18,Caro-Kann Defense: Classical Variation,24,Checkmate,0-1,1,True,True,https://lichess.org/6kecCT5D
+4,2021.06.21,09:40:11,quelma,grooney,2147,2146,600+5,B13,Caro-Kann Defense: Exchange Variation,72,Resign,1/2-1/2,0.5,True,True,https://lichess.org/nqjG8kLz
+5,2021.06.17,11:27:16,Anmonika,grooney,2072,2120,600+5,B10,Caro-Kann Defense,50,Checkmate,0-1,1,True,True,https://lichess.org/urv0XyST
+6,2021.06.17,10:26:58,GodnessOfArena,grooney,2082,2108,600+5,B12,Caro-Kann Defense: MarĂłczy Variation,65,Checkmate,0-1,1,True,True,https://lichess.org/isKy5idq
+7,2021.06.15,13:28:20,rich223,grooney,2069,2083,600+5,A13,English Opening: Neo-Catalan Declined,13,Resign,0-1,1,True,True,https://lichess.org/tmpZZKoj
+8,2021.06.14,21:08:11,KostaNik,grooney,1915,2065,600+5,B12,"Caro-Kann Defense: Advance Variation, Short Variation",45,Checkmate,0-1,1,True,True,https://lichess.org/vdMn4l0U
+9,2021.06.14,06:29:29,JD93,grooney,1959,2036,600+5,B13,Caro-Kann Defense: Exchange Variation,63,Checkmate,0-1,1,True,True,https://lichess.org/7H7hZGlK
+10,2021.06.13,21:16:30,fwillett,grooney,1891,2028,600+5,B13,Caro-Kann Defense: Exchange Variation,66,Resign,1/2-1/2,0.5,True,True,https://lichess.org/HqozhdTe
+11,2021.06.13,21:09:24,ItouKaiji,grooney,1998,2011,600+5,B13,Caro-Kann Defense: Panov Attack,20,Resign,0-1,1,True,True,https://lichess.org/Mq9N63Lh
+12,2021.03.28,18:07:09,jacekchess2,grooney,2140,2019,600+1,B13,Caro-Kann Defense: Exchange Variation,17,Resign,1-0,0,True,True,https://lichess.org/lyisx8c2
+13,2021.03.28,17:20:28,Karwacik,grooney,2116,2019,600+1,A03,Bird Opening: Dutch Variation,30,Checkmate,1-0,0,True,True,https://lichess.org/2xTZfmL5
+14,2021.03.28,16:32:47,Here_s_Johny,grooney,1761,2013,600+1,B12,Caro-Kann Defense: MarĂłczy Variation,32,Checkmate,0-1,1,False,True,https://lichess.org/7u8HJhWW
+15,2021.03.28,15:46:09,maciekkam,grooney,2268,2015,600+1,B10,Caro-Kann Defense,36,Checkmate,1-0,0,True,True,https://lichess.org/Lco8fGpu
+16,2021.03.28,15:00:07,DzozefBratan,grooney,1500,2008,600+1,B12,Caro-Kann Defense: MarĂłczy Variation,24,Checkmate,0-1,1,False,True,https://lichess.org/OuTPV1Jm
+17,2021.03.21,17:55:42,Patrycja_O,grooney,1664,2017,600+1,B12,"Caro-Kann Defense: Advance Variation, Short Variation",52,Checkmate,0-1,1,False,True,https://lichess.org/GL4nXvvd
+18,2021.03.21,17:09:30,SkunMaster456,grooney,1672,2038,600+1,D53,Queen's Gambit Declined,34,Checkmate,1-0,0,True,True,https://lichess.org/EDXbTeVe
+19,2021.03.21,16:23:03,OmegaXX,grooney,1604,2062,600+1,D53,Queen's Gambit Declined,40,Resign,0-1,1,True,True,https://lichess.org/lLPmLeFs
+20,2021.03.21,13:54:33,nihad04,grooney,2073,2056,600+0,D53,Queen's Gambit Declined,30,Resign,1-0,0,False,False,https://lichess.org/b9C04SiJ
+21,2021.03.21,13:49:28,aswan22,grooney,2044,2077,600+0,A20,English Opening: King's English Variation,19,Resign,1-0,0,False,False,https://lichess.org/KeLmv8kk
+22,2021.03.17,14:22:17,YZey,grooney,2008,2059,600+0,B10,Caro-Kann Defense,28,Checkmate,0-1,1,False,False,https://lichess.org/zdV0jcqV
+23,2021.03.17,13:59:49,pukee,grooney,1940,2066,600+0,B12,Caro-Kann Defense: Advance Variation,18,Resign,0-1,1,False,False,https://lichess.org/KSpour6c
+24,2021.03.17,13:15:09,Parjun,grooney,1960,2026,600+0,B10,Caro-Kann Defense,32,Checkmate,0-1,1,True,False,https://lichess.org/X1u0lG9J
+25,2021.03.17,09:47:38,Larry_Ranz,grooney,1996,2063,600+0,D53,Queen's Gambit Declined,47,Resign,1-0,0,True,False,https://lichess.org/FDZhYMNi
+26,2021.03.17,09:21:30,fazael1962,grooney,2026,1986,600+0,B10,Caro-Kann Defense,30,Resign,0-1,1,False,False,https://lichess.org/4HviCBqm
+27,2020.08.16,11:46:52,tommygagarin,grooney,2007,2018,600+0,A22,"English Opening: King's English Variation, Two Knights Variation",40,Resign,1-0,0,False,False,https://lichess.org/bhs1LlgO
+28,2020.06.05,10:14:47,Kuba2401,grooney,1340,2015,600+0,C00,French Defense,26,Checkmate,0-1,1,False,False,https://lichess.org/yKMWppoC
+29,2020.06.05,10:09:06,Kuba2401,grooney,1364,2007,600+0,A30,English Opening: Symmetrical Variation,17,Checkmate,0-1,1,False,False,https://lichess.org/6Lb1ETbq
+30,2020.06.05,10:01:20,Kuba2401,grooney,1385,2000,600+0,A00,Ware Opening,29,Resign,0-1,1,False,False,https://lichess.org/1KW7cXCR
+31,2020.06.05,10:00:09,Kuba2401,grooney,1399,1996,600+0,A02,Bird Opening: From's Gambit,3,Checkmate,0-1,1,False,False,https://lichess.org/XRGmiHRY
+32,2020.06.05,09:46:50,Kuba2401,grooney,1435,1987,600+0,B30,Sicilian Defense: Old Sicilian,43,Checkmate,0-1,1,False,False,https://lichess.org/nnbb0Myk
+33,2020.06.05,09:42:55,Kuba2401,grooney,1461,1980,600+0,B10,Caro-Kann Defense: Labahn Attack,14,Checkmate,0-1,1,False,False,https://lichess.org/d4TN3PWu
+34,2019.04.15,11:41:31,dalmatinac1,grooney,2058,1981,600+0,C78,Ruy Lopez: Morphy Defense,34,Checkmate,1-0,0,False,False,https://lichess.org/twM3PLNj
+35,2019.03.15,21:55:37,ericdavid09,grooney,1973,2008,600+0,D38,Queen's Gambit Declined: Ragozin Defense,16,Resign,1-0,0,False,False,https://lichess.org/jtuN3NXp
+36,2019.03.11,23:01:41,sm3an,grooney,1894,2001,600+0,C24,Bishop's Opening: Berlin Defense,50,Checkmate,0-1,1,True,False,https://lichess.org/LO1xErbJ
+37,2019.03.11,21:23:02,grolard,grooney,1891,1976,600+0,D05,Rubinstein Opening,23,Resign,0-1,1,False,False,https://lichess.org/HA7TPOdR
+38,2019.02.19,13:11:29,Mukac,grooney,2026,1986,600+0,C20,King's Pawn Game: Leonardis Variation,20,Resign,1-0,0,False,False,https://lichess.org/eCKTCe3E
+39,2019.01.29,12:33:40,babashah,grooney,2048,1974,600+0,C44,Scotch Game: Haxo Gambit,63,Resign,0-1,1,False,False,https://lichess.org/gUZs4xr9
+40,2019.01.27,12:21:24,CyberSecurity,grooney,1942,1979,600+0,C34,King's Gambit Accepted: MacLeod Defense,25,Checkmate,1-0,0,False,False,https://lichess.org/xyGG51LL
+41,2019.01.26,23:03:11,mamakbuntut,grooney,1810,1995,600+0,A00,Van Geet Opening: Napoleon Attack,17,Resign,1-0,0,False,False,https://lichess.org/kTHrtRXd
+42,2019.01.26,22:21:48,jonoao,grooney,1931,1978,600+0,C44,Scotch Game: Haxo Gambit,23,Resign,0-1,1,False,False,https://lichess.org/C2Qm0Qho
+43,2019.01.26,22:14:11,Majnd,grooney,1957,1968,600+0,D35,Queen's Gambit Declined: Harrwitz Attack,25,Checkmate,0-1,1,False,False,https://lichess.org/pc4RQgu5
+44,2019.01.26,11:35:59,Flopap,grooney,1849,1985,600+0,B21,Sicilian Defense: McDonnell Attack,44,Resign,1/2-1/2,0.5,False,False,https://lichess.org/VzhR74mo
+45,2019.01.23,15:35:45,pinturella,grooney,1769,2012,600+0,D38,Queen's Gambit Declined: Ragozin Defense,36,Checkmate,1-0,0,False,False,https://lichess.org/u6KyRLj3
+46,2019.01.21,20:02:50,sasasah,grooney,1894,1999,600+0,C50,Italian Game: Deutz Gambit,38,Checkmate,0-1,1,False,False,https://lichess.org/sJH5oikm
+47,2019.01.21,17:10:20,james001,grooney,1991,1996,600+0,C57,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",72,Resign,1/2-1/2,0.5,False,False,https://lichess.org/fOQfX9H3
+48,2019.01.20,15:10:14,llucbimbovich,grooney,1944,1999,600+0,C70,"Ruy Lopez: Morphy Defense, Caro Variation",21,Resign,0-1,1,False,False,https://lichess.org/7SchszlB
+49,2019.01.20,13:58:28,lazykrle,grooney,1852,1980,600+0,B30,Sicilian Defense: Nyezhmetdinov-Rossolimo Attack,38,Time forfeit,0-1,1,False,False,https://lichess.org/PbJ8hPOH
+50,2019.01.19,11:40:30,elamine,grooney,1916,1952,600+0,D00,Queen's Pawn Game: Mason Variation,53,Time forfeit,0-1,1,False,False,https://lichess.org/zP5EJp4f
+51,2019.01.17,11:02:08,ChinaLom,grooney,1933,1918,600+0,B14,"Caro-Kann Defense: Panov Attack, Main Line",37,Resign,0-1,1,False,False,https://lichess.org/W7lWzvqJ
+52,2019.01.17,10:53:07,BazLayter,grooney,1835,1932,600+0,D00,Queen's Pawn Game: Levitsky Attack,29,Resign,1-0,0,False,False,https://lichess.org/Vy1WX2Nb
+53,2019.01.17,10:27:37,petrovich142,grooney,1957,1942,600+0,A22,"English Opening: King's English Variation, Two Knights Variation, Reversed Dragon",55,Checkmate,1-0,0,False,False,https://lichess.org/4yfQhRyS
+54,2019.01.16,12:21:19,pucheroargentino,grooney,1901,1955,600+0,B40,Sicilian Defense: Four Knights Variation,48,Resign,1/2-1/2,0.5,False,False,https://lichess.org/2pogG7CC
+55,2019.01.16,11:46:49,kubera,grooney,1840,1940,600+0,B30,Sicilian Defense: Old Sicilian,39,Resign,0-1,1,False,False,https://lichess.org/3lY39UkG
+56,2019.01.15,12:35:04,King_Luiz,grooney,1908,1952,600+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",23,Resign,1-0,0,False,False,https://lichess.org/V0sGnIuk
+57,2019.01.14,22:25:41,papajim2018,grooney,1852,1933,600+0,C41,"Philidor Defense: Nimzowitsch Variation, Klein Variation",65,Time forfeit,0-1,1,False,False,https://lichess.org/YIJ2IK8C
+58,2019.01.14,11:48:54,Butron,grooney,1835,1936,600+0,D00,Queen's Pawn Game: Chigorin Variation,52,Resign,0-1,1,False,False,https://lichess.org/nl3JQVt3
+59,2019.01.13,22:19:21,larsarne,grooney,1935,1925,600+0,D37,Queen's Gambit Declined: Three Knights Variation,33,Checkmate,0-1,1,False,False,https://lichess.org/hAKcHbxC
+60,2019.01.13,21:52:14,ronaaaldo,grooney,1813,1920,600+0,A00,Van't Kruijs Opening,65,Resign,1/2-1/2,0.5,False,False,https://lichess.org/aHm7NKyp
+61,2019.01.13,21:45:46,majid_king,grooney,1960,1930,600+0,A03,Bird Opening: Dutch Variation,29,Resign,1-0,0,False,False,https://lichess.org/CKmuASiF
+62,2019.01.12,11:32:00,Ssj1985,grooney,1840,1933,600+0,A00,Van Geet Opening: Napoleon Attack,80,Time forfeit,1/2-1/2,0.5,False,False,https://lichess.org/3FnuzJnd
+63,2019.01.11,22:39:27,Dd0mino2,grooney,1896,1934,600+0,C44,Scotch Game: Haxo Gambit,21,Checkmate,0-1,1,False,False,https://lichess.org/qLncTc86
+64,2019.01.10,11:47:22,balica,grooney,1876,1913,600+0,B56,Sicilian Defense: Classical Variation,62,Resign,0-1,1,False,False,https://lichess.org/a5wp9Ew4
+65,2019.01.08,11:45:59,kamuflaj,grooney,1961,1939,600+0,E51,"Nimzo-Indian Defense: Normal Variation, Ragozin Variation",29,Resign,1-0,0,False,False,https://lichess.org/W0AyM7Up
+66,2019.01.04,21:59:18,Lucre53,grooney,1869,1934,600+0,D35,"Queen's Gambit Declined: Exchange Variation, Positional Variation",64,Checkmate,1-0,0,False,False,https://lichess.org/Uh5lI55M
+67,2019.01.04,21:48:38,ali-geko,grooney,1865,1925,600+0,B40,Sicilian Defense: Four Knights Variation,24,Resign,0-1,1,False,False,https://lichess.org/yNhJramz
+68,2019.01.02,23:25:07,deyan70,grooney,1819,1917,600+0,A20,English Opening: King's English Variation,35,Resign,0-1,1,True,False,https://lichess.org/bo7eQOi0
+69,2019.01.02,22:38:26,Z-A-M-B-R-O-TT-A,grooney,1873,1930,600+0,B21,Sicilian Defense: Smith-Morra Gambit,45,Resign,1-0,0,False,False,https://lichess.org/iytlQFPP
+70,2019.01.02,22:28:55,mannuly7,grooney,1957,1940,600+0,D00,Queen's Pawn Game: Mason Variation,29,Resign,1-0,0,False,False,https://lichess.org/ZCOW023t
+71,2019.01.02,21:49:51,nulozechecs,grooney,1989,1933,600+0,B40,Sicilian Defense: Four Knights Variation,27,Checkmate,0-1,1,False,False,https://lichess.org/10rXx0WX
+72,2019.01.02,11:45:09,abedichess,grooney,1924,1917,600+0,D00,Queen's Pawn Game: Mason Variation,20,Checkmate,1-0,0,True,False,https://lichess.org/MEZgI5o4
+73,2019.01.02,11:24:22,Wladcakaktusow,grooney,1829,1909,600+0,B32,Sicilian Defense: Open,30,Resign,0-1,1,False,False,https://lichess.org/oJAyisfv
+74,2019.01.02,11:14:47,Abdulsalambkh,grooney,1942,1896,600+0,D01,Rapport-Jobava System,19,Resign,0-1,1,False,False,https://lichess.org/htiDLDpi
+75,2019.01.02,11:05:12,Oleksii_Vasylovych,grooney,1797,1887,600+0,E51,"Nimzo-Indian Defense: Normal Variation, SĂ¤misch Deferred",24,Resign,0-1,1,False,False,https://lichess.org/b8bdFkMD
+76,2019.01.02,08:28:11,playthemachine,grooney,2092,1870,600+0,B14,"Caro-Kann Defense: Panov Attack, Main Line",43,Resign,0-1,1,False,False,https://lichess.org/m6QhtbH2
+77,2019.01.01,23:10:06,galaxie-marmite,grooney,1847,1849,600+0,B20,Sicilian Defense: Wing Gambit,8,Resign,0-1,1,False,False,https://lichess.org/4bjgwnDt
+78,2018.12.27,19:22:40,prej7,grooney,1889,1869,600+0,A20,English Opening: King's English Variation,50,Resign,1-0,0,False,False,https://lichess.org/USkJRdZs
+79,2018.12.27,19:04:11,adamelmasry,grooney,1852,1858,600+0,D02,Queen's Pawn Game: Zukertort Variation,38,Resign,0-1,1,False,False,https://lichess.org/0f1oMu1J
+80,2018.12.27,18:18:29,Kimura76,grooney,1846,1874,600+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense, Central Exchange",64,Time forfeit,1-0,0,False,False,https://lichess.org/lRpIsFO6
+81,2018.12.27,18:11:33,joni2929,grooney,1761,1890,600+0,B21,Sicilian Defense: McDonnell Attack,18,Checkmate,1-0,0,True,False,https://lichess.org/Qm9eHDK8
+82,2018.12.27,11:17:07,Ahmedreffat,grooney,1892,1890,600+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",51,Resign,1/2-1/2,0.5,False,False,https://lichess.org/NJSMCdxT
+83,2018.12.26,22:11:12,Ahmedreffat,grooney,1877,1892,600+0,B22,Sicilian Defense: Alapin Variation,19,Resign,0-1,1,False,False,https://lichess.org/7TQYiD0h
+84,2018.12.26,21:04:40,caddy,grooney,1888,1862,600+0,B20,Sicilian Defense: Lasker-Dunne Attack,34,Checkmate,0-1,1,False,False,https://lichess.org/73q11FlP
+85,2018.12.23,23:11:43,truken,grooney,1353,1859,600+3,D00,Queen's Pawn Game,18,Resign,0-1,1,False,True,https://lichess.org/CXSnYNyw
+86,2018.12.23,21:35:59,hollebolle,grooney,1910,1815,600+0,B50,Sicilian Defense,29,Resign,0-1,1,True,False,https://lichess.org/I1aScGGx
+87,2018.12.22,23:08:55,car13,grooney,1851,1827,600+0,D00,Queen's Pawn Game: Mason Variation,15,Resign,0-1,1,False,False,https://lichess.org/WJdMSe26
+88,2018.12.22,22:18:55,truken,grooney,1432,1821,600+3,D00,Queen's Pawn Game,49,Checkmate,0-1,1,False,True,https://lichess.org/G0ivCYGh
+89,2018.12.21,12:25:14,cheska508,grooney,1832,1829,600+0,D00,Queen's Pawn Game: Mason Variation,38,Resign,1-0,0,False,False,https://lichess.org/sySDlWBz
+90,2018.12.20,12:24:55,kamileo96,grooney,1355,1827,600+3,B21,Sicilian Defense: Smith-Morra Gambit,21,Checkmate,0-1,1,False,True,https://lichess.org/ReAQc7sk
+91,2018.12.19,20:00:17,vvc53,grooney,1796,1815,600+0,D00,Queen's Pawn Game: Mason Variation,73,Time forfeit,0-1,1,False,False,https://lichess.org/nxQMVQ21
+92,2018.12.18,12:35:18,SoloDolo,grooney,1735,1815,600+0,B33,Sicilian Defense: Open,55,Resign,0-1,1,False,False,https://lichess.org/ii4IFbnO
+93,2018.12.16,23:32:57,Oscar_Jose_Mireles,grooney,1988,1812,600+0,D02,Queen's Pawn Game: Zukertort Variation,24,Checkmate,1-0,0,True,False,https://lichess.org/ooVqgMym
+94,2018.12.16,21:26:59,Zdenek-113,grooney,1729,1817,600+0,B32,Sicilian Defense: Open,34,Resign,0-1,1,False,False,https://lichess.org/qIdZlZNf
+95,2018.12.16,21:07:28,nisipion,grooney,1670,1798,600+0,B21,Sicilian Defense: McDonnell Attack,34,Resign,0-1,1,False,False,https://lichess.org/rV8mWKOa
+96,2018.12.16,20:32:27,DERViS2020,grooney,1823,1822,600+0,C57,"Italian Game: Two Knights Defense, Fried Liver Attack",9,Checkmate,1-0,0,False,False,https://lichess.org/gvaU7F6U
+97,2018.12.16,20:06:52,realgee,grooney,1835,1838,600+0,C00,French Defense: Pelikan Variation,26,Checkmate,1-0,0,True,False,https://lichess.org/CtxmjKL2
+98,2018.12.14,13:00:22,Blackmin96,grooney,1740,1877,600+0,B30,Sicilian Defense: Old Sicilian,36,Resign,1-0,0,True,False,https://lichess.org/62CXTu9U
+99,2018.12.14,10:37:03,K-N-M,grooney,1844,1843,600+0,B30,Sicilian Defense: Nyezhmetdinov-Rossolimo Attack,34,Resign,0-1,1,False,False,https://lichess.org/L8ZL1LGN
+100,2018.12.09,22:35:38,Fas1961,grooney,1795,1879,600+0,B30,Sicilian Defense: Old Sicilian,30,Checkmate,0-1,1,True,False,https://lichess.org/H7bNx4H9
+101,2018.12.09,22:04:34,samijam,grooney,1848,1841,600+0,B23,"Sicilian Defense: Closed, Traditional",28,Resign,0-1,1,False,False,https://lichess.org/XJIyVVAa
+102,2018.12.09,21:46:10,khaledmhmoedatia,grooney,1819,1819,600+0,B32,Sicilian Defense: LĂ¶wenthal Variation,68,Checkmate,0-1,1,False,False,https://lichess.org/YbHGhzAV
+103,2018.12.09,14:49:54,alicakiroglu6363,grooney,1853,1865,600+0,B32,Sicilian Defense: Open,46,Checkmate,1-0,0,False,False,https://lichess.org/tHYyULGf
+104,2018.12.09,14:17:15,Witrombon,grooney,1787,1899,600+0,D38,Queen's Gambit Declined: Ragozin Defense,30,Checkmate,1-0,0,False,False,https://lichess.org/j8gX0tIK
+105,2018.12.07,22:42:00,ibonuribeetxebarria,grooney,2015,1852,600+0,C69,"Ruy Lopez: Exchange Variation, King's Bishop Variation",15,Resign,1-0,0,False,False,https://lichess.org/hSJ2rogV
+106,2018.12.06,20:44:33,yerevanchess,grooney,1877,1886,600+0,B30,Sicilian Defense: Old Sicilian,41,Time forfeit,1-0,0,False,False,https://lichess.org/3Haib9M0
+107,2018.12.04,10:41:49,kamileo96,grooney,1266,1903,900+1,B32,Sicilian Defense: Flohr Variation,28,Resign,0-1,1,False,True,https://lichess.org/3LGqU7Y2
+108,2018.12.04,10:33:16,Snooze4,grooney,1445,1895,600+3,B30,Sicilian Defense: Old Sicilian,19,Checkmate,0-1,1,False,True,https://lichess.org/iTUmQ0Fp
+109,2018.12.03,10:07:59,Makomiec,grooney,1439,1870,600+3,D30,Queen's Gambit Declined,16,Resign,0-1,1,False,True,https://lichess.org/3LgSliCx
+110,2018.12.02,22:11:24,mohsen43,grooney,1879,1804,600+0,C46,Four Knights Game: Italian Variation,5,Time forfeit,0-1,1,False,False,https://lichess.org/Ljg5GIKm
+111,2018.11.30,22:43:50,mohsen43,grooney,1868,1872,600+0,B30,Sicilian Defense: Old Sicilian,31,Time forfeit,1-0,0,False,False,https://lichess.org/58qwMOhk
+112,2018.11.29,12:23:03,kamileo96,grooney,1337,1662,600+5,C45,Scotch Game: Steinitz Variation,56,Resign,0-1,1,False,True,https://lichess.org/xE0f7ybF
+113,2018.11.29,11:45:54,kamileo96,grooney,1500,1500,600+5,C55,"Italian Game: Two Knights Defense, Modern Bishop's Opening",25,Checkmate,0-1,1,False,True,https://lichess.org/JTiQfYWt

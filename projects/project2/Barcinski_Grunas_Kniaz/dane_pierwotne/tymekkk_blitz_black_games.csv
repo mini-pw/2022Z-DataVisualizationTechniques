@@ -1,0 +1,423 @@
+id,date,time,white,black,white elo,black elo,time control,opening code,opening name,length,termination,result,hero points,has eval,has increment,link
+1,2021.08.09,16:41:23,ajith_m,tymekkk,1585,1616,180+2,C00,French Defense: Knight Variation 2...d5,40,-,0-1,1,False,True,Chess.com
+2,2021.07.01,11:35:47,iFoxz17,tymekkk,1606,1643,180+2,C13,French Defense: Classical Variation 4.Bg5 Be7,35,-,1-0,0,False,True,Chess.com
+3,2021.07.01,12:24:02,Jacovos,tymekkk,1552,1633,180+2,C00,French Defense: Knight Variation 2...d5,7,-,1-0,0,False,True,Chess.com
+4,2021.07.01,18:11:58,garlll,tymekkk,1680,1626,180+2,A00,Saragossa Opening:,34,-,1-0,0,False,True,Chess.com
+5,2021.06.03,15:13:21,ClashRoyale001,tymekkk,1649,1713,180+2,A17,English Opening: Anglo Indian Hedgehog System 3.Nf3,60,-,0-1,1,False,True,Chess.com
+6,2021.06.04,15:57:57,Bonaparte24,tymekkk,1666,1695,180+2,C00,French Defense: Knight Variation 2...d5,45,-,1-0,0,False,True,Chess.com
+7,2021.06.09,18:56:51,Ficr,tymekkk,1656,1684,180+2,A15,English Opening: Anglo Indian Kings Knight Variation,52,-,0-1,1,False,True,Chess.com
+8,2021.06.13,12:59:38,Jagielo1,tymekkk,1674,1675,180+2,A15,English Opening: Anglo Indian Defense 2.g3,36,-,1-0,0,False,True,Chess.com
+9,2021.06.18,15:35:44,DutchNajdorf,tymekkk,1756,1685,180+2,C00,French Defense: Knight Variation 2...d5,4,-,0-1,1,False,True,Chess.com
+10,2021.06.18,15:36:40,MatadorMortal,tymekkk,1706,1694,180+2,C10,French Defense: Normal Variation 2...d5 3.Nc3,77,-,0-1,1,False,True,Chess.com
+11,2021.06.22,12:13:32,555kraft,tymekkk,1687,1677,180+2,A00,Kadas Opening: 1...d5,24,-,1-0,0,False,True,Chess.com
+12,2021.06.23,13:15:46,Ninad_P,tymekkk,1753,1671,180+2,C05,French Defense: Tarrasch Closed Pawn Center Variation...6.c3 Nc6 7.Ndf3 cxd4,26,-,1-0,0,False,True,Chess.com
+13,2021.06.27,21:53:19,Tao1248,tymekkk,1695,1689,180+2,C11,French Defense: Classical Steinitz Variation 4...Nfd7,45,-,0-1,1,False,True,Chess.com
+14,2021.06.28,10:13:47,gunnarleven,tymekkk,1684,1677,180+2,C00,French Defense: Knight Variation 2...d5,54,-,1-0,0,False,True,Chess.com
+15,2021.06.28,11:38:49,sugan06112000,tymekkk,1627,1668,180+2,C01,French Defense: Exchange Variation...4.Bd3 Bd6 5.Nf3 Nf6,20,-,1-0,0,False,True,Chess.com
+16,2021.06.28,14:40:43,shaisaadia,tymekkk,1679,1660,180+2,C01,French Defense: Exchange Svenonius Variation,35,-,1-0,0,False,True,Chess.com
+17,2021.06.28,19:59:32,edchessmith53,tymekkk,1533,1635,180+2,C00,French Defense: La Bourdonnais Variation 2...d5,31,-,1-0,0,False,True,Chess.com
+18,2021.05.03,18:32:22,akaua777,tymekkk,1758,1688,180+2,D02,Queens Pawn: Opening Symmetrical Variation,17,-,1-0,0,False,True,Chess.com
+19,2021.05.05,13:50:06,TheGolis,tymekkk,1756,1681,180+2,C00,French Defense: Knight Variation Two Knights Variation,32,-,1-0,0,False,True,Chess.com
+20,2021.05.05,19:29:35,j_kalaf,tymekkk,1689,1672,180+2,C06,French Defense: Tarrasch Closed Main Line...10.O O Bd6 11.Nf3 O O,32,-,0-1,1,False,True,Chess.com
+21,2021.05.05,19:37:02,falcon171,tymekkk,1749,1682,180+2,D02,Queens Pawn: Opening Symmetrical Variation,45,-,0-1,1,False,True,Chess.com
+22,2021.05.05,19:54:20,kytango,tymekkk,1715,1691,180+2,C06,French Defense: Tarrasch Closed Main Line 8...f6 9.Nf4,40,-,0-1,1,False,True,Chess.com
+23,2021.05.06,15:57:22,Kuznetsov77,tymekkk,1620,1683,180+2,C02,French Defense: Advance Paulsen Milner Barry Gambit,64,-,0-1,1,False,True,Chess.com
+24,2021.05.06,16:07:55,miroljubtrpkovic,tymekkk,1710,1692,180+2,C01,French Defense: Exchange Variation...4.Bd3 Bd6 5.Nf3 Nf6,34,-,0-1,1,False,True,Chess.com
+25,2021.05.06,17:41:09,danielmisrael,tymekkk,1663,1716,180+2,A45,Indian Game:,45,-,0-1,1,False,True,Chess.com
+26,2021.05.06,17:59:53,atakov15,tymekkk,1798,1732,180+2,A08,Kings Indian: Attack French Reversed Grunfeld Variation,32,-,0-1,1,False,True,Chess.com
+27,2021.05.06,18:08:51,grazhdanin23,tymekkk,1782,1725,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Nf3 Bd6 5.c4,60,-,1-0,0,False,True,Chess.com
+28,2021.05.06,19:00:31,gablo,tymekkk,1711,1716,180+2,C10,French Defense: Normal Variation 2...d5 3.Nc3,24,-,1-0,0,False,True,Chess.com
+29,2021.05.07,13:13:52,bachthuthanlo,tymekkk,1650,1721,180+2,C00,French Defense:,42,-,0-1,1,False,True,Chess.com
+30,2021.05.07,16:25:01,geomoro123,tymekkk,1724,1713,180+2,D02,Queens Pawn: Opening Zukertort Variation,44,-,1-0,0,False,True,Chess.com
+31,2021.05.11,10:38:12,NikolayMikhaylov,tymekkk,1735,1699,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Nf3 Nf6,50,-,1-0,0,False,True,Chess.com
+32,2021.05.11,12:16:49,Stalin43,tymekkk,1739,1708,180+2,C02,French Defense: Advance Paulsen Milner Barry Gambit,75,-,0-1,1,False,True,Chess.com
+33,2021.05.11,12:43:52,Tolits60,tymekkk,1681,1709,180+2,C11,French Defense: Classical Swiss Variation,29,-,0-1,1,False,True,Chess.com
+34,2021.05.11,12:51:05,mbm0007,tymekkk,1678,1716,180+2,C00,French Defense: La Bourdonnais Variation 2...d5,30,-,0-1,1,False,True,Chess.com
+35,2021.05.11,12:57:42,Fithking,tymekkk,1699,1724,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,54,-,0-1,1,False,True,Chess.com
+36,2021.05.11,13:15:42,PawntiffMaximus,tymekkk,1678,1715,180+2,D30,Queens Gambit: Declined 3.Nf3 Nf6,24,-,1-0,0,False,True,Chess.com
+37,2021.05.11,17:13:29,dianacus3004,tymekkk,1795,1733,180+2,D02,Queens Pawn: Opening Symmetrical Variation,20,-,0-1,1,False,True,Chess.com
+38,2021.05.11,17:24:44,hharutyunyan,tymekkk,1627,1725,180+2,A00,Kings Fianchetto: Opening Reversed Modern Defense,62,-,1-0,0,False,True,Chess.com
+39,2021.05.11,17:36:28,moskalets,tymekkk,1864,1720,180+2,C00,French Defense: Kings Indian Attack 2...d5 3.Nd2 c5,59,-,1-0,0,False,True,Chess.com
+40,2021.05.11,17:51:50,Karam1Eng,tymekkk,1354,1722,180+2,C02,French Defense: Advance Variation 3...c5,20,-,0-1,1,False,True,Chess.com
+41,2021.05.11,18:17:52,macauba2,tymekkk,1845,1716,180+2,C14,French Defense: Main Line Steinitz Variation 7...a6 8.Nf3,64,-,1/2-1/2,0.5,False,True,Chess.com
+42,2021.05.11,18:27:39,Messiechess,tymekkk,1694,1724,180+2,C11,French Defense: Classical Steinitz Variation 4...Nfd7 5.Nf3 c5,35,-,0-1,1,False,True,Chess.com
+43,2021.05.12,14:45:32,amob61,tymekkk,1793,1694,180+2,D30,Queens Gambit: Declined 3.Nf3 Nf6,38,-,1-0,0,False,True,Chess.com
+44,2021.05.12,16:36:15,StrongUser,tymekkk,1637,1685,180+2,C05,French Defense: Tarrasch Closed...6.c3 Nc6 7.Ngf3 Qb6 8.O O,27,-,1-0,0,False,True,Chess.com
+45,2021.05.13,08:17:38,piyusharora22,tymekkk,1628,1692,180+2,C00,French Defense:,62,-,0-1,1,False,True,Chess.com
+46,2021.05.13,08:35:42,Tirsdag,tymekkk,1752,1694,180+2,C11,French Defense: Classical Steinitz Boleslavsky Variation 7...cxd4 8.Nxd4,29,-,1-0,0,False,True,Chess.com
+47,2021.05.13,08:43:05,sport55555,tymekkk,1854,1697,180+2,C00,French Defense: Knight Variation 2...d5,32,-,1/2-1/2,0.5,False,True,Chess.com
+48,2021.05.13,13:37:35,grsmca,tymekkk,1626,1707,180+2,D02,Queens Pawn: Opening Symmetrical Variation,41,-,0-1,1,False,True,Chess.com
+49,2021.05.13,14:38:16,tacticsrock,tymekkk,1770,1718,180+2,C05,French Defense: Tarrasch Closed,35,-,0-1,1,False,True,Chess.com
+50,2021.05.13,14:56:45,Aung1998,tymekkk,1704,1717,180+2,C11,French Defense: Classical Steinitz Variation 4...Nfd7,37,-,1-0,0,False,True,Chess.com
+51,2021.05.13,18:28:00,castrob_603,tymekkk,1637,1723,180+2,A10,English Opening: Great Snake Variation 2.Nc3 Bg7,37,-,0-1,1,False,True,Chess.com
+52,2021.05.13,18:36:14,asg04,tymekkk,1828,1717,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Bd3 Bd6,38,-,1-0,0,False,True,Chess.com
+53,2021.05.14,18:34:50,markmbain,tymekkk,1743,1693,180+2,C02,French Defense: Advance Paulsen Attack 5...Qb6 6.Be2,36,-,1-0,0,False,True,Chess.com
+54,2021.05.15,13:00:50,harshbond77,tymekkk,1653,1700,180+2,C00,French Defense: Knight Variation 2...d5,36,-,0-1,1,False,True,Chess.com
+55,2021.05.16,08:32:21,rml88,tymekkk,1753,1714,180+2,C02,French Defense: Advance Paulsen Attack 5...Qb6 6.Be2,37,-,0-1,1,False,True,Chess.com
+56,2021.05.16,08:40:53,jesusqa,tymekkk,1724,1706,180+2,C11,French Defense: Classical Steinitz Variation 4...Nfd7,21,-,1-0,0,False,True,Chess.com
+57,2021.05.17,20:45:33,vaincoeur,tymekkk,1693,1729,180+2,C00,French Defense: Chigorin Variation,45,-,0-1,1,False,True,Chess.com
+58,2021.05.20,18:37:24,fog5555,tymekkk,1695,1720,180+2,C00,French Defense: Reti Spielmann Attack,46,-,1-0,0,False,True,Chess.com
+59,2021.05.20,18:47:23,angar69,tymekkk,1650,1710,180+2,C00,French Defense: Knight Variation 2...d5,36,-,1-0,0,False,True,Chess.com
+60,2021.05.22,17:06:20,inferno_kpi,tymekkk,1661,1716,180+2,E71,Kings Indian: Defense Makogonov Variation 5...O O,82,-,1/2-1/2,0.5,False,True,Chess.com
+61,2021.05.23,10:16:55,LazyCat81,tymekkk,1740,1710,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,63,-,1-0,0,False,True,Chess.com
+62,2021.05.24,15:24:34,mra1363,tymekkk,1735,1697,180+2,C00,French Defense: Knight Variation 2...d5,60,-,1-0,0,False,True,Chess.com
+63,2021.05.24,18:00:35,brasan65,tymekkk,1723,1696,180+2,C01,French Defense: Exchange Variation...4.Bd3 Bd6 5.Nf3 Nf6,14,-,1-0,0,False,True,Chess.com
+64,2021.05.24,19:29:07,The_Young_One,tymekkk,1846,1691,180+2,C14,French Defense: Main Line Steinitz Variation,45,-,1-0,0,False,True,Chess.com
+65,2021.05.29,19:22:44,vladislavKramarev1,tymekkk,1628,1706,180+2,C00,French Defense: Knight Variation 2...d5,32,-,0-1,1,False,True,Chess.com
+66,2021.05.29,19:37:12,vazavaza,tymekkk,1599,1712,180+2,C00,French Defense: Knight Variation 2...d5,34,-,0-1,1,False,True,Chess.com
+67,2021.05.30,18:02:05,angelchercoles,tymekkk,1810,1706,180+2,A45,Trompowsky Attack: Classical Big Center Variation,29,-,1-0,0,False,True,Chess.com
+68,2021.04.02,08:24:46,Haddock16,tymekkk,2048,1586,180+2,C13,French Defense: Main Line Alekhine Chatard Attack,19,-,1-0,0,False,True,Chess.com
+69,2021.04.07,18:08:37,lifer467,tymekkk,1538,1582,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Bd3 Bd6 5.Nf3,36,-,0-1,1,False,True,Chess.com
+70,2021.04.09,10:23:19,Kolaev_Evgeny,tymekkk,1701,1605,180+2,C00,French Defense: La Bourdonnais Variation 2...d5,34,-,0-1,1,False,True,Chess.com
+71,2021.04.09,10:49:49,matias458,tymekkk,1575,1615,180+2,C00,French Defense: Knight Variation 2...d5,28,-,0-1,1,False,True,Chess.com
+72,2021.04.09,10:54:55,fraukenstein,tymekkk,1583,1622,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,43,-,0-1,1,False,True,Chess.com
+73,2021.04.09,11:04:36,freddie_forest,tymekkk,1621,1614,180+2,C00,French Defense: Kings Indian Attack 2...d5 3.Nd2 Nf6 4.Ngf3,22,-,1-0,0,False,True,Chess.com
+74,2021.04.09,17:50:37,spencerhahn22,tymekkk,1597,1612,180+2,A45,Indian Game:,62,-,1-0,0,False,True,Chess.com
+75,2021.04.10,13:41:01,Zh0000pa,tymekkk,1636,1635,180+2,D02,Queens Pawn: Opening Symmetrical Variation,63,-,0-1,1,False,True,Chess.com
+76,2021.04.10,13:56:07,kblimbu1234y,tymekkk,1639,1627,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,29,-,1-0,0,False,True,Chess.com
+77,2021.04.10,15:25:06,kayamenang-INA,tymekkk,1556,1624,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Nc3 Nf6 5.Nf3,36,-,0-1,1,False,True,Chess.com
+78,2021.04.10,15:43:58,WhisperFromTheAbyss,tymekkk,1640,1633,180+2,C05,French Defense: Tarrasch Closed,59,-,0-1,1,False,True,Chess.com
+79,2021.04.10,15:53:31,vikrant23,tymekkk,1658,1625,180+2,D30,Queens Gambit: Declined 3.Nf3 Nf6,26,-,1-0,0,False,True,Chess.com
+80,2021.04.10,19:52:47,Piers_Bro,tymekkk,1583,1616,180+2,C00,French Defense: Knight Variation 2...d5,51,-,1/2-1/2,0.5,False,True,Chess.com
+81,2021.04.11,12:50:53,dazazz,tymekkk,1730,1611,180+2,C00,French Defense: Kings Indian Attack 2...d5 3.Nd2,34,-,1-0,0,False,True,Chess.com
+82,2021.04.14,09:40:43,lord_quacky,tymekkk,1713,1598,180+2,C02,French Defense: Advance Paulsen Main Line 6...Bd7,33,-,1-0,0,False,True,Chess.com
+83,2021.04.15,11:40:02,zoncolan,tymekkk,1603,1606,180+2,C00,French Defense: Knight Variation 2...d5,33,-,0-1,1,False,True,Chess.com
+84,2021.04.15,11:48:21,cristianonisei,tymekkk,1552,1613,180+2,C02,French Defense: Advance Variation 3...c5 4.c3 Nc6,29,-,0-1,1,False,True,Chess.com
+85,2021.04.15,13:01:48,passe-temp,tymekkk,1679,1622,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Bd3,67,-,1/2-1/2,0.5,False,True,Chess.com
+86,2021.04.15,16:10:03,Drogba18,tymekkk,1636,1631,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Bd3,56,-,0-1,1,False,True,Chess.com
+87,2021.04.16,12:06:41,arunachalampalani78,tymekkk,1671,1631,180+2,C00,Pirc Defense: Small Center Defense,54,-,0-1,1,False,True,Chess.com
+88,2021.04.16,12:28:26,willjohny,tymekkk,1661,1640,180+2,C02,French Defense: Advance Paulsen Attack 5...Qb6 6.Be2,25,-,0-1,1,False,True,Chess.com
+89,2021.04.17,14:12:43,NNN555,tymekkk,1631,1615,180+2,C00,French Defense: Knight Variation Wing Gambit,18,-,1-0,0,False,True,Chess.com
+90,2021.04.17,15:19:10,salovelasco1939,tymekkk,1579,1606,180+2,D02,Queens Pawn: Opening Symmetrical Variation,19,-,1-0,0,False,True,Chess.com
+91,2021.04.19,08:15:25,guillomax,tymekkk,1537,1619,180+2,C02,French Defense: Advance Variation 3...c5 4.c3 Nc6,11,-,0-1,1,False,True,Chess.com
+92,2021.04.19,08:16:37,FaintCyclone,tymekkk,1582,1626,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Nf3 Bd6,32,-,0-1,1,False,True,Chess.com
+93,2021.04.19,08:33:45,ToyKyo,tymekkk,1589,1616,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,58,-,1-0,0,False,True,Chess.com
+94,2021.04.19,09:13:15,Chess_Tube,tymekkk,1721,1610,180+2,D00,Queens Pawn: Opening Chigorin Variation 2...Nf6,34,-,1-0,0,False,True,Chess.com
+95,2021.04.19,12:52:49,sonivaldogoulart,tymekkk,1612,1618,180+2,C00,French Defense: Knight Variation,36,-,0-1,1,False,True,Chess.com
+96,2021.04.19,16:07:34,Ronald_Flores,tymekkk,1598,1618,180+2,C02,French Defense: Advance Variation 3...c5 4.c3 Nc6,53,-,0-1,1,False,True,Chess.com
+97,2021.04.19,16:17:08,jmordante,tymekkk,1562,1625,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Bd3 Bd6 5.Nf3,27,-,0-1,1,False,True,Chess.com
+98,2021.04.19,16:26:52,Menang150857,tymekkk,1561,1640,180+2,C00,French Defense: La Bourdonnais Variation 2...d5,22,-,0-1,1,False,True,Chess.com
+99,2021.04.19,16:30:05,SedgeWren,tymekkk,1609,1647,180+2,C05,French Defense: Tarrasch Closed...5.Bd3 c5 6.c3 Nc6 7.Ngf3,62,-,0-1,1,False,True,Chess.com
+100,2021.04.19,16:39:16,theblackbeard,tymekkk,1636,1655,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,20,-,0-1,1,False,True,Chess.com
+101,2021.04.19,18:43:20,donalberto25,tymekkk,1652,1680,180+2,C11,French Defense: Classical Steinitz Boleslavsky Variation 7...cxd4 8.Nxd4,33,-,0-1,1,False,True,Chess.com
+102,2021.04.19,18:52:52,brainstormingkb,tymekkk,1674,1672,180+2,A50,Indian Game: 2.c4,60,-,1-0,0,False,True,Chess.com
+103,2021.04.20,08:10:49,Armiiiin2004,tymekkk,1607,1675,180+2,C11,French Defense: Classical Steinitz Variation 4...Nfd7 5.Nf3 c5,8,-,0-1,1,False,True,Chess.com
+104,2021.04.20,08:12:45,IgorZaykov,tymekkk,1670,1667,180+2,C00,French Defense: Kings Indian Attack 2...d5,20,-,1-0,0,False,True,Chess.com
+105,2021.04.20,08:38:23,EntaroAdun97,tymekkk,1621,1674,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Bf4,35,-,0-1,1,False,True,Chess.com
+106,2021.04.20,09:15:57,flashlock,tymekkk,1710,1674,180+2,C11,French Defense: Classical Steinitz Variation 4...Nfd7,69,-,0-1,1,False,True,Chess.com
+107,2021.04.20,09:35:44,flashlock,tymekkk,1707,1675,180+2,C00,French Defense: Chigorin Variation,36,-,1-0,0,False,True,Chess.com
+108,2021.04.20,13:50:32,machine86,tymekkk,1675,1652,180+2,E00,Indian Game: East Indian Defense,32,-,1-0,0,False,True,Chess.com
+109,2021.04.20,15:32:41,TincSLO,tymekkk,1739,1660,180+2,E10,Indian Game: East Indian Anti Nimzo Indian Variation,35,-,0-1,1,False,True,Chess.com
+110,2021.04.20,15:48:02,TincSLO,tymekkk,1736,1663,180+2,A45,Indian Game:,25,-,1-0,0,False,True,Chess.com
+111,2021.04.20,17:45:34,maksm006,tymekkk,1699,1680,180+2,C00,French Defense: Knight Variation 2...d5,41,-,0-1,1,False,True,Chess.com
+112,2021.04.21,05:46:34,irka_ovcharov,tymekkk,1700,1664,180+2,C02,French Defense: Advance Nimzowitsch Gambit 4...cxd4 5.Nf3,28,-,1-0,0,False,True,Chess.com
+113,2021.04.22,10:17:29,Gorky52,tymekkk,1663,1664,180+2,C00,French Defense: Kings Indian Attack 2...d5 3.Nd2 Nf6 4.Ngf3,29,-,1-0,0,False,True,Chess.com
+114,2021.04.22,18:43:12,jchathuant,tymekkk,1631,1663,180+2,D02,Queens Pawn: Opening Symmetrical Variation,18,-,0-1,1,False,True,Chess.com
+115,2021.04.23,05:53:10,ulvixaliqli,tymekkk,1632,1647,180+2,C00,French Defense: La Bourdonnais Variation 2...d5,17,-,1-0,0,False,True,Chess.com
+116,2021.04.23,05:57:40,easyr1der,tymekkk,1634,1638,180+2,C00,French Defense: Knight Variation 2...d5,41,-,1-0,0,False,True,Chess.com
+117,2021.04.24,14:46:39,Goldfinger57150,tymekkk,1594,1646,180+2,C02,French Defense: Advance Variation 3...c5 4.c3 Nc6,35,-,0-1,1,False,True,Chess.com
+118,2021.04.24,14:56:24,grimentz52,tymekkk,1662,1655,180+2,E00,Indian Game: East Indian Defense,39,-,0-1,1,False,True,Chess.com
+119,2021.04.24,15:13:18,manishprasad,tymekkk,1608,1669,180+2,C02,French Defense: Advance Paulsen Milner Barry Gambit,38,-,0-1,1,False,True,Chess.com
+120,2021.04.24,15:33:36,hameed00,tymekkk,1674,1661,180+2,A45,Indian Game: 2.Nc3,36,-,1-0,0,False,True,Chess.com
+121,2021.04.24,18:46:51,Sakenin,tymekkk,1709,1672,180+2,C11,French Defense: Classical Steinitz Variation 4...Nfd7 5.Nf3 c5,34,-,0-1,1,False,True,Chess.com
+122,2021.04.24,18:54:09,CesarVasquezSplinker,tymekkk,1724,1665,180+2,A45,Indian Game: Fantasy Variation 2...d5,22,-,1-0,0,False,True,Chess.com
+123,2021.04.25,05:41:34,nqminhh,tymekkk,1662,1681,180+2,C01,French Defense: Exchange Monte Carlo Variation,60,-,0-1,1,False,True,Chess.com
+124,2021.04.25,05:52:47,bobbyfisher1947,tymekkk,1531,1694,180+2,C02,French Defense: Advance Variation 3...c5,34,-,0-1,1,False,True,Chess.com
+125,2021.04.25,14:13:51,nodoeplsgo,tymekkk,1931,1696,180+2,C02,French Defense: Advance Paulsen Attack 5...Qb6,31,-,1-0,0,False,True,Chess.com
+126,2021.04.25,15:38:44,gundeli,tymekkk,1668,1704,180+2,C05,French Defense: Tarrasch Closed,51,-,0-1,1,False,True,Chess.com
+127,2021.04.25,18:51:45,raafatraafat,tymekkk,1593,1705,180+2,A00,Polish Opening:,56,-,0-1,1,False,True,Chess.com
+128,2021.04.26,13:10:09,Kleinmaister,tymekkk,1643,1712,180+2,C00,French Defense: Steiner Variation 2...d5 3.cxd5 exd5,26,-,0-1,1,False,True,Chess.com
+129,2021.04.26,13:34:23,Taxichris,tymekkk,1715,1728,180+2,D02,Queens Pawn: Opening Symmetrical Variation,62,-,0-1,1,False,True,Chess.com
+130,2021.04.26,14:03:57,steffei94,tymekkk,1759,1735,180+2,A18,English Opening: Mikenas Carls Flohr Variation...6.bxc3 Qxf6 7.d4 c5,73,-,0-1,1,False,True,Chess.com
+131,2021.04.26,15:43:50,mohammadrb12,tymekkk,1592,1732,180+2,C11,French Defense: Classical Steinitz Variation 4...Nfd7,17,-,0-1,1,False,True,Chess.com
+132,2021.04.27,13:59:18,doctak786,tymekkk,1697,1716,180+2,D02,Queens Pawn: Opening Zukertort Variation,14,-,1-0,0,False,True,Chess.com
+133,2021.04.28,17:38:53,kostia1234,tymekkk,1776,1704,180+2,C01,French Defense: Exchange Variation...4.Bd3 Bd6 5.Nf3 Nf6,41,-,1-0,0,False,True,Chess.com
+134,2021.04.30,10:26:27,Medlo_1994,tymekkk,1715,1696,180+2,A01,Nimzowitsch Larsen: Attack Classical Variation 2.Bb2,48,-,1-0,0,False,True,Chess.com
+135,2021.03.04,13:48:16,BurakCinar1622,tymekkk,1573,1638,180+2,C02,French Defense: Advance Variation 3...c5 4.c3 Nc6,28,-,1-0,0,False,True,Chess.com
+136,2021.03.04,14:02:15,chess20-20,tymekkk,1652,1630,180+2,C02,French Defense: Advance Variation 3...c5 4.c3 Nc6,47,-,1-0,0,False,True,Chess.com
+137,2021.03.08,16:59:48,ErikMatej,tymekkk,1597,1632,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,17,-,0-1,1,False,True,Chess.com
+138,2021.03.09,18:53:48,TanusJr,tymekkk,1686,1623,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,83,-,1/2-1/2,0.5,False,True,Chess.com
+139,2021.03.11,13:26:11,cibikanishkar,tymekkk,1661,1624,180+2,A00,Mieses Opening:,26,-,0-1,1,False,True,Chess.com
+140,2021.03.20,13:59:17,sreyas12345,tymekkk,1603,1590,180+2,A46,Indian Game: London System,22,-,1-0,0,False,True,Chess.com
+141,2021.03.20,14:10:30,kkvt2020,tymekkk,1575,1598,180+2,C00,French Defense: Knight Variation 2...d5,67,-,0-1,1,False,True,Chess.com
+142,2021.03.20,19:03:47,kimberlyCruz,tymekkk,1505,1604,180+2,C00,French Defense: Knight Variation 2...d5,37,-,0-1,1,False,True,Chess.com
+143,2021.03.22,17:23:10,100phel,tymekkk,1599,1606,180+2,C00,French Defense: La Bourdonnais Variation 2...d5,43,-,0-1,1,False,True,Chess.com
+144,2021.03.22,17:58:34,egan566,tymekkk,1632,1598,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7,32,-,1-0,0,False,True,Chess.com
+145,2021.03.23,06:48:46,toussapourssa,tymekkk,1537,1614,180+2,D00,Queens Pawn: Opening Chigorin Variation 2...Nf6,88,-,0-1,1,False,True,Chess.com
+146,2021.03.25,15:59:56,sina19807,tymekkk,1550,1583,180+2,C00,French Defense: Knight Variation Wing Gambit,19,-,1-0,0,False,True,Chess.com
+147,2021.03.26,18:58:14,georgi1234,tymekkk,1502,1589,180+2,D30,Queens Gambit: Declined 3.Nf3 Nf6,31,-,0-1,1,False,True,Chess.com
+148,2021.03.28,14:37:05,uchents,tymekkk,1671,1583,180+2,A45,Indian Game:,13,-,1-0,0,False,True,Chess.com
+149,2021.03.30,11:46:48,Moguzii,tymekkk,2011,1586,180+2,A45,Trompowsky Attack: Classical Defense,35,-,1-0,0,False,True,Chess.com
+150,2021.03.31,09:32:25,jessmark1201,tymekkk,1514,1575,180+2,C00,French Defense: Steinitz Attack,17,-,1-0,0,False,True,Chess.com
+151,2021.02.03,20:17:01,dadolino,tymekkk,1712,1654,180+2,C00,French Defense: Chigorin Variation,65,-,1-0,0,False,True,Chess.com
+152,2021.02.07,18:27:54,senpathigunasekara,tymekkk,1785,1651,180+2,C01,French Defense: Exchange Variation...4.Bd3 Bd6 5.Nf3 Nf6,14,-,0-1,1,False,True,Chess.com
+153,2021.02.08,19:36:14,GGsaba,tymekkk,1633,1651,180+2,D02,Queens Pawn: Opening Symmetrical Variation,47,-,0-1,1,False,True,Chess.com
+154,2021.02.09,16:47:49,PostPunk1980,tymekkk,1587,1650,180+2,E60,Kings Indian: Defense 3.Nf3,67,-,0-1,1,False,True,Chess.com
+155,2021.02.11,18:27:21,ossien71,tymekkk,1689,1643,180+2,C00,French Defense: Knight Variation 2...d5,30,-,1-0,0,False,True,Chess.com
+156,2021.01.02,18:43:39,One_dollar,tymekkk,1506,1635,180+2,A16,English Opening: Anglo Indian Queens Knight Variation 2...g6 3.g3,28,-,0-1,1,False,True,Chess.com
+157,2021.01.02,19:52:43,Curfin,tymekkk,1684,1620,180+2,A16,English Opening: Anglo Indian Queens Knight Variation 2...g6 3.g3,22,-,1-0,0,False,True,Chess.com
+158,2021.01.05,13:58:02,michael621davis,tymekkk,1549,1601,180+2,A45,Indian Game:,36,-,1-0,0,False,True,Chess.com
+159,2021.01.05,17:57:05,rafametal5,tymekkk,1594,1609,180+2,E60,Kings Indian: Defense,15,-,0-1,1,False,True,Chess.com
+160,2021.01.05,18:29:29,emanuel1515,tymekkk,1602,1591,180+2,D02,Queens Pawn: Opening Zukertort Variation,27,-,1-0,0,False,True,Chess.com
+161,2021.01.10,16:23:27,priyansh47,tymekkk,1633,1575,180+2,D02,Queens Pawn: Opening Symmetrical Variation,32,-,1-0,0,False,True,Chess.com
+162,2021.01.11,13:01:13,cabogolf3578,tymekkk,1442,1580,180+2,C10,French Defense: Rubinstein Variation 4.Nxe4,23,-,0-1,1,False,True,Chess.com
+163,2021.01.11,13:14:23,grish4903,tymekkk,1519,1595,180+2,C00,French Defense:,50,-,0-1,1,False,True,Chess.com
+164,2021.01.11,13:27:56,truedef,tymekkk,1603,1593,180+2,A10,English Opening: 1...g5,54,-,1-0,0,False,True,Chess.com
+165,2021.01.11,13:37:57,connat,tymekkk,1601,1601,180+2,C00,French Defense: Knight Variation Wing Gambit,32,-,0-1,1,False,True,Chess.com
+166,2021.01.11,13:44:54,Bakkee,tymekkk,1576,1609,180+2,D02,Queens Pawn: Opening Symmetrical Variation,24,-,0-1,1,False,True,Chess.com
+167,2021.01.11,15:56:34,aleksandrsen79,tymekkk,1648,1608,180+2,A00,Kings Fianchetto: Opening Reversed Modern Defense,28,-,0-1,1,False,True,Chess.com
+168,2021.01.11,17:51:13,wougamer,tymekkk,1590,1592,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5,30,-,1-0,0,False,True,Chess.com
+169,2021.01.11,18:09:21,Iykezeh5,tymekkk,1570,1608,180+2,B12,Caro Kann: Defense Advance Van der Wiel Attack 4...e6,30,-,0-1,1,False,True,Chess.com
+170,2021.01.11,18:21:22,papapoule,tymekkk,1643,1626,180+2,B10,Caro Kann: Defense,61,-,0-1,1,False,True,Chess.com
+171,2021.01.11,18:31:24,SOURYASHANKARAUDDY92,tymekkk,1636,1634,180+2,A15,English Opening: Anglo Indian Defense 2.g3,21,-,0-1,1,False,True,Chess.com
+172,2021.01.14,19:26:18,Heinrich_63,tymekkk,1623,1635,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,54,-,0-1,1,False,True,Chess.com
+173,2021.01.16,10:32:38,Ollarov,tymekkk,1692,1643,180+2,C02,French Defense: Advance Paulsen Milner Barry Gambit,40,-,0-1,1,False,True,Chess.com
+174,2021.01.16,11:22:24,redee3,tymekkk,1595,1627,180+2,C01,French Defense: Exchange Variation...4.Bd3 Bd6 5.Nf3 Nf6,23,-,1-0,0,False,True,Chess.com
+175,2021.01.16,11:27:12,jarszach,tymekkk,1702,1621,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,29,-,1-0,0,False,True,Chess.com
+176,2021.01.16,16:51:20,r-chie,tymekkk,1658,1638,180+2,A45,Indian Game: 2.Nc3,39,-,0-1,1,False,True,Chess.com
+177,2021.01.16,17:07:32,00owl,tymekkk,1719,1638,180+2,D30,Queens Gambit: Declined 3.Nf3 Nf6,23,-,1-0,0,False,True,Chess.com
+178,2021.01.16,17:12:24,asi24,tymekkk,1686,1631,180+2,C02,French Defense: Advance Paulsen Attack 5...Qb6,15,-,1-0,0,False,True,Chess.com
+179,2021.01.17,11:49:40,Dark_Knight_1973,tymekkk,1623,1619,180+2,A45,Indian Game: Tartakower Attack,71,-,0-1,1,False,True,Chess.com
+180,2021.01.19,10:40:09,TilipTip,tymekkk,1599,1627,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Bd3 Bd6 5.Nf3,30,-,0-1,1,False,True,Chess.com
+181,2021.01.19,19:41:27,vahidfazeli,tymekkk,1642,1625,180+2,C00,French Defense: Knight Variation Two Knights Variation,38,-,1-0,0,False,True,Chess.com
+182,2021.01.20,07:29:17,TardisBenko,tymekkk,1683,1619,180+2,C05,French Defense: Tarrasch Closed Pawn Center Variation 5...c5,35,-,1-0,0,False,True,Chess.com
+183,2021.01.20,08:12:48,Parazita_Kusok,tymekkk,1547,1626,180+2,A06,Reti Opening: 1...d5,51,-,0-1,1,False,True,Chess.com
+184,2021.01.20,08:21:53,Parsina88,tymekkk,1715,1628,180+2,D30,Queens Gambit: Declined 3.Nf3 Nf6,65,-,1/2-1/2,0.5,False,True,Chess.com
+185,2021.01.20,11:24:54,rotarufly1963,tymekkk,1680,1615,180+2,D03,Queens Pawn: Opening Torre Attack 3...e6,27,-,1-0,0,False,True,Chess.com
+186,2021.01.20,11:29:26,Shkodnik56,tymekkk,1637,1607,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Nf3 Bd6,40,-,1-0,0,False,True,Chess.com
+187,2021.01.21,09:22:46,Pavel_7411,tymekkk,1634,1599,180+2,C00,French Defense: Knight Variation 2...d5,36,-,1-0,0,False,True,Chess.com
+188,2021.01.21,09:29:16,SARKARSUBHANKAR,tymekkk,1672,1593,180+2,C14,French Defense: Main Line Alapin Variation,27,-,1-0,0,False,True,Chess.com
+189,2021.01.21,09:39:41,WWhite11,tymekkk,1602,1585,180+2,C00,French Defense: Knight Variation 2...d5,18,-,1-0,0,False,True,Chess.com
+190,2021.01.21,17:40:56,StreetBred,tymekkk,1561,1586,180+2,C02,French Defense: Advance Paulsen Attack 5...Qb6 6.Be2,30,-,1-0,0,False,True,Chess.com
+191,2021.01.21,17:47:14,hadepisan,tymekkk,1600,1595,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Bd3 Bd6,75,-,0-1,1,False,True,Chess.com
+192,2021.01.21,18:16:58,misamhosini,tymekkk,1637,1609,180+2,C02,French Defense: Advance Nimzowitsch System,53,-,0-1,1,False,True,Chess.com
+193,2021.01.21,19:21:56,hanbatij,tymekkk,1635,1602,180+2,C00,French Defense: Steiner Variation,14,-,1-0,0,False,True,Chess.com
+194,2021.01.21,19:30:38,Jaureguibeitia,tymekkk,1599,1601,180+2,C00,French Defense: Steiner Orthoschnapp Gambit,25,-,1-0,0,False,True,Chess.com
+195,2021.01.22,18:44:05,Terrenov,tymekkk,1571,1600,180+2,A46,Indian Game: Knights Variation 2...e6,24,-,1-0,0,False,True,Chess.com
+196,2021.01.22,21:22:43,Chess_Modric,tymekkk,1685,1624,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,44,-,0-1,1,False,True,Chess.com
+197,2021.01.23,15:13:35,fjom,tymekkk,1684,1624,180+2,C01,French Defense: Exchange Variation...4.Bd3 Bd6 5.Nf3 Nf6,20,-,1-0,0,False,True,Chess.com
+198,2021.01.23,15:24:03,Ego1980,tymekkk,1612,1631,180+2,C01,French Defense: Exchange Monte Carlo Variation,64,-,1/2-1/2,0.5,False,True,Chess.com
+199,2021.01.24,13:01:04,sashalav76,tymekkk,1602,1655,180+2,C00,French Defense: Knight Variation 2...d5,35,-,0-1,1,False,True,Chess.com
+200,2021.01.24,16:04:48,mortaldance466,tymekkk,1666,1647,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,33,-,1-0,0,False,True,Chess.com
+201,2021.01.25,19:46:07,silviuanghel38,tymekkk,1635,1639,180+2,C00,French Defense: Knight Variation Wing Gambit,29,-,1-0,0,False,True,Chess.com
+202,2021.01.26,13:21:24,hakimblhaj,tymekkk,1656,1656,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Bd3 Bd6 5.Nf3,35,-,0-1,1,False,True,Chess.com
+203,2021.01.26,13:30:18,villaleg,tymekkk,1696,1657,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,58,-,1/2-1/2,0.5,False,True,Chess.com
+204,2021.01.26,16:44:55,Azamat_KZ,tymekkk,1668,1665,180+2,C02,French Defense: Advance Nimzowitsch Gambit,37,-,0-1,1,False,True,Chess.com
+205,2021.01.27,08:09:14,abradatas,tymekkk,1729,1666,180+2,C11,French Defense: Classical Steinitz Variation...5.f4 c5 6.Nf3 Nc6,45,-,1-0,0,False,True,Chess.com
+206,2021.01.27,10:51:52,Raglag20,tymekkk,1639,1664,180+2,A46,Torre Attack:,38,-,1-0,0,False,True,Chess.com
+207,2021.01.27,11:17:13,Bhushan28,tymekkk,1647,1663,180+2,A45,Indian Game: 2.Nc3,35,-,0-1,1,False,True,Chess.com
+208,2021.01.27,14:58:54,annja2010,tymekkk,1667,1663,180+2,C14,French Defense: Main Line Steinitz Variation 7...a6 8.Nf3 c5,29,-,0-1,1,False,True,Chess.com
+209,2021.01.27,15:09:09,CAPABLANCA003,tymekkk,1761,1657,180+2,C11,French Defense: Classical Steinitz Variation...5.f4 c5 6.Nf3 Nc6,40,-,1-0,0,False,True,Chess.com
+210,2021.01.27,18:42:22,Mlodziak77,tymekkk,1001,1657,300+5,B53,Sicilian Defense: Chekhover Variation 4...Nc6,29,-,0-1,1,False,True,Chess.com
+211,2021.01.30,07:24:14,buddhimathamara,tymekkk,1646,1664,180+2,C00,French Defense: Knight Variation Two Knights Variation,9,-,0-1,1,False,True,Chess.com
+212,2021.01.30,07:28:12,laughing_biden,tymekkk,1679,1656,180+2,E60,Kings Indian: Defense 3.Nf3,13,-,1-0,0,False,True,Chess.com
+213,2021.01.30,15:35:16,AjoyHandique,tymekkk,1679,1640,180+2,C02,French Defense: Advance Steinitz Variation,37,-,1-0,0,False,True,Chess.com
+214,2021.01.31,09:00:38,Pr3doster,tymekkk,1637,1648,180+2,C00,French Defense: Knight Variation 2...d5,27,-,0-1,1,False,True,Chess.com
+215,2021.01.31,09:54:30,Claudiucretu,tymekkk,1572,1638,180+2,C11,French Defense: Classical Steinitz Variation 4...Nfd7 5.Nf3 c5,57,-,1-0,0,False,True,Chess.com
+216,2021.01.31,10:35:25,MatteoDtl,tymekkk,1609,1644,180+2,C00,French Defense: Queens Knight Variation 2...d5,90,-,0-1,1,False,True,Chess.com
+217,2021.01.31,13:01:27,olddirtyfighter,tymekkk,1676,1644,180+2,A45,Indian Game:,36,-,1-0,0,False,True,Chess.com
+218,2021.01.31,14:30:07,TDAlly04,tymekkk,1682,1645,180+2,C00,French Defense: Knight Variation Two Knights Variation,63,-,1/2-1/2,0.5,False,True,Chess.com
+219,2021.01.31,14:41:36,Sandeep5175,tymekkk,1611,1644,180+2,C11,French Defense: Classical Steinitz Boleslavsky Variation 7...cxd4 8.Nxd4,54,-,1/2-1/2,0.5,False,True,Chess.com
+220,2021.01.31,15:02:32,LumpyCliff,tymekkk,1717,1654,180+2,D30,Queens Gambit: Declined 3.Nf3 Nf6,59,-,0-1,1,False,True,Chess.com
+221,2020.12.02,17:52:44,jancicho,tymekkk,1279,1583,300+5,E61,Kings Indian: Defense Normal Variation 4.Nf3 O O,40,-,1-0,0,False,True,Chess.com
+222,2020.12.02,18:23:20,jancicho,tymekkk,1266,1588,300+5,E61,Kings Indian: Defense Normal Variation 4.Nf3 O O,56,-,0-1,1,False,True,Chess.com
+223,2020.12.02,19:54:16,Lalililulu,tymekkk,1580,1572,180+2,A46,Indian Game: Knights Variation,36,-,1-0,0,False,True,Chess.com
+224,2020.12.04,09:00:11,brucewayne00,tymekkk,1634,1565,180+2,C02,French Defense: Advance Nimzowitsch System,30,-,1-0,0,False,True,Chess.com
+225,2020.12.05,17:02:55,tazanel,tymekkk,1571,1582,180+2,C02,French Defense: Advance Variation 3...c5 4.c3 Nc6,39,-,0-1,1,False,True,Chess.com
+226,2020.12.06,20:40:32,craigburton,tymekkk,1648,1582,180+2,B12,Caro Kann: Defense Advance Short Variation with 4 Nf3...e6 5.Be2 c5,36,-,1-0,0,False,True,Chess.com
+227,2020.12.06,21:50:04,PoisonGambit,tymekkk,1614,1575,180+2,E21,Nimzo Indian: Defense Three Knights Variation 4...O O,27,-,1-0,0,False,True,Chess.com
+228,2020.12.07,12:16:27,ChessTurtleNinja,tymekkk,1531,1582,180+2,C00,French Defense: Knight Variation 2...d5 3.e5 c5,42,-,0-1,1,False,True,Chess.com
+229,2020.12.07,12:34:01,ChessTurtleNinja,tymekkk,1533,1580,180+2,B90,Sicilian Defense: Open Najdorf English Attack 6...e5,43,-,1-0,0,False,True,Chess.com
+230,2020.12.07,12:50:37,ChessTurtleNinja,tymekkk,1519,1594,180+2,B82,Sicilian Defense: Open Scheveningen Matanovic Attack 6...a6,29,-,0-1,1,False,True,Chess.com
+231,2020.12.07,13:05:05,QueensReich45,tymekkk,1546,1591,180+2,A49,Indian Game: East Indian Przepiorka Variation 3...Bg7 4.Bg2 O O,47,-,1-0,0,False,True,Chess.com
+232,2020.12.07,16:09:10,a2019n,tymekkk,1549,1588,180+2,E81,Kings Indian: Defense Samisch Normal Defense 6.Be3 Nbd7,38,-,1-0,0,False,True,Chess.com
+233,2020.12.07,16:28:05,Chager,tymekkk,1602,1589,180+2,D30,Queens Gambit: Declined Traditional Variation,43,-,1-0,0,False,True,Chess.com
+234,2020.12.07,16:50:43,Dasdirov,tymekkk,1568,1582,180+2,B23,Sicilian Defense: Closed 2...d6,28,-,1-0,0,False,True,Chess.com
+235,2020.12.07,17:31:47,HA2064,tymekkk,1526,1590,180+2,B21,Sicilian Defense: McDonnell Attack 2...Nc6 3.Nf3,19,-,0-1,1,False,True,Chess.com
+236,2020.12.07,17:36:04,Verylucky333,tymekkk,1516,1596,180+2,B90,Sicilian Defense: Open Najdorf English Attack 6...e5 7.Nb3,21,-,0-1,1,False,True,Chess.com
+237,2020.12.07,17:40:44,rickytobing,tymekkk,1498,1602,180+2,A06,Reti Opening: 1...d5,36,-,0-1,1,False,True,Chess.com
+238,2020.12.07,17:55:38,andreiboiko,tymekkk,1616,1603,180+2,B90,Sicilian Defense: Open Najdorf Lipnitsky Attack,15,-,0-1,1,False,True,Chess.com
+239,2020.12.07,17:58:26,KassBaraK,tymekkk,1542,1610,180+2,B94,Sicilian Defense: Open Najdorf Variation 6.Bg5 e5,28,-,0-1,1,False,True,Chess.com
+240,2020.12.07,18:11:58,spostalegna,tymekkk,1630,1610,180+2,A07,Kings Indian: Attack,47,-,1-0,0,False,True,Chess.com
+241,2020.12.07,18:26:48,spostalegna,tymekkk,1622,1618,180+2,A04,Reti Opening: Kingside Fianchetto Variation,51,-,1/2-1/2,0.5,False,True,Chess.com
+242,2020.12.07,18:44:48,Sobekus,tymekkk,1639,1602,180+2,D30,Queens Gambit: Declined 3.Nf3 Nf6,34,-,1-0,0,False,True,Chess.com
+243,2020.12.07,19:06:48,ivan97273,tymekkk,1607,1626,180+2,B51,Sicilian Defense: Canal Attack 3...Nc6 4.Bxc6,24,-,0-1,1,False,True,Chess.com
+244,2020.12.07,19:22:19,txusnibal82,tymekkk,1674,1627,180+2,B20,Sicilian Defense: Bowdler Attack,58,-,1-0,0,False,True,Chess.com
+245,2020.12.07,19:41:47,jinxotx,tymekkk,1546,1623,180+2,D00,Queens Pawn: Opening Accelerated London System,24,-,1-0,0,False,True,Chess.com
+246,2020.12.07,20:48:04,azleo,tymekkk,1545,1613,180+2,C00,French Defense: La Bourdonnais Variation 2...d5,43,-,1/2-1/2,0.5,False,True,Chess.com
+247,2020.12.08,15:54:23,Miffotoqraff,tymekkk,1745,1614,180+2,B23,Sicilian Defense: Grand Prix Attack 3...d6 4.Nf3 g6,33,-,1-0,0,False,True,Chess.com
+248,2020.12.08,18:06:54,Joakoaan,tymekkk,1626,1605,180+2,A45,Indian Game:,24,-,1-0,0,False,True,Chess.com
+249,2020.12.08,19:33:46,harunM,tymekkk,1609,1589,180+2,B21,Sicilian Defense: McDonnell Attack 2...Nc6 3.Nf3,14,-,1-0,0,False,True,Chess.com
+250,2020.12.08,19:42:51,Ataoy,tymekkk,1538,1596,180+2,D38,Queens Gambit: Declined Ragozin Defense 5.Bg5,30,-,0-1,1,False,True,Chess.com
+251,2020.12.08,19:58:21,jvedreno,tymekkk,1590,1579,180+2,B23,Sicilian Defense: Closed Traditional Line,30,-,1-0,0,False,True,Chess.com
+252,2020.12.09,19:47:27,maherchess73,tymekkk,1615,1572,180+2,B20,Sicilian Defense: Bowdler Attack,29,-,1-0,0,False,True,Chess.com
+253,2020.12.10,09:30:49,venu888,tymekkk,1558,1558,180+2,B20,Sicilian Defense: Lasker Dunne Attack,25,-,1-0,0,False,True,Chess.com
+254,2020.12.10,13:29:00,masakk,tymekkk,1569,1559,180+2,A07,Kings Indian: Attack Yugoslav Variation,31,-,0-1,1,False,True,Chess.com
+255,2020.12.10,13:37:10,Robinson1953,tymekkk,1591,1568,180+2,B20,Sicilian Defense: 2.d3 Nc6 3.c3,49,-,0-1,1,False,True,Chess.com
+256,2020.12.10,13:57:05,Pradeep1889,tymekkk,1579,1583,180+2,A40,Modern Defense: with 1 d4 2.Nf3,63,-,0-1,1,False,True,Chess.com
+257,2020.12.10,14:16:27,zia214,tymekkk,1551,1598,180+2,B50,Sicilian Defense: Delayed Alapin Variation 3...Nf6,9,-,0-1,1,False,True,Chess.com
+258,2020.12.10,14:40:57,sujith93,tymekkk,1615,1598,180+2,B52,Sicilian Defense: Canal Main Line Sokolsky Variation 5...Nc6,40,-,1-0,0,False,True,Chess.com
+259,2020.12.10,14:57:37,sujith93,tymekkk,1630,1583,180+2,B52,Sicilian Defense: Canal Main Line Sokolsky Variation 5...Nc6,36,-,1-0,0,False,True,Chess.com
+260,2020.12.10,19:47:10,Bali2019,tymekkk,1489,1589,180+2,B90,Sicilian Defense: Open Najdorf Variation 6.a4,30,-,0-1,1,False,True,Chess.com
+261,2020.12.11,08:25:53,Serg21,tymekkk,1576,1582,180+2,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,32,-,1-0,0,False,True,Chess.com
+262,2020.12.11,08:42:32,Serg21,tymekkk,1576,1582,180+2,E61,Kings Indian: Defense Normal Variation 4.Nf3 O O,37,-,0-1,1,False,True,Chess.com
+263,2020.12.11,09:14:32,Jeff2012,tymekkk,1581,1582,180+2,D96,Grunfeld Defense: Russian Variation 5...c6 6.cxd5 Nxd5,35,-,0-1,1,False,True,Chess.com
+264,2020.12.11,09:26:48,Zimorodok174,tymekkk,1683,1570,180+2,B53,Sicilian Defense: Tartakower Variation,25,-,1-0,0,False,True,Chess.com
+265,2020.12.11,09:35:36,KaanTopkaya,tymekkk,1567,1572,180+2,B50,Sicilian Defense: 2.Nf3 d6,38,-,1-0,0,False,True,Chess.com
+266,2020.12.11,14:16:23,FangBo,tymekkk,1700,1583,180+2,B52,Sicilian Defense: Canal Main Line Sokolsky Variation,35,-,0-1,1,False,True,Chess.com
+267,2020.12.12,09:01:53,Sgolkhar,tymekkk,1513,1582,180+2,B50,Sicilian Defense: 2.Nf3 d6,29,-,0-1,1,False,True,Chess.com
+268,2020.12.12,21:00:49,Aloizia,tymekkk,1602,1565,180+2,A45,Indian Game:,16,-,1-0,0,False,True,Chess.com
+269,2020.12.13,14:58:34,Sarika28,tymekkk,1591,1557,180+2,B21,Sicilian Defense: Smith Morra Gambit Accepted 4.Nxc3,12,-,1-0,0,False,True,Chess.com
+270,2020.12.13,15:06:42,Gesninovich,tymekkk,1506,1571,180+2,E00,Indian Game: East Indian Defense,56,-,0-1,1,False,True,Chess.com
+271,2020.12.13,20:28:58,manuelud201Do,tymekkk,1657,1572,180+2,B20,Sicilian Defense: Lasker Dunne Attack,29,-,1-0,0,False,True,Chess.com
+272,2020.12.14,16:49:33,HoratioCrunch,tymekkk,1534,1570,180+2,B50,Sicilian Defense: 2.Nf3 d6,39,-,0-1,1,False,True,Chess.com
+273,2020.12.14,18:15:48,kkmono,tymekkk,1585,1587,180+2,B22,Sicilian Defense: Alapin Variation 2...Nc6,24,-,0-1,1,False,True,Chess.com
+274,2020.12.14,18:40:28,grimmerio,tymekkk,1534,1591,180+2,C01,French Defense: Exchange Variation 3...exd5,25,-,0-1,1,False,True,Chess.com
+275,2020.12.14,18:45:30,Baktess,tymekkk,1586,1583,180+2,C10,French Defense: Rubinstein Blackburne Defense 5.Nf3 Ngf6 6.Bd3,30,-,1-0,0,False,True,Chess.com
+276,2020.12.14,18:59:16,Baktess,tymekkk,1602,1567,180+2,B23,Sicilian Defense: Grand Prix Attack 3...d6 4.Nf3,15,-,1-0,0,False,True,Chess.com
+277,2020.12.14,19:12:08,popov52,tymekkk,1641,1577,180+2,A16,English Opening: Anglo Indian Queens Knight Variation 2...g6 3.g3,53,-,0-1,1,False,True,Chess.com
+278,2020.12.14,19:22:18,filipov_ani,tymekkk,1511,1576,180+2,E00,Indian Game: East Indian Defense,25,-,0-1,1,False,True,Chess.com
+279,2020.12.14,19:33:48,Hehe1111,tymekkk,1570,1592,180+2,B54,Sicilian Defense: Open Prins Variation 5...a6,31,-,0-1,1,False,True,Chess.com
+280,2020.12.14,19:54:49,Baktess,tymekkk,1572,1600,180+2,B20,Sicilian Defense: Wing Gambit 2...cxb4,16,-,0-1,1,False,True,Chess.com
+281,2020.12.14,20:00:33,BBroz,tymekkk,1628,1585,180+2,B51,Sicilian Defense: Canal Attack 3...Nc6 4.O O,40,-,1-0,0,False,True,Chess.com
+282,2020.12.15,08:24:38,SrgTr,tymekkk,1502,1582,180+2,B90,Sicilian Defense: Open Najdorf English Attack...7.Nb3 Be6 8.f3 Be7,45,-,0-1,1,False,True,Chess.com
+283,2020.12.15,08:32:24,radostin0,tymekkk,1583,1574,180+2,B50,Sicilian Defense: 2.Nf3 d6,25,-,1-0,0,False,True,Chess.com
+284,2020.12.15,08:45:39,vitasbaranauskas,tymekkk,1558,1582,180+2,B51,Sicilian Defense: Canal Attack 3...Nc6,24,-,0-1,1,False,True,Chess.com
+285,2020.12.15,10:22:15,ma5er,tymekkk,1613,1575,180+2,A45,Indian Game:,92,-,1/2-1/2,0.5,False,True,Chess.com
+286,2020.12.15,10:48:01,Numicius77,tymekkk,1612,1583,180+2,A20,English Opening: Kings English Variation 2.g3,22,-,0-1,1,False,True,Chess.com
+287,2020.12.15,20:45:24,Ymerkong,tymekkk,1594,1584,180+2,B90,Sicilian Defense: Open Najdorf English Attack 6...e5,42,-,0-1,1,False,True,Chess.com
+288,2020.12.15,21:03:58,Dionis2019,tymekkk,1615,1584,180+2,B20,Sicilian Defense: Bowdler Attack,22,-,1-0,0,False,True,Chess.com
+289,2020.12.15,21:08:08,Trachurus,tymekkk,1625,1593,180+2,B21,Sicilian Defense: Smith Morra Gambit...3.Qxd4 Nc6 4.Qd1 Nf6,38,-,0-1,1,False,True,Chess.com
+290,2020.12.16,18:59:53,android27,tymekkk,1645,1602,180+2,B50,Sicilian Defense: 2.Nf3 d6,58,-,0-1,1,False,True,Chess.com
+291,2020.12.16,19:27:16,azo1964,tymekkk,1719,1603,180+2,B21,Sicilian Defense: McDonnell Attack 2...Nc6 3.Nf3 g6,49,-,1-0,0,False,True,Chess.com
+292,2020.12.16,19:45:16,Bootwinik,tymekkk,1667,1613,180+2,B22,Sicilian Defense: Alapin Variation 2...Nc6 3.d4,69,-,0-1,1,False,True,Chess.com
+293,2020.12.18,07:11:11,TalKasMagInMyBrain,tymekkk,1532,1611,180+2,D02,Queens Pawn: Opening Symmetrical Variation,27,-,0-1,1,False,True,Chess.com
+294,2020.12.18,07:32:11,andrei736,tymekkk,1668,1620,180+2,B90,Sicilian Defense: Open Najdorf Variation 6.f3,36,-,0-1,1,False,True,Chess.com
+295,2020.12.18,07:41:38,damian_lancha,tymekkk,1656,1613,180+2,B50,Sicilian Defense: 2.Nf3 d6,70,-,1-0,0,False,True,Chess.com
+296,2020.12.18,10:00:20,ados12345,tymekkk,1608,1613,180+2,C00,French Defense: Knight Variation 2...d5 3.e5 c5,63,-,0-1,1,False,True,Chess.com
+297,2020.12.19,12:49:30,Chevalier17,tymekkk,1616,1613,180+2,C05,French Defense: Tarrasch Closed 4.e5 Nfd7 5.c3,39,-,1-0,0,False,True,Chess.com
+298,2020.12.20,11:12:37,mildester,tymekkk,1663,1614,180+2,C05,French Defense: Tarrasch Closed...5.Bd3 c5 6.c3 Nc6 7.Ngf3,39,-,1-0,0,False,True,Chess.com
+299,2020.12.20,15:47:59,Eriikchess,tymekkk,1642,1630,180+2,C00,French Defense: Queens Knight Pelikan Variation,33,-,0-1,1,False,True,Chess.com
+300,2020.12.20,19:41:29,Enot_poloskuns,tymekkk,1615,1647,180+2,C00,French Defense:,37,-,0-1,1,False,True,Chess.com
+301,2020.12.20,20:23:11,akhelg,tymekkk,1624,1646,180+2,C00,French Defense: Schlechter Variation,56,-,1/2-1/2,0.5,False,True,Chess.com
+302,2020.12.20,21:32:45,AMLASHI,tymekkk,1608,1653,180+2,D00,Queens Pawn: Opening Mason Attack,31,-,0-1,1,False,True,Chess.com
+303,2020.12.21,19:38:45,ChessmanSanju,tymekkk,1609,1644,180+2,C02,French Defense: Advance Paulsen Milner Barry Gambit,42,-,1-0,0,False,True,Chess.com
+304,2020.12.22,10:41:18,zainalfitri48,tymekkk,1635,1630,180+2,B90,Sicilian Defense: Open Najdorf Lipnitsky Attack,55,-,1-0,0,False,True,Chess.com
+305,2020.12.22,10:55:09,Undermoose,tymekkk,1681,1647,180+2,A00,Polish Opening:,34,-,0-1,1,False,True,Chess.com
+306,2020.12.22,11:01:46,dandikpaket,tymekkk,1671,1639,180+2,B21,Sicilian Defense: Smith Morra Gambit Accepted 4.Nxc3 e6 5.Nf3,33,-,1-0,0,False,True,Chess.com
+307,2020.12.22,12:17:58,stevenfijian,tymekkk,1544,1629,180+2,C00,French Defense: La Bourdonnais Variation 2...d5,29,-,1-0,0,False,True,Chess.com
+308,2020.12.22,13:10:11,Acupuncteur,tymekkk,1653,1619,180+2,E60,Kings Indian: Defense Fianchetto Variation 4...O O,24,-,1-0,0,False,True,Chess.com
+309,2020.12.23,17:55:29,HarissonWells,tymekkk,1613,1603,180+2,B22,Sicilian Defense: Alapin Variation 2...Nc6 3.d4,25,-,1-0,0,False,True,Chess.com
+310,2020.12.23,18:19:42,vdz60,tymekkk,1606,1619,180+2,C02,French Defense: Advance Paulsen Main Line 6...Bd7,18,-,0-1,1,False,True,Chess.com
+311,2020.12.23,19:30:29,caieuaine,tymekkk,1610,1618,180+2,C01,French Defense: Exchange Monte Carlo Variation 4...Nf6 5.Nf3,29,-,1-0,0,False,True,Chess.com
+312,2020.12.24,20:18:30,KvNcYAZGAN,tymekkk,1640,1602,180+2,E00,Indian Game: East Indian Defense 3.Nc3,34,-,1-0,0,False,True,Chess.com
+313,2020.12.24,20:24:56,JJB1,tymekkk,1603,1610,180+2,E61,Kings Indian: Defense Normal Variation,35,-,0-1,1,False,True,Chess.com
+314,2020.12.24,20:39:30,kaner36,tymekkk,1634,1609,180+2,C00,French Defense: Knight Variation Wing Gambit,25,-,1-0,0,False,True,Chess.com
+315,2020.12.25,11:58:30,hjertstedt,tymekkk,1633,1594,180+2,B90,Sicilian Defense: Open Najdorf Lipnitsky Attack,23,-,1-0,0,False,True,Chess.com
+316,2020.12.25,19:22:11,MykolaFilkevych,tymekkk,1585,1602,180+2,B21,Sicilian Defense: McDonnell Attack 2...Nc6 3.Nf3,32,-,0-1,1,False,True,Chess.com
+317,2020.12.27,12:25:49,DedZhenya,tymekkk,1619,1578,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Nf3 Bd6,42,-,1-0,0,False,True,Chess.com
+318,2020.12.27,15:52:10,jopogsky2020,tymekkk,1672,1580,180+2,B50,Sicilian Defense: 2.Nf3 d6,44,-,0-1,1,False,True,Chess.com
+319,2020.12.27,19:34:04,drzak1970,tymekkk,1558,1587,180+2,A45,Indian Game:,42,-,0-1,1,False,True,Chess.com
+320,2020.12.29,19:55:26,Agus_arte,tymekkk,1546,1593,180+2,B23,Sicilian Defense: Grand Prix Attack 3...d6,14,-,0-1,1,False,True,Chess.com
+321,2020.12.29,19:57:08,TomaszZagorski,tymekkk,1553,1600,180+2,A45,Indian Game:,28,-,0-1,1,False,True,Chess.com
+322,2020.12.31,20:51:44,werborg1of10,tymekkk,1573,1614,180+2,B20,Sicilian Defense: Bowdler Attack,22,-,0-1,1,False,True,Chess.com
+323,2020.12.31,23:14:44,miw210,tymekkk,1557,1621,180+2,B90,Sicilian Defense: Open Najdorf Lipnitsky Attack,11,-,0-1,1,False,True,Chess.com
+324,2020.11.13,20:21:45,Jan_Wyczawski,tymekkk,1318,1329,180,C02,French Defense: Advance Paulsen Attack 5...Qb6 6.Be2,34,-,1-0,0,False,False,Chess.com
+325,2020.11.22,10:52:18,saravindh,tymekkk,1352,1391,180+2,C00,French Defense: Kings Indian Attack 2...d5,31,-,0-1,1,False,True,Chess.com
+326,2020.11.22,11:30:02,UnSeal,tymekkk,1389,1530,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Nc3,63,-,0-1,1,False,True,Chess.com
+327,2020.11.22,11:41:55,Hoang_Anh24,tymekkk,1389,1554,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Nf3 Bd6,31,-,0-1,1,False,True,Chess.com
+328,2020.11.22,19:44:27,DentedHelmet,tymekkk,1546,1524,180+2,A16,English Opening: Anglo Indian Queens Knight Variation 2...g6 3.g3,18,-,1-0,0,False,True,Chess.com
+329,2020.11.22,19:46:19,sivipewee,tymekkk,1505,1548,180+2,E70,Kings Indian: Defense Accelerated Averbakh Variation 5...O O 6.Qd2,37,-,0-1,1,False,True,Chess.com
+330,2020.11.22,19:55:23,ashalmani,tymekkk,1466,1518,180+2,A48,Indian Game: East Indian London System 3...Bg7,37,-,1-0,0,False,True,Chess.com
+331,2020.11.23,13:43:54,YadiStarks1,tymekkk,1507,1505,180+2,C00,French Defense: Knight Variation 2...d5,17,-,1-0,0,False,True,Chess.com
+332,2020.11.23,19:11:12,jromendez,tymekkk,1409,1505,180+2,C01,French Defense: Exchange Monte Carlo Variation,21,-,0-1,1,False,True,Chess.com
+333,2020.11.23,19:19:46,Panalexis,tymekkk,1487,1535,180+2,A45,Indian Game:,36,-,0-1,1,False,True,Chess.com
+334,2020.11.23,20:13:49,cheikh_ibra,tymekkk,1508,1506,180+2,B23,Sicilian Defense: Closed 2...d6,34,-,1-0,0,False,True,Chess.com
+335,2020.11.24,10:25:26,Gambman,tymekkk,1577,1524,180+2,A00,Polish Opening:,34,-,0-1,1,False,True,Chess.com
+336,2020.11.24,21:10:25,Audinio,tymekkk,1570,1512,180+2,C00,French Defense: Knight Variation 2...d5,28,-,1-0,0,False,True,Chess.com
+337,2020.11.24,21:19:31,muntadhar,tymekkk,1544,1514,180+2,B50,Sicilian Defense: 2.Nf3 d6,15,-,1-0,0,False,True,Chess.com
+338,2020.11.24,21:29:37,muntadhar,tymekkk,1543,1515,180+2,B23,Sicilian Defense: Closed 2...d6,38,-,1-0,0,False,True,Chess.com
+339,2020.11.25,16:24:17,chandlerbing80,tymekkk,1517,1527,180+2,D00,Queens Pawn: Opening Mason Attack,63,-,0-1,1,False,True,Chess.com
+340,2020.11.26,20:34:40,dimpro,tymekkk,1567,1573,180+2,B10,Caro Kann: Defense 2.Nf3 d5,48,-,0-1,1,False,True,Chess.com
+341,2020.11.26,20:44:04,idledim,tymekkk,1538,1582,180+2,B12,Caro Kann: Defense Fantasy Variation 3...dxe4 4.fxe4,88,-,0-1,1,False,True,Chess.com
+342,2020.11.26,21:13:11,Ljusabacken,tymekkk,1583,1608,180+2,C00,French Defense: Knight Variation 2...d5,15,-,0-1,1,False,True,Chess.com
+343,2020.11.26,21:18:43,nsalian2007,tymekkk,1621,1618,180+2,B13,Caro Kann: Defense Exchange Rubinstein Variation,51,-,0-1,1,False,True,Chess.com
+344,2020.11.27,11:59:57,chuanda,tymekkk,1613,1609,180+2,A48,Indian Game: Knights Variation East Indian Defense 3.Nc3,48,-,1-0,0,False,True,Chess.com
+345,2020.11.27,12:19:21,kajan1,tymekkk,1627,1592,180+2,C00,French Defense:,25,-,1-0,0,False,True,Chess.com
+346,2020.11.27,14:29:12,boyilaga,tymekkk,1627,1597,180+2,A45,Indian Game:,50,-,1-0,0,False,True,Chess.com
+347,2020.11.27,19:15:54,pamal92,tymekkk,1556,1604,180+2,C10,French Defense: Rubinstein Variation 4.Nxe4,29,-,0-1,1,False,True,Chess.com
+348,2020.11.27,19:29:53,psycholog03,tymekkk,1585,1604,180+2,C00,French Defense: Schlechter Variation,21,-,0-1,1,False,True,Chess.com
+349,2020.11.27,19:34:58,Nipplie,tymekkk,1564,1595,180+2,A21,English Opening: Reversed Sicilian Anglo Dutch Variation,23,-,1-0,0,False,True,Chess.com
+350,2020.11.28,10:24:07,Leildorine,tymekkk,1556,1602,180+2,C00,French Defense: Steiner Orthoschnapp Gambit,20,-,0-1,1,False,True,Chess.com
+351,2020.11.28,10:44:19,Chanteur-de-Vent,tymekkk,1615,1601,180+2,E60,Kings Indian: Defense Fianchetto Variation 4...O O,61,-,1-0,0,False,True,Chess.com
+352,2020.11.28,13:39:23,perthalbret,tymekkk,1674,1586,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Bd3 Bd6 5.Nf3,29,-,1-0,0,False,True,Chess.com
+353,2020.11.28,13:49:00,svv_svv_svv,tymekkk,1675,1570,180+2,C00,French Defense: Knight Variation 2...d5,32,-,1-0,0,False,True,Chess.com
+354,2020.11.28,17:25:18,melvinsalazarv,tymekkk,1511,1560,180+2,A45,Indian Game:,28,-,1-0,0,False,True,Chess.com
+355,2020.11.28,18:38:51,gobdaw,tymekkk,1575,1569,180+2,A00,Polish Opening:,29,-,0-1,1,False,True,Chess.com
+356,2020.11.28,18:50:55,xory,tymekkk,1564,1583,180+2,C00,French Defense: Schlechter Variation,56,-,0-1,1,False,True,Chess.com
+357,2020.11.28,19:17:38,danchami,tymekkk,1621,1583,180+2,A45,Indian Game: 2.Nc3,16,-,1-0,0,False,True,Chess.com
+358,2020.11.28,22:27:22,Bogumil04,tymekkk,1150,1596,300+5,A48,Indian Game: Knights Variation East Indian Defense,27,-,0-1,1,False,True,Chess.com
+359,2020.11.28,23:08:05,Not_pregnant,tymekkk,1565,1603,180+2,C00,French Defense: La Bourdonnais Variation 2...d5,38,-,0-1,1,False,True,Chess.com
+360,2020.11.28,23:16:21,zaf00,tymekkk,1619,1612,180+2,C00,French Defense: Knight Variation 2...d5,30,-,0-1,1,False,True,Chess.com
+361,2018.08.20,03:23:46,startbon,tymekkk,1165,1356,180+2,B10,Caro Kann: Defense Accelerated Panov Attack,16,-,0-1,1,False,True,Chess.com
+362,2018.08.20,03:26:26,chuck1000,tymekkk,1311,1369,180+2,A01,Nimzowitsch Larsen: Attack Indian Variation,38,-,0-1,1,False,True,Chess.com
+363,2018.08.22,14:22:51,brianmaluleka,tymekkk,1450,1357,180+2,D30,Queens Gambit: Declined 3.Nf3 Nf6,23,-,1-0,0,False,True,Chess.com
+364,2018.07.02,11:58:16,scottkgarfield,tymekkk,1249,1367,180+2,B12,Caro Kann: Defense Advance Short Variation with 4 Nf3,20,-,1-0,0,False,True,Chess.com
+365,2018.06.12,09:50:17,rejzer,tymekkk,1349,1417,600,E61,Kings Indian: Defense Normal Smyslov Variation,26,-,0-1,1,False,False,Chess.com
+366,2018.06.18,14:28:58,otovisk,tymekkk,1362,1393,600,C00,French Defense: Knight Variation,19,-,0-1,1,False,False,Chess.com
+367,2018.06.22,23:24:04,RomanAnders,tymekkk,1324,1423,180+2,B10,Caro Kann: Defense 2.Nf3 d5,81,-,0-1,1,False,True,Chess.com
+368,2018.06.22,23:35:33,Calinounou,tymekkk,1391,1404,180+2,C00,French Defense: Knight Variation 2...d5,27,-,1-0,0,False,True,Chess.com
+369,2018.06.22,23:47:47,Calinounou,tymekkk,1391,1403,180+2,C00,French Defense: Knight Variation,32,-,0-1,1,False,True,Chess.com
+370,2018.06.23,00:17:55,mhc,tymekkk,1478,1420,180+2,B12,Caro Kann: Defense Modern Variation,61,-,1/2-1/2,0.5,False,True,Chess.com
+371,2018.06.23,13:09:32,abdullah65,tymekkk,1268,1400,180+2,A48,Indian Game: East Indian London System 3...Bg7 4.e3 O O,38,-,1-0,0,False,True,Chess.com
+372,2018.06.30,20:18:19,abdulla244,tymekkk,1384,1383,180+2,A01,Nimzowitsch Larsen: Attack Indian Variation 2.Bb2 g6,27,-,0-1,1,False,True,Chess.com
+373,2018.04.05,10:02:47,budan231,tymekkk,1271,1396,600,C00,French Defense: Kings Indian Attack 2...d5,27,-,0-1,1,False,False,Chess.com
+374,2018.04.06,09:18:38,Revitt,tymekkk,1508,1442,600,C00,French Defense: La Bourdonnais Variation 2...d5,44,-,0-1,1,False,False,Chess.com
+375,2018.03.07,09:20:25,mauryadk,tymekkk,1406,1353,600,C00,French Defense: Knight Variation 2...d5,11,-,1-0,0,False,False,Chess.com
+376,2018.02.07,09:12:05,Ans-ar,tymekkk,1374,1377,600,A04,Reti Opening: 1...Nf6 2.Nc3,13,-,1-0,0,False,False,Chess.com
+377,2017.12.08,13:15:26,reefpov,tymekkk,1405,1404,300+5,E61,Kings Indian: Defense Normal Variation 4.Nf3,53,-,1/2-1/2,0.5,False,True,Chess.com
+378,2017.09.22,12:11:35,Tabatcharan,tymekkk,1353,1422,300+5,D30,Queens Gambit: Declined 3.Nf3 Nf6,46,-,1-0,0,False,True,Chess.com
+379,2017.08.02,21:15:18,vaja5555,tymekkk,1515,1446,180+2,C00,French Defense: Knight Variation 2...d5,21,-,1-0,0,False,True,Chess.com
+380,2017.08.09,13:17:43,arnold163,tymekkk,1483,1463,600,A45,Indian Game: Fantasy Variation,23,-,0-1,1,False,False,Chess.com
+381,2017.04.05,07:00:07,KD24,tymekkk,1295,1463,180+2,A45,Indian Game:,28,-,0-1,1,False,True,Chess.com
+382,2017.04.06,06:12:11,Shubham4848,tymekkk,1341,1465,180+2,C02,French Defense: Advance Paulsen Attack 5...Qb6,31,-,0-1,1,False,True,Chess.com
+383,2017.04.06,06:23:35,rizbrt009,tymekkk,1408,1456,600,B50,Sicilian Defense: 2.Nf3 d6,17,-,1-0,0,False,False,Chess.com
+384,2017.04.08,22:22:49,liamlumiere,tymekkk,1462,1448,180+2,C00,French Defense: La Bourdonnais Variation,58,-,1-0,0,False,True,Chess.com
+385,2017.04.12,09:05:45,gioser093,tymekkk,1436,1456,180+2,C00,French Defense: La Bourdonnais Variation 2...d5,45,-,0-1,1,False,True,Chess.com
+386,2017.04.17,20:30:05,gibo71,tymekkk,1370,1429,180+2,B88,Sicilian Defense: Open Scheveningen Sozin Leonhardt Variation,32,-,1-0,0,False,True,Chess.com
+387,2017.04.20,09:03:57,AdrianSlateanu,tymekkk,1363,1457,600,B10,Caro Kann: Defense Hillbilly Attack 2...d5,31,-,0-1,1,False,False,Chess.com
+388,2017.04.20,21:46:40,martindepa,tymekkk,1658,1453,180+2,B18,Caro Kann: Defense Classical Variation 5.Ng3 Bg6 6.N1e2,13,-,1-0,0,False,True,Chess.com
+389,2017.04.21,08:30:06,lotg,tymekkk,1580,1459,180+2,B18,Caro Kann: Defense Classical Variation 5.Ng3 Bg6 6.Nf3 Nd7 7.Bd3,35,-,1-0,0,False,True,Chess.com
+390,2017.03.06,14:15:41,KinLovesFoxes,tymekkk,1042,1391,600,B23,Sicilian Defense: Closed Portland Attack,16,-,0-1,1,False,False,Chess.com
+391,2017.03.06,16:21:13,jorge_illia,tymekkk,1206,1336,600,C00,French Defense: Knight Variation 2...d5 3.e5 c5,23,-,0-1,1,False,False,Chess.com
+392,2017.03.06,16:36:34,Randomname1317,tymekkk,1324,1478,600,C41,Philidor Defense:,40,-,0-1,1,False,False,Chess.com
+393,2017.03.06,16:53:36,aldontam,tymekkk,1549,1428,600,A16,English Opening: Anglo Indian Queens Knight Variation 2...g6 3.Nf3 Bg7,54,-,1-0,0,False,False,Chess.com
+394,2017.03.06,21:02:16,muzaferuzun,tymekkk,1564,1500,600,C02,French Defense: Advance Nimzowitsch System,27,-,0-1,1,False,False,Chess.com
+395,2017.03.08,20:22:25,PAULOSERIO,tymekkk,1421,1456,600,C02,French Defense: Advance Nimzowitsch System,49,-,0-1,1,False,False,Chess.com
+396,2017.03.08,20:43:51,PAULOSERIO,tymekkk,1424,1450,600,B50,Sicilian Defense: 2.Nf3 d6,41,-,1-0,0,False,False,Chess.com
+397,2017.03.08,21:31:01,fearoftdark,tymekkk,1394,1421,600,C42,Petrovs Defense: Classical Karklins Martinovsky Variation,8,-,1-0,0,False,False,Chess.com
+398,2017.03.10,10:19:44,tilenmuha,tymekkk,1412,1429,600,B20,Sicilian Defense:,22,-,0-1,1,False,False,Chess.com
+399,2017.03.11,14:04:42,Erwinsyah444,tymekkk,1432,1439,600,C02,French Defense: Advance Paulsen Main Line 6...Bd7,32,-,0-1,1,False,False,Chess.com
+400,2017.03.11,19:25:58,Giwrgos231,tymekkk,1542,1426,600,B95,Sicilian Defense: Open Najdorf Variation 6.Bg5 e6,59,-,1-0,0,False,False,Chess.com
+401,2017.03.11,20:16:26,vejas,tymekkk,1429,1462,600,D02,Queens Pawn: Opening Symmetrical Variation,67,-,1/2-1/2,0.5,False,False,Chess.com
+402,2017.03.12,12:38:17,panaleks,tymekkk,1434,1489,600,B50,Sicilian Defense: Deferred Wing Gambit,26,-,0-1,1,False,False,Chess.com
+403,2017.03.12,15:32:56,grabherbythebox,tymekkk,1462,1502,600,D35,Queens Gambit: Declined Queens Knight Variation 3...Nf6,22,-,0-1,1,False,False,Chess.com
+404,2017.03.13,00:10:28,youssefk8,tymekkk,1466,1499,600,C00,French Defense: Normal Variation 2...d5,32,-,1-0,0,False,False,Chess.com
+405,2017.03.13,18:04:03,nadernf,tymekkk,1459,1498,600,C11,French Defense: Classical Variation,40,-,1-0,0,False,False,Chess.com
+406,2017.03.16,11:53:39,sk77019,tymekkk,1521,1496,600,C00,French Defense: Knight Variation,38,-,0-1,1,False,False,Chess.com
+407,2017.03.17,09:11:41,just4fun56,tymekkk,1455,1483,600,C00,French Defense: Knight Variation 2...d5,49,-,0-1,1,False,False,Chess.com
+408,2017.03.17,09:29:11,mfs2000,tymekkk,1504,1494,600,B50,Sicilian Defense: 2.Nf3 d6,36,-,0-1,1,False,False,Chess.com
+409,2017.03.17,11:01:34,jawygra,tymekkk,1212,1501,180+2,B50,Sicilian Defense: 2.Nf3 d6,71,-,0-1,1,False,True,Chess.com
+410,2017.03.17,11:20:56,jawygra,tymekkk,1206,1507,180+2,C47,Four Knights: Game,34,-,0-1,1,False,True,Chess.com
+411,2017.03.17,13:11:46,Apus,tymekkk,1429,1499,180+2,C00,French Defense:,53,-,0-1,1,False,True,Chess.com
+412,2017.03.18,00:38:38,jawygra,tymekkk,1217,1484,300+5,B50,Sicilian Defense: 2.Nf3 d6,27,-,0-1,1,False,True,Chess.com
+413,2017.03.18,15:48:30,tocarjo,tymekkk,1576,1473,300+5,B50,Sicilian Defense: Delayed Alapin Variation 3...Nf6,12,-,1/2-1/2,0.5,False,True,Chess.com
+414,2017.03.18,15:51:03,mirelviorel,tymekkk,1465,1465,300+5,B21,Sicilian Defense: McDonnell Attack 2...d6,60,-,1-0,0,False,True,Chess.com
+415,2017.03.18,20:45:01,amandeepgautam5,tymekkk,1394,1455,600,E00,Indian Game: East Indian Defense,19,-,1-0,0,False,False,Chess.com
+416,2017.03.23,10:06:00,valeri13,tymekkk,1492,1441,180+2,C00,French Defense: La Bourdonnais Variation 2...d5,22,-,1-0,0,False,True,Chess.com
+417,2017.03.26,21:33:41,EmadFekryMohamed,tymekkk,1529,1451,180+2,C00,French Defense: Knight Variation,61,-,0-1,1,False,True,Chess.com
+418,2017.03.29,10:01:23,amod_sahu,tymekkk,1582,1435,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Bd3 Bd6 5.Nf3,52,-,1-0,0,False,True,Chess.com
+419,2017.03.29,11:06:23,Amjadalaa,tymekkk,1489,1428,180+2,A48,Indian Game: Knights Variation East Indian Defense,23,-,1-0,0,False,True,Chess.com
+420,2017.03.30,08:06:04,Tinydemons,tymekkk,1400,1436,180+2,C00,French Defense: Knight Variation 2...d5 3.e5 c5,32,-,0-1,1,False,True,Chess.com
+421,2017.03.30,08:14:03,ZartArn,tymekkk,1433,1444,180+2,A03,Birds Opening: Dutch Variation 2.Nf3 c5,26,-,0-1,1,False,True,Chess.com
+422,2017.03.30,17:50:09,ivann7,tymekkk,1486,1455,180+2,B90,Sicilian Defense: Open Najdorf Variation,33,-,0-1,1,False,True,Chess.com
