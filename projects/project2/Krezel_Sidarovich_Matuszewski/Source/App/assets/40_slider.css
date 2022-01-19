@@ -1,0 +1,57 @@
+.rc-slider-track {
+    background-color: var(--dark-dark-green);
+}
+
+.rc-slider-rail {
+    background-color: var(--dark-dark-dark-green);
+}
+
+.rc-slider-dot {
+    border: solid 2px var(--dark-dark-green);
+    background-color: var(--bg-gray);
+}
+
+.rc-slider-dot-active {  
+    border: solid 2px var(--green);
+    background-color: var(--green);
+}
+
+.rc-slider-mark-text {
+    color: var(--cream);
+    width: 100%
+}
+
+.rc-slider-mark-text-active {
+    color: var(--green);
+    width: 100%
+}
+
+.rc-slider-handle {
+    background-color: var(--green);
+    border: solid 2px var(--green);
+}
+
+.rc-slider-handle:hover {
+    background-color: var(--cream);
+    border-color: var(--cream);
+}
+
+.rc-slider-handle:active {
+    background: var(--cream);
+    border-color: var(--cream);
+    box-shadow: none;
+}
+
+.rc-slider-handle-click-focused:focus {
+    border-color: var(--cream);
+    background-color: var(--cream)
+}
+
+.rc-slider-handle-dragging.rc-slider-handle-dragging.rc-slider-handle-dragging {
+    border-color: var(--cream);
+    box-shadow: 0 0 0 0 #96dbfa;
+  }
+
+.rc-slider-rail:hover {
+    background-color: white
+}
