@@ -1,0 +1,542 @@
+{
+  "playlists": [
+    {
+      "name": "+1 chromosom",
+      "lastModifiedDate": "2020-07-28",
+      "items": [
+        {
+          "track": {
+            "trackName": "Morfina",
+            "artistName": "Gedz",
+            "albumName": "Bohema",
+            "trackUri": "spotify:track:7zA6vvay3RX81T4R9hkVRd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nie Mów",
+            "artistName": "Siles",
+            "albumName": "Nie Mów",
+            "trackUri": "spotify:track:2ClgWOsF53k9NJIISqaKzd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kochać bloki",
+            "artistName": "Oki",
+            "albumName": "Kochać bloki",
+            "trackUri": "spotify:track:1zJQSPJFlo7B4CKpbTJvCR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wybory",
+            "artistName": "Jan-Rapowanie",
+            "albumName": "Plansze",
+            "trackUri": "spotify:track:3KeWngnWN1REq9d26ZanKj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wspaniały i wielki",
+            "artistName": "Sarius",
+            "albumName": "Wszystko co złe",
+            "trackUri": "spotify:track:6A8exR6kbDhIKEIi5mWN5s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Uppercut",
+            "artistName": "Guzior",
+            "albumName": "EVIL_THINGS",
+            "trackUri": "spotify:track:5IpzDHGi8bEseo09AWBWbi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "góra trupów",
+            "artistName": "chillwagon",
+            "albumName": "chillwagon",
+            "trackUri": "spotify:track:5caygLVeEXQ9HDUmb5IbVF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wilson(zetha X BL Beatz)",
+            "artistName": "Directed by Kooza",
+            "albumName": "Wilson(zetha X BL Beatz)",
+            "trackUri": "spotify:track:1Vq1yIV3kqQHdLbobliDas"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Miasto 24H",
+            "artistName": "Kizo",
+            "albumName": "Miasto 24H",
+            "trackUri": "spotify:track:757xcPUO7sNohea5aKXtmz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "nie umiem spać w nocy, bo patrzę na księżyc",
+            "artistName": "Kartky",
+            "albumName": "dom na skraju niczego",
+            "trackUri": "spotify:track:67G05H8s8HHAadu2jtZ1IF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "BALKONMIND",
+            "artistName": "Opał",
+            "albumName": "BALKONMIND",
+            "trackUri": "spotify:track:2YugheD8nq5XR6jj8cDtiS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wysoko",
+            "artistName": "Aleshen",
+            "albumName": "Wysoko",
+            "trackUri": "spotify:track:1uR3pqstAUp5VQjD1b6F3J"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mr.drip",
+            "artistName": "Żabson",
+            "albumName": "Internaziomal",
+            "trackUri": "spotify:track:20aJKTqPC3SQ1u0pqUbtMO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "wowowo remix",
+            "artistName": "chillwagon",
+            "albumName": "chillwagon",
+            "trackUri": "spotify:track:690lbzAMJQ8PMr9gnrvWeB"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Na kodach",
+            "artistName": "Oki",
+            "albumName": "47playground",
+            "trackUri": "spotify:track:5tbOSsjL1NP5f5sUQFm53l"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Magenta (prod. Auer)",
+            "artistName": "Pezet",
+            "albumName": "Muzyka współczesna",
+            "trackUri": "spotify:track:07Agqdd4SD83JRgN19OjdW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Homo ludens",
+            "artistName": "Mata",
+            "albumName": "100 dni do matury",
+            "trackUri": "spotify:track:7jeqHTL5LN4YEyMhiqf9Ei"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "dzieci gorszego boga (prod. sergiusz)",
+            "artistName": "Kartky",
+            "albumName": "zakazane piosenki ep",
+            "trackUri": "spotify:track:278ueiNveS75ppBrX4O5UU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Obliviate",
+            "artistName": "Kartky",
+            "albumName": "Obliviate",
+            "trackUri": "spotify:track:4gHJY8MXWWAqJtQJozH9Ck"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kosmita - Remix",
+            "artistName": "Gedz",
+            "albumName": "Kosmita",
+            "trackUri": "spotify:track:3g0hNHNAzJmTWIalKyyJWA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Justin Bieber",
+            "artistName": "Oki",
+            "albumName": "Justin Bieber",
+            "trackUri": "spotify:track:2VLU6LTuUA621cS87wVG7C"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Gubię kroki",
+            "artistName": "White 2115",
+            "albumName": "Gubię kroki",
+            "trackUri": "spotify:track:6TxtJ6Nan6vyZu1m8tl3Ch"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Long Time - Intro",
+            "artistName": "Playboi Carti",
+            "albumName": "Die Lit",
+            "trackUri": "spotify:track:4IO2X2YoXoUMv0M2rwomLC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Piszę to na matmie",
+            "artistName": "Mata",
+            "albumName": "100 dni do matury",
+            "trackUri": "spotify:track:0l9XhUIYk2EjT6MHdh4wJU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Godzilla (feat. Juice WRLD)",
+            "artistName": "Eminem",
+            "albumName": "Music To Be Murdered By",
+            "trackUri": "spotify:track:7FIWs0pqAYbP91WWM0vlTQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Zło",
+            "artistName": "BORCREW",
+            "albumName": "BORCREW MIXTAPE",
+            "trackUri": "spotify:track:6sJhS5JTrvwiK7hMQXZBd6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Life Is Good (feat. Drake)",
+            "artistName": "Future",
+            "albumName": "Life Is Good (feat. Drake)",
+            "trackUri": "spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thx",
+            "artistName": "Jan-Rapowanie",
+            "albumName": "Uśmiech",
+            "trackUri": "spotify:track:6Fmh8FN6LqHsvrAeTDcTXl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Efekt Dopplera",
+            "artistName": "Gedz",
+            "albumName": "247365",
+            "trackUri": "spotify:track:2I0uE0rtDF1EYOPAFygK4c"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nikt mi nie kazał",
+            "artistName": "Jan-Rapowanie",
+            "albumName": "Uśmiech",
+            "trackUri": "spotify:track:6rYjkLQJhjPqR22PyfGDqW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Box",
+            "artistName": "Roddy Ricch",
+            "albumName": "Please Excuse Me for Being Antisocial",
+            "trackUri": "spotify:track:0nbXyq5TXYPCO7pr3N8S4I"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ghostwriter",
+            "artistName": "Gedz",
+            "albumName": "247365",
+            "trackUri": "spotify:track:5EMP5i7MFmzXex30HeS0qS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Omerta",
+            "artistName": "Hodak",
+            "albumName": "Custom",
+            "trackUri": "spotify:track:4zUcamBiNV3RGK8TnL4274"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Oh Wow",
+            "artistName": "Hodak",
+            "albumName": "Custom",
+            "trackUri": "spotify:track:4CoG5UcyhTLS6DGmSS3Tix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Gest",
+            "artistName": "Oliver Olson",
+            "albumName": "Krochmal",
+            "trackUri": "spotify:track:0qiRcskv1fZUYe5zrPpNDF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Metro",
+            "artistName": "Hodak",
+            "albumName": "Custom",
+            "trackUri": "spotify:track:7qHNSX245rktf3qRUOeZvq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Gehenna",
+            "artistName": "Gedz",
+            "albumName": "Gehenna",
+            "trackUri": "spotify:track:39MLDWZpv88xmOkjsXkbEW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Plastikowe kwiaty",
+            "artistName": "Kartky",
+            "albumName": "Plastikowe kwiaty",
+            "trackUri": "spotify:track:6hTVrW7aifvFJAFTesAnQz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shake",
+            "artistName": "Reto",
+            "albumName": "420024",
+            "trackUri": "spotify:track:3bRmGHLQYLuW05QD6T1mZH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "HIGHEST IN THE ROOM",
+            "artistName": "Travis Scott",
+            "albumName": "HIGHEST IN THE ROOM",
+            "trackUri": "spotify:track:3eekarcy7kvN4yt5ZFzltW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cooler Than Me",
+            "artistName": "Lucky Luke",
+            "albumName": "Cooler Than Me",
+            "trackUri": "spotify:track:525GY0mXYnxajolwgS8Eaz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "DTM - Album Edit",
+            "artistName": "Gedz",
+            "albumName": "247365",
+            "trackUri": "spotify:track:4q4ALYutkMF4KAJzIEJLoO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Huty, Zaplecza, Amfibie",
+            "artistName": "Przyłu",
+            "albumName": "JUNIPER",
+            "trackUri": "spotify:track:7FruDsOBQYbLGDX7dbVHQC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Usta",
+            "artistName": "Przyłu",
+            "albumName": "JUNIPER",
+            "trackUri": "spotify:track:60xf8cX4vlfY2BcVMVAMj0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Respekt",
+            "artistName": "Miły ATZ",
+            "albumName": "Czarny Swing",
+            "trackUri": "spotify:track:5hvtjnForGW1umRkbari3u"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rytm",
+            "artistName": "Miły ATZ",
+            "albumName": "Czarny Swing",
+            "trackUri": "spotify:track:4vzeLo1kntVw5JpWtpobLE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "ź l i",
+            "artistName": "Kartky",
+            "albumName": "ź l i",
+            "trackUri": "spotify:track:5kWuBlWygJ0ZcNXoh3M7ZS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A nie pamiętasz jak?",
+            "artistName": "SB Maffija",
+            "albumName": "A nie pamiętasz jak?",
+            "trackUri": "spotify:track:0Lc2G3LWtjnzl4NbKAtBoo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Przepis na dzień dobry",
+            "artistName": "SB Maffija",
+            "albumName": "Przepis na dzień dobry",
+            "trackUri": "spotify:track:6WJ4ycgaqtflnPYORvpXSW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nie ma raju bez węża",
+            "artistName": "SB Maffija",
+            "albumName": "Nie ma raju bez węża",
+            "trackUri": "spotify:track:578B1Pg7SOnYKdOIiBOEq7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Owoce 3",
+            "artistName": "Fukaj",
+            "albumName": "Owoce 3",
+            "trackUri": "spotify:track:37kPeiMTwA932Gy5G5NFso"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "SIRI",
+            "artistName": "Oki",
+            "albumName": "SIRI",
+            "trackUri": "spotify:track:57bJlOG3lH6Z0tV1AwLQkg"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Banda",
+            "artistName": "Szczyl",
+            "albumName": "Banda",
+            "trackUri": "spotify:track:63H9EvG0JABQ1qTDdLBEnK"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
