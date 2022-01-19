@@ -1,0 +1,14 @@
+name: app2
+title: app2
+username:
+account: zuzannakotlinska
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5468162
+bundleId: 5485049
+url: https://zuzannakotlinska.shinyapps.io/app2/
+when: 1642600622.88706
+lastSyncTime: 1642600622.88706
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/bootstrap.min.css|www/google-maps-logo.png|Wiktor dane

@@ -1,0 +1,4410 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521308454,
+        "longitudeE7" : 206691723,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521240160,
+        "longitudeE7" : 206657166,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1617369878949",
+        "endTimestampMs" : "1617370297364"
+      },
+      "distance" : 795,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 89.69542980194092
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.69374093413353
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.4406051263213158
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.5861276760697365
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.2760520437732339
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.14141196152195334
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.07907131221145391
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03647232078947127
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.03228416317142546
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.009433941158931702
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0032103424018714577
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0030187056836439297
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0027298869099467993
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 4.1123544178844895E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.6665310242913733E-7
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 521255563,
+          "lngE7" : 206631559,
+          "timestampMs" : "1617370175958",
+          "accuracyMeters" : 128
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1617370420704",
+        "location" : {
+          "latitudeE7" : 521239521,
+          "longitudeE7" : 206655804,
+          "accuracyMetres" : 79
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521238910,
+        "longitudeE7" : 206654960,
+        "placeId" : "ChIJF-nwoAJJGUcRwOnUI5z-wsw",
+        "address" : "Marszałka Józefa Piłsudskiego 33\n05-822 Milanówek\nPolska",
+        "name" : "Restauracja Stare Kino Milanówek. Organizacja przyjęć okolicznościowych",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 96.805214
+      },
+      "duration" : {
+        "startTimestampMs" : "1617370297364",
+        "endTimestampMs" : "1617370783169"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521238080,
+      "centerLngE7" : 206657280,
+      "visitConfidence" : 97,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521230361,
+        "longitudeE7" : 206666954,
+        "placeId" : "ChIJ1_Nfef1IGUcRyhBfq8i_YUc",
+        "locationConfidence" : 0.71812195
+      }, {
+        "latitudeE7" : 521239428,
+        "longitudeE7" : 206659052,
+        "placeId" : "ChIJlVKTnAJJGUcRvg6Xabp-3WU",
+        "locationConfidence" : 0.6147494
+      }, {
+        "latitudeE7" : 521237903,
+        "longitudeE7" : 206664414,
+        "placeId" : "ChIJlVKTnAJJGUcR4EDgMQ-JJ8I",
+        "locationConfidence" : 0.29997206
+      }, {
+        "latitudeE7" : 521251397,
+        "longitudeE7" : 206653255,
+        "placeId" : "ChIJfa48tgJJGUcRDBc9tk3FaNg",
+        "locationConfidence" : 0.22975977
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521232880,
+        "longitudeE7" : 206663671,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521308997,
+        "longitudeE7" : 206692629,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1617370783169",
+        "endTimestampMs" : "1617371025276"
+      },
+      "distance" : 880,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 88.89405727386475
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.114790707826614
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.3578038662672043
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.37493552081286907
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.1044173026457429
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.09654411114752293
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.02892940246965736
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.013681850396096706
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.01003907818812877
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0018107117284671403
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0013842957741871942
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 8.146706932166126E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 6.973572908464121E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 9.899870292429114E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.279446572778681E-8
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521232948,
+          "lngE7" : 206663951
+        }, {
+          "latE7" : 521224250,
+          "lngE7" : 206662273
+        }, {
+          "latE7" : 521309814,
+          "lngE7" : 206693000
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1617371145446",
+        "location" : {
+          "latitudeE7" : 521308849,
+          "longitudeE7" : 206692315,
+          "accuracyMetres" : 80
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 97.59973
+      },
+      "duration" : {
+        "startTimestampMs" : "1617371025276",
+        "endTimestampMs" : "1617542708095"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308426,
+      "centerLngE7" : 206691736,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.18351948
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.07063739
+      }, {
+        "latitudeE7" : 521310110,
+        "longitudeE7" : 206707420,
+        "placeId" : "ChIJ9b_K2ARJGUcROJPAUeT4ZYw",
+        "locationConfidence" : 0.06561714
+      }, {
+        "latitudeE7" : 521319070,
+        "longitudeE7" : 206676179,
+        "placeId" : "ChIJD93H92dJGUcRbZ5mXMlXui0",
+        "locationConfidence" : 0.042443525
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521309372,
+        "longitudeE7" : 206692768,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521308454,
+        "longitudeE7" : 206691744,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1617542708095",
+        "endTimestampMs" : "1617547085215"
+      },
+      "distance" : 30099,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 88.13433051109314
+      }, {
+        "activityType" : "STILL",
+        "probability" : 9.708315879106522
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.5634212642908096
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.20719419699162245
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.19465513760223985
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.05878623342141509
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.04975995980203152
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.039312519947998226
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.021008051407989115
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.010489291162230074
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.00714875350240618
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0027631200282485224
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.002477744419593364
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 3.4476181554055074E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.0522719079707485E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521309814,
+          "lngE7" : 206692981
+        }, {
+          "latE7" : 521452102,
+          "lngE7" : 207774658
+        }, {
+          "latE7" : 521652030,
+          "lngE7" : 208055572
+        }, {
+          "latE7" : 521731986,
+          "lngE7" : 208400688
+        }, {
+          "latE7" : 521678085,
+          "lngE7" : 208641452
+        }, {
+          "latE7" : 521576461,
+          "lngE7" : 208485088
+        }, {
+          "latE7" : 521277999,
+          "lngE7" : 206877784
+        }, {
+          "latE7" : 521309890,
+          "lngE7" : 206692428
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 521652222,
+          "lngE7" : 208054943,
+          "timestampMs" : "1617543794664",
+          "accuracyMeters" : 47
+        }, {
+          "latE7" : 521678085,
+          "lngE7" : 208641510,
+          "timestampMs" : "1617544278000",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : 521280975,
+          "lngE7" : 206878891,
+          "timestampMs" : "1617546723651",
+          "accuracyMeters" : 64
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1617547565714",
+        "location" : {
+          "latitudeE7" : 521308402,
+          "longitudeE7" : 206691710,
+          "accuracyMetres" : 108
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 98.05777
+      },
+      "duration" : {
+        "startTimestampMs" : "1617547085215",
+        "endTimestampMs" : "1617899333955"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308457,
+      "centerLngE7" : 206691825,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.24889348
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.07957406
+      }, {
+        "latitudeE7" : 521319070,
+        "longitudeE7" : 206676179,
+        "placeId" : "ChIJoclpbP9JGUcRghrxeRfC61k",
+        "locationConfidence" : 0.05032508
+      }, {
+        "latitudeE7" : 521319070,
+        "longitudeE7" : 206676179,
+        "placeId" : "ChIJD93H92dJGUcRbZ5mXMlXui0",
+        "locationConfidence" : 0.04537202
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521308554,
+        "longitudeE7" : 206691902,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521276188,
+        "longitudeE7" : 206632146,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1617899333955",
+        "endTimestampMs" : "1617900347927"
+      },
+      "distance" : 969,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 90.1553750038147
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.530131936073303
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.9375426918268204
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.5577098578214645
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.40169009007513523
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.2284645102918148
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.10283808223903179
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.029680074658244848
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.028097510221414268
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.010541619849391282
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.007291982910828665
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0043396608816692606
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.003785662556765601
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0024938924980233423
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.901916632135908E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521309890,
+          "lngE7" : 206692504
+        }, {
+          "latE7" : 521294517,
+          "lngE7" : 206634445
+        }, {
+          "latE7" : 521295051,
+          "lngE7" : 206624240
+        }, {
+          "latE7" : 521293487,
+          "lngE7" : 206616172
+        }, {
+          "latE7" : 521277694,
+          "lngE7" : 206632289
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 521296234,
+          "lngE7" : 206624393,
+          "timestampMs" : "1617900073123",
+          "accuracyMeters" : 24
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521270988,
+        "longitudeE7" : 206632903,
+        "placeId" : "ChIJmU5p5xxJGUcRfwmEpJ-oWMU",
+        "address" : "Tadeusza Kościuszki 40\n05-822 Milanówek\nPolska",
+        "name" : "Żabka",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 91.800674
+      },
+      "duration" : {
+        "startTimestampMs" : "1617900347927",
+        "endTimestampMs" : "1617900976190"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 521270033,
+      "centerLngE7" : 206633600,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521271040,
+        "longitudeE7" : 206623039,
+        "placeId" : "ChIJiUw0_hxJGUcRPSxwMP1KU-8",
+        "address" : "Adama Mickiewicza 1\n05-822 Milanówek\nPolska",
+        "name" : "Centrum Medyczne Biovena",
+        "locationConfidence" : 5.2549458
+      }, {
+        "latitudeE7" : 521264306,
+        "longitudeE7" : 206640118,
+        "placeId" : "ChIJUQoMnGVJGUcRpBrShdgVm9k",
+        "locationConfidence" : 0.7303239
+      }, {
+        "latitudeE7" : 521258940,
+        "longitudeE7" : 206645710,
+        "placeId" : "ChIJrX86zQJJGUcR6PJ2yHlA9mM",
+        "locationConfidence" : 0.53746074
+      }, {
+        "latitudeE7" : 521263345,
+        "longitudeE7" : 206632610,
+        "placeId" : "ChIJq3Tw93FJGUcRWu2wjcI4kkk",
+        "locationConfidence" : 0.42273197
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521270703,
+        "longitudeE7" : 206632583,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521308131,
+        "longitudeE7" : 206690257,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1617900976190",
+        "endTimestampMs" : "1617901831142"
+      },
+      "distance" : 858,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 90.96049070358276
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.748703867197037
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.0621055960655212
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.5043088458478451
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.39952895604074
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.13898152392357588
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.10049195261672139
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03810752532444894
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.025185613776557148
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.008449681627098471
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.00375488780264277
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.003650617873063311
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.003352897329023108
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.00288343035208527
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 6.007732533674925E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521270523,
+          "lngE7" : 206632061
+        }, {
+          "latE7" : 521293487,
+          "lngE7" : 206616172
+        }, {
+          "latE7" : 521308708,
+          "lngE7" : 206688632
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 97.901245
+      },
+      "duration" : {
+        "startTimestampMs" : "1617901831142",
+        "endTimestampMs" : "1617979286892"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308390,
+      "centerLngE7" : 206691765,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.21293986
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.06929086
+      }, {
+        "latitudeE7" : 521310110,
+        "longitudeE7" : 206707420,
+        "placeId" : "ChIJ9b_K2ARJGUcROJPAUeT4ZYw",
+        "locationConfidence" : 0.046096064
+      }, {
+        "latitudeE7" : 521319070,
+        "longitudeE7" : 206676179,
+        "placeId" : "ChIJD93H92dJGUcRbZ5mXMlXui0",
+        "locationConfidence" : 0.036305036
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521308477,
+        "longitudeE7" : 206707552,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521308983,
+        "longitudeE7" : 206707010,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1617979286892",
+        "endTimestampMs" : "1617980986277"
+      },
+      "distance" : 790,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 79.07893657684326
+      }, {
+        "activityType" : "STILL",
+        "probability" : 9.72020998597145
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.9694963991642
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.0876972004771233
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.7752778008580208
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.19083177903667092
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.08249201346188784
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03238113422412425
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.02947808534372598
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.01247401669388637
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.007738134445389733
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.005119334309711121
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.004041234205942601
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0038213987863855436
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.8236873344790183E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521307373,
+          "lngE7" : 206707038
+        }, {
+          "latE7" : 521292648,
+          "lngE7" : 206732521
+        }, {
+          "latE7" : 521284027,
+          "lngE7" : 206717529
+        }, {
+          "latE7" : 521289825,
+          "lngE7" : 206703395
+        }, {
+          "latE7" : 521307487,
+          "lngE7" : 206706314
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 521284103,
+          "lngE7" : 206717281,
+          "timestampMs" : "1617980617195",
+          "accuracyMeters" : 27
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 97.64894
+      },
+      "duration" : {
+        "startTimestampMs" : "1617980986277",
+        "endTimestampMs" : "1618250647000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308351,
+      "centerLngE7" : 206692070,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.16951999
+      }, {
+        "latitudeE7" : 521310110,
+        "longitudeE7" : 206707420,
+        "placeId" : "ChIJ9b_K2ARJGUcROJPAUeT4ZYw",
+        "locationConfidence" : 0.07249129
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.06720151
+      }, {
+        "latitudeE7" : 521319070,
+        "longitudeE7" : 206676179,
+        "placeId" : "ChIJD93H92dJGUcRbZ5mXMlXui0",
+        "locationConfidence" : 0.041338038
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521301008,
+        "longitudeE7" : 206681038,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521270315,
+        "longitudeE7" : 206632511,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1618250647000",
+        "endTimestampMs" : "1618251333422"
+      },
+      "distance" : 791,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 89.25749063491821
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.716168463230133
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.3980510644614697
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.6549150217324495
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.44702417217195034
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.3460044041275978
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.09496177663095295
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.02904066350311041
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.024305361148435622
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.013613411283586174
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006810678314650431
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.006376345118042082
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0027280881113256328
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.002498389221727848
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.615978070418805E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521300888,
+          "lngE7" : 206681423
+        }, {
+          "latE7" : 521294708,
+          "lngE7" : 206631298
+        }, {
+          "latE7" : 521270256,
+          "lngE7" : 206632308
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521270988,
+        "longitudeE7" : 206632903,
+        "placeId" : "ChIJmU5p5xxJGUcRfwmEpJ-oWMU",
+        "address" : "Tadeusza Kościuszki 40\n05-822 Milanówek\nPolska",
+        "name" : "Żabka",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 49.682293
+      },
+      "duration" : {
+        "startTimestampMs" : "1618251333422",
+        "endTimestampMs" : "1618251699136"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 521264375,
+      "centerLngE7" : 206633800,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521262725,
+        "longitudeE7" : 206634649,
+        "placeId" : "ChIJM0UeHB1JGUcRhMCQ90jIK7s",
+        "address" : "Tadeusza Kościuszki 41\n05-822 Milanówek\nPolska",
+        "name" : "Roman Catholic Parish of St. Jadwiga",
+        "locationConfidence" : 25.521257
+      }, {
+        "latitudeE7" : 521264306,
+        "longitudeE7" : 206640118,
+        "placeId" : "ChIJUQoMnGVJGUcRpBrShdgVm9k",
+        "locationConfidence" : 8.665716
+      }, {
+        "latitudeE7" : 521264236,
+        "longitudeE7" : 206639951,
+        "placeId" : "ChIJ6TZGspBJGUcRHiIwFmEIgwg",
+        "locationConfidence" : 2.2902384
+      }, {
+        "latitudeE7" : 521258940,
+        "longitudeE7" : 206645710,
+        "placeId" : "ChIJrX86zQJJGUcR6PJ2yHlA9mM",
+        "locationConfidence" : 1.9858148
+      }, {
+        "latitudeE7" : 521257506,
+        "longitudeE7" : 206619807,
+        "placeId" : "ChIJDQlSwB1JGUcRhNyBBwrBGoQ",
+        "locationConfidence" : 1.8872004
+      }, {
+        "latitudeE7" : 521264456,
+        "longitudeE7" : 206650535,
+        "placeId" : "ChIJmSbvKR1JGUcRDu_wAs_SAdw",
+        "locationConfidence" : 1.470185
+      }, {
+        "latitudeE7" : 521271040,
+        "longitudeE7" : 206623039,
+        "placeId" : "ChIJiUw0_hxJGUcRPSxwMP1KU-8",
+        "address" : "Adama Mickiewicza 1\n05-822 Milanówek\nPolska",
+        "name" : "Centrum Medyczne Biovena",
+        "locationConfidence" : 1.2940603
+      }, {
+        "latitudeE7" : 521255400,
+        "longitudeE7" : 206631149,
+        "placeId" : "ChIJHeiEQB1JGUcR7aIzTNmTUg4",
+        "locationConfidence" : 1.2773472
+      }, {
+        "latitudeE7" : 521269561,
+        "longitudeE7" : 206635654,
+        "placeId" : "ChIJxd22FN9JGUcRCaorEzZ606w",
+        "locationConfidence" : 1.1053216
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521262379,
+        "longitudeE7" : 206635121,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521308387,
+        "longitudeE7" : 206691687,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1618251699136",
+        "endTimestampMs" : "1618252555050"
+      },
+      "distance" : 988,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 90.64979553222656
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.4744435250759125
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.614634320139885
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.578584847971797
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.32599116675555706
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.19210849422961473
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.10183356935158372
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.02224372001364827
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.021722282690461725
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.007502797234337777
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.003463908433332108
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0033036372769856825
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0022072004867368378
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0021656169337802567
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.7861921719486418E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521263580,
+          "lngE7" : 206638507
+        }, {
+          "latE7" : 521278610,
+          "lngE7" : 206694850
+        }, {
+          "latE7" : 521307373,
+          "lngE7" : 206712150
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 98.08746
+      },
+      "duration" : {
+        "startTimestampMs" : "1618252555050",
+        "endTimestampMs" : "1618580782283"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308435,
+      "centerLngE7" : 206691721,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.20673005
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.06019236
+      }, {
+        "latitudeE7" : 521310110,
+        "longitudeE7" : 206707420,
+        "placeId" : "ChIJ9b_K2ARJGUcROJPAUeT4ZYw",
+        "locationConfidence" : 0.040358882
+      }, {
+        "latitudeE7" : 521319070,
+        "longitudeE7" : 206676179,
+        "placeId" : "ChIJoclpbP9JGUcRghrxeRfC61k",
+        "locationConfidence" : 0.027760165
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521309230,
+        "longitudeE7" : 206692928,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 522341090,
+        "longitudeE7" : 210300151,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1618580782283",
+        "endTimestampMs" : "1618583594147"
+      },
+      "distance" : 28456,
+      "activityType" : "IN_TRAIN",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_TRAIN",
+        "probability" : 70.80041766166687
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 14.353138208389282
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.142151892185211
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.0661484226584435
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.7857353910803795
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.8506507612764835
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.46235211193561554
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.23151920177042484
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.19062762148678303
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0379859353415668
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.027755642076954246
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.026319434982724488
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.023668163339607418
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0015377889212686568
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.335618779080733E-8
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 521248489,
+          "longitudeE7" : 206672420,
+          "placeId" : "ChIJNUm87QJJGUcRUpkJCM0vx68",
+          "name" : "Milanówek"
+        }, {
+          "latitudeE7" : 521416084,
+          "longitudeE7" : 207180414,
+          "placeId" : "ChIJY7Z9SZFJGUcRXVTPSboffO0",
+          "name" : "Brwinów"
+        }, {
+          "latitudeE7" : 521567326,
+          "longitudeE7" : 207640430,
+          "placeId" : "ChIJMZ4MgB1KGUcREebZb-8vqHQ",
+          "name" : "Parzniew"
+        }, {
+          "latitudeE7" : 521678717,
+          "longitudeE7" : 207985521,
+          "placeId" : "ChIJy4WPH401GUcRAFmOX49xWQk",
+          "name" : "Pruszków"
+        }, {
+          "latitudeE7" : 521827108,
+          "longitudeE7" : 208426470,
+          "placeId" : "ChIJJ3XdpQk1GUcRE2TbRCm8_zk",
+          "name" : "Piastów"
+        }, {
+          "latitudeE7" : 521913240,
+          "longitudeE7" : 208695600,
+          "placeId" : "ChIJEbD40B01GUcRoNr1rAAYS6s",
+          "name" : "Warszawa Ursus-Niedźwiadek"
+        }, {
+          "latitudeE7" : 521961339,
+          "longitudeE7" : 208844307,
+          "placeId" : "ChIJXzVIcd40GUcRVOoKwe9WI4Y",
+          "name" : "Warszawa Ursus"
+        }, {
+          "latitudeE7" : 522060662,
+          "longitudeE7" : 209152944,
+          "placeId" : "ChIJrTb508s0GUcRyFLb2utQQ4c",
+          "name" : "Warszawa Włochy"
+        }, {
+          "latitudeE7" : 522191443,
+          "longitudeE7" : 209659290,
+          "placeId" : "ChIJ--jrnqDMHkcRHmFlzsXvyt8",
+          "name" : "Warsaw West"
+        }, {
+          "latitudeE7" : 522257188,
+          "longitudeE7" : 209903371,
+          "placeId" : "ChIJuQVz25DMHkcRVsU-ylHB-FQ",
+          "name" : "Warszawa Ochota"
+        }, {
+          "latitudeE7" : 522292954,
+          "longitudeE7" : 210070883,
+          "placeId" : "ChIJ249xMY3MHkcRkGgnFhTHz4g",
+          "name" : "Warszawa Śródmieście"
+        }, {
+          "latitudeE7" : 522335834,
+          "longitudeE7" : 210278868,
+          "placeId" : "ChIJsxux9vfMHkcRmMgxR_OCdEk",
+          "address" : "00-375 Warszawa\nPolska",
+          "name" : "Warszawa Powiśle"
+        } ],
+        "name" : "KM",
+        "hexRgbColor" : "00A34F"
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 521309230,
+          "lngE7" : 206692928,
+          "timestampMs" : "1618580782283",
+          "accuracyMeters" : 14
+        }, {
+          "latE7" : 521299517,
+          "lngE7" : 206711578,
+          "timestampMs" : "1618580903001",
+          "accuracyMeters" : 110
+        }, {
+          "latE7" : 521248106,
+          "lngE7" : 206678080,
+          "timestampMs" : "1618581039975",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 521250790,
+          "lngE7" : 206680867,
+          "timestampMs" : "1618581070000",
+          "accuracyMeters" : 2
+        }, {
+          "latE7" : 521252216,
+          "lngE7" : 206685943,
+          "timestampMs" : "1618581102000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 521247034,
+          "lngE7" : 206687119,
+          "timestampMs" : "1618581141162",
+          "accuracyMeters" : 45
+        }, {
+          "latE7" : 521865612,
+          "lngE7" : 208555645,
+          "timestampMs" : "1618582106286",
+          "accuracyMeters" : 110
+        }, {
+          "latE7" : 521968913,
+          "lngE7" : 208859223,
+          "timestampMs" : "1618582349781",
+          "accuracyMeters" : 77
+        }, {
+          "latE7" : 522265194,
+          "lngE7" : 209909764,
+          "timestampMs" : "1618583176822",
+          "accuracyMeters" : 98
+        }, {
+          "latE7" : 522258671,
+          "lngE7" : 209915469,
+          "timestampMs" : "1618583193000",
+          "accuracyMeters" : 11
+        }, {
+          "latE7" : 522263653,
+          "lngE7" : 209936843,
+          "timestampMs" : "1618583223000",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : 522259449,
+          "lngE7" : 209944762,
+          "timestampMs" : "1618583231865",
+          "accuracyMeters" : 98
+        }, {
+          "latE7" : 522295029,
+          "lngE7" : 210082574,
+          "timestampMs" : "1618583352025",
+          "accuracyMeters" : 11
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 522341900,
+        "longitudeE7" : 210302200,
+        "placeId" : "ChIJS7Sb4VfMHkcR63791E36h6s",
+        "address" : "00-382 Warszawa\nPolska",
+        "name" : "PKP Powiśle 03",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 87.12963
+      },
+      "duration" : {
+        "startTimestampMs" : "1618583594147",
+        "endTimestampMs" : "1618583786625"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 522341730,
+      "centerLngE7" : 210306417,
+      "visitConfidence" : 61,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 522335834,
+        "longitudeE7" : 210278868,
+        "placeId" : "ChIJsxux9vfMHkcRmMgxR_OCdEk",
+        "address" : "00-375 Warszawa\nPolska",
+        "name" : "Warszawa Powiśle",
+        "locationConfidence" : 10.177645
+      }, {
+        "latitudeE7" : 522340900,
+        "longitudeE7" : 210298773,
+        "placeId" : "ChIJZ8OIAVjMHkcRd5lP-BVpEc8",
+        "locationConfidence" : 0.9851052
+      }, {
+        "latitudeE7" : 522346500,
+        "longitudeE7" : 210303200,
+        "placeId" : "ChIJ-eC55VfMHkcRI1DbZ-rdwa4",
+        "locationConfidence" : 0.8393384
+      }, {
+        "latitudeE7" : 522340297,
+        "longitudeE7" : 210311486,
+        "placeId" : "ChIJYXZmdfjMHkcRjOTotc8kpFo",
+        "locationConfidence" : 0.3160606
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 522340469,
+        "longitudeE7" : 210304644,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 522122567,
+        "longitudeE7" : 210467411,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1618583786625",
+        "endTimestampMs" : "1618584332278"
+      },
+      "distance" : 2874,
+      "activityType" : "IN_BUS",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_BUS",
+        "probability" : 86.45089864730835
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.213207006454468
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.015968531370163
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 1.5383267775177956
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.6488446146249771
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.6043108180165291
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.2898773644119501
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.18252648878842592
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.023059728846419603
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.017838864005170763
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.006124783249106258
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005369789505493827
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0028977676265640184
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 7.453044872818282E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.6755356536133377E-7
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 522341900,
+          "longitudeE7" : 210302200,
+          "placeId" : "ChIJS7Sb4VfMHkcR63791E36h6s",
+          "address" : "00-382 Warszawa\nPolska",
+          "name" : "PKP Powiśle 03"
+        }, {
+          "latitudeE7" : 522293200,
+          "longitudeE7" : 210313299,
+          "placeId" : "ChIJ2VuPQfnMHkcRGMK7GuPHp8I",
+          "name" : "Książęca 01"
+        }, {
+          "latitudeE7" : 522266500,
+          "longitudeE7" : 210339100,
+          "placeId" : "ChIJOSbPPvzMHkcRBwumjZv-ZgI",
+          "name" : "Śniegockiej 01"
+        }, {
+          "latitudeE7" : 522211000,
+          "longitudeE7" : 210360500,
+          "placeId" : "ChIJv_nfWR3NHkcRd9VaWGrqSx0",
+          "name" : "Rozbrat 03"
+        }, {
+          "latitudeE7" : 522165700,
+          "longitudeE7" : 210406000,
+          "placeId" : "ChIJF4BeChzNHkcRfFWUUWX28Cs",
+          "name" : "Agrykola 01"
+        }, {
+          "latitudeE7" : 522162100,
+          "longitudeE7" : 210435300,
+          "placeId" : "ChIJKRmVxxvNHkcRjeuCppri53w",
+          "name" : "Dragonów 01"
+        }, {
+          "latitudeE7" : 522151600,
+          "longitudeE7" : 210459100,
+          "placeId" : "ChIJmX8tPRrNHkcRF3GYny8yiLw",
+          "name" : "Szwoleżerów 01"
+        }, {
+          "latitudeE7" : 522120800,
+          "longitudeE7" : 210469700,
+          "placeId" : "ChIJN5F0cBfNHkcRm0lZWrmxngE",
+          "name" : "Bartycka 01"
+        } ],
+        "name" : "162",
+        "hexRgbColor" : "88007C"
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 522307314,
+          "lngE7" : 210304952,
+          "timestampMs" : "1618583857002",
+          "accuracyMeters" : 16
+        }, {
+          "latE7" : 522259413,
+          "lngE7" : 210343026,
+          "timestampMs" : "1618583983355",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 522169186,
+          "lngE7" : 210381205,
+          "timestampMs" : "1618584104220",
+          "accuracyMeters" : 52
+        }, {
+          "latE7" : 522152420,
+          "lngE7" : 210454528,
+          "timestampMs" : "1618584225375",
+          "accuracyMeters" : 38
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 522119590,
+        "longitudeE7" : 210458630,
+        "placeId" : "ChIJ0zAUfhfNHkcRE4c0yqDAr08",
+        "address" : "Adolfa Suligowskiego 7\n00-466 Warszawa\nPolska",
+        "name" : "Adolfa Suligowskiego 7",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 97.83515
+      },
+      "duration" : {
+        "startTimestampMs" : "1618584332278",
+        "endTimestampMs" : "1618606656000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 522119219,
+      "centerLngE7" : 210456451,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 522120800,
+        "longitudeE7" : 210469700,
+        "placeId" : "ChIJN5F0cBfNHkcRm0lZWrmxngE",
+        "locationConfidence" : 0.34598112
+      }, {
+        "latitudeE7" : 522123089,
+        "longitudeE7" : 210467081,
+        "placeId" : "ChIJAShIxT3NHkcRIwxUk7VSwY0",
+        "locationConfidence" : 0.27522802
+      }, {
+        "latitudeE7" : 522129120,
+        "longitudeE7" : 210462530,
+        "placeId" : "ChIJBbGu5hnNHkcRYgSXPfNCx-c",
+        "locationConfidence" : 0.0813699
+      }, {
+        "latitudeE7" : 522126634,
+        "longitudeE7" : 210465704,
+        "placeId" : "ChIJ7WFtYRfNHkcRpWoz_RlGx5M",
+        "locationConfidence" : 0.053825684
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 522116818,
+        "longitudeE7" : 210459841,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 522121646,
+        "longitudeE7" : 210469690,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1618606656000",
+        "endTimestampMs" : "1618607213346"
+      },
+      "distance" : 307,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 56.695300340652466
+      }, {
+        "activityType" : "STILL",
+        "probability" : 33.132100105285645
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 8.59665647149086
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.6781858392059803
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.3095450112596154
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.19454456632956862
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.16131630400195718
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.09864590829238296
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.055778108071535826
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.034293229691684246
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.017452782776672393
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.014235812705010176
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.009827504254644737
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.002113191658281721
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.986242778201813E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 522117424,
+          "lngE7" : 210455131
+        }, {
+          "latE7" : 522124443,
+          "lngE7" : 210469226
+        }, {
+          "latE7" : 522121734,
+          "lngE7" : 210470275
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 522123100,
+        "longitudeE7" : 210473100,
+        "placeId" : "ChIJJb9ybxfNHkcRECkGTQANuiA",
+        "address" : "00-454 Warszawa\nPolska",
+        "name" : "Bartycka 02",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 73.70968
+      },
+      "duration" : {
+        "startTimestampMs" : "1618607213346",
+        "endTimestampMs" : "1618607698412"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 522122012,
+      "centerLngE7" : 210469970,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 522120800,
+        "longitudeE7" : 210469700,
+        "placeId" : "ChIJN5F0cBfNHkcRm0lZWrmxngE",
+        "locationConfidence" : 22.597254
+      }, {
+        "latitudeE7" : 522119590,
+        "longitudeE7" : 210458630,
+        "placeId" : "ChIJ0zAUfhfNHkcRE4c0yqDAr08",
+        "address" : "Adolfa Suligowskiego 7\n00-466 Warszawa\nPolska",
+        "name" : "Adolfa Suligowskiego 7",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.538679
+      }, {
+        "latitudeE7" : 522117200,
+        "longitudeE7" : 210482600,
+        "placeId" : "ChIJGUAzDBfNHkcRu321bZDWHQM",
+        "locationConfidence" : 0.38721642
+      }, {
+        "latitudeE7" : 522123089,
+        "longitudeE7" : 210467081,
+        "placeId" : "ChIJAShIxT3NHkcRIwxUk7VSwY0",
+        "locationConfidence" : 0.15820941
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 522122835,
+        "longitudeE7" : 210470397,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 522332300,
+        "longitudeE7" : 210256005,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1618607698412",
+        "endTimestampMs" : "1618608321441"
+      },
+      "distance" : 2755,
+      "activityType" : "IN_BUS",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_BUS",
+        "probability" : 91.3972556591034
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.589632898569107
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.999220810830593
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 1.4700201340019703
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.2652280731126666
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.11304749641567469
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.09426381438970566
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.04143524565733969
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.016928616969380528
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.006213958113221452
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.00397298572352156
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0013607097571366467
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0012470412002585363
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 1.67125767802645E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.451994592951202E-9
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 522123100,
+          "longitudeE7" : 210473100,
+          "placeId" : "ChIJJb9ybxfNHkcRECkGTQANuiA",
+          "address" : "00-454 Warszawa\nPolska",
+          "name" : "Bartycka 02"
+        }, {
+          "latitudeE7" : 522160600,
+          "longitudeE7" : 210448500,
+          "placeId" : "ChIJq_x8ShrNHkcRaNZk9bprhBo",
+          "name" : "Szwoleżerów 04"
+        }, {
+          "latitudeE7" : 522174477,
+          "longitudeE7" : 210376985,
+          "placeId" : "ChIJlfUbNhzNHkcRtajmFqT2obE",
+          "name" : "Agrykola 02"
+        }, {
+          "latitudeE7" : 522225088,
+          "longitudeE7" : 210356978,
+          "placeId" : "ChIJK-whUP3MHkcRsW8S5LAgOOk",
+          "name" : "Rozbrat 04"
+        }, {
+          "latitudeE7" : 522254000,
+          "longitudeE7" : 210344800,
+          "placeId" : "ChIJ48YiU_zMHkcRf_sP17-WCdE",
+          "name" : "Śniegockiej 02"
+        }, {
+          "latitudeE7" : 522306996,
+          "longitudeE7" : 210305453,
+          "placeId" : "ChIJM3z5BvnMHkcRk82olqDY8UQ",
+          "name" : "Książęca 02"
+        }, {
+          "latitudeE7" : 522346500,
+          "longitudeE7" : 210303200,
+          "placeId" : "ChIJ-eC55VfMHkcRI1DbZ-rdwa4",
+          "name" : "PKP Powiśle 04"
+        } ],
+        "name" : "162",
+        "hexRgbColor" : "88007C"
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 522162660,
+          "lngE7" : 210438080,
+          "timestampMs" : "1618607818398",
+          "accuracyMeters" : 27
+        }, {
+          "latE7" : 522260680,
+          "lngE7" : 210343328,
+          "timestampMs" : "1618608061780",
+          "accuracyMeters" : 15
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 522335834,
+        "longitudeE7" : 210278868,
+        "placeId" : "ChIJsxux9vfMHkcRmMgxR_OCdEk",
+        "address" : "00-375 Warszawa\nPolska",
+        "name" : "Warszawa Powiśle",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 96.58296
+      },
+      "duration" : {
+        "startTimestampMs" : "1618608321441",
+        "endTimestampMs" : "1618608688612"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 522332900,
+      "centerLngE7" : 210255825,
+      "visitConfidence" : 97,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 522326800,
+        "longitudeE7" : 210259000,
+        "placeId" : "ChIJk2KDkPfMHkcRzgA6ttby3XI",
+        "locationConfidence" : 1.5251732
+      }, {
+        "latitudeE7" : 522329786,
+        "longitudeE7" : 210258723,
+        "placeId" : "ChIJDWQZl_fMHkcRXKUZLR6cRuM",
+        "locationConfidence" : 0.903466
+      }, {
+        "latitudeE7" : 522329952,
+        "longitudeE7" : 210249457,
+        "placeId" : "ChIJZ5RrpffMHkcRPZDnGXo8DwE",
+        "locationConfidence" : 0.08658752
+      }, {
+        "latitudeE7" : 522283220,
+        "longitudeE7" : 210300749,
+        "placeId" : "ChIJbWDSkvnMHkcRyQ9Iqp9zCIg",
+        "locationConfidence" : 0.053647418
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 522332383,
+        "longitudeE7" : 210255828,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521250759,
+        "longitudeE7" : 206668243,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1618608688612",
+        "endTimestampMs" : "1618610888495"
+      },
+      "distance" : 27271,
+      "activityType" : "IN_TRAIN",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_TRAIN",
+        "probability" : 91.70967936515808
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.050391376018524
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.0377542600035667
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.3368365354835987
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.25913945864886045
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.2530982717871666
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.17066113650798798
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.1631596009247005
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.005837293065269478
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0050700982683338225
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.003521353573887609
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0024586957806604914
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.002076342025247868
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 3.1868028145254357E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 9.753728380523796E-9
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 522335834,
+          "longitudeE7" : 210278868,
+          "placeId" : "ChIJsxux9vfMHkcRmMgxR_OCdEk",
+          "address" : "00-375 Warszawa\nPolska",
+          "name" : "Warszawa Powiśle"
+        }, {
+          "latitudeE7" : 522292954,
+          "longitudeE7" : 210070883,
+          "placeId" : "ChIJ249xMY3MHkcRkGgnFhTHz4g",
+          "name" : "Warszawa Śródmieście"
+        }, {
+          "latitudeE7" : 522257188,
+          "longitudeE7" : 209903371,
+          "placeId" : "ChIJuQVz25DMHkcRVsU-ylHB-FQ",
+          "name" : "Warszawa Ochota"
+        }, {
+          "latitudeE7" : 522191443,
+          "longitudeE7" : 209659290,
+          "placeId" : "ChIJ--jrnqDMHkcRHmFlzsXvyt8",
+          "name" : "Warsaw West"
+        }, {
+          "latitudeE7" : 522060662,
+          "longitudeE7" : 209152944,
+          "placeId" : "ChIJrTb508s0GUcRyFLb2utQQ4c",
+          "name" : "Warszawa Włochy"
+        }, {
+          "latitudeE7" : 521961339,
+          "longitudeE7" : 208844307,
+          "placeId" : "ChIJXzVIcd40GUcRVOoKwe9WI4Y",
+          "name" : "Warszawa Ursus"
+        }, {
+          "latitudeE7" : 521913240,
+          "longitudeE7" : 208695600,
+          "placeId" : "ChIJEbD40B01GUcRoNr1rAAYS6s",
+          "name" : "Warszawa Ursus-Niedźwiadek"
+        }, {
+          "latitudeE7" : 521827108,
+          "longitudeE7" : 208426470,
+          "placeId" : "ChIJJ3XdpQk1GUcRE2TbRCm8_zk",
+          "name" : "Piastów"
+        }, {
+          "latitudeE7" : 521678717,
+          "longitudeE7" : 207985521,
+          "placeId" : "ChIJy4WPH401GUcRAFmOX49xWQk",
+          "name" : "Pruszków"
+        }, {
+          "latitudeE7" : 521567326,
+          "longitudeE7" : 207640430,
+          "placeId" : "ChIJMZ4MgB1KGUcREebZb-8vqHQ",
+          "name" : "Parzniew"
+        }, {
+          "latitudeE7" : 521416084,
+          "longitudeE7" : 207180414,
+          "placeId" : "ChIJY7Z9SZFJGUcRXVTPSboffO0",
+          "name" : "Brwinów"
+        }, {
+          "latitudeE7" : 521248489,
+          "longitudeE7" : 206672420,
+          "placeId" : "ChIJNUm87QJJGUcRUpkJCM0vx68",
+          "name" : "Milanówek"
+        } ],
+        "name" : "KM",
+        "hexRgbColor" : "00A34F"
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 522292297,
+          "lngE7" : 210068444,
+          "timestampMs" : "1618608943126",
+          "accuracyMeters" : 36
+        }, {
+          "latE7" : 522264324,
+          "lngE7" : 209895629,
+          "timestampMs" : "1618609064068",
+          "accuracyMeters" : 128
+        }, {
+          "latE7" : 522212174,
+          "lngE7" : 209755318,
+          "timestampMs" : "1618609184330",
+          "accuracyMeters" : 116
+        }, {
+          "latE7" : 521680199,
+          "lngE7" : 207997970,
+          "timestampMs" : "1618610271668",
+          "accuracyMeters" : 92
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521250759,
+        "longitudeE7" : 206668243,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521306451,
+        "longitudeE7" : 206690388,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1618610888495",
+        "endTimestampMs" : "1618611616746"
+      },
+      "distance" : 754,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 84.33118462562561
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 9.274619072675705
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 2.631503902375698
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.6201779246330261
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.4252339489758015
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.36563363391906023
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.10593559127300978
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.08326635579578578
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.07317099370993674
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0451768864877522
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.03728661686182022
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.004045511741423979
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.002275963743159082
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 4.859457021666458E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.4190152386461818E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521250839,
+          "lngE7" : 206668167
+        }, {
+          "latE7" : 521264419,
+          "lngE7" : 206683502
+        }, {
+          "latE7" : 521307449,
+          "lngE7" : 206687507
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 95.90946
+      },
+      "duration" : {
+        "startTimestampMs" : "1618611616746",
+        "endTimestampMs" : "1618854278932"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308369,
+      "centerLngE7" : 206691689,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJybG23K1JGUcRgGhDWOCkjx4",
+        "locationConfidence" : 3.003807
+      }, {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.11900456
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.06021279
+      }, {
+        "latitudeE7" : 521319070,
+        "longitudeE7" : 206676179,
+        "placeId" : "ChIJoclpbP9JGUcRghrxeRfC61k",
+        "locationConfidence" : 0.03479016
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521302812,
+        "longitudeE7" : 206682961,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521268612,
+        "longitudeE7" : 206633158,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1618854278932",
+        "endTimestampMs" : "1618855374251"
+      },
+      "distance" : 881,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 90.67108631134033
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.992083787918091
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.218988373875618
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.42141247540712357
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.2986983861774206
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.226601492613554
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.10203099809587002
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.026035774499177933
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.02081682760035619
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.009470278746448457
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.005051019616075791
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.003114715582341887
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0026443334718351252
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0019638084268081
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.072503295063143E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521302719,
+          "lngE7" : 206683139
+        }, {
+          "latE7" : 521293487,
+          "lngE7" : 206616172
+        }, {
+          "latE7" : 521268806,
+          "lngE7" : 206633701
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521270988,
+        "longitudeE7" : 206632903,
+        "placeId" : "ChIJmU5p5xxJGUcRfwmEpJ-oWMU",
+        "address" : "Tadeusza Kościuszki 40\n05-822 Milanówek\nPolska",
+        "name" : "Żabka",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 30.066486
+      },
+      "duration" : {
+        "startTimestampMs" : "1618855374251",
+        "endTimestampMs" : "1618855859004"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 521261360,
+      "centerLngE7" : 206640320,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521262725,
+        "longitudeE7" : 206634649,
+        "placeId" : "ChIJM0UeHB1JGUcRhMCQ90jIK7s",
+        "address" : "Tadeusza Kościuszki 41\n05-822 Milanówek\nPolska",
+        "name" : "Roman Catholic Parish of St. Jadwiga",
+        "locationConfidence" : 29.439322
+      }, {
+        "latitudeE7" : 521264306,
+        "longitudeE7" : 206640118,
+        "placeId" : "ChIJUQoMnGVJGUcRpBrShdgVm9k",
+        "locationConfidence" : 15.497601
+      }, {
+        "latitudeE7" : 521258940,
+        "longitudeE7" : 206645710,
+        "placeId" : "ChIJrX86zQJJGUcR6PJ2yHlA9mM",
+        "locationConfidence" : 9.138732
+      }, {
+        "latitudeE7" : 521264602,
+        "longitudeE7" : 206649699,
+        "placeId" : "ChIJBcHsKR1JGUcRBLw09oCzD-Q",
+        "locationConfidence" : 3.5747218
+      }, {
+        "latitudeE7" : 521264456,
+        "longitudeE7" : 206650535,
+        "placeId" : "ChIJmSbvKR1JGUcRDu_wAs_SAdw",
+        "locationConfidence" : 3.496427
+      }, {
+        "latitudeE7" : 521257506,
+        "longitudeE7" : 206619807,
+        "placeId" : "ChIJDQlSwB1JGUcRhNyBBwrBGoQ",
+        "locationConfidence" : 1.8155859
+      }, {
+        "latitudeE7" : 521271040,
+        "longitudeE7" : 206623039,
+        "placeId" : "ChIJiUw0_hxJGUcRPSxwMP1KU-8",
+        "address" : "Adama Mickiewicza 1\n05-822 Milanówek\nPolska",
+        "name" : "Centrum Medyczne Biovena",
+        "locationConfidence" : 1.5058583
+      }, {
+        "latitudeE7" : 521258940,
+        "longitudeE7" : 206645710,
+        "placeId" : "ChIJy9RlXqFJGUcRTXJUF6WUXEY",
+        "locationConfidence" : 1.0267186
+      }, {
+        "latitudeE7" : 521263345,
+        "longitudeE7" : 206632610,
+        "placeId" : "ChIJq3Tw93FJGUcRWu2wjcI4kkk",
+        "locationConfidence" : 0.97391886
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521258111,
+        "longitudeE7" : 206637785,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521302603,
+        "longitudeE7" : 206682396,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1618855859004",
+        "endTimestampMs" : "1618857075069"
+      },
+      "distance" : 881,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 85.02062559127808
+      }, {
+        "activityType" : "STILL",
+        "probability" : 7.540439069271088
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.019129231572151
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.7557868026196957
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.3310995176434517
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.16913849394768476
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.10875249281525612
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.014384620590135455
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.01395735889673233
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.00984818470897153
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.008503522985847667
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.003024028228537645
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.002939494515885599
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.002367147317272611
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.4640669948894356E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521259307,
+          "lngE7" : 206636581
+        }, {
+          "latE7" : 521264419,
+          "lngE7" : 206683502
+        }, {
+          "latE7" : 521279869,
+          "lngE7" : 206695842
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 96.91232
+      },
+      "duration" : {
+        "startTimestampMs" : "1618857075069",
+        "endTimestampMs" : "1619119143219"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308500,
+      "centerLngE7" : 206692003,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJybG23K1JGUcRgGhDWOCkjx4",
+        "locationConfidence" : 1.3087934
+      }, {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.110569224
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.05725411
+      }, {
+        "latitudeE7" : 521310110,
+        "longitudeE7" : 206707420,
+        "placeId" : "ChIJ9b_K2ARJGUcROJPAUeT4ZYw",
+        "locationConfidence" : 0.04538337
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521308563,
+        "longitudeE7" : 206692013,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521262617,
+        "longitudeE7" : 206640920,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619119143219",
+        "endTimestampMs" : "1619120017304"
+      },
+      "distance" : 867,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 84.71622467041016
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 11.798105388879776
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.0159345120191574
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.4780184477567673
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.4643457941710949
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.30328959692269564
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.11858781799674034
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.039485422894358635
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.031241567921824753
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.014618005661759526
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.007262536382768303
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0061486600316129625
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0034229567972943187
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.003322671909700148
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.1278422640259578E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521309890,
+          "lngE7" : 206692619
+        }, {
+          "latE7" : 521260643,
+          "lngE7" : 206656150
+        }, {
+          "latE7" : 521262588,
+          "lngE7" : 206640911
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521262725,
+        "longitudeE7" : 206634649,
+        "placeId" : "ChIJM0UeHB1JGUcRhMCQ90jIK7s",
+        "address" : "Tadeusza Kościuszki 41\n05-822 Milanówek\nPolska",
+        "name" : "Roman Catholic Parish of St. Jadwiga",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 44.28615
+      },
+      "duration" : {
+        "startTimestampMs" : "1619120017304",
+        "endTimestampMs" : "1619120625165"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 521261300,
+      "centerLngE7" : 206641750,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521264306,
+        "longitudeE7" : 206640118,
+        "placeId" : "ChIJUQoMnGVJGUcRpBrShdgVm9k",
+        "locationConfidence" : 15.676912
+      }, {
+        "latitudeE7" : 521270988,
+        "longitudeE7" : 206632903,
+        "placeId" : "ChIJmU5p5xxJGUcRfwmEpJ-oWMU",
+        "address" : "Tadeusza Kościuszki 40\n05-822 Milanówek\nPolska",
+        "name" : "Żabka",
+        "locationConfidence" : 7.4948115
+      }, {
+        "latitudeE7" : 521264602,
+        "longitudeE7" : 206649699,
+        "placeId" : "ChIJBcHsKR1JGUcRBLw09oCzD-Q",
+        "locationConfidence" : 6.3534203
+      }, {
+        "latitudeE7" : 521255400,
+        "longitudeE7" : 206631149,
+        "placeId" : "ChIJHeiEQB1JGUcR7aIzTNmTUg4",
+        "locationConfidence" : 6.062586
+      }, {
+        "latitudeE7" : 521264456,
+        "longitudeE7" : 206650535,
+        "placeId" : "ChIJmSbvKR1JGUcRDu_wAs_SAdw",
+        "locationConfidence" : 5.9383564
+      }, {
+        "latitudeE7" : 521258940,
+        "longitudeE7" : 206645710,
+        "placeId" : "ChIJrX86zQJJGUcR6PJ2yHlA9mM",
+        "locationConfidence" : 5.65374
+      }, {
+        "latitudeE7" : 521256202,
+        "longitudeE7" : 206633922,
+        "placeId" : "ChIJf5MaWtlJGUcRasA1V4Kbbzc",
+        "locationConfidence" : 1.935272
+      }, {
+        "latitudeE7" : 521249105,
+        "longitudeE7" : 206659752,
+        "placeId" : "ChIJ6dqVwAJJGUcRMsdE1d4pfjk",
+        "locationConfidence" : 1.3948404
+      }, {
+        "latitudeE7" : 521248489,
+        "longitudeE7" : 206672420,
+        "placeId" : "ChIJNUm87QJJGUcRUpkJCM0vx68",
+        "locationConfidence" : 1.1691142
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521262181,
+        "longitudeE7" : 206654669,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521308489,
+        "longitudeE7" : 206691914,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619120625165",
+        "endTimestampMs" : "1619121712176"
+      },
+      "distance" : 757,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 89.23680782318115
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.7867016196250916
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.7271298915147781
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.5070135463029146
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.30104562174528837
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.2558069070801139
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.09299651137553155
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03834044327959418
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.025524344528093934
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.012583758507389575
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.005403361501521431
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.004808776429854333
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0030973587854532525
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.002745572419371456
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.2790057901668206E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521260948,
+          "lngE7" : 206654167
+        }, {
+          "latE7" : 521289825,
+          "lngE7" : 206703395
+        }, {
+          "latE7" : 521309890,
+          "lngE7" : 206692562
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 97.59607
+      },
+      "duration" : {
+        "startTimestampMs" : "1619121712176",
+        "endTimestampMs" : "1619171409659"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308374,
+      "centerLngE7" : 206691774,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJybG23K1JGUcRgGhDWOCkjx4",
+        "locationConfidence" : 0.8291294
+      }, {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.08174901
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.047723543
+      }, {
+        "latitudeE7" : 521319070,
+        "longitudeE7" : 206676179,
+        "placeId" : "ChIJD93H92dJGUcRbZ5mXMlXui0",
+        "locationConfidence" : 0.028791403
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521309129,
+        "longitudeE7" : 206693102,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 522534361,
+        "longitudeE7" : 210801317,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619171409659",
+        "endTimestampMs" : "1619174419520"
+      },
+      "distance" : 32824,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 98.06724190711975
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.819912739098072
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6003881338983774
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.1645296229980886
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.15817410312592983
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.10212030028924346
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0242965979850851
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.023384774976875633
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.021834668586961925
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.008528254693374038
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005976629108772613
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.001829549546528142
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0011446162716310937
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 6.31112288829172E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.4824479421804426E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521309738,
+          "lngE7" : 206693382
+        }, {
+          "latE7" : 522040596,
+          "lngE7" : 209405212
+        }, {
+          "latE7" : 522214698,
+          "lngE7" : 209827060
+        }, {
+          "latE7" : 522227516,
+          "lngE7" : 210386390
+        }, {
+          "latE7" : 522534370,
+          "lngE7" : 210802536
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 522214928,
+          "lngE7" : 209826508,
+          "timestampMs" : "1619173168264",
+          "accuracyMeters" : 23
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1619174401572",
+        "location" : {
+          "latitudeE7" : 522532806,
+          "longitudeE7" : 210802598,
+          "accuracyMetres" : 32
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 522533776,
+        "longitudeE7" : 210804515,
+        "placeId" : "ChIJk78j6cXNHkcRivzODNijK9Y",
+        "address" : "Wojciecha Chrzanowskiego 8A\n04-392 Warszawa\nPolska",
+        "name" : "Elle-Med. NZOZ. Medical Center",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 95.354065
+      },
+      "duration" : {
+        "startTimestampMs" : "1619174419520",
+        "endTimestampMs" : "1619176377246"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 522532883,
+      "centerLngE7" : 210803333,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 522527200,
+        "longitudeE7" : 210785800,
+        "placeId" : "ChIJl5-UAMbNHkcRd7NyvP0Baco",
+        "locationConfidence" : 2.140971
+      }, {
+        "latitudeE7" : 522533986,
+        "longitudeE7" : 210804249,
+        "placeId" : "ChIJk78j6cXNHkcRqzFKUy-rttg",
+        "locationConfidence" : 1.1082218
+      }, {
+        "latitudeE7" : 522535365,
+        "longitudeE7" : 210812551,
+        "placeId" : "ChIJhSGe8ZrNHkcRSu2ECtjXipU",
+        "locationConfidence" : 0.453181
+      }, {
+        "latitudeE7" : 522515474,
+        "longitudeE7" : 210784727,
+        "placeId" : "ChIJIwYRH8bNHkcRxCvuKRQmct0",
+        "locationConfidence" : 0.20819584
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 522527003,
+        "longitudeE7" : 210802018,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521557595,
+        "longitudeE7" : 206865728,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619176377246",
+        "endTimestampMs" : "1619178925991"
+      },
+      "distance" : 32732,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.69601821899414
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.9959151037037373
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.608660327270627
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.26843103114515543
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.16449938993901014
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.11669936357066035
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.062384840566664934
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.03826562315225601
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.024231606221292168
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.009223986126016825
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005278633034322411
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.004994725895812735
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0031590359867550433
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.002235023202956654
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.0431445929270922E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 522526702,
+          "lngE7" : 210802021
+        }, {
+          "latE7" : 522482833,
+          "lngE7" : 210467014
+        }, {
+          "latE7" : 522543640,
+          "lngE7" : 210354042
+        }, {
+          "latE7" : 521906967,
+          "lngE7" : 207904605
+        }, {
+          "latE7" : 521556968,
+          "lngE7" : 206865997
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 522541885,
+          "lngE7" : 210356274,
+          "timestampMs" : "1619177104715",
+          "accuracyMeters" : 48
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1619179052159",
+        "location" : {
+          "latitudeE7" : 521561055,
+          "longitudeE7" : 206853861,
+          "accuracyMetres" : 116
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521561138,
+        "longitudeE7" : 206850940,
+        "placeId" : "ChIJFzHP32RJGUcRv4vPH3R5YxI",
+        "address" : "Kotowice 50A\n05-840 Brwinów\nPolska",
+        "name" : "McDonald's",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 88.97724
+      },
+      "duration" : {
+        "startTimestampMs" : "1619178925991",
+        "endTimestampMs" : "1619179292323"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 521559875,
+      "centerLngE7" : 206855275,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521560474,
+        "longitudeE7" : 206873191,
+        "placeId" : "ChIJIcqs0GRJGUcRX1fX493NgQs",
+        "locationConfidence" : 4.5349536
+      }, {
+        "latitudeE7" : 521561175,
+        "longitudeE7" : 206874346,
+        "placeId" : "ChIJCTexIfJJGUcRtoz4vR69r24",
+        "locationConfidence" : 4.180949
+      }, {
+        "latitudeE7" : 521543346,
+        "longitudeE7" : 206851125,
+        "placeId" : "ChIJrZHPaWVJGUcRkF7fU6K-ch0",
+        "locationConfidence" : 0.7014161
+      }, {
+        "latitudeE7" : 521544115,
+        "longitudeE7" : 206849725,
+        "placeId" : "ChIJG7OYR2VJGUcRDzKDUdS4634",
+        "locationConfidence" : 0.69824845
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521560649,
+        "longitudeE7" : 206849869,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521309066,
+        "longitudeE7" : 206693071,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619179292323",
+        "endTimestampMs" : "1619180264923"
+      },
+      "distance" : 3593,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 96.42330408096313
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.071920968592167
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.8701575919985771
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.2212152350693941
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.21863651927560568
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.07417611195705831
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.04304430040065199
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04191980406176299
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.017454588669352233
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.00796341773821041
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.00385021667170804
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0036925124732078984
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0016234766007983126
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.001039084145304514
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.6022446702734783E-7
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 521425973,
+          "lngE7" : 206089809,
+          "timestampMs" : "1619179655019",
+          "accuracyMeters" : 116
+        }, {
+          "latE7" : 521356777,
+          "lngE7" : 206169344,
+          "timestampMs" : "1619179776173",
+          "accuracyMeters" : 122
+        }, {
+          "latE7" : 521333772,
+          "lngE7" : 206614492,
+          "timestampMs" : "1619180137623",
+          "accuracyMeters" : 98
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1619180272963",
+        "location" : {
+          "latitudeE7" : 521308981,
+          "longitudeE7" : 206692991,
+          "accuracyMetres" : 40
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 96.043945
+      },
+      "duration" : {
+        "startTimestampMs" : "1619180264923",
+        "endTimestampMs" : "1619543670206"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308477,
+      "centerLngE7" : 206691811,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJybG23K1JGUcRgGhDWOCkjx4",
+        "locationConfidence" : 2.9892042
+      }, {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.1176415
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.06848848
+      }, {
+        "latitudeE7" : 521310110,
+        "longitudeE7" : 206707420,
+        "placeId" : "ChIJ9b_K2ARJGUcROJPAUeT4ZYw",
+        "locationConfidence" : 0.05339873
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521302375,
+        "longitudeE7" : 206681313,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521302286,
+        "longitudeE7" : 206682648,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619543670206",
+        "endTimestampMs" : "1619545252854"
+      },
+      "distance" : 2056,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 87.11681365966797
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 9.278346598148346
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.9815245643258095
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.659498106688261
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.452991109341383
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.3201812971383333
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0702384568285197
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.04901774227619171
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04548844590317458
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.009942437463905662
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.005953251093160361
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.004234665902913548
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0033385473216185346
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0024227767426054925
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.0903072933388103E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521301994,
+          "lngE7" : 206682453
+        }, {
+          "latE7" : 521295585,
+          "lngE7" : 206614608
+        }, {
+          "latE7" : 521288070,
+          "lngE7" : 206570796
+        }, {
+          "latE7" : 521280708,
+          "lngE7" : 206571884
+        }, {
+          "latE7" : 521302261,
+          "lngE7" : 206682720
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 521287880,
+          "lngE7" : 206572342,
+          "timestampMs" : "1619544516677",
+          "accuracyMeters" : 66
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 97.702515
+      },
+      "duration" : {
+        "startTimestampMs" : "1619545252854",
+        "endTimestampMs" : "1619689798655"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308629,
+      "centerLngE7" : 206691671,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJybG23K1JGUcRgGhDWOCkjx4",
+        "locationConfidence" : 0.9205664
+      }, {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.118562065
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.056032978
+      }, {
+        "latitudeE7" : 521319070,
+        "longitudeE7" : 206676179,
+        "placeId" : "ChIJD93H92dJGUcRbZ5mXMlXui0",
+        "locationConfidence" : 0.02671581
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521308781,
+        "longitudeE7" : 206691670,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521272936,
+        "longitudeE7" : 206625071,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619689798655",
+        "endTimestampMs" : "1619690402262"
+      },
+      "distance" : 870,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 89.47038650512695
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.770651042461395
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.3328809067606926
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.6932976190000772
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.28118412010371685
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.23208647035062313
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.14140030834823847
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.02326608810108155
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0222578615648672
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.00836522231111303
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.00835411628941074
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.007424187788274139
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.005832786700921133
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0026091500330949202
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.2470403839352E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521309928,
+          "lngE7" : 206692199
+        }, {
+          "latE7" : 521294708,
+          "lngE7" : 206631298
+        }, {
+          "latE7" : 521274032,
+          "lngE7" : 206624412
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521271040,
+        "longitudeE7" : 206623039,
+        "placeId" : "ChIJiUw0_hxJGUcRPSxwMP1KU-8",
+        "address" : "Adama Mickiewicza 1\n05-822 Milanówek\nPolska",
+        "name" : "Centrum Medyczne Biovena",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 91.67135
+      },
+      "duration" : {
+        "startTimestampMs" : "1619690402262",
+        "endTimestampMs" : "1619692432265"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 521273175,
+      "centerLngE7" : 206623500,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521278245,
+        "longitudeE7" : 206620461,
+        "placeId" : "ChIJ59gOVxxJGUcRC2uO_RlXK-M",
+        "locationConfidence" : 2.7933972
+      }, {
+        "latitudeE7" : 521270988,
+        "longitudeE7" : 206632903,
+        "placeId" : "ChIJmU5p5xxJGUcRfwmEpJ-oWMU",
+        "address" : "Tadeusza Kościuszki 40\n05-822 Milanówek\nPolska",
+        "name" : "Żabka",
+        "locationConfidence" : 1.5470347
+      }, {
+        "latitudeE7" : 521232510,
+        "longitudeE7" : 206665390,
+        "placeId" : "ChIJA9ryfP1IGUcRSPvn0WDxzBk",
+        "locationConfidence" : 0.76382446
+      }, {
+        "latitudeE7" : 521220280,
+        "longitudeE7" : 206680260,
+        "placeId" : "ChIJlVKTnAJJGUcRfLAPA3DLiFk",
+        "locationConfidence" : 0.6465828
+      }, {
+        "latitudeE7" : 521230361,
+        "longitudeE7" : 206666954,
+        "placeId" : "ChIJ1_Nfef1IGUcRyhBfq8i_YUc",
+        "locationConfidence" : 0.4640451
+      }, {
+        "latitudeE7" : 521241608,
+        "longitudeE7" : 206661415,
+        "placeId" : "ChIJTwAzmAJJGUcRDBSrOPmFfGM",
+        "locationConfidence" : 0.4581579
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521276037,
+        "longitudeE7" : 206620354,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521309116,
+        "longitudeE7" : 206693439,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619692432265",
+        "endTimestampMs" : "1619692926239"
+      },
+      "distance" : 782,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 86.47143244743347
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.851332426071167
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.4702081456780434
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 2.039097808301449
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.4855642095208168
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.34177452325820923
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.20368313416838646
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.057447311701253057
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.02632567484397441
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.015935116971377283
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.013665104052051902
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.010216022201348096
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.008984041051007807
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.004335260746302083
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.1166554791941508E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521274642,
+          "lngE7" : 206619834
+        }, {
+          "latE7" : 521293487,
+          "lngE7" : 206616172
+        }, {
+          "latE7" : 521309700,
+          "lngE7" : 206693706
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 96.317055
+      },
+      "duration" : {
+        "startTimestampMs" : "1619692926239",
+        "endTimestampMs" : "1619790785173"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308729,
+      "centerLngE7" : 206691620,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJybG23K1JGUcRgGhDWOCkjx4",
+        "locationConfidence" : 2.4653776
+      }, {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.10962309
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.06587806
+      }, {
+        "latitudeE7" : 521319070,
+        "longitudeE7" : 206676179,
+        "placeId" : "ChIJD93H92dJGUcRbZ5mXMlXui0",
+        "locationConfidence" : 0.03078925
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521309276,
+        "longitudeE7" : 206693159,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521252617,
+        "longitudeE7" : 206694916,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619790785173",
+        "endTimestampMs" : "1619791145817"
+      },
+      "distance" : 1756,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 91.71012043952942
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.452186405658722
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.967168714851141
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.3164931433275342
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.23833462037146091
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.12830094201490283
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.09131880942732096
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04576492647174746
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.023063929984346032
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.01630374026717618
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.003899384682881646
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0036572822864400223
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0028469517928897403
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.259500085230684E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.776807894733224E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521309738,
+          "lngE7" : 206693363
+        }, {
+          "latE7" : 521318664,
+          "lngE7" : 206652545
+        }, {
+          "latE7" : 521290512,
+          "lngE7" : 206615219
+        }, {
+          "latE7" : 521247978,
+          "lngE7" : 206632556
+        }, {
+          "latE7" : 521252861,
+          "lngE7" : 206693801
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 521290703,
+          "lngE7" : 206615982,
+          "timestampMs" : "1619790905711",
+          "accuracyMeters" : 36
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1619791156751",
+        "location" : {
+          "latitudeE7" : 521239923,
+          "longitudeE7" : 206681679,
+          "accuracyMetres" : 59
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521253450,
+        "longitudeE7" : 206697715,
+        "placeId" : "ChIJHSyOTQJJGUcRjLWyK0Wv6eI",
+        "address" : "Warszawska 19\n05-822 Milanówek\nPolska",
+        "name" : "Milwos. Sklep z art. ogrodniczo - chemicznymi. Pakuła B.",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 89.33096
+      },
+      "duration" : {
+        "startTimestampMs" : "1619791145817",
+        "endTimestampMs" : "1619792030926"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 521253150,
+      "centerLngE7" : 206696812,
+      "visitConfidence" : 97,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521253450,
+        "longitudeE7" : 206697715,
+        "placeId" : "ChIJdaD8WQJJGUcRG4F20ZSnkMw",
+        "locationConfidence" : 7.0432825
+      }, {
+        "latitudeE7" : 521248489,
+        "longitudeE7" : 206672420,
+        "placeId" : "ChIJNUm87QJJGUcRUpkJCM0vx68",
+        "locationConfidence" : 2.0970588
+      }, {
+        "latitudeE7" : 521253150,
+        "longitudeE7" : 206699190,
+        "placeId" : "ChIJXwJ4UQJJGUcRxdOQdDoe6Mo",
+        "locationConfidence" : 0.6078757
+      }, {
+        "latitudeE7" : 521253509,
+        "longitudeE7" : 206672521,
+        "placeId" : "ChIJL6wI6wJJGUcR8nZtpchqdgI",
+        "locationConfidence" : 0.26656064
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521252435,
+        "longitudeE7" : 206695444,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521309386,
+        "longitudeE7" : 206693217,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619792030926",
+        "endTimestampMs" : "1619792515988"
+      },
+      "distance" : 1984,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 90.01171588897705
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.537755414843559
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.206951543688774
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.6295352708548307
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.32526031136512756
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.10042040375992656
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.09307315922342241
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.037796192918904126
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.025248920428566635
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.021911833027843386
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0051835562771884724
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.002566126022429671
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0020480385501286946
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.381771188694984E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.8894509835074587E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521253166,
+          "lngE7" : 206694030
+        }, {
+          "latE7" : 521262626,
+          "lngE7" : 206728878
+        }, {
+          "latE7" : 521261749,
+          "lngE7" : 206728267
+        }, {
+          "latE7" : 521224021,
+          "lngE7" : 206658496
+        }, {
+          "latE7" : 521309738,
+          "lngE7" : 206693363
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 521261864,
+          "lngE7" : 206727829,
+          "timestampMs" : "1619792156000",
+          "accuracyMeters" : 4
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1619792564717",
+        "location" : {
+          "latitudeE7" : 521310842,
+          "longitudeE7" : 206695071,
+          "accuracyMetres" : 30
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 97.201195
+      },
+      "duration" : {
+        "startTimestampMs" : "1619792515988",
+        "endTimestampMs" : "1619808181133"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308764,
+      "centerLngE7" : 206691872,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJybG23K1JGUcRgGhDWOCkjx4",
+        "locationConfidence" : 1.5248681
+      }, {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.09035978
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.06147821
+      }, {
+        "latitudeE7" : 521309270,
+        "longitudeE7" : 206718880,
+        "placeId" : "ChIJZVGu5gRJGUcRwjJx9fm_v_k",
+        "locationConfidence" : 0.034702986
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521307829,
+        "longitudeE7" : 206692140,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521271516,
+        "longitudeE7" : 206631117,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619808181133",
+        "endTimestampMs" : "1619809400561"
+      },
+      "distance" : 878,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 82.36554861068726
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 14.375150203704834
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.5890341252088547
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.566104194149375
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.45523145236074924
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.4246271215379238
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.1049953862093389
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0437193171819672
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.042017706437036395
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.017334760923404247
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006510515959234908
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0042953790398314595
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.003961132460972294
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0014587107216357253
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.884453623319132E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521309814,
+          "lngE7" : 206693058
+        }, {
+          "latE7" : 521284751,
+          "lngE7" : 206619415
+        }, {
+          "latE7" : 521271514,
+          "lngE7" : 206631126
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521270988,
+        "longitudeE7" : 206632903,
+        "placeId" : "ChIJmU5p5xxJGUcRfwmEpJ-oWMU",
+        "address" : "Tadeusza Kościuszki 40\n05-822 Milanówek\nPolska",
+        "name" : "Żabka",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 75.38337
+      },
+      "duration" : {
+        "startTimestampMs" : "1619809400561",
+        "endTimestampMs" : "1619809884153"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 521264620,
+      "centerLngE7" : 206634220,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521262725,
+        "longitudeE7" : 206634649,
+        "placeId" : "ChIJM0UeHB1JGUcRhMCQ90jIK7s",
+        "address" : "Tadeusza Kościuszki 41\n05-822 Milanówek\nPolska",
+        "name" : "Roman Catholic Parish of St. Jadwiga",
+        "locationConfidence" : 5.705399
+      }, {
+        "latitudeE7" : 521257506,
+        "longitudeE7" : 206619807,
+        "placeId" : "ChIJDQlSwB1JGUcRhNyBBwrBGoQ",
+        "locationConfidence" : 5.219413
+      }, {
+        "latitudeE7" : 521264306,
+        "longitudeE7" : 206640118,
+        "placeId" : "ChIJUQoMnGVJGUcRpBrShdgVm9k",
+        "locationConfidence" : 3.4988654
+      }, {
+        "latitudeE7" : 521255400,
+        "longitudeE7" : 206631149,
+        "placeId" : "ChIJHeiEQB1JGUcR7aIzTNmTUg4",
+        "locationConfidence" : 3.4574966
+      }, {
+        "latitudeE7" : 521256202,
+        "longitudeE7" : 206633922,
+        "placeId" : "ChIJf5MaWtlJGUcRasA1V4Kbbzc",
+        "locationConfidence" : 1.1271372
+      }, {
+        "latitudeE7" : 521271631,
+        "longitudeE7" : 206633064,
+        "placeId" : "ChIJF7dc6k9JGUcRi0PuASbpySk",
+        "locationConfidence" : 0.752505
+      }, {
+        "latitudeE7" : 521257417,
+        "longitudeE7" : 206636794,
+        "placeId" : "ChIJq3Tw93FJGUcRWu2wjcI4kkk",
+        "locationConfidence" : 0.6665207
+      }, {
+        "latitudeE7" : 521264236,
+        "longitudeE7" : 206639951,
+        "placeId" : "ChIJ6TZGspBJGUcRHiIwFmEIgwg",
+        "locationConfidence" : 0.61734486
+      }, {
+        "latitudeE7" : 521269561,
+        "longitudeE7" : 206635654,
+        "placeId" : "ChIJxd22FN9JGUcRCaorEzZ606w",
+        "locationConfidence" : 0.59261334
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521269316,
+        "longitudeE7" : 206634366,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521308936,
+        "longitudeE7" : 206692064,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619809884153",
+        "endTimestampMs" : "1619810868237"
+      },
+      "distance" : 921,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 78.45505475997925
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 19.15581226348877
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.8875172585248947
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.4725002683699131
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.41340989992022514
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.3646756988018751
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.13584926491603255
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.040263665141537786
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04019161860924214
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.019214222265873104
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.005828331995871849
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.004091587470611557
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.003783505962928757
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0017981979908654466
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.5904488028299966E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521268997,
+          "lngE7" : 206633510
+        }, {
+          "latE7" : 521284751,
+          "lngE7" : 206619415
+        }, {
+          "latE7" : 521309890,
+          "lngE7" : 206692504
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 96.41968
+      },
+      "duration" : {
+        "startTimestampMs" : "1619810868237",
+        "endTimestampMs" : "1619812078907"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308791,
+      "centerLngE7" : 206692282,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJybG23K1JGUcRgGhDWOCkjx4",
+        "locationConfidence" : 1.6721079
+      }, {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.3196815
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.06857956
+      }, {
+        "latitudeE7" : 521309270,
+        "longitudeE7" : 206718880,
+        "placeId" : "ChIJZVGu5gRJGUcRwjJx9fm_v_k",
+        "locationConfidence" : 0.03558129
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521309287,
+        "longitudeE7" : 206692966,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521193691,
+        "longitudeE7" : 206700950,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619812078907",
+        "endTimestampMs" : "1619812804103"
+      },
+      "distance" : 1791,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 73.15016984939575
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 24.06536638736725
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.2848656624555588
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.8836722001433372
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.2151505323126912
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.18148731905966997
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.11406783014535904
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.06273678736761212
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.016721132851671427
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.01141232787631452
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.005402010719990358
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.004428141983225942
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0028782949812011793
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.001630425322218798
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 9.072756768091494E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521309776,
+          "lngE7" : 206693191
+        }, {
+          "latE7" : 521293487,
+          "lngE7" : 206616172
+        }, {
+          "latE7" : 521290397,
+          "lngE7" : 206615295
+        }, {
+          "latE7" : 521247978,
+          "lngE7" : 206632556
+        }, {
+          "latE7" : 521194496,
+          "lngE7" : 206700210
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 521290512,
+          "lngE7" : 206615677,
+          "timestampMs" : "1619812200922",
+          "accuracyMeters" : 56
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1619812925271",
+        "location" : {
+          "latitudeE7" : 521189718,
+          "longitudeE7" : 206706356,
+          "accuracyMetres" : 83
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521190156,
+        "longitudeE7" : 206707780,
+        "placeId" : "ChIJF0cvlf5IGUcRT1uHE2ivvCY",
+        "address" : "Marszałka Józefa Piłsudskiego 3\n05-822 Milanówek\nPolska",
+        "name" : "Biedronka",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 97.40904
+      },
+      "duration" : {
+        "startTimestampMs" : "1619812804103",
+        "endTimestampMs" : "1619814266193"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521190138,
+      "centerLngE7" : 206705285,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521177046,
+        "longitudeE7" : 206710547,
+        "placeId" : "ChIJPxdCy_5IGUcRPvKl2zBiUyg",
+        "locationConfidence" : 0.8801137
+      }, {
+        "latitudeE7" : 521171706,
+        "longitudeE7" : 206721450,
+        "placeId" : "ChIJx5pNL_9IGUcRlhubcXYQDkk",
+        "locationConfidence" : 0.25757992
+      }, {
+        "latitudeE7" : 521173600,
+        "longitudeE7" : 206716740,
+        "placeId" : "ChIJx5pNL_9IGUcRr48pRRcCjc0",
+        "locationConfidence" : 0.2543389
+      }, {
+        "latitudeE7" : 521189848,
+        "longitudeE7" : 206707733,
+        "placeId" : "ChIJ1S-olP5IGUcRpadFQWhpniA",
+        "locationConfidence" : 0.093505256
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521193113,
+        "longitudeE7" : 206699485,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521308552,
+        "longitudeE7" : 206692680,
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1619814266193",
+        "endTimestampMs" : "1619814675668"
+      },
+      "distance" : 1322,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 86.88804507255554
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.094888716936111
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.345293015241623
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.2879202142357826
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.13367468491196632
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.09628687985241413
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.08459037053398788
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03601022472139448
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.012322208203841
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.009543840133119375
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.004058409103890881
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0035917273635277525
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0019414830603636801
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0018373304556007497
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.6739540298924567E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521193962,
+          "lngE7" : 206698646
+        }, {
+          "latE7" : 521224021,
+          "lngE7" : 206658496
+        }, {
+          "latE7" : 521309776,
+          "lngE7" : 206693229
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1619814801004",
+        "location" : {
+          "latitudeE7" : 521308768,
+          "longitudeE7" : 206691749,
+          "accuracyMetres" : 80
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJu43Q0gRJGUcRYoARQtYN_mI",
+        "address" : "Podgórna 13, 05-822 Milanówek, Polska",
+        "name" : "Podgórna 13",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1371623350
+        },
+        "locationConfidence" : 97.95729
+      },
+      "duration" : {
+        "startTimestampMs" : "1619814675668",
+        "endTimestampMs" : "1620157515840"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 521308648,
+      "centerLngE7" : 206692055,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521308755,
+        "longitudeE7" : 206691174,
+        "placeId" : "ChIJybG23K1JGUcRgGhDWOCkjx4",
+        "locationConfidence" : 0.52665573
+      }, {
+        "latitudeE7" : 521302100,
+        "longitudeE7" : 206682100,
+        "placeId" : "ChIJsaTO0gRJGUcR-WmTI4mbB1Y",
+        "locationConfidence" : 0.11601026
+      }, {
+        "latitudeE7" : 521315029,
+        "longitudeE7" : 206693440,
+        "placeId" : "ChIJ-YXOvolJGUcRDaKY3XJ09_c",
+        "locationConfidence" : 0.048815146
+      }, {
+        "latitudeE7" : 521319070,
+        "longitudeE7" : 206676179,
+        "placeId" : "ChIJD93H92dJGUcRbZ5mXMlXui0",
+        "locationConfidence" : 0.024398532
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

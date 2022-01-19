@@ -1,0 +1,14 @@
+name: Google-maps-app
+title: Google-maps-app
+username:
+account: zuzannakotlinska
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5468136
+bundleId: 5485025
+url: https://zuzannakotlinska.shinyapps.io/Google-maps-app/
+when: 1642600198.63434
+lastSyncTime: 1642600198.63434
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/bootstrap.min.css|www/google-maps-logo.png|Wiktor dane
