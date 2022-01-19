@@ -1,4 +1,7 @@
 # twd2
+
+link do aplikacji:
 https://zakrzewow.shinyapps.io/twd2/
 
-Do 19.01.2022 r. - gotowa aplikacja + nagranie
+link do filmu:
+https://drive.google.com/file/d/14hZmcUXnxnWuIlfncd5sprXl4DbZ6T7H/view?usp=sharing
