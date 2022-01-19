@@ -1,0 +1,233 @@
+body {
+    background-color: #2B2B2B;
+    color: #A9B7C6;
+    font-family: "Fira Code", "Lucida Console", Monaco, monospace;
+    padding-bottom: 5%;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 1.75em;
+    font-style: italic;
+    padding: 20px 0 20px 0;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.25em;
+}
+
+h5, h6, p, li {
+    font-size: 1em;
+}
+
+h1, .number {
+    color: #6897BB;
+}
+
+h2, .keyword {
+    color: #CB772F;
+}
+
+h3, h4, h5, h6, .htmlTag {
+    color: #FFC66D;
+}
+
+.comment, small {
+    color: #808080;
+}
+
+a {
+    font-size: .9em;
+    color: #A5C25C;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #619647;
+}
+
+button {
+    color: #2B2B2B;
+    background-color: #CB772F;
+    border: none;
+    padding: 20px 20px;
+    border-radius: 2px;
+}
+
+hr {
+    background-color: #CB772F;
+    height: 4px;
+    border: 2px solid #FFC66D;
+    border-radius: 2px;
+}
+
+/* Slider */
+
+.rc-slider-rail {
+    background-color: #CB772F;
+}
+
+.rc-slider-track {
+    background-color: #FFC66D;
+}
+
+.rc-slider-dot {
+    background-color: #CB772F;
+    border-color: #CB772F;
+}
+
+.rc-slider-dot-active {
+    border-color: #FFC66D;
+}
+
+.rc-slider-handle {
+    border-color: #FFC66D;
+    background-color: #CB772F;
+}
+
+/*
+==== DateRangePicker ====
+*/
+
+/* to co widac od razu */
+
+.DateRangePickerInput {
+    background-color: #CB772F;
+    border-color: #CB772F;
+    border-radius: 2px;
+}
+
+.DateInput_input {
+    background: #CB772F;
+    color: #2B2B2B;
+}
+
+.DateInput_input__focused {
+    border-bottom: 2px solid #FFC66D;
+}
+
+.DateRangePickerInput_arrow_svg {
+    fill: #2B2B2B;
+}
+
+/* okienko kalendarza - tlo etc. */
+
+.DateRangePicker_picker {
+    background: #202020;
+}
+
+.DayPicker {
+    background: #202020;
+    border: none;
+}
+
+.DayPicker_transitionContainer {
+    background: #202020;
+    border: none;
+}
+
+.DayPicker_focusRegion {
+    background: #202020;
+}
+
+.DateInput_fangStroke {
+    stroke: #202020;
+    fill: #202020;
+}
+
+.CalendarMonthGrid {
+    background: #202020;
+    border: none;
+}
+
+.CalendarMonth {
+    background: #202020;
+    color: #CB772F;
+}
+
+.CalendarMonth_caption {
+    color: #FFC66D;
+}
+
+.DayPickerNavigation_button {
+    background: #202020;
+    border: 1px solid #CB772F;
+}
+
+.DayPickerNavigation_button:hover {
+    background: #404040;
+    border: 1px solid #CB772F;
+}
+
+.DayPickerNavigation_svg__horizontal {
+    fill: #CB772F;
+}
+
+/* dni tygodnia */
+
+small {
+    color: #CB772F;
+}
+
+/* te male kwadraciki z dniem miesiaca */
+
+.CalendarDay__default {
+    color: #CB772F;
+    background: #202020;
+    border: 1px solid #000000;
+}
+
+.CalendarDay__default:hover {
+    background: #E6944E;
+    color: #202020;
+    border: 1px solid #000000;
+}
+
+.CalendarDay__selected,
+.CalendarDay__selected:hover,
+.CalendarDay__selected:active {
+    background: #FFC66D;
+    color: #202020;
+}
+
+.CalendarDay__selected_span {
+    background: #CB772F;
+    color: #202020;
+}
+
+/* ten mały znak zapytania w rogu
+ i to co sie wyswietla jak sie go kliknie */
+
+.DayPickerKeyboardShortcuts_showSpan {
+    color: #202020;
+}
+
+.DayPickerKeyboardShortcuts_show__bottomRight::before {
+    border-right: 33px solid #CB772F;
+}
+
+.DayPickerKeyboardShortcuts_show__bottomRight:hover::before {
+    border-right: 33px solid #E6944E
+}
+
+.DayPickerKeyboardShortcuts_panel {
+    background: #202020;
+    border: 1px solid #000000;
+    color: #CB772F
+}
+
+.DayPickerKeyboardShortcuts_closeSvg {
+    fill: #CB772F;
+}
+
+.DayPickerKeyboardShortcuts_closeSvg:hover,
+.DayPickerKeyboardShortcuts_closeSvg:focus {
+    fill: #E6944E;
+}
