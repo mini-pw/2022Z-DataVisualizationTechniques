@@ -1,0 +1,37 @@
+.text-buttons-container {
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    height: auto
+}
+
+.text-button {
+    background-color: var(--bg-gray);
+    border: none;
+    height: auto;
+    width: auto;
+    padding: 0px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin: 0px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 48px;
+    font-family: spotiFont;
+    color: var(--green);
+    text-align: center;
+    transition: transform height 0.1s;
+}
+
+.text-button:hover {
+    color: var(--cream);
+    /*text-shadow: 5px 5px #33493b;*/
+    text-shadow: 3px 3px var(--dark-cream);
+    transform: translateY(-10%);
+    height: 120%;
+}
+
+.text-button:active {
+    color: var(--dark-cream);
+    text-shadow: 3px 3px var(--dark-dark-cream);
+}

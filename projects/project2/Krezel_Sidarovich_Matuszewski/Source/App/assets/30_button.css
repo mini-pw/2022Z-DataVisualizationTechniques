@@ -1,0 +1,27 @@
+.buttons-container {
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    background-color: var(--green);
+    border: none;
+    height: 40px;
+    width: 200px;
+    font-size: 16px;
+    font-family: spotiFont;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 50px;
+}
+
+.button:hover {
+    background-color: var(--dark-green);
+    color: white;
+}
+
+.button:active {
+    background-color: var(--dark-dark-green);
+    color: white;
+}

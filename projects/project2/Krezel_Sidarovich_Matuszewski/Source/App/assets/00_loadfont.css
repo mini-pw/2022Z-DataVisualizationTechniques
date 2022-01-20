@@ -1,0 +1,12 @@
+@font-face {
+    font-family: spotiFont;
+    src: url(fonts/Gotham-Font/GothamMedium.ttf);
+}
+@font-face {
+    font-family: spotiFontBold;
+    src: url(fonts/Gotham-Font/GothamBold.ttf);
+}
+@font-face {
+    font-family: spotiFontLight;
+    src: url(fonts/Gotham-Font/GothamLight.ttf);
+}

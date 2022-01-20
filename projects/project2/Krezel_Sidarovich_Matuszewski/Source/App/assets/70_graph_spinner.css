@@ -1,0 +1,43 @@
+.dash-bar__one {
+    background-color: var(--fuchsia) !important;
+}
+
+.dash-bar__two {
+    background-color: var(--fuchsia) !important;
+}
+
+.dash-bar__three {
+    background-color: var(--fuchsia) !important;
+}
+
+.dash-dot__one {
+    background-color: var(--fuchsia) !important;
+}
+
+.dash-dot__two {
+    background-color: var(--fuchsia) !important;
+}
+
+.dash-dot__three {
+    background-color: var(--fuchsia) !important;
+}
+
+.dash-dot__four {
+    background-color: var(--fuchsia) !important;
+}
+
+.dash-vert__one {
+    background-color: var(--green) !important;
+}
+
+.dash-vert__two {
+    background-color: var(--dark-green) !important;
+}
+
+.dash-vert__three {
+    background-color: var(--cream) !important;
+}
+
+.dash-vert__four {
+    background-color: var(--dark-cream) !important;
+}

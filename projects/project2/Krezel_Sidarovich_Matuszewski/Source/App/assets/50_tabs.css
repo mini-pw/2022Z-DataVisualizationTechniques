@@ -1,0 +1,25 @@
+.visualisations-tab{
+    width: 100%; 
+    display: none;
+    justify-content: center;
+}
+
+.visualisations-row {
+    width: 100%; 
+    display: flex
+}
+
+.visualisations-text {
+    margin: 5px; 
+    width: 50%
+}
+
+.visualisations-chart {
+    margin: 5px; 
+    width: 70%
+}
+
+.visualisations-chart-desc {
+    margin: 5px; 
+    width: 30%
+}

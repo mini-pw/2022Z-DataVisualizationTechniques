@@ -1,0 +1,33 @@
+body {
+    font-family: spotiFont;
+    background-color: #161616;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+body.preload *{
+    animation-duration: 0s !important;
+    -webkit-animation-duration: 0s !important;
+    transition:background-color 0s, opacity 0s, color 0s, width 0s, height 0s, padding 0s, margin 0s !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: var(--green);
+}
+b, strong {
+    color: var(--green);
+}
+i, em {
+    color: var(--fuchsia);
+}
+P {
+    color: #e9e9e9;
+}
+ul {
+    color: var(--green);
+}
+.modebar{
+    display: none !important;
+}
+a {
+    color: rgb(76, 146, 236);
+    text-decoration: none;
+}
