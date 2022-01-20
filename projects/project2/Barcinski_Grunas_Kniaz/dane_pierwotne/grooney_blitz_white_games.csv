@@ -1,0 +1,535 @@
+id,date,time,white,black,white elo,black elo,time control,opening code,opening name,length,termination,result,hero points,has eval,has increment,link
+1,2021.12.15,21:17:15,grooney,samtoyousir,2222,2219,180+0,B23,Sicilian Defense: Grand Prix Attack,32,Resign,0-1,0,False,False,https://lichess.org/wjm7uOQt
+2,2021.12.15,21:13:25,grooney,kuttus,2228,2239,180+0,D45,Semi-Slav Defense: Normal Variation,31,Checkmate,0-1,0,False,False,https://lichess.org/ZCdD62LB
+3,2021.12.15,21:07:28,grooney,HaceClickEnLaBandera,2223,2172,180+0,D06,Queen's Gambit Declined: Marshall Defense,28,Resign,1-0,1,False,False,https://lichess.org/bamj2Hrg
+4,2021.12.15,20:47:25,grooney,avirod,2212,2207,180+0,A60,Benoni Defense: Modern Variation,49,Resign,0-1,0,False,False,https://lichess.org/UnRm1ZfG
+5,2021.12.10,14:19:55,grooney,soltanovch,2216,2289,180+0,C40,Elephant Gambit,28,Checkmate,0-1,0,False,False,https://lichess.org/SSvkv7bq
+6,2021.12.10,13:27:12,grooney,ornello1,2215,2262,180+0,B10,Caro-Kann Defense: Breyer Variation,86,Resign,1/2-1/2,0.5,False,False,https://lichess.org/b4rPu34h
+7,2021.12.09,17:38:28,grooney,Coach_W3ndel1,2221,2221,180+0,E06,Catalan Opening: Closed,12,Resign,0-1,0,False,False,https://lichess.org/2soD4zGu
+8,2021.12.09,17:26:00,grooney,SeriKentau,2221,2224,180+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,72,Time forfeit,1/2-1/2,0.5,False,False,https://lichess.org/I5gnug7m
+9,2021.12.06,20:40:38,grooney,scacchidelnord,2222,2188,180+0,E60,GrĂĽnfeld Defense: Counterthrust Variation,37,Resign,0-1,0,False,False,https://lichess.org/P7DCdo2p
+10,2021.12.04,18:48:46,grooney,Onihie,2228,2192,180+0,A80,Dutch Defense,36,Time forfeit,1-0,1,False,False,https://lichess.org/I3gEISh4
+11,2021.12.04,18:45:26,grooney,alberteinsten33,2233,2236,180+0,D43,Semi-Slav Defense,26,Resign,0-1,0,False,False,https://lichess.org/VDAWkiU7
+12,2021.12.04,18:39:20,grooney,hamidinoor,2240,2194,180+0,D15,Slav Defense: Three Knights Variation,65,Time forfeit,0-1,0,False,False,https://lichess.org/nIpQOUJQ
+13,2021.12.04,18:35:21,grooney,Kormakur123,2228,2215,180+0,D85,"GrĂĽnfeld Defense: Exchange Variation, Modern Exchange Variation",36,Resign,1-0,1,False,False,https://lichess.org/Z0uHR8Tn
+14,2021.12.04,18:28:33,grooney,Tusha44,2222,2192,180+0,A43,Benoni Defense: Old Benoni,59,Time forfeit,1-0,1,False,False,https://lichess.org/SkWtonqY
+15,2021.12.04,14:06:46,grooney,Ralph74,2225,2400,180+0,A41,Old Indian Defense,43,Checkmate,0-1,0,False,False,https://lichess.org/HZkC7gbT
+16,2021.12.03,13:14:19,grooney,saidamirbaku89,2229,2290,180+0,A40,Mikenas Defense: Lithuanian Variation,50,Time forfeit,0-1,0,False,False,https://lichess.org/91c5dWiR
+17,2021.12.03,13:09:56,grooney,TeSacudo,2235,2238,180+0,A57,Benko Gambit Accepted: Pawn Return Variation,35,Resign,0-1,0,False,False,https://lichess.org/nT2Yuu2N
+18,2021.12.03,12:09:32,grooney,Reali,2238,2262,180+0,E06,Catalan Opening: Closed,28,Resign,0-1,0,False,False,https://lichess.org/qXH31AvD
+19,2021.12.03,11:55:21,grooney,SchImIdt,2226,2214,180+0,A57,Benko Gambit Accepted: Pawn Return Variation,33,Checkmate,1-0,1,True,False,https://lichess.org/Y8P8cbXx
+20,2021.12.02,17:49:21,grooney,happyme1981,2213,2206,180+0,A80,Dutch Defense: Hopton Attack,39,Resign,1-0,1,False,False,https://lichess.org/7g32RdnB
+21,2021.12.02,17:43:42,grooney,Mukali,2207,2217,180+0,E70,King's Indian Defense: Normal Variation,46,Checkmate,1-0,1,False,False,https://lichess.org/S1ibFVsf
+22,2021.12.02,17:40:12,grooney,Skzvizd,2207,2170,180+0,A40,Englund Gambit Complex: Englund Gambit,17,Resign,1-0,1,False,False,https://lichess.org/1cRXJi4H
+23,2021.12.02,16:15:29,grooney,Zweitausend7,2197,2128,180+0,D30,Queen's Gambit Declined,22,Time forfeit,1-0,1,False,False,https://lichess.org/NjZcIk5Q
+24,2021.12.02,16:02:42,grooney,EmCaguenTot,2183,2266,180+0,E01,Catalan Opening: Closed,33,Checkmate,1-0,1,False,False,https://lichess.org/kdmcoSZq
+25,2021.12.02,15:54:24,grooney,Leonid53,2184,2153,180+0,A52,"Indian Defense: Budapest Defense, Adler Variation",33,Resign,0-1,0,False,False,https://lichess.org/jnNsfH9V
+26,2021.12.02,15:10:49,grooney,Raissaxadrez,2179,2109,180+0,E01,Catalan Opening: Closed,43,Resign,1-0,1,False,False,https://lichess.org/N5LD9ISl
+27,2021.12.02,14:58:14,grooney,hrahor,2169,2097,180+0,E70,King's Indian Defense: Normal Variation,65,Time forfeit,1-0,1,False,False,https://lichess.org/hsjkyzKc
+28,2021.12.02,13:27:00,grooney,RobertsZiedins,2180,2180,180+0,C63,Ruy Lopez: Schliemann Defense,15,Resign,0-1,0,False,False,https://lichess.org/m49mDaxm
+29,2021.12.02,13:22:41,grooney,merciless_ant,2186,2179,180+0,B00,Owen Defense,29,Checkmate,0-1,0,False,False,https://lichess.org/wtuwxF9Y
+30,2021.12.01,22:09:51,grooney,Al-J,2192,2181,180+0,D07,"Queen's Gambit Declined: Chigorin Defense, Modern Gambit",13,Resign,0-1,0,False,False,https://lichess.org/IfGKHWX4
+31,2021.12.01,22:05:43,grooney,GustavoParreira1351,2197,2224,180+0,E18,"Queen's Indian Defense: Classical Variation, Traditional Variation, Nimzowitsch Line",47,Checkmate,0-1,0,False,False,https://lichess.org/t7kGYObD
+32,2021.12.01,22:02:24,grooney,Schachtiger_OH,2204,2133,180+0,C00,French Defense: Queen's Knight,25,Resign,0-1,0,False,False,https://lichess.org/6PLEIFCz
+33,2021.12.01,17:21:19,grooney,tato2711,2210,2206,180+0,B02,"Alekhine Defense: Scandinavian Variation, Geschev Gambit",47,Time forfeit,0-1,0,False,False,https://lichess.org/NV7aHULc
+34,2021.12.01,17:16:23,grooney,Lot105,2217,2172,180+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,51,Resign,0-1,0,False,False,https://lichess.org/rOg0KYT4
+35,2021.11.24,21:28:00,grooney,kepia,2228,2160,180+0,A43,Benoni Defense: Old Benoni,47,Time forfeit,0-1,0,False,False,https://lichess.org/7Joc3VsH
+36,2021.11.24,21:22:33,grooney,Morangos,2233,2261,180+0,A52,"Indian Defense: Budapest Defense, Adler Variation",38,Checkmate,0-1,0,False,False,https://lichess.org/3wD6bvNk
+37,2021.11.24,20:57:46,grooney,fluxus2020,2232,2314,180+0,D06,Queen's Gambit Declined: Marshall Defense,45,Resign,0-1,0,False,False,https://lichess.org/XzUGaves
+38,2021.11.17,23:32:44,grooney,lozovskiy18,2238,2273,180+0,E00,Catalan Opening,23,Resign,1-0,1,False,False,https://lichess.org/zRdqdtFO
+39,2021.11.17,23:16:17,grooney,eldebarva,2230,2237,180+0,A43,Benoni Defense: Old Benoni,36,Checkmate,0-1,0,False,False,https://lichess.org/wCzMovlS
+40,2021.11.17,23:13:40,grooney,jrsm3399,2225,2162,180+0,D02,Queen's Gambit Accepted: Rosenthal Variation,16,Resign,1-0,1,False,False,https://lichess.org/hDyJc46O
+41,2021.11.17,22:17:16,grooney,CroqueMais,2231,2237,180+0,A57,Benko Gambit Accepted: Pawn Return Variation,91,Checkmate,0-1,0,False,False,https://lichess.org/DF5573Dg
+42,2021.11.17,22:06:21,grooney,kobebryant72,2219,2203,180+0,A43,Benoni Defense: Old Benoni,43,Resign,1-0,1,False,False,https://lichess.org/k471gDmT
+43,2021.11.17,21:14:36,grooney,yemolala,2213,2229,180+0,D30,Queen's Gambit Declined,32,Resign,0-1,0,False,False,https://lichess.org/eXg0ICSW
+44,2021.11.17,21:07:51,grooney,SsNeIc,2207,2219,180+0,A82,Rat Defense: Balogh Defense,35,Checkmate,1-0,1,True,False,https://lichess.org/StscIOAr
+45,2021.11.17,19:00:56,grooney,moguzii,2220,2154,180+0,A40,Queen's Pawn Game,17,Resign,0-1,0,False,False,https://lichess.org/BCVF2kmn
+46,2021.11.14,19:11:24,grooney,HectorMG,2241,2299,180+0,B06,Modern Defense,18,Resign,0-1,0,False,False,https://lichess.org/wN0qfcIx
+47,2021.11.14,18:04:18,grooney,BryanMarin24,2237,2172,180+0,D30,Queen's Gambit Declined,46,Time forfeit,1-0,1,False,False,https://lichess.org/uv9hYTgX
+48,2021.11.14,17:53:44,grooney,Chisopa1,2225,2262,180+0,A56,Benoni Defense: HromĂˇdka System,17,Time forfeit,1-0,1,True,False,https://lichess.org/r7AmJJWj
+49,2021.11.14,17:50:32,grooney,yerminator,2220,2226,180+0,B07,Czech Defense,22,Resign,1-0,1,False,False,https://lichess.org/KpIHivyX
+50,2021.11.14,17:38:02,grooney,abumohammad,2226,2161,180+0,A44,Benoni Defense: Old Benoni,19,Resign,1-0,1,False,False,https://lichess.org/JOfi0lQ5
+51,2021.11.13,19:16:15,grooney,Timayus1996,2232,2236,180+0,C01,"French Defense: Exchange Variation, Monte Carlo Variation",25,Resign,0-1,0,False,False,https://lichess.org/9Qk7fKsC
+52,2021.11.13,19:10:46,grooney,Charlie87Baraca,2227,2155,180+0,C01,"French Defense: Exchange Variation, Monte Carlo Variation",31,Resign,1-0,1,False,False,https://lichess.org/3UZcufr2
+53,2021.11.13,18:55:08,grooney,Vaibhav_Patel,2233,2171,180+0,C96,"Ruy Lopez: Closed, Closed Defense",38,Resign,0-1,0,False,False,https://lichess.org/9JzNaz1v
+54,2021.11.12,14:42:42,grooney,Dr_Aleria,2227,2225,180+0,C00,French Defense: King's Indian Attack,29,Resign,0-1,0,False,False,https://lichess.org/219WOilq
+55,2021.11.12,14:33:47,grooney,V0G3L,2216,2215,180+0,C65,"Ruy Lopez: Classical Variation, Zukertort Gambit",28,Checkmate,1-0,1,False,False,https://lichess.org/l6Hv3Qov
+56,2021.11.12,14:23:53,grooney,meliniak,2204,2204,180+0,C78,Ruy Lopez: Morphy Defense,36,Resign,1-0,1,False,False,https://lichess.org/Kj6uDziu
+57,2021.11.12,14:10:17,grooney,pan_rale,2204,2212,180+0,B12,"Caro-Kann Defense: Advance Variation, Tal Variation",43,Resign,1/2-1/2,0.5,False,False,https://lichess.org/B9RgVvxY
+58,2021.11.11,16:31:23,grooney,you_know_nothing,2205,2231,180+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line",15,Resign,0-1,0,False,False,https://lichess.org/LBepqzdD
+59,2021.11.11,16:19:16,grooney,MartasRRR,2205,2153,180+0,B10,Caro-Kann Defense: Breyer Variation,29,Resign,1-0,1,False,False,https://lichess.org/1rBahS2P
+60,2021.11.11,16:09:16,grooney,elmister555,2194,2176,180+0,C00,French Defense: King's Indian Attack,35,Resign,1-0,1,False,False,https://lichess.org/kLxF57Rn
+61,2021.11.11,16:01:12,grooney,Nas114,2182,2184,180+0,C40,Elephant Gambit,16,Resign,1-0,1,False,False,https://lichess.org/Q2kDR3Wb
+62,2021.11.11,15:28:18,grooney,sh-hadi,2194,2185,180+0,B50,Sicilian Defense: Delayed Alapin,20,Resign,0-1,0,False,False,https://lichess.org/mhS7u78q
+63,2021.11.11,15:22:03,grooney,Gosuness,2200,2215,180+0,B10,Caro-Kann Defense: Breyer Variation,65,Time forfeit,0-1,0,False,False,https://lichess.org/xCdELRQN
+64,2021.11.11,15:15:49,grooney,Jean-Valois,2201,2195,180+0,B10,Caro-Kann Defense: Breyer Variation,37,Resign,0-1,0,False,False,https://lichess.org/xlEL5VKj
+65,2021.11.10,17:40:39,grooney,Renars1234567890,2203,2108,180+0,B01,Scandinavian Defense: Main Line,67,Time forfeit,1-0,1,False,False,https://lichess.org/ZLvSa3jR
+66,2021.11.10,17:32:17,grooney,vincentmia,2213,2304,180+0,C64,"Ruy Lopez: Classical Variation, Central Variation",31,Resign,0-1,0,False,False,https://lichess.org/2Nrpm37Z
+67,2021.11.10,17:26:33,grooney,omare123,2206,2257,180+0,B03,Alekhine Defense,56,Checkmate,1-0,1,False,False,https://lichess.org/qLl3Jv12
+68,2021.11.10,17:17:03,grooney,ayouzef,2213,2181,180+0,C00,French Defense: King's Indian Attack,51,Resign,0-1,0,False,False,https://lichess.org/tHXunMCG
+69,2021.11.09,22:25:06,grooney,shayjaya,2202,2148,180+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,33,Resign,1-0,1,False,False,https://lichess.org/qud4gRKH
+70,2021.11.09,22:18:53,grooney,Nikolay8_Agarkov,2208,2170,180+0,C00,French Defense: King's Indian Attack,61,Checkmate,0-1,0,False,False,https://lichess.org/tCEE0dEH
+71,2021.11.09,20:44:16,grooney,BorisTheGreat,2209,2179,180+0,B04,"Alekhine Defense: Modern Variation, Schmid Variation",90,Checkmate,0-1,0,False,False,https://lichess.org/x4HUv30H
+72,2021.11.09,20:08:49,grooney,Zenithial,2219,2225,180+0,B50,Sicilian Defense: Delayed Alapin,25,Resign,0-1,0,False,False,https://lichess.org/xvM1s22j
+73,2021.11.09,20:05:08,grooney,Kanarinac94,2231,2221,180+0,B27,Sicilian Defense: Hyperaccelerated Dragon,28,Resign,0-1,0,False,False,https://lichess.org/1LhjIchz
+74,2021.11.09,19:53:29,grooney,saurabh2020,2236,2242,180+0,C00,French Defense: King's Indian Attack,51,Resign,0-1,0,False,False,https://lichess.org/oPmUMPMD
+75,2021.11.09,19:39:57,grooney,Airatush74,2221,2170,180+0,B00,Pirc Defense,16,Resign,1-0,1,False,False,https://lichess.org/hckt3pan
+76,2021.11.09,19:34:07,grooney,omare123,2215,2233,180+0,B02,Alekhine Defense: Normal Variation,42,Checkmate,1-0,1,False,False,https://lichess.org/WBWj5Ca3
+77,2021.11.09,18:47:00,grooney,remzi373,2220,2224,180+0,C00,French Defense: King's Indian Attack,33,Resign,0-1,0,False,False,https://lichess.org/AgfEHpRf
+78,2021.11.09,18:28:09,grooney,Musa_Sadikhov,2229,2236,180+0,B40,Sicilian Defense: French Variation,34,Resign,0-1,0,False,False,https://lichess.org/dy22R62R
+79,2021.11.09,18:24:56,grooney,Giorgio_H,2228,2241,180+0,C00,French Defense: King's Indian Attack,30,Resign,1/2-1/2,0.5,False,False,https://lichess.org/jrPPRBv1
+80,2021.11.09,17:43:54,grooney,james1981,2234,2232,180+0,B27,Sicilian Defense: Quinteros Variation,54,Checkmate,0-1,0,False,False,https://lichess.org/iV95jwcp
+81,2021.11.09,17:27:09,grooney,sina_khv,2230,2189,180+0,C64,"Ruy Lopez: Classical Variation, Central Variation",16,Resign,0-1,0,False,False,https://lichess.org/PPbwRKyz
+82,2021.11.09,17:20:36,grooney,imdeepaksingh,2225,2188,180+0,B31,"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",69,Time forfeit,1-0,1,False,False,https://lichess.org/iGg975qu
+83,2021.11.09,16:57:19,grooney,cartapan,2233,2193,180+0,C71,Ruy Lopez: Noah's Ark Trap,58,Checkmate,1-0,1,False,False,https://lichess.org/WoFk58dB
+84,2021.11.09,16:51:06,grooney,Ytecargoelpayaso,2239,2226,180+0,B10,Caro-Kann Defense: Breyer Variation,54,Time forfeit,0-1,0,False,False,https://lichess.org/L7dzXUpD
+85,2021.11.09,16:38:15,grooney,jadsonunex,2231,2286,180+0,B50,Sicilian Defense: Delayed Alapin,31,Checkmate,1-0,1,True,False,https://lichess.org/U4OrufIW
+86,2021.11.09,16:26:58,grooney,trk21,2230,2316,180+0,B03,Alekhine Defense: Exchange Variation,21,Resign,0-1,0,False,False,https://lichess.org/t1Zr26Z1
+87,2021.11.09,16:21:39,grooney,icimdeki_iblis,2223,2278,180+0,C00,French Defense: King's Indian Attack,28,Resign,1-0,1,True,False,https://lichess.org/kkFNRtxM
+88,2021.11.07,21:37:41,grooney,nowao,2228,2233,180+0,B10,Caro-Kann Defense: Breyer Variation,45,Resign,0-1,0,False,False,https://lichess.org/JYnPvuEP
+89,2021.11.07,21:32:32,grooney,Fredrixe1,2234,2221,180+0,B03,Alekhine Defense: Exchange Variation,56,Resign,0-1,0,False,False,https://lichess.org/0c7oUTFA
+90,2021.11.07,21:15:23,grooney,DINO1992,2242,2172,180+0,B10,Caro-Kann Defense: Breyer Variation,55,Time forfeit,1-0,1,False,False,https://lichess.org/CXGNGj1V
+91,2021.11.07,19:06:06,grooney,zerosquare,2230,2185,180+0,B01,Scandinavian Defense: Modern Variation,52,Resign,1-0,1,False,False,https://lichess.org/KSoyraf1
+92,2021.11.07,19:03:35,grooney,TornadoXL,2224,2208,180+0,B50,Sicilian Defense: Delayed Alapin,29,Resign,1-0,1,False,False,https://lichess.org/XfwTwmC0
+93,2021.11.07,18:26:40,grooney,SvaMarga,2224,2275,180+0,C00,French Defense: King's Indian Attack,29,Resign,0-1,0,False,False,https://lichess.org/b46LD290
+94,2021.11.07,18:14:57,grooney,Marmal62,2222,2241,180+0,B50,Sicilian Defense: Delayed Alapin,54,Time forfeit,1-0,1,False,False,https://lichess.org/opm45ucF
+95,2021.11.07,17:41:44,grooney,Descarado,2224,2141,180+0,C00,French Defense: King's Indian Attack,53,Time forfeit,1-0,1,False,False,https://lichess.org/SDSapJo4
+96,2021.11.07,17:36:19,grooney,Silviar2,2230,2188,180+0,B01,Scandinavian Defense: Modern Variation,70,Resign,0-1,0,False,False,https://lichess.org/hD8QiGSy
+97,2021.11.07,17:25:11,grooney,metalico,2231,2232,180+0,B00,Pirc Defense,43,Time forfeit,1-0,1,False,False,https://lichess.org/kfLLNozT
+98,2021.11.07,17:12:09,grooney,chessplay251,2237,2232,180+0,B50,Sicilian Defense: Delayed Alapin,34,Resign,0-1,0,False,False,https://lichess.org/H1tJXSAV
+99,2021.11.07,17:04:48,grooney,IraGambit,2226,2183,180+0,B31,"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",26,Checkmate,1-0,1,False,False,https://lichess.org/lHZFjb4o
+100,2021.11.07,16:12:38,grooney,pourin,2220,2214,180+0,B50,Sicilian Defense: Delayed Alapin,77,Time forfeit,1/2-1/2,0.5,False,False,https://lichess.org/H0vzWaEC
+101,2021.11.07,16:11:12,grooney,AIMTonyFemenias,2226,2184,180+0,B00,"Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation",15,Resign,0-1,0,False,False,https://lichess.org/6lVVlAIv
+102,2021.11.03,23:48:53,grooney,zapallaso,2225,2359,180+0,C95,"Ruy Lopez: Closed, Breyer Defense",35,Resign,0-1,0,False,False,https://lichess.org/4wL6oIpy
+103,2021.11.03,23:33:42,grooney,Gubio,2231,2209,180+0,B23,Sicilian Defense: Grand Prix Attack,37,Checkmate,0-1,0,False,False,https://lichess.org/gQHs9CRH
+104,2021.11.03,00:03:43,grooney,RoFederer,2232,2174,180+0,B06,Modern Defense,29,Resign,0-1,0,False,False,https://lichess.org/hoDrJ4nK
+105,2021.11.02,23:57:50,grooney,Julpurs,2222,2130,180+0,C65,"Ruy Lopez: Classical Variation, Zukertort Gambit",12,Resign,1-0,1,False,False,https://lichess.org/PlheYOcQ
+106,2021.11.02,23:51:34,grooney,MrMasabo,2216,2220,180+0,B23,Sicilian Defense: Closed,54,Time forfeit,1-0,1,False,False,https://lichess.org/IpluJCiJ
+107,2021.11.02,23:41:34,grooney,fastblitzer_cgn,2226,2286,180+0,C00,French Defense: King's Indian Attack,40,Resign,0-1,0,False,False,https://lichess.org/AlAUkS1q
+108,2021.11.02,23:22:32,grooney,joniviera,2214,2143,180+0,C40,King's Pawn Game: McConnell Defense,87,Time forfeit,1-0,1,False,False,https://lichess.org/Kkc9fZPF
+109,2021.11.02,23:20:43,grooney,Aidivne,2209,2179,180+0,B22,Sicilian Defense: Alapin Variation,18,Resign,1-0,1,False,False,https://lichess.org/PtmGm827
+110,2021.11.02,23:14:30,grooney,erick_38,2215,2187,180+0,C88,Ruy Lopez: Closed,47,Checkmate,0-1,0,False,False,https://lichess.org/XjOiWBdE
+111,2021.11.02,18:11:31,grooney,rossey,2231,2280,180+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",25,Resign,0-1,0,False,False,https://lichess.org/IXjraxHj
+112,2021.11.02,18:06:53,grooney,Blitz2200,2230,2258,180+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,45,Resign,1/2-1/2,0.5,False,False,https://lichess.org/udsSK9Iy
+113,2021.11.01,18:06:03,grooney,SergioFre,2218,2196,180+0,C41,Philidor Defense: Lion Variation,51,Time forfeit,1-0,1,False,False,https://lichess.org/IswGoEyl
+114,2021.10.31,17:56:56,grooney,Workforfutur,2218,2237,180+0,B22,"Sicilian Defense: Alapin Variation, Smith-Morra Declined",78,Resign,1/2-1/2,0.5,False,False,https://lichess.org/AZgImI9a
+115,2021.10.29,18:14:02,grooney,kenyut,2224,2199,180+0,D00,Queen's Pawn Game,56,Checkmate,0-1,0,False,False,https://lichess.org/uc0ITSXK
+116,2021.10.29,18:08:27,grooney,mathinprivate,2224,2215,180+0,C00,French Defense: King's Indian Attack,11,Resign,1-0,1,False,False,https://lichess.org/gxlGkIJ9
+117,2021.10.29,18:05:17,grooney,Hvca_mota,2217,2314,180+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense, Central Exchange",32,Resign,1-0,1,False,False,https://lichess.org/bDGlH4ry
+118,2021.10.28,22:15:53,grooney,poketero,2222,2229,180+0,B22,Sicilian Defense: Alapin Variation,68,Resign,0-1,0,False,False,https://lichess.org/9IPAPIrs
+119,2021.10.28,22:10:45,grooney,oldmisio,2226,2360,180+0,B10,Caro-Kann Defense: Breyer Variation,42,Resign,0-1,0,False,False,https://lichess.org/U6wtfd8W
+120,2021.10.28,21:41:40,grooney,Peggles,2226,2251,180+0,B22,Sicilian Defense: Alapin Variation,44,Resign,1/2-1/2,0.5,False,False,https://lichess.org/hwuey7Yq
+121,2021.10.27,21:47:19,grooney,ekdubov,2232,2186,180+0,C02,French Defense: Advance Variation,13,Resign,0-1,0,False,False,https://lichess.org/6A9V9T2p
+122,2021.10.27,21:36:59,grooney,dennis_deguzman,2232,2225,180+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",44,Time forfeit,1-0,1,False,False,https://lichess.org/kfNVm8GL
+123,2021.10.27,21:31:38,grooney,Julian123412345,2237,2266,180+0,C02,French Defense: Advance Variation,58,Checkmate,0-1,0,False,False,https://lichess.org/LMrMAEZj
+124,2021.10.26,23:08:21,grooney,capopampa,2238,2234,180+0,B22,Sicilian Defense: Alapin Variation,35,Checkmate,0-1,0,True,False,https://lichess.org/jIsHXy89
+125,2021.10.26,23:00:04,grooney,NARCOS255,2233,2194,180+0,C62,Ruy Lopez: Steinitz Defense,21,Checkmate,1-0,1,False,False,https://lichess.org/bmYEn0zW
+126,2021.10.26,21:47:54,grooney,ramildo,2230,2133,180+0,B22,Sicilian Defense: Alapin Variation,45,Checkmate,1-0,1,False,False,https://lichess.org/5oJ5O2IC
+127,2021.10.22,20:48:06,grooney,chepukaitis1966,2243,2263,180+0,C64,Ruy Lopez: Classical Variation,29,Resign,0-1,0,False,False,https://lichess.org/R3UPmTRK
+128,2021.10.22,18:29:20,grooney,TomTwigglet,2243,2305,180+0,B01,Scandinavian Defense: Main Line,60,Resign,0-1,0,False,False,https://lichess.org/sGtrkKuy
+129,2021.10.22,18:25:54,grooney,oussamasamy,2238,2186,180+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",23,Resign,1-0,1,False,False,https://lichess.org/Nf3d7Qe5
+130,2021.10.22,18:14:21,grooney,Karpovmexico,2226,2218,180+0,B09,"Pirc Defense: Austrian Attack, Dragon Formation",49,Time forfeit,1-0,1,False,False,https://lichess.org/v1tJQ737
+131,2021.10.22,18:05:27,grooney,Schokoladenzeit,2215,2184,180+0,E70,King's Indian Defense: Normal Variation,26,Checkmate,1-0,1,True,False,https://lichess.org/zXLuSeFs
+132,2021.10.21,19:51:39,grooney,OelderSchrecken,2214,2284,180+0,C00,French Defense: King's Indian Attack,8,Resign,0-1,0,False,False,https://lichess.org/q9xnFuzg
+133,2021.10.21,19:44:25,grooney,innomanno,2208,2202,180+0,B10,Caro-Kann Defense: Breyer Variation,49,Time forfeit,1-0,1,False,False,https://lichess.org/qOxbSFxz
+134,2021.10.21,19:17:06,grooney,Denis_70,2196,2259,180+0,B03,Alekhine Defense,48,Resign,1-0,1,False,False,https://lichess.org/ogawYmrx
+135,2021.10.21,17:36:07,grooney,kasparovgenoa,2200,2204,180+0,B09,"Pirc Defense: Austrian Attack, Dragon Formation",56,Checkmate,1-0,1,True,False,https://lichess.org/ON8fJ483
+136,2021.10.20,22:04:07,grooney,BlackNaka,2206,2178,180+0,C61,Ruy Lopez: Bird Variation,54,Time forfeit,0-1,0,False,False,https://lichess.org/ru9pTeJL
+137,2021.10.20,21:08:35,grooney,Kolpa59,2189,2260,180+0,B10,Caro-Kann Defense: Breyer Variation,75,Resign,1/2-1/2,0.5,False,False,https://lichess.org/pNGbql3V
+138,2021.10.17,21:23:14,grooney,vl_sh,2201,2144,180+0,C00,French Defense: Two Knights Variation,43,Resign,0-1,0,False,False,https://lichess.org/NZ693aFB
+139,2021.10.17,21:16:25,grooney,CristianRomao,2206,2246,180+0,C99,"Ruy Lopez: Morphy Defense, Chigorin Defense, Panov System",56,Checkmate,0-1,0,False,False,https://lichess.org/yCXRWfIg
+140,2021.10.16,15:54:33,grooney,Belov_Andrey,2197,2186,180+0,B22,"Sicilian Defense: Alapin Variation, Smith-Morra Declined",60,Time forfeit,1/2-1/2,0.5,False,False,https://lichess.org/XNUpzH45
+141,2021.10.16,15:37:05,grooney,shakoor_khan-nasiri,2191,2179,180+0,B06,Modern Defense,46,Resign,0-1,0,False,False,https://lichess.org/i4QYpKZD
+142,2021.10.16,15:30:28,grooney,DrFreakinstein,2184,2214,180+0,B00,Nimzowitsch Defense: French Connection,56,Resign,1-0,1,True,False,https://lichess.org/o7CI1k8q
+143,2021.10.16,15:16:08,grooney,sserwaniko,2178,2103,180+0,B22,Sicilian Defense: Alapin Variation,28,Resign,1-0,1,False,False,https://lichess.org/pQiQrXl2
+144,2021.10.16,15:11:56,grooney,veelteveel,2172,2132,180+0,B01,Scandinavian Defense: Modern Variation,33,Resign,1-0,1,False,False,https://lichess.org/qsd3csCW
+145,2021.10.14,20:20:24,grooney,mehran_aalivand,2173,2159,180+0,B10,Caro-Kann Defense,54,Time forfeit,1-0,1,False,False,https://lichess.org/mCaSfrp2
+146,2021.10.14,20:07:50,grooney,ferata13,2173,2207,180+0,C00,French Defense: Queen's Knight,69,Checkmate,0-1,0,False,False,https://lichess.org/L9pILPHW
+147,2021.10.14,19:57:04,grooney,mathinprivate,2176,2095,180+0,B23,Sicilian Defense: Closed,56,Time forfeit,0-1,0,False,False,https://lichess.org/WiHBSaTO
+148,2021.10.14,19:48:47,grooney,bvb77,2164,2146,180+0,B06,Modern Defense,53,Time forfeit,1-0,1,False,False,https://lichess.org/UYC2CCWU
+149,2021.10.13,19:52:12,grooney,HIomdina,2158,2170,180+0,C11,"French Defense: Classical Variation, Steinitz Variation",52,Time forfeit,1-0,1,False,False,https://lichess.org/QuqwzFID
+150,2021.10.10,16:58:19,grooney,Melison,2170,2161,180+0,C00,French Defense: Normal Variation,62,Checkmate,0-1,0,False,False,https://lichess.org/1OHDrLS8
+151,2021.10.10,16:53:22,grooney,mylt1966,2165,2140,180+0,B03,Alekhine Defense: Exchange Variation,36,Checkmate,1-0,1,False,False,https://lichess.org/xdkZ8YSq
+152,2021.10.10,16:24:15,grooney,abdo_cube,2177,2108,180+0,C62,Ruy Lopez: Steinitz Defense,26,Checkmate,0-1,0,False,False,https://lichess.org/xVbVeBqH
+153,2021.10.09,18:33:10,grooney,luces1976,2160,2168,180+0,E70,King's Indian Defense: Normal Variation,61,Checkmate,1-0,1,False,False,https://lichess.org/TjQ1TyQ9
+154,2021.10.09,18:26:12,grooney,Aiorus24,2167,2120,180+0,C65,Ruy Lopez: Berlin Defense,59,Checkmate,0-1,0,False,False,https://lichess.org/rewcbuUp
+155,2021.10.09,17:57:36,grooney,edi_wahyono,2155,2155,180+0,B22,Sicilian Defense: Alapin Variation,59,Time forfeit,1-0,1,False,False,https://lichess.org/dZGmn55M
+156,2021.10.09,17:51:22,grooney,James_10,2161,2157,180+0,B02,"Alekhine Defense: Scandinavian Variation, Geschev Gambit",76,Checkmate,0-1,0,False,False,https://lichess.org/yisZAsof
+157,2021.10.09,17:48:15,grooney,chesstime,2166,2177,180+0,B00,Pirc Defense,27,Resign,0-1,0,False,False,https://lichess.org/VhDAGSv2
+158,2021.10.09,17:36:05,grooney,meter,2161,2168,180+0,C60,Ruy Lopez: Cozio Defense,33,Resign,1-0,1,True,False,https://lichess.org/AOx11zl3
+159,2021.10.09,14:33:36,grooney,MrHazardous,2161,2118,180+0,C01,"French Defense: Exchange Variation, Monte Carlo Variation",37,Resign,1/2-1/2,0.5,False,False,https://lichess.org/YIsqHgk4
+160,2021.10.09,14:23:13,grooney,thefameking,2149,2145,180+0,B12,"Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense",27,Resign,1-0,1,False,False,https://lichess.org/mZQpuc9k
+161,2021.10.09,13:28:49,grooney,bogdan422,2143,2119,180+0,B22,Sicilian Defense: Alapin Variation,72,Checkmate,0-1,0,True,False,https://lichess.org/9jlpuxk6
+162,2021.10.09,13:21:41,grooney,Superzocker02,2155,2093,180+0,B12,"Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense",34,Resign,0-1,0,False,False,https://lichess.org/2NFJSZd5
+163,2021.10.09,12:51:28,grooney,Abanoub_Ashraf,2147,2293,180+0,C42,Russian Game: Stafford Gambit,71,Checkmate,1-0,1,True,False,https://lichess.org/pZVk1OhR
+164,2021.10.09,12:46:22,grooney,g4_g5_a6_b5,2139,2188,180+0,C01,"French Defense: Exchange Variation, Monte Carlo Variation",9,Resign,1-0,1,False,False,https://lichess.org/kwoVVFBW
+165,2021.10.08,12:37:05,grooney,botvnick,2150,2225,180+0,C70,"Ruy Lopez: Morphy Defense, Graz Variation",27,Resign,0-1,0,True,False,https://lichess.org/aKy0xjYd
+166,2021.10.08,10:58:43,grooney,Al-J,2156,2149,180+0,B01,Scandinavian Defense: Main Line,20,Resign,0-1,0,False,False,https://lichess.org/HTMKyTpE
+167,2021.10.08,10:46:36,grooney,Ytiv51,2139,2086,180+0,B22,Sicilian Defense: Alapin Variation,43,Time forfeit,1-0,1,False,False,https://lichess.org/ijFNr4cB
+168,2021.10.07,18:20:56,grooney,onnie2002-bw,2129,2056,180+0,B22,Sicilian Defense: Alapin Variation,17,Resign,1-0,1,False,False,https://lichess.org/dQTJIoLf
+169,2021.10.07,18:06:48,grooney,Widodo_BSB,2118,2108,180+0,C65,Ruy Lopez: Berlin Defense,24,Resign,1-0,1,False,False,https://lichess.org/Y65o0SCx
+170,2021.10.07,18:03:18,grooney,AntonioGrandeCamera,2113,2092,180+0,B22,Sicilian Defense: Alapin Variation,37,Resign,1-0,1,False,False,https://lichess.org/eMoEnECi
+171,2021.10.07,16:34:59,grooney,Tomcsi,2113,2142,180+0,B01,Scandinavian Defense: Main Line,14,Resign,1-0,1,False,False,https://lichess.org/nUPJh8HU
+172,2021.10.07,16:02:36,grooney,qemacht,2114,2046,180+0,C01,"French Defense: Exchange Variation, Monte Carlo Variation",32,Resign,0-1,0,False,False,https://lichess.org/pjF7pIns
+173,2021.10.06,20:39:06,grooney,hyperborian,2120,2097,180+0,C00,French Defense: Two Knights Variation,79,Time forfeit,1/2-1/2,0.5,False,False,https://lichess.org/DyXM5tpE
+174,2021.10.05,10:50:56,grooney,bernao,2121,2089,180+0,B00,Rat Defense: Antal Defense,64,Time forfeit,1/2-1/2,0.5,False,False,https://lichess.org/W8rr1z85
+175,2021.10.04,20:34:46,grooney,nidalba,2120,2162,180+0,C41,Philidor Defense: Exchange Variation,25,Checkmate,1-0,1,True,False,https://lichess.org/l8D6J4Oc
+176,2021.10.04,20:25:55,grooney,ayoubsg,2115,2085,180+0,B06,Modern Defense,57,Checkmate,1-0,1,True,False,https://lichess.org/Zzb9pDbu
+177,2021.10.04,20:16:40,grooney,Medinareinier,2103,2119,180+0,B22,Sicilian Defense: Alapin Variation,45,Checkmate,1-0,1,True,False,https://lichess.org/f9v4l58e
+178,2021.10.03,21:08:04,grooney,alessandro_triglia,2092,2083,180+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense, Central Exchange",27,Resign,1-0,1,False,False,https://lichess.org/mkqAl8OI
+179,2021.10.03,21:02:34,grooney,Rigoapa,2097,2098,180+0,B22,Sicilian Defense: Alapin Variation,42,Checkmate,0-1,0,False,False,https://lichess.org/tFOGABhq
+180,2021.10.03,20:52:02,grooney,Reni-Takikawa,2098,2065,180+0,C65,"Ruy Lopez: Classical Variation, Zukertort Gambit",55,Time forfeit,0-1,0,False,False,https://lichess.org/gdeQdtpe
+181,2021.10.03,20:47:18,grooney,Pionniers,2087,2054,180+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",7,Resign,1-0,1,False,False,https://lichess.org/GL1FiUXg
+182,2021.10.03,20:31:09,grooney,morli31,2070,2047,180+0,C42,Russian Game: Damiano Variation,38,Time forfeit,1-0,1,False,False,https://lichess.org/GpT08GaH
+183,2021.10.01,15:19:56,grooney,uakbay,2082,2052,180+0,C03,"French Defense: Tarrasch Variation, Haberditz Variation",25,Resign,0-1,0,False,False,https://lichess.org/Sqx58WHc
+184,2021.10.01,15:07:56,grooney,McDivz0420,2081,2133,180+0,C65,Ruy Lopez: Berlin Defense,42,Time forfeit,1-0,1,False,False,https://lichess.org/bJeSKSTY
+185,2021.10.01,14:58:01,grooney,Leif-Eriksson,2087,2100,180+0,B22,Sicilian Defense: Alapin Variation,47,Checkmate,0-1,0,True,False,https://lichess.org/rCXdAqwS
+186,2021.10.01,14:38:46,grooney,maratonac63,2086,2085,180+0,B22,Sicilian Defense: Alapin Variation,26,Checkmate,0-1,0,False,False,https://lichess.org/wBF4QStE
+187,2021.10.01,14:30:00,grooney,guanch,2079,2092,180+0,B22,Sicilian Defense: Alapin Variation,39,Time forfeit,1-0,1,True,False,https://lichess.org/yaqbzZUd
+188,2021.09.16,15:06:03,grooney,alexpav77,2080,2040,180+2,C41,Philidor Defense: Exchange Variation,32,Checkmate,0-1,0,False,True,https://lichess.org/uC8Uapyw
+189,2021.09.15,15:38:21,grooney,eltvillekuhn,2066,2136,180+2,C74,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense, Siesta Variation",31,Resign,1-0,1,False,True,https://lichess.org/bGVd2XJG
+190,2021.09.15,15:06:05,grooney,LuchoElDiablo,2066,2062,180+2,B03,Alekhine Defense: Exchange Variation,62,Resign,1/2-1/2,0.5,False,True,https://lichess.org/ekn2HUa9
+191,2021.09.13,14:26:46,grooney,yandrimanafe,2061,2030,180+2,C40,Elephant Gambit,18,Time forfeit,1-0,1,False,True,https://lichess.org/t0EkNCKK
+192,2021.09.12,13:57:24,grooney,valecapov,2062,2082,180+2,E70,King's Indian Defense: Normal Variation,32,Checkmate,0-1,0,False,True,https://lichess.org/zApoyOWT
+193,2021.09.12,13:32:03,grooney,omer-1994,2055,2095,180+2,B12,Caro-Kann Defense,34,Resign,1-0,1,False,True,https://lichess.org/7ZF1E954
+194,2021.09.12,13:11:52,grooney,Pari69,2048,2128,180+2,D30,Queen's Gambit Declined,22,Time forfeit,1-0,1,False,True,https://lichess.org/jzSE4DgF
+195,2021.09.12,12:41:12,grooney,optimista2,2052,2173,180+2,A57,Benko Gambit Accepted: Pawn Return Variation,22,Resign,0-1,0,False,True,https://lichess.org/15ShRLaa
+196,2021.09.10,13:08:43,grooney,qwess8,2058,2055,180+2,B15,Caro-Kann Defense: Tartakower Variation,51,Resign,0-1,0,False,True,https://lichess.org/xX09UyUn
+197,2021.09.10,12:52:16,grooney,reno58,2053,1995,180+2,B23,Sicilian Defense: Closed,23,Time forfeit,1-0,1,True,True,https://lichess.org/GSLAo8n8
+198,2021.09.10,11:37:24,grooney,Mosed1,2048,2031,180+2,B01,Scandinavian Defense: Main Line,29,Time forfeit,1-0,1,False,True,https://lichess.org/AOCcweOD
+199,2021.09.10,11:28:05,grooney,mahdi_chess_chess,2042,2035,180+2,B45,"Sicilian Defense: Taimanov Variation, Normal Variation",77,Resign,1-0,1,False,True,https://lichess.org/6xVXwQUe
+200,2021.09.10,11:09:44,grooney,MSL66,2056,2067,180+2,B13,"Caro-Kann Defense: Panov Attack, Modern Defense, Carlsbad Line",39,Time forfeit,0-1,0,True,True,https://lichess.org/JfNXWrdZ
+201,2021.09.10,09:52:52,grooney,Kuba2401,2049,1500,180+2,A01,Nimzo-Larsen Attack: Dutch Variation,66,Checkmate,1-0,1,False,True,https://lichess.org/NaasdXKj
+202,2021.09.09,15:57:24,grooney,opawilli,2060,2028,180+2,C88,Ruy Lopez: Closed,28,Resign,0-1,0,False,True,https://lichess.org/xvlE8bt1
+203,2021.09.09,15:41:37,grooney,williams_ben,2047,2049,180+2,B23,Sicilian Defense: Closed,48,Resign,1-0,1,False,True,https://lichess.org/ahaOQTMT
+204,2021.09.09,15:33:15,grooney,rafgutie,2041,2042,180+2,B23,Sicilian Defense: Closed,57,Checkmate,1-0,1,True,True,https://lichess.org/ss1BJyRS
+205,2021.09.07,16:53:14,grooney,Marklev,2048,2027,180+2,D10,"Slav Defense: Slav Gambit, Alekhine Attack",43,Checkmate,0-1,0,False,True,https://lichess.org/Uq0LOi9W
+206,2021.09.07,15:38:25,grooney,alfred69,2054,2038,180+2,A52,"Indian Defense: Budapest Defense, Adler Variation",68,Resign,1/2-1/2,0.5,True,True,https://lichess.org/H1RIs7jX
+207,2021.09.07,15:09:19,grooney,nanven_1915,2042,2008,180+2,E04,Catalan Opening: Open Defense,33,Checkmate,1-0,1,True,True,https://lichess.org/feA9urFD
+208,2021.09.05,16:52:07,grooney,jairocalderon,2036,1999,180+2,A52,"Indian Defense: Budapest Defense, Adler Variation",29,Resign,1-0,1,False,True,https://lichess.org/1LQtMd9X
+209,2021.09.05,16:25:20,grooney,Tutor77,2030,1953,180+2,E04,Catalan Opening: Open Defense,21,Resign,1-0,1,False,True,https://lichess.org/oZePbLdl
+210,2021.09.01,16:24:35,grooney,coolxamith,2030,2027,180+2,E21,Nimzo-Indian Defense: Three Knights Variation,50,Checkmate,1-0,1,True,True,https://lichess.org/XitniCQd
+211,2021.08.14,19:49:45,grooney,Aldero,2029,2093,180+2,C42,Russian Game: Stafford Gambit,28,Resign,1-0,1,False,True,https://lichess.org/LJ5ck7c6
+212,2021.08.14,19:41:16,grooney,PreisedHawk,2036,1987,180+2,C41,Philidor Defense: Exchange Variation,41,Resign,0-1,0,False,True,https://lichess.org/QE4t9UBn
+213,2021.08.14,17:17:23,grooney,olympiens34,2048,1984,180+2,C01,"French Defense: Exchange Variation, Monte Carlo Variation",23,Resign,0-1,0,False,True,https://lichess.org/63pQNWV3
+214,2021.08.13,22:07:55,grooney,Rananaeem,2060,2045,180+2,C01,"French Defense: Exchange Variation, Monte Carlo Variation",28,Time forfeit,0-1,0,False,True,https://lichess.org/lXf4yFRo
+215,2021.08.13,21:53:30,grooney,Otiliosky,2053,1987,180+2,B22,Sicilian Defense: Alapin Variation,25,Resign,1-0,1,False,True,https://lichess.org/M1VEJuUG
+216,2021.08.13,21:28:31,grooney,oscarito1913,2050,2073,180+2,B22,Sicilian Defense: Alapin Variation,17,Checkmate,1-0,1,False,True,https://lichess.org/DIHU5oQd
+217,2021.08.12,12:59:37,grooney,Resnickmarcusdutra00,2058,2055,180+2,C42,Russian Game: Three Knights Game,25,Resign,0-1,0,False,True,https://lichess.org/DwdR9da8
+218,2021.08.11,15:00:50,grooney,MADUSKY,2059,2029,180+2,D30,Queen's Gambit Declined,68,Time forfeit,1-0,1,False,True,https://lichess.org/AedQ9mig
+219,2021.08.10,21:04:31,grooney,MM1972SYRIA,2059,2053,180+2,C78,"Ruy Lopez: Morphy Defense, Neo-Arkhangelsk Variation",31,Checkmate,1-0,1,False,True,https://lichess.org/yLMCC4Qy
+220,2021.08.10,20:59:02,grooney,M-vaezi83,2053,2037,180+2,B22,Sicilian Defense: Alapin Variation,34,Resign,1-0,1,False,True,https://lichess.org/gSHDYHCs
+221,2021.08.07,14:14:46,grooney,Azher_GM,2057,2171,180+2,B10,Caro-Kann Defense: Breyer Variation,38,Checkmate,0-1,0,False,True,https://lichess.org/EwKzxqZI
+222,2021.08.07,14:02:46,grooney,moyut,2057,2046,180+2,C01,"French Defense: Exchange Variation, Monte Carlo Variation",37,Time forfeit,1-0,1,False,True,https://lichess.org/waw1Zpfo
+223,2021.08.07,13:56:08,grooney,scacco90,2051,2046,180+2,B13,"Caro-Kann Defense: Panov Attack, Modern Defense, Carlsbad Line",27,Resign,1-0,1,False,True,https://lichess.org/udYGXVyG
+224,2021.08.05,15:26:55,grooney,Saripokey,2068,2005,180+2,A40,Horwitz Defense,32,Checkmate,0-1,0,False,True,https://lichess.org/zZzbRw22
+225,2021.08.05,13:46:22,grooney,marik1995,2069,2044,180+2,C01,"French Defense: Exchange Variation, Monte Carlo Variation",37,Resign,0-1,0,False,True,https://lichess.org/Tt8MTJ82
+226,2021.08.05,13:40:07,grooney,calient,2073,2193,180+2,C42,Russian Game: Stafford Gambit,22,Resign,0-1,0,False,True,https://lichess.org/jtu6xinJ
+227,2021.08.05,12:49:30,grooney,Aseemaseem0968835415,2076,2133,180+2,B22,Sicilian Defense: Alapin Variation,27,Checkmate,1-0,1,True,True,https://lichess.org/zfFm8KEJ
+228,2021.08.05,12:39:16,grooney,fargolorne,2068,2165,180+2,B01,Scandinavian Defense: Gubinsky-Melts Defense,50,Time forfeit,1-0,1,False,True,https://lichess.org/rRCNjPhj
+229,2021.08.05,09:53:40,grooney,MagicMagnus2,2073,2097,180+2,C00,French Defense: King's Indian Attack,31,Resign,1-0,1,False,True,https://lichess.org/AWcCJZAA
+230,2021.08.05,09:37:54,grooney,NikolaiKopytov,2085,2081,180+2,B01,Scandinavian Defense: Modern Variation,51,Resign,0-1,0,False,True,https://lichess.org/QroJyRK6
+231,2021.08.02,19:04:03,grooney,Jhhh,2090,2117,180+2,C88,Ruy Lopez: Closed,42,Checkmate,0-1,0,False,True,https://lichess.org/55qWu0Y9
+232,2021.08.02,18:55:22,grooney,Khalel_ali,2094,2212,180+2,C02,"French Defense: Advance Variation, Paulsen Attack",30,Checkmate,0-1,0,False,True,https://lichess.org/PXkPVCnm
+233,2021.07.30,15:44:40,grooney,O8Paul04,2100,2082,180+2,B22,Sicilian Defense: Alapin Variation,17,Checkmate,0-1,0,False,True,https://lichess.org/prJZlg60
+234,2021.07.30,14:18:10,grooney,gighenzero,2111,2145,180+2,B23,Sicilian Defense: Grand Prix Attack,35,Time forfeit,0-1,0,False,True,https://lichess.org/zT1bCbFz
+235,2021.07.30,14:05:04,grooney,JessDanisson,2110,2158,180+2,D31,Semi-Slav Defense: Noteboom Variation,13,Resign,0-1,0,False,True,https://lichess.org/HmMAGIQC
+236,2021.07.29,23:20:07,grooney,MARKOV75,2123,2249,180+2,A43,Benoni Defense: Old Benoni,39,Resign,0-1,0,False,True,https://lichess.org/mtsw6vb7
+237,2021.07.29,17:25:31,grooney,Pennerhund,2111,2113,180+2,B22,"Sicilian Defense: Alapin Variation, Smith-Morra Declined",17,Resign,1-0,1,True,True,https://lichess.org/PzYUVA3A
+238,2021.07.29,09:26:07,grooney,Isegrim-52,2118,2057,180+2,B23,Sicilian Defense: Closed,37,Time forfeit,0-1,0,True,True,https://lichess.org/FoCTtUh8
+239,2021.07.27,18:12:30,grooney,jabilu,2123,2146,180+2,C99,"Ruy Lopez: Morphy Defense, Chigorin Defense, Panov System",27,Checkmate,0-1,0,False,True,https://lichess.org/hx6vq58P
+240,2021.07.27,18:05:31,grooney,MojiFischer,2132,2176,180+2,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",25,Resign,0-1,0,False,True,https://lichess.org/gJQO5sTA
+241,2021.07.27,14:45:54,grooney,balans777,2120,2112,180+2,B00,Nimzowitsch Defense: Kennedy Variation,52,Resign,1-0,1,False,True,https://lichess.org/R1dg0YMe
+242,2021.07.27,12:22:34,grooney,parvaaz,2119,2242,180+2,B23,Sicilian Defense: Closed,16,Resign,0-1,0,False,True,https://lichess.org/McjXUf8o
+243,2021.07.26,09:16:18,grooney,Rokies,2114,2128,180+2,C41,Philidor Defense: Exchange Variation,50,Resign,0-1,0,False,True,https://lichess.org/lHriF7vd
+244,2021.07.26,08:54:56,grooney,mazziitoozz,2108,2099,180+2,B40,"Sicilian Defense: Alapin Variation, Sherzer Variation",36,Time forfeit,1-0,1,False,True,https://lichess.org/XnuF33UQ
+245,2021.07.26,08:46:21,grooney,ThomasSankara,2107,2144,180+2,C71,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense",42,Resign,1/2-1/2,0.5,False,True,https://lichess.org/31leUv3b
+246,2021.07.23,17:11:13,grooney,paterchess,2108,2053,180+2,B13,"Caro-Kann Defense: Panov Attack, Modern Defense",66,Resign,1/2-1/2,0.5,False,True,https://lichess.org/L1SDBeUc
+247,2021.07.23,17:02:27,grooney,mehdiam,2102,2088,180+2,C78,"Ruy Lopez: Morphy Defense, Neo-Arkhangelsk Variation",42,Checkmate,1-0,1,False,True,https://lichess.org/wxAWgVPM
+248,2021.07.23,16:50:23,grooney,Ruslan_07,2102,2087,180+2,C41,Philidor Defense,23,Checkmate,1-0,1,False,True,https://lichess.org/yrDynkid
+249,2021.07.22,18:09:15,grooney,braco59,2095,2130,180+2,B01,Scandinavian Defense: Gubinsky-Melts Defense,63,Checkmate,1-0,1,True,True,https://lichess.org/OTnqvkvP
+250,2021.07.13,20:52:59,grooney,Tudoralex,2088,2134,180+2,C70,"Ruy Lopez: Morphy Defense, Caro Variation",24,Resign,0-1,0,False,True,https://lichess.org/ZAsUOin1
+251,2021.07.13,20:42:30,grooney,masmago2,2090,1973,180+2,C64,"Ruy Lopez: Classical Variation, Central Variation",77,Resign,1/2-1/2,0.5,False,True,https://lichess.org/LBE3tjJK
+252,2021.07.08,14:31:55,grooney,Sakira09,2092,2069,180+2,B14,Caro-Kann Defense: Panov Attack,46,Checkmate,1-0,1,True,True,https://lichess.org/J1vNuq8X
+253,2021.07.08,14:23:38,grooney,jingan-2000,2086,2027,180+2,C01,"French Defense: Exchange Variation, Monte Carlo Variation",46,Checkmate,1-0,1,True,True,https://lichess.org/3liIYLhN
+254,2021.07.08,13:57:16,grooney,alaemif,2080,2092,180+2,B22,Sicilian Defense: Alapin Variation,29,Checkmate,1-0,1,True,True,https://lichess.org/WrMBBx67
+255,2021.06.17,11:50:47,grooney,Pavvlad,2089,2036,180+2,B00,"Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation",26,Resign,0-1,0,False,True,https://lichess.org/ibmdBpgY
+256,2021.06.17,11:03:44,grooney,menno_schaefer,2095,2043,180+2,C42,"Russian Game: Classical Attack, Marshall Variation",36,Time forfeit,0-1,0,False,True,https://lichess.org/SjJmaRMk
+257,2021.06.15,21:51:23,grooney,Ol19572007,2101,2085,180+2,B09,"Pirc Defense: Austrian Attack, Dragon Formation",16,Resign,0-1,0,False,True,https://lichess.org/mSJ338dM
+258,2021.06.15,13:12:17,grooney,Mani_G,2102,2112,180+2,E76,King's Indian Defense: Four Pawns Attack,67,Checkmate,0-1,0,True,True,https://lichess.org/8jVpiuUA
+259,2021.06.15,12:59:20,grooney,Jansoldier,2097,2029,180+2,C62,Ruy Lopez: Steinitz Defense,19,Time forfeit,1-0,1,True,True,https://lichess.org/yNocBH4l
+260,2021.06.14,08:06:58,grooney,LaGrossePurge,2101,2107,180+2,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",61,Checkmate,1-0,1,True,True,https://lichess.org/b9WJsgXn
+261,2021.06.14,08:01:49,grooney,TanmayMagade,2095,2056,180+2,C42,Russian Game: Stafford Gambit,21,Checkmate,1-0,1,True,True,https://lichess.org/m4GV0al6
+262,2021.06.10,17:38:26,grooney,amromra,2095,2091,180+2,C64,"Ruy Lopez: Classical Variation, Central Variation",35,Resign,1/2-1/2,0.5,False,True,https://lichess.org/atNNlSuR
+263,2021.06.10,17:36:23,grooney,Vaidas_Vysniauskas,2102,2058,180+2,B00,Owen Defense,11,Resign,0-1,0,False,True,https://lichess.org/pqeh9MnB
+264,2021.05.31,09:49:50,grooney,Mhbp,2109,2018,180+2,B22,Sicilian Defense: Alapin Variation,27,Time forfeit,0-1,0,False,True,https://lichess.org/iNyEG8nF
+265,2021.05.31,09:39:56,grooney,Fahad_1982,2107,2145,180+2,B03,Alekhine Defense: Exchange Variation,35,Resign,1-0,1,True,True,https://lichess.org/032VuIZG
+266,2021.05.30,17:32:32,grooney,ADen1206,2101,2161,180+2,C62,Ruy Lopez: Steinitz Defense,24,Checkmate,1-0,1,True,True,https://lichess.org/YdKEhoc9
+267,2021.05.29,16:59:26,grooney,joseadolfo26,2083,2098,180+2,B07,Pirc Defense: Kholmov System,17,Resign,0-1,0,False,True,https://lichess.org/2BlWHp1V
+268,2021.05.29,16:26:32,grooney,parvahe,2090,2081,180+2,C70,"Ruy Lopez: Morphy Defense, Graz Variation",48,Resign,0-1,0,False,True,https://lichess.org/NdLWVyvL
+269,2021.05.29,15:16:08,grooney,ThomasZoeller,2084,2088,180+2,B00,Borg Defense,43,Resign,1-0,1,True,True,https://lichess.org/xM2AfSus
+270,2021.05.29,10:45:38,grooney,igo_game,2085,2085,180+2,C42,"Russian Game: Classical Attack, Marshall Variation",23,Checkmate,1-0,1,True,True,https://lichess.org/odJaIUeH
+271,2021.05.28,14:56:08,grooney,Enter_the_Maze,2072,2059,180+2,B20,Sicilian Defense,93,Checkmate,1-0,1,True,True,https://lichess.org/YIZI0R2t
+272,2021.05.28,14:44:08,grooney,Kermit-der-Frosch,2070,2139,180+2,C02,"French Defense: Advance Variation, Euwe Variation",35,Resign,1-0,1,False,True,https://lichess.org/u7QvslYM
+273,2021.05.28,10:17:49,grooney,jimtoide,2070,1992,180+2,C60,Ruy Lopez: Fianchetto Defense,24,Checkmate,1-0,1,True,True,https://lichess.org/x28HXQG1
+274,2021.05.28,10:10:52,grooney,KayriPotter2009,2077,2182,180+2,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",22,Resign,0-1,0,True,True,https://lichess.org/jI9FgpxT
+275,2021.05.27,22:35:12,grooney,LuisAlejandrochess,2074,2113,180+2,B01,Scandinavian Defense: Modern Variation,64,Checkmate,1-0,1,True,True,https://lichess.org/Yk7zwfLD
+276,2021.05.27,22:15:15,grooney,skorpion01mikser,2078,2071,180+2,B00,St. George Defense,43,Checkmate,0-1,0,False,True,https://lichess.org/b2DSjleH
+277,2021.05.27,22:03:40,grooney,superyuca,2066,2093,180+2,B22,Sicilian Defense: Alapin Variation,21,Resign,1-0,1,False,True,https://lichess.org/qF1LsrqH
+278,2021.05.27,17:33:38,grooney,Vizir_Kalenga,2072,2094,180+2,C80,Ruy Lopez: Open,38,Checkmate,0-1,0,False,True,https://lichess.org/HmCwN1cw
+279,2021.05.27,14:34:47,grooney,lucipurka,2072,2042,180+2,B22,Sicilian Defense: Alapin Variation,65,Resign,1/2-1/2,0.5,False,True,https://lichess.org/HPm4XxHI
+280,2021.05.27,12:19:01,grooney,Groveron,2076,2197,180+2,B22,Sicilian Defense: Alapin Variation,28,Checkmate,0-1,0,True,True,https://lichess.org/jZOw6aa9
+281,2021.05.27,10:03:03,grooney,Shohjahon1409,2072,2076,180+2,C64,"Ruy Lopez: Classical Variation, Central Variation",30,Time forfeit,1-0,1,True,True,https://lichess.org/jDMyySdd
+282,2021.05.27,10:00:04,grooney,Davron_Sulaymanov,2066,2072,180+2,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",21,Resign,1-0,1,False,True,https://lichess.org/mh47OpoE
+283,2021.05.27,09:52:21,grooney,TheWhite58,2071,2078,180+2,B01,Scandinavian Defense: Mieses-Kotroc Variation,50,Checkmate,0-1,0,False,True,https://lichess.org/CkJKlV4n
+284,2021.05.26,20:15:08,grooney,NewDiscipline,2080,2238,180+2,B22,Sicilian Defense: Alapin Variation,45,Resign,0-1,0,False,True,https://lichess.org/JGqwHieh
+285,2021.05.26,20:03:58,grooney,WaRedondo21,2075,2015,180+2,B09,Pirc Defense: Austrian Attack,35,Time forfeit,1-0,1,True,True,https://lichess.org/DlGqUZp5
+286,2021.05.26,19:32:36,grooney,Inaad,2076,2017,180+2,B22,Sicilian Defense: Alapin Variation,49,Checkmate,1-0,1,True,True,https://lichess.org/5hzOCITc
+287,2021.05.26,19:24:55,grooney,ASKETT,2069,2154,180+2,C02,"French Defense: Advance Variation, Milner-Barry Gambit",18,Resign,1-0,1,True,True,https://lichess.org/3VwrMFwu
+288,2021.05.26,14:33:44,grooney,DVladimir1955,2069,2069,180+2,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",23,Time forfeit,1-0,1,True,True,https://lichess.org/WM7e4izT
+289,2021.05.26,12:58:51,grooney,JMML,2067,2079,180+2,B06,Modern Defense: Pseudo-Austrian Attack,33,Checkmate,1-0,1,False,True,https://lichess.org/8Xty4JuK
+290,2021.05.26,12:50:30,grooney,bwienke,2061,2057,180+2,C84,"Ruy Lopez: Closed, Martinez Variation",32,Resign,1-0,1,True,True,https://lichess.org/Rm2QFeH5
+291,2021.05.26,12:07:39,grooney,Azez1967,2062,2030,180+2,C41,Philidor Defense: Exchange Variation,68,Checkmate,1-0,1,True,True,https://lichess.org/8LHvMYEp
+292,2021.05.26,11:42:04,grooney,Stephan-bux,2054,2156,180+2,B22,"Sicilian Defense: Alapin Variation, Smith-Morra Declined",27,Resign,1-0,1,True,True,https://lichess.org/6kLMXtTb
+293,2021.05.26,11:22:43,grooney,jlom_96,2055,2060,180+2,B22,Sicilian Defense: Alapin Variation,62,Checkmate,0-1,0,True,True,https://lichess.org/Yxl89cbS
+294,2021.05.26,11:06:57,grooney,Orlan121266,2049,2049,180+2,B22,Sicilian Defense: Alapin Variation,22,Resign,1-0,1,True,True,https://lichess.org/gJLrnJsr
+295,2021.05.26,11:02:07,grooney,pranadlelu,2044,2002,180+2,B22,Sicilian Defense: Alapin Variation,19,Resign,1-0,1,True,True,https://lichess.org/7RgYFTaD
+296,2021.05.25,19:05:12,grooney,Liptonarbata,2037,2058,180+2,B12,"Caro-Kann Defense: Advance Variation, Tal Variation",25,Resign,1-0,1,True,True,https://lichess.org/rCXNG6ph
+297,2021.05.24,20:14:24,grooney,Norfor,2032,2021,180+2,B22,Sicilian Defense: Alapin Variation,23,Resign,1-0,1,True,True,https://lichess.org/n9Ue2NrR
+298,2021.05.24,20:03:20,grooney,R65ASHAA,2033,1992,180+2,B22,Sicilian Defense: Alapin Variation,21,Resign,0-1,0,True,True,https://lichess.org/nJuLIHAT
+299,2021.05.24,19:21:44,grooney,mustaphakai,2033,2040,180+2,C02,"French Defense: Advance Variation, Paulsen Attack",57,Checkmate,1/2-1/2,0.5,True,True,https://lichess.org/xwNnVGad
+300,2021.05.24,18:02:30,grooney,Dorosheva_Victoria,2048,2086,180+2,B22,Sicilian Defense: Alapin Variation,18,Resign,0-1,0,False,True,https://lichess.org/u1UkL1Y6
+301,2021.05.24,17:40:34,grooney,stayhome2020,2036,2030,180+2,C77,"Ruy Lopez: Morphy Defense, Anderssen Variation",23,Checkmate,1-0,1,True,True,https://lichess.org/DnwZUoYg
+302,2021.05.24,16:53:09,grooney,kravak86,2028,2159,180+2,A01,Nimzo-Larsen Attack: English Variation,52,Resign,0-1,0,False,True,https://lichess.org/n5sSPWB1
+303,2021.05.22,17:46:04,grooney,frozensand,2046,2026,180+2,A01,Nimzo-Larsen Attack: Modern Variation,29,Resign,0-1,0,True,True,https://lichess.org/awbl9bAq
+304,2021.05.22,17:39:03,grooney,Rafael666,2050,2128,180+2,A01,Nimzo-Larsen Attack,24,Resign,0-1,0,True,True,https://lichess.org/5RLSeb7e
+305,2021.05.22,17:23:14,grooney,jie111,2050,2045,180+2,A01,Nimzo-Larsen Attack: Spike Variation,34,Resign,1-0,1,True,True,https://lichess.org/APWFLPIC
+306,2021.05.22,17:14:31,grooney,mwydalamly,2045,1974,180+2,A01,Nimzo-Larsen Attack,31,Time forfeit,1-0,1,True,True,https://lichess.org/DU4MGpJj
+307,2021.05.20,17:49:57,grooney,Sotakoira,2062,2055,180+2,B16,Caro-Kann Defense: Bronstein-Larsen Variation,31,Resign,0-1,0,False,True,https://lichess.org/EyN0wenf
+308,2021.05.20,17:36:36,grooney,lanfrichess,2057,2049,180+2,C00,Queen's Pawn Game: Franco-Sicilian Defense,70,Checkmate,1-0,1,True,True,https://lichess.org/Q3DzYisL
+309,2021.05.20,11:32:28,grooney,TheWhite58,2057,2055,180+2,B01,Scandinavian Defense: Mieses-Kotroc Variation,50,Resign,1/2-1/2,0.5,True,True,https://lichess.org/r2fqQJEo
+310,2021.05.20,10:26:57,grooney,starlite551,2051,2047,180+2,C02,"French Defense: Advance Variation, Milner-Barry Gambit",67,Checkmate,1-0,1,True,True,https://lichess.org/quXhMhAa
+311,2021.05.19,16:29:02,grooney,Raindropsssss,2052,1994,180+2,B18,Caro-Kann Defense: Classical Variation,63,Resign,0-1,0,False,True,https://lichess.org/mFUGzg2D
+312,2021.05.19,14:55:53,grooney,Ruben19,2065,2039,180+2,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",66,Resign,1/2-1/2,0.5,False,True,https://lichess.org/sBJMwQXs
+313,2021.05.19,14:44:04,grooney,Padre88,2058,2100,180+2,C71,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense",57,Time forfeit,1-0,1,True,True,https://lichess.org/WpTlOSJg
+314,2021.05.19,10:51:56,grooney,Nepomariachi,2064,2052,180+2,A42,Modern Defense: Kotov Variation,38,Checkmate,0-1,0,False,True,https://lichess.org/aGvTL1ln
+315,2021.05.17,19:01:35,grooney,Rodolfo31,2078,2072,180+2,C71,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense",43,Resign,0-1,0,False,True,https://lichess.org/wcKl1AwD
+316,2021.05.17,15:57:17,grooney,smiles26,2072,2087,180+2,B06,Modern Defense: Standard Line,18,Resign,1-0,1,True,True,https://lichess.org/f6E40e03
+317,2021.05.17,15:05:11,grooney,binnaser,2061,2016,180+2,B07,Pirc Defense: Byrne Variation,29,Resign,1-0,1,True,True,https://lichess.org/b1YtJK4G
+318,2021.05.17,13:07:57,grooney,ProdigalChessPlayer,2066,2106,180+2,B03,Alekhine Defense,33,Resign,0-1,0,False,True,https://lichess.org/kAZHZ3hH
+319,2021.05.16,20:53:51,grooney,rvictorbr,2071,2096,180+2,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",36,Resign,0-1,0,False,True,https://lichess.org/UZXWFMWy
+320,2021.05.16,10:31:41,grooney,damergrin,2077,2054,180+2,C02,"French Defense: Advance Variation, Paulsen Attack",64,Resign,0-1,0,False,True,https://lichess.org/7bxJwKt6
+321,2021.05.15,13:08:41,grooney,hayetoo,2066,2040,180+2,B07,Pirc Defense,28,Resign,1-0,1,True,True,https://lichess.org/rnUTKQEE
+322,2021.05.15,12:10:49,grooney,KudazantaN,2067,2087,180+2,B22,Sicilian Defense: Alapin Variation,23,Resign,0-1,0,False,True,https://lichess.org/f0VA7LVi
+323,2021.05.15,11:57:01,grooney,hdphil,2056,1986,180+2,C65,Ruy Lopez: Berlin Defense,25,Resign,1-0,1,False,True,https://lichess.org/2tTd1xmb
+324,2021.05.14,17:57:20,grooney,Aliba83_chess,2052,2115,180+2,B22,"Sicilian Defense: Smith-Morra Gambit Declined, Center Formation",30,Resign,0-1,0,False,True,https://lichess.org/7vY67CEY
+325,2021.05.14,16:29:10,grooney,PlaDKapa,2052,1977,180+2,B22,Sicilian Defense: Alapin Variation,38,Checkmate,0-1,0,False,True,https://lichess.org/VWnu08Kf
+326,2021.05.12,17:19:37,grooney,Schach-Hero,2043,1973,180+2,B03,Alekhine Defense,38,Checkmate,1-0,1,False,True,https://lichess.org/ERsbmpus
+327,2021.05.12,15:48:24,grooney,Warnard,2037,2002,180+2,B07,Pirc Defense: Byrne Variation,67,Resign,1/2-1/2,0.5,False,True,https://lichess.org/DuzFqNkU
+328,2021.05.12,15:03:32,grooney,shoman83,2041,2184,180+2,B22,"Sicilian Defense: Alapin Variation, Smith-Morra Declined",24,Resign,0-1,0,False,True,https://lichess.org/VXS3qsir
+329,2021.05.12,11:03:30,grooney,bigjim33,2045,2129,180+2,C02,"French Defense: Advance Variation, Paulsen Attack",32,Resign,0-1,0,True,True,https://lichess.org/4dWoZyx6
+330,2021.05.11,18:48:03,grooney,vytas14,2043,2062,180+2,B01,Scandinavian Defense: Main Line,80,Checkmate,1-0,1,True,True,https://lichess.org/hzRLvHBz
+331,2021.05.11,17:33:18,grooney,DataNinja,2048,2087,180+2,C00,French Defense: Pelikan Variation,55,Resign,0-1,0,False,True,https://lichess.org/9eSY4l2f
+332,2021.05.11,14:11:30,grooney,Jansoldier,2052,2044,180+2,C42,Russian Game: Stafford Gambit,20,Resign,0-1,0,False,True,https://lichess.org/QtCgvEZR
+333,2021.05.11,13:58:45,grooney,lebarondunord,2046,2059,180+2,B22,"Sicilian Defense: Alapin Variation, Smith-Morra Declined",43,Resign,1-0,1,False,True,https://lichess.org/w9GXBVyc
+334,2021.05.10,20:03:43,grooney,Apawntoofar,2032,2031,180+2,B00,"Nimzowitsch Defense: Scandinavian Variation, Advance Variation",42,Checkmate,1-0,1,True,True,https://lichess.org/3xUJyzOC
+335,2021.05.10,18:52:47,grooney,wean11,2045,2155,180+2,B22,Sicilian Defense: Alapin Variation,21,Resign,0-1,0,False,True,https://lichess.org/ZifMBeo0
+336,2021.05.10,16:44:37,grooney,puregambling,2043,2007,180+2,B22,Sicilian Defense: Alapin Variation,31,Resign,0-1,0,True,True,https://lichess.org/1gqmG8Tk
+337,2021.05.09,21:33:13,grooney,hh-hh,2043,2039,180+2,B22,"Sicilian Defense: Smith-Morra Gambit Declined, Center Formation",14,Resign,1-0,1,True,True,https://lichess.org/iJ478FcK
+338,2021.05.09,21:24:30,grooney,gallspach,2048,2070,180+2,B17,Caro-Kann Defense: Karpov Variation,46,Resign,0-1,0,False,True,https://lichess.org/WsRwXjDk
+339,2021.05.09,20:45:57,grooney,robertocane17,2036,2022,180+2,C70,"Ruy Lopez: Morphy Defense, Classical Defense Deferred",42,Checkmate,1-0,1,False,True,https://lichess.org/0Bp9bPOk
+340,2021.05.09,20:32:45,grooney,kitekiteaje,2035,2118,180+2,C64,Ruy Lopez: Classical Variation,24,Resign,1-0,1,False,True,https://lichess.org/ZcLIhVk8
+341,2021.05.09,16:39:31,grooney,ThierryP,2040,2082,180+2,B07,Pirc Defense: Byrne Variation,57,Resign,0-1,0,True,True,https://lichess.org/eiMvsYgh
+342,2021.05.09,15:11:22,grooney,S_AlZarooni,2032,2069,180+2,C65,Ruy Lopez: Berlin Defense,53,Time forfeit,1-0,1,False,True,https://lichess.org/mbLrAZp6
+343,2021.05.07,16:36:16,grooney,Indisguise_uk,2050,2016,180+2,B22,Sicilian Defense: Alapin Variation,84,Checkmate,0-1,0,True,True,https://lichess.org/ooCDIywd
+344,2021.05.07,16:27:54,grooney,george197286,2050,2008,180+2,C62,Ruy Lopez: Steinitz Defense,38,Resign,1/2-1/2,0.5,False,True,https://lichess.org/nlOIAdHa
+345,2021.05.06,17:56:13,grooney,Nejmedinus,2049,2061,180+2,B03,Alekhine Defense,22,Resign,1-0,1,True,True,https://lichess.org/obUuSX6j
+346,2021.05.06,16:41:18,grooney,shatranje,2046,2121,180+2,B01,Scandinavian Defense: Main Line,49,Checkmate,1-0,1,True,True,https://lichess.org/TQm4LH5V
+347,2021.05.06,16:33:03,grooney,Casr,2040,2028,180+2,B15,Caro-Kann Defense: Tartakower Variation,22,Resign,1-0,1,False,True,https://lichess.org/TbkdvFdb
+348,2021.05.06,14:20:56,grooney,Sephxd,2046,2031,180+2,B20,Sicilian Defense: Snyder Variation,27,Resign,0-1,0,False,True,https://lichess.org/GvBB8Uxc
+349,2021.05.06,09:06:51,grooney,Pavvlad,2052,1993,180+2,B20,Sicilian Defense: Snyder Variation,16,Resign,0-1,0,False,True,https://lichess.org/SfvZjxYp
+350,2021.05.05,11:20:13,grooney,Intelprochess,2061,2008,180+2,C42,Russian Game: Stafford Gambit,74,Resign,0-1,0,False,True,https://lichess.org/cSDoFvHu
+351,2021.05.05,11:12:43,grooney,Nikolay_F,2055,2052,180+2,B20,Sicilian Defense: Snyder Variation,23,Time forfeit,1-0,1,False,True,https://lichess.org/5OOtvNbo
+352,2021.05.05,10:32:01,grooney,denilovitch,2049,2101,180+2,B18,Caro-Kann Defense: Classical Variation,72,Checkmate,1-0,1,True,True,https://lichess.org/GOkMrCsk
+353,2021.05.05,09:43:49,grooney,AndreiGroshev,2049,2031,180+2,B01,Scandinavian Defense: Modern Variation,34,Checkmate,1-0,1,False,True,https://lichess.org/ob5O6MLx
+354,2021.05.03,13:17:57,grooney,masterofmuppets,2063,2027,180+2,C77,"Ruy Lopez: Morphy Defense, Anderssen Variation",59,Resign,1-0,1,True,True,https://lichess.org/XowCljRW
+355,2021.05.03,13:05:59,grooney,risingbishops,2062,2129,180+2,B07,Pirc Defense: Byrne Variation,21,Resign,0-1,0,False,True,https://lichess.org/4IvDO8JY
+356,2021.05.03,12:36:18,grooney,SamHawkens,2064,2058,180+2,B03,Alekhine Defense,20,Resign,1-0,1,False,True,https://lichess.org/XHhazVrH
+357,2021.05.03,12:35:03,grooney,Salvamf350,2058,2051,180+2,B03,Alekhine Defense,15,Resign,1-0,1,False,True,https://lichess.org/9YNZkUoS
+358,2021.05.03,11:04:19,grooney,sina-sih,2047,2007,180+2,B07,Pirc Defense,30,Checkmate,1-0,1,True,True,https://lichess.org/BhmWMiAl
+359,2021.05.03,10:22:05,grooney,deAlmeida_Emerson,2046,2102,180+2,B22,Sicilian Defense: Alapin Variation,49,Checkmate,1/2-1/2,0.5,True,True,https://lichess.org/w8QVbeLo
+360,2021.05.02,16:34:16,grooney,Hannib_AL,2041,1996,180+2,B12,"Caro-Kann Defense: Advance Variation, Tal Variation",67,Resign,1/2-1/2,0.5,False,True,https://lichess.org/cac3AXbq
+361,2021.04.29,19:45:25,grooney,Ajermal,2042,1928,180+2,B02,Alekhine Defense: Two Pawn Attack,49,Resign,1-0,1,False,True,https://lichess.org/vqC3fxy9
+362,2021.04.29,16:29:16,grooney,LeTeutonOnChess,2053,2080,180+2,C11,French Defense: Steinitz Variation,20,Resign,0-1,0,False,True,https://lichess.org/BMilrUoo
+363,2021.04.29,13:09:17,grooney,Optimist1950,2053,2011,180+0,C70,"Ruy Lopez: Morphy Defense, Classical Defense Deferred",57,Time forfeit,1-0,1,False,False,https://lichess.org/NSeZVuBu
+364,2021.04.29,12:34:27,grooney,Jiras9,2048,2040,180+2,C42,Russian Game: French Attack,72,Resign,1/2-1/2,0.5,False,True,https://lichess.org/hFVx0ttk
+365,2021.04.29,11:16:42,grooney,Zeliot,2052,2148,180+2,D30,French Defense: Diemer-Duhm Gambit,14,Resign,0-1,0,False,True,https://lichess.org/6xC2g1IK
+366,2021.04.29,10:42:12,grooney,Hatsize64,2052,2041,180+2,B20,Sicilian Defense: Snyder Variation,34,Checkmate,0-1,0,False,True,https://lichess.org/QUyTMWu8
+367,2021.04.29,10:23:54,grooney,francesc2203,2045,2063,180+2,B20,Sicilian Defense: Snyder Variation,29,Resign,1-0,1,True,True,https://lichess.org/QbC415Ju
+368,2021.04.29,09:32:02,grooney,avidela2305,2056,2086,180+2,C64,Ruy Lopez: Classical Variation,35,Resign,0-1,0,True,True,https://lichess.org/fhtU5Vnf
+369,2021.04.28,22:07:29,grooney,Mipsel,2063,2071,180+2,B12,Caro-Kann Defense: MarĂłczy Variation,52,Checkmate,0-1,0,False,True,https://lichess.org/JyWAvpld
+370,2021.04.28,21:48:00,grooney,mohamed-sheikhkhalil,2057,1957,180+2,B20,Sicilian Defense: Snyder Variation,72,Resign,1/2-1/2,0.5,False,True,https://lichess.org/iS9X91KJ
+371,2021.04.28,21:35:22,grooney,FernandoMorAZ,2055,2092,180+2,B20,Sicilian Defense: Snyder Variation,17,Resign,0-1,0,False,True,https://lichess.org/4g3Ad7bH
+372,2021.03.29,16:18:10,grooney,Vfcnth62,2066,2067,180+0,C00,French Defense: Knight Variation,71,Checkmate,0-1,0,False,False,https://lichess.org/TowIGf5L
+373,2021.03.29,16:14:32,grooney,otroff,2060,2036,180+0,B12,Caro-Kann Defense: Advance Variation,27,Resign,1-0,1,False,False,https://lichess.org/KYOv1Rgm
+374,2021.03.29,13:12:34,grooney,andlit2020,2061,2051,180+0,B22,Sicilian Defense: Alapin Variation,31,Resign,0-1,0,False,False,https://lichess.org/8pPKjgtS
+375,2021.03.29,13:10:31,grooney,Albalki,2068,2055,180+0,B01,Scandinavian Defense: Panov Transfer,14,Resign,0-1,0,False,False,https://lichess.org/Om6iSp4l
+376,2021.03.15,16:34:26,grooney,igio,2080,2087,180+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,23,Resign,0-1,0,False,False,https://lichess.org/tugaRJGB
+377,2021.03.15,16:28:47,grooney,Anikait_Pednekar,2075,1995,180+0,C02,French Defense: Advance Variation,66,Checkmate,1-0,1,False,False,https://lichess.org/c1zoHqld
+378,2021.03.15,15:17:55,grooney,Saberrahimi1399,2069,2067,180+0,C77,"Ruy Lopez: Morphy Defense, Anderssen Variation",36,Time forfeit,1-0,1,True,False,https://lichess.org/xA9Hd3pP
+379,2021.03.14,17:53:01,grooney,fireeee,2072,2116,180+2,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",49,Checkmate,0-1,0,False,True,https://lichess.org/W3Re86ZB
+380,2021.03.13,14:21:23,grooney,q1e2e3r4t5,2073,2014,180+0,B00,"Nimzowitsch Defense: Scandinavian Variation, Advance Variation",37,Resign,0-1,0,False,False,https://lichess.org/n9gKYxJW
+381,2021.03.12,14:57:17,grooney,Ehabko,2073,2070,180+0,C50,"Italian Game: Giuoco Pianissimo, Italian Four Knights Variation",66,Resign,1/2-1/2,0.5,False,False,https://lichess.org/Mu6Vpitb
+382,2021.03.11,20:37:22,grooney,Casual_Maniac,2078,2081,180+0,B04,"Alekhine Defense: Modern Variation, Schmid Variation",36,Checkmate,0-1,0,False,False,https://lichess.org/zVcSYQa4
+383,2021.03.11,19:20:45,grooney,CemalAraboga,2078,2095,180+0,B06,Modern Defense,30,Resign,0-1,0,False,False,https://lichess.org/jNOGXokq
+384,2021.03.11,19:18:05,grooney,Diminuto_Tim,2072,2061,180+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",18,Resign,1-0,1,True,False,https://lichess.org/6lGMQ2C7
+385,2021.03.11,18:54:57,grooney,Manzini,2062,2037,180+0,B00,Duras Gambit,21,Checkmate,1-0,1,False,False,https://lichess.org/LaZVqTVX
+386,2021.03.11,18:48:51,grooney,olin777,2051,2004,180+0,B22,"Sicilian Defense: Alapin Variation, Smith-Morra Declined",24,Resign,1-0,1,False,False,https://lichess.org/EVr7KZbC
+387,2021.03.11,18:32:48,grooney,LocalGM,2045,2045,180+0,B07,Pirc Defense: Byrne Variation,53,Resign,1/2-1/2,0.5,False,False,https://lichess.org/wWIsIx58
+388,2021.03.11,18:16:18,grooney,VarshyBoo,2034,2005,180+0,C64,Ruy Lopez: Classical Variation,25,Checkmate,1-0,1,True,False,https://lichess.org/xUXnsIuc
+389,2021.03.11,18:01:58,grooney,MarcelClouzot,2022,2015,180+0,C02,"French Defense: Advance Variation, Wade Variation",65,Time forfeit,1-0,1,False,False,https://lichess.org/KV5xXE3g
+390,2021.03.11,17:07:47,grooney,nicoalavar3jaques,2011,2005,180+0,C02,"French Defense: Advance Variation, Milner-Barry Gambit",15,Resign,1-0,1,False,False,https://lichess.org/m8Sk9lcu
+391,2021.03.10,16:41:23,grooney,arman00,2004,2058,180+0,B22,Sicilian Defense: Alapin Variation,42,Time forfeit,1-0,1,False,False,https://lichess.org/bqSYnQ0E
+392,2021.03.10,16:11:02,grooney,andersnorell,2003,2067,180+0,B22,Sicilian Defense: Alapin Variation,18,Checkmate,1-0,1,False,False,https://lichess.org/gOTw9EFF
+393,2021.03.10,15:52:34,grooney,TheMusicProject,1989,2029,180+0,B06,Modern Defense,55,Checkmate,1-0,1,False,False,https://lichess.org/ea7yuumB
+394,2021.03.10,15:48:00,grooney,Aakarsh_00,1983,1994,180+0,B12,Caro-Kann Defense: MarĂłczy Variation,25,Time forfeit,1-0,1,False,False,https://lichess.org/uia5nVa6
+395,2021.03.10,15:40:34,grooney,kay22222,1983,1968,180+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,25,Resign,1-0,1,False,False,https://lichess.org/HqnMTeTf
+396,2021.03.10,15:04:14,grooney,Cklusi,1962,1976,180+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",26,Resign,1-0,1,False,False,https://lichess.org/heb4FBla
+397,2021.03.10,14:35:25,grooney,Ermanzo,1955,1981,180+0,C01,French Defense: Exchange Variation,31,Resign,1-0,1,False,False,https://lichess.org/Z9GWOHHX
+398,2021.03.10,14:30:39,grooney,izsela,1948,1916,180+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,49,Resign,1-0,1,False,False,https://lichess.org/5RA9hoWc
+399,2021.03.10,13:57:31,grooney,urban3,1948,1968,180+2,B22,Sicilian Defense: Alapin Variation,20,Resign,0-1,0,False,True,https://lichess.org/rEqCNyl6
+400,2021.03.10,13:51:52,grooney,elgrand,1954,1999,180+2,C41,Philidor Defense,36,Resign,0-1,0,False,True,https://lichess.org/693O04cN
+401,2021.03.10,13:25:56,grooney,AlexanderCarey,1925,1924,180+2,B22,Sicilian Defense: Alapin Variation,22,Resign,1-0,1,False,True,https://lichess.org/T7bnOLU7
+402,2021.03.10,12:52:25,grooney,Rodeval,1946,1970,180+2,C77,"Ruy Lopez: Morphy Defense, Anderssen Variation",39,Resign,0-1,0,False,True,https://lichess.org/VN1sMAUJ
+403,2021.03.10,12:34:20,grooney,I_am_Realpatzer,1927,1899,180+2,C63,Ruy Lopez: Schliemann Defense,59,Resign,1-0,1,False,True,https://lichess.org/wiyEhOik
+404,2021.03.10,12:26:09,grooney,khashayar-Nariman,1925,1938,180+2,C61,Ruy Lopez: Bird Variation,33,Resign,1-0,1,False,True,https://lichess.org/hbYg9YpS
+405,2021.03.10,12:20:51,grooney,SchachHolzig,1936,1906,180+2,B07,Pirc Defense: Byrne Variation,26,Resign,0-1,0,False,True,https://lichess.org/T3jISOZQ
+406,2021.03.10,12:09:18,grooney,nblic0117,1955,2021,180+2,B07,Pirc Defense,20,Resign,0-1,0,False,True,https://lichess.org/gis48g5f
+407,2021.03.10,12:05:20,grooney,husseinbattikhi,1965,1996,180+2,B22,Sicilian Defense: Alapin Variation,19,Resign,0-1,0,False,True,https://lichess.org/SXvOcU29
+408,2021.03.10,11:51:53,grooney,Esmeral_29,1939,1922,180+2,C16,"French Defense: Winawer Variation, Advance Variation",21,Resign,1-0,1,False,True,https://lichess.org/mfT4TcjI
+409,2021.03.10,11:39:34,grooney,Valighazanfarii,1914,1971,180+2,B22,Sicilian Defense: Alapin Variation,17,Resign,1-0,1,False,True,https://lichess.org/Fj3lYE9A
+410,2021.03.10,11:16:08,grooney,Jemo66,1931,1888,180+2,C00,French Defense: Normal Variation,44,Resign,0-1,0,False,True,https://lichess.org/lrIkPX7J
+411,2021.03.03,16:51:26,grooney,tejaschess64,1945,1952,180+0,B22,"Sicilian Defense: Alapin Variation, Barmen Defense",25,Resign,0-1,0,False,False,https://lichess.org/Fe6KOlqG
+412,2021.03.03,15:56:53,grooney,sperMATozoide,1973,1990,180+0,B06,Modern Defense: Modern Pterodactyl,48,Resign,0-1,0,False,False,https://lichess.org/EK7KCpB0
+413,2021.01.05,18:24:44,grooney,koeks,1967,2012,180+0,C62,Ruy Lopez: Steinitz Defense,22,Resign,0-1,0,False,False,https://lichess.org/TkMHRoMY
+414,2021.01.05,18:22:13,grooney,yahyA2245,1951,1953,180+0,C00,French Defense,23,Checkmate,1-0,1,False,False,https://lichess.org/3ZZ3Eu6a
+415,2021.01.05,18:18:00,grooney,solmaz21,1966,1985,180+0,B20,Sicilian Defense: Snyder Variation,36,Resign,0-1,0,False,False,https://lichess.org/ggttV4pu
+416,2020.12.04,21:07:28,grooney,Nartay91,1964,1990,180+0,B12,"Caro-Kann Defense: Advance Variation, Tal Variation",64,Time forfeit,1-0,1,False,False,https://lichess.org/HVsNTKEn
+417,2020.12.04,20:58:01,grooney,noel_togo,1931,1943,180+0,B01,Scandinavian Defense: Modern Variation,72,Time forfeit,1-0,1,False,False,https://lichess.org/gvsHhR0X
+418,2020.08.16,12:38:24,grooney,Ahsharok,1919,1994,180+0,B22,Sicilian Defense: Alapin Variation,29,Checkmate,1-0,1,False,False,https://lichess.org/TmpB6Fu0
+419,2020.08.16,12:34:03,grooney,ALBERTOLOBO,1928,1961,180+0,C00,French Defense: Knight Variation,25,Checkmate,0-1,0,False,False,https://lichess.org/PhX4oJVt
+420,2020.07.12,16:36:17,grooney,barazandeh-gisoo,1904,1901,180+0,B06,Modern Defense,59,Checkmate,1-0,1,False,False,https://lichess.org/S7ayxQSh
+421,2020.07.12,16:31:09,grooney,pasreb,1894,1904,180+0,B10,Caro-Kann Defense,51,Resign,1-0,1,False,False,https://lichess.org/djwRFPCl
+422,2020.05.11,20:42:59,grooney,MEDZ19,1906,1953,180+0,C42,Russian Game: French Attack,18,Resign,0-1,0,False,False,https://lichess.org/b0txYjtN
+423,2020.05.11,20:26:27,grooney,peaonaoitava,1900,1894,180+0,B03,Alekhine Defense,24,Time forfeit,1-0,1,False,False,https://lichess.org/9ZfcGtHg
+424,2020.05.11,20:24:41,grooney,DIgorevich,1893,1899,180+0,C00,French Defense: Normal Variation,24,Resign,1-0,1,False,False,https://lichess.org/tuUj1Q8S
+425,2020.05.11,20:23:37,grooney,HE_3EBATb,1900,1900,180+0,C63,"Ruy Lopez: Schliemann Defense, Jaenisch Gambit Accepted",13,Resign,0-1,0,False,False,https://lichess.org/opIaAkMt
+426,2020.05.08,12:54:34,grooney,mercychigo,1898,1975,180+0,B06,Modern Defense,33,Checkmate,1-0,1,True,False,https://lichess.org/YLQXWglC
+427,2020.05.08,12:51:08,grooney,Impasible29,1890,1883,180+0,B33,"Sicilian Defense: Lasker-Pelikan Variation, Schlechter Variation",27,Resign,1-0,1,False,False,https://lichess.org/a56NsEDj
+428,2020.04.20,19:23:51,grooney,Guilty_remnant,1903,1897,180+0,B13,Caro-Kann Defense: Exchange Variation,23,Resign,0-1,0,False,False,https://lichess.org/0zMNtF7e
+429,2020.04.20,19:17:36,grooney,wackycomposer,1903,1899,180+0,B86,Sicilian Defense: Sozin Attack,26,Resign,1-0,1,False,False,https://lichess.org/Dr6tjdgc
+430,2020.04.20,19:10:33,grooney,noatun,1912,1833,180+0,C61,Ruy Lopez: Bird Variation,6,Resign,0-1,0,False,False,https://lichess.org/HT0po0X5
+431,2020.04.20,19:08:08,grooney,CezarPedroni,1920,1917,180+0,B90,Sicilian Defense: Najdorf Variation,23,Checkmate,0-1,0,False,False,https://lichess.org/T8b3D5bP
+432,2020.04.20,18:32:54,grooney,julesder,1935,1972,180+0,B27,"Pterodactyl Defense: Western, Rhamphorhynchus",54,Checkmate,0-1,0,False,False,https://lichess.org/uQEI5kpu
+433,2020.04.20,16:44:54,grooney,aquiles32,1933,1907,180+0,C77,"Ruy Lopez: Morphy Defense, Anderssen Variation",35,Resign,1-0,1,False,False,https://lichess.org/jESCoUH9
+434,2020.04.20,16:32:38,grooney,taha888,1904,1917,180+0,B01,Scandinavian Defense: Modern Variation,48,Time forfeit,1-0,1,False,False,https://lichess.org/M54h9fPr
+435,2020.04.20,16:13:44,grooney,JustTheTip22,1884,1902,180+0,C77,"Ruy Lopez: Morphy Defense, Anderssen Variation",61,Checkmate,1-0,1,False,False,https://lichess.org/qVNin8dt
+436,2020.04.19,16:02:23,grooney,fortunabalon,1861,1912,180+0,C00,French Defense: Normal Variation,55,Time forfeit,1-0,1,False,False,https://lichess.org/Fxq6NzY8
+437,2020.04.19,15:35:26,grooney,AnibalJulio,1884,1862,180+0,B90,"Sicilian Defense: Najdorf Variation, Lipnitsky Attack",17,Resign,0-1,0,False,False,https://lichess.org/44KgQQVZ
+438,2020.04.19,15:20:45,grooney,Sehirbaz,1897,1901,180+0,C64,Ruy Lopez: Classical Variation,38,Checkmate,0-1,0,False,False,https://lichess.org/SNWhIt0S
+439,2020.04.19,13:07:29,grooney,nevskiy,1909,1929,180+0,B06,Modern Defense,24,Resign,0-1,0,False,False,https://lichess.org/j6mEYWiN
+440,2020.04.19,12:45:44,grooney,Trivedi30,1883,1862,180+0,B56,Sicilian Defense: Classical Variation,39,Time forfeit,1-0,1,False,False,https://lichess.org/G0jabnBB
+441,2020.04.14,15:21:17,grooney,JoJo1742,1897,1874,180+0,C01,French Defense: Exchange Variation,49,Checkmate,0-1,0,False,False,https://lichess.org/Biw7I0dk
+442,2019.12.16,22:56:30,grooney,jmprada,1884,1828,180+0,C68,Ruy Lopez: Exchange Variation,15,Resign,1-0,1,False,False,https://lichess.org/bfLBryzV
+443,2019.12.05,23:07:41,grooney,ukrak,1893,1907,180+0,B00,St. George Defense,37,Time forfeit,0-1,0,False,False,https://lichess.org/oO1cJCZJ
+444,2019.12.05,11:20:03,grooney,erikbryan,1908,1911,180+0,B90,Sicilian Defense: Najdorf Variation,38,Resign,0-1,0,False,False,https://lichess.org/DlACNhgF
+445,2019.12.04,23:22:51,grooney,herohellhesam,1906,1947,180+0,B86,Sicilian Defense: Sozin Attack,13,Resign,0-1,0,True,False,https://lichess.org/a8cdoeVn
+446,2019.12.04,23:16:09,grooney,willreyes,1899,1842,180+0,B90,Sicilian Defense: Najdorf Variation,62,Time forfeit,1-0,1,False,False,https://lichess.org/zcFid9Wl
+447,2019.12.04,23:11:53,grooney,PeaoPromovido,1891,1907,180+0,B00,"Nimzowitsch Defense: Scandinavian Variation, Advance Variation",32,Resign,1-0,1,False,False,https://lichess.org/0Vj6bu3s
+448,2019.12.04,23:02:54,grooney,Alphatik,1890,1907,180+0,C65,Ruy Lopez: Berlin Defense,20,Resign,1-0,1,False,False,https://lichess.org/0O5aBZ7M
+449,2019.11.29,21:36:45,grooney,Yolotrolo,1890,1906,180+0,C40,King's Pawn Game: Busch-Gass Gambit,81,Time forfeit,1/2-1/2,0.5,False,False,https://lichess.org/tXkQoejt
+450,2019.11.26,19:29:37,grooney,Smartinezb2,1891,1844,180+0,B06,Modern Defense,66,Resign,1/2-1/2,0.5,False,False,https://lichess.org/OmsxfmcM
+451,2019.11.26,19:18:38,grooney,brylus,1874,1815,180+0,C64,Ruy Lopez: Classical Variation,64,Time forfeit,1-0,1,False,False,https://lichess.org/XOoYajJM
+452,2019.11.26,19:04:00,grooney,andreika1970,1856,1853,180+0,C01,French Defense: Exchange Variation,80,Checkmate,1-0,1,False,False,https://lichess.org/I1gfmKF0
+453,2019.11.25,22:04:41,grooney,tavva,1825,1807,180+0,B56,Sicilian Defense: Classical Variation,35,Resign,1-0,1,False,False,https://lichess.org/vQhLBHpW
+454,2019.11.25,21:19:21,grooney,ornament,1806,1774,180+0,C42,Russian Game,24,Resign,1-0,1,True,False,https://lichess.org/Sw8E7e9q
+455,2019.11.25,21:18:18,grooney,vasylenko,1794,1835,180+0,C68,Ruy Lopez: Exchange Variation,8,Resign,1-0,1,False,False,https://lichess.org/EOa46ja2
+456,2019.10.27,23:14:31,grooney,noveltyonmove3,1768,1770,180+0,C45,Scotch Game,42,Time forfeit,0-1,0,False,False,https://lichess.org/yhmBQe1X
+457,2019.10.27,22:44:34,grooney,el_repeinao,1755,1819,180+0,B90,"Sicilian Defense: Najdorf Variation, Lipnitsky Attack",47,Time forfeit,1-0,1,False,False,https://lichess.org/tcDryCQY
+458,2019.10.27,22:42:46,grooney,Makakus,1765,1791,180+0,C45,Scotch Game,17,Resign,0-1,0,False,False,https://lichess.org/lB8AYdey
+459,2019.10.27,21:37:30,grooney,ComradConnor,1746,1619,300+0,B23,Sicilian Defense: Closed,12,Resign,1-0,1,False,False,https://lichess.org/tV71Oaj8
+460,2019.10.27,13:24:02,grooney,grimpeur65,1771,1764,180+0,C01,French Defense: Exchange Variation,53,Time forfeit,0-1,0,False,False,https://lichess.org/6egwIDls
+461,2019.10.27,11:35:57,grooney,ivanvt,1766,1838,180+0,C40,King's Pawn Game: McConnell Defense,87,Checkmate,1-0,1,True,False,https://lichess.org/u9v5fvrQ
+462,2019.10.11,12:35:47,grooney,LORD-CHILAQUIL,1752,1738,180+0,C40,King's Pawn Game: McConnell Defense,34,Resign,1-0,1,False,False,https://lichess.org/yOcP3MCE
+463,2019.08.27,14:35:14,grooney,ibraheem6,1769,1577,180+0,B06,Modern Defense,85,Checkmate,0-1,0,False,False,https://lichess.org/QR1nGL5a
+464,2019.08.26,14:15:30,grooney,Laibnoureddine81,1781,1752,180+0,B22,Sicilian Defense: Alapin Variation,16,Time forfeit,0-1,0,False,False,https://lichess.org/2mOxB0qG
+465,2019.08.26,14:08:03,grooney,xtrodinaire,1805,1749,180+0,B01,Scandinavian Defense: Main Line,31,Checkmate,0-1,0,False,False,https://lichess.org/rvLa2lEH
+466,2019.08.26,13:52:29,grooney,Triumphovic,1805,1674,180+0,B01,Scandinavian Defense: Modern Variation,46,Checkmate,1-0,1,False,False,https://lichess.org/nDAHhhCa
+467,2019.08.26,11:13:26,grooney,McDeil,1793,1755,180+0,B13,Caro-Kann Defense: Exchange Variation,69,Checkmate,1-0,1,False,False,https://lichess.org/iUeBHHyG
+468,2019.03.29,22:28:07,grooney,Valladorn,1820,1809,180+0,B13,Caro-Kann Defense: Exchange Variation,40,Checkmate,0-1,0,False,False,https://lichess.org/FXMWmSug
+469,2019.03.20,10:48:18,grooney,BubbaJae,1820,1830,180+0,C45,Scotch Game,27,Resign,0-1,0,False,False,https://lichess.org/9mLk1ndj
+470,2019.03.13,11:19:23,grooney,mirul401110,1813,1785,180+0,C01,French Defense: Exchange Variation,17,Resign,0-1,0,False,False,https://lichess.org/hEipqEPY
+471,2019.03.12,08:31:46,grooney,agsugan69,1798,1795,180+0,C64,Ruy Lopez: Classical Variation,16,Resign,1-0,1,False,False,https://lichess.org/5nknNQKR
+472,2019.03.11,09:25:19,grooney,EDMUND200,1820,1827,180+0,C69,"Ruy Lopez: Exchange Variation, Normal Variation",39,Checkmate,0-1,0,False,False,https://lichess.org/IneiO6fj
+473,2019.03.07,12:19:10,grooney,bahoor1980,1843,1868,180+0,B01,Scandinavian Defense: Bronstein Variation,27,Checkmate,0-1,0,False,False,https://lichess.org/aFFF8XHX
+474,2019.03.07,12:13:03,grooney,Crampingeffect,1832,1840,180+0,B00,Owen Defense,28,Time forfeit,1-0,1,False,False,https://lichess.org/iR28mema
+475,2019.03.06,11:52:32,grooney,mostafasalh,1836,1796,180+0,C45,Scotch Game,42,Checkmate,0-1,0,False,False,https://lichess.org/GFr3uIRT
+476,2019.03.05,16:43:34,grooney,Dunno23,1847,1854,180+0,B90,"Sicilian Defense: Najdorf Variation, English Attack",57,Checkmate,0-1,0,False,False,https://lichess.org/lJhWGFg1
+477,2019.03.05,12:42:40,grooney,Slav96,1845,1894,180+0,C20,King's Pawn Game: Wayward Queen Attack,80,Resign,1/2-1/2,0.5,False,False,https://lichess.org/AKkxWIzV
+478,2019.03.05,12:17:42,grooney,Tamazovish,1838,1833,180+0,B43,"Sicilian Defense: Kan Variation, Knight Variation",57,Resign,1/2-1/2,0.5,False,False,https://lichess.org/rtj6R9W0
+479,2019.03.05,12:13:02,grooney,jackwalsh2,1848,1862,180+0,C40,Elephant Gambit: Paulsen Countergambit,31,Checkmate,0-1,0,False,False,https://lichess.org/HC0sSsQF
+480,2019.03.04,23:00:51,grooney,MiggyNajdrf,1861,1819,180+0,B90,"Sicilian Defense: Najdorf Variation, Lipnitsky Attack",69,Time forfeit,1/2-1/2,0.5,False,False,https://lichess.org/5zwfrvST
+481,2019.03.04,12:51:20,grooney,Tamazovish,1853,1769,180+0,B12,"Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense",60,Time forfeit,1-0,1,False,False,https://lichess.org/181r5zfI
+482,2019.03.04,10:02:56,grooney,dindoerni,1845,1770,180+0,B00,"Nimzowitsch Defense: Lean Variation, Colorado Counter Accepted",44,Time forfeit,1-0,1,False,False,https://lichess.org/tE9HyB2B
+483,2019.03.02,19:35:58,grooney,SEyre21,1834,1827,180+0,B12,"Caro-Kann Defense: Advance Variation, Short Variation",45,Resign,1-0,1,False,False,https://lichess.org/5HFqBBiK
+484,2019.03.01,14:44:11,grooney,kambizhamburg,1811,1894,180+0,C41,Philidor Defense,61,Time forfeit,1-0,1,False,False,https://lichess.org/1VczWtxs
+485,2019.02.28,21:01:57,grooney,ChrisMirko,1791,1737,180+0,C64,Ruy Lopez: Classical Variation,43,Time forfeit,1-0,1,False,False,https://lichess.org/PswsD618
+486,2019.02.27,15:23:28,grooney,jr2412,1794,1796,180+0,C62,Ruy Lopez: Steinitz Defense,45,Checkmate,0-1,0,False,False,https://lichess.org/sE4OXxd9
+487,2019.02.26,11:08:38,grooney,Westua,1795,1685,180+0,B10,Caro-Kann Defense,29,Resign,1-0,1,False,False,https://lichess.org/2qAJE750
+488,2019.02.26,10:57:27,grooney,nadershah123,1775,1772,180+0,C70,"Ruy Lopez: Morphy Defense, Caro Variation",48,Checkmate,1-0,1,True,False,https://lichess.org/IFmGd0xW
+489,2019.02.25,21:27:42,grooney,Archbishbash,1783,1776,180+0,B21,Sicilian Defense: Smith-Morra Gambit,27,Resign,0-1,0,False,False,https://lichess.org/U9iFfevx
+490,2019.02.25,21:20:39,grooney,tabushidan,1775,1652,180+0,C41,Philidor Defense: Exchange Variation,50,Time forfeit,1-0,1,False,False,https://lichess.org/sfPZinhp
+491,2019.02.22,12:29:40,grooney,flyban,1795,1765,180+0,B06,Modern Defense,51,Checkmate,0-1,0,False,False,https://lichess.org/dfyvaUUA
+492,2019.02.21,13:11:47,grooney,jessher2019,1803,1888,300+0,B50,Sicilian Defense,87,Checkmate,0-1,0,False,False,https://lichess.org/Y70sFo1w
+493,2019.02.20,11:53:45,grooney,wanstone,1807,1675,180+0,C68,Ruy Lopez: Exchange Variation,18,Resign,1-0,1,False,False,https://lichess.org/nk6DRbzz
+494,2019.02.19,13:05:03,grooney,Nemo02,1806,1789,180+0,B90,"Sicilian Defense: Najdorf Variation, Lipnitsky Attack",76,Checkmate,0-1,0,False,False,https://lichess.org/RSflxiWq
+495,2019.02.19,12:58:21,grooney,Naiba,1801,1606,180+0,B35,"Sicilian Defense: Dragon Variation, Modern Bc4 Variation",42,Time forfeit,1-0,1,False,False,https://lichess.org/JjKI2fYb
+496,2019.02.19,12:46:36,grooney,cavalldefoc,1802,1651,180+0,B00,"Nimzowitsch Defense: Scandinavian Variation, Advance Variation",48,Checkmate,0-1,0,False,False,https://lichess.org/3rNYa8EL
+497,2019.02.16,14:50:40,grooney,removelichess,1792,1794,180+0,B43,"Sicilian Defense: Kan Variation, Knight Variation",27,Resign,1-0,1,False,False,https://lichess.org/uRAcQTwv
+498,2019.02.15,14:46:07,grooney,gLaly,1799,1949,300+0,B46,Sicilian Defense: Taimanov Variation,28,Resign,0-1,0,False,False,https://lichess.org/3mmkoGqD
+499,2019.02.15,14:35:02,grooney,Cholponbaev,1799,1800,300+0,B06,Modern Defense,60,Resign,1/2-1/2,0.5,True,False,https://lichess.org/BJgELd4q
+500,2019.02.14,21:40:18,grooney,Riass,1787,1795,300+0,C02,"French Defense: Advance Variation, Nimzowitsch System",30,Resign,1-0,1,False,False,https://lichess.org/3ViqXkcK
+501,2019.02.14,15:07:40,grooney,perobg,1797,1852,180+0,B32,Sicilian Defense: Open,19,Checkmate,0-1,0,False,False,https://lichess.org/wlylPMgK
+502,2019.02.14,13:27:18,grooney,ivtod60,1785,1808,300+0,C65,Ruy Lopez: Berlin Defense,74,Resign,1/2-1/2,0.5,False,False,https://lichess.org/evyqoR0j
+503,2019.02.13,11:27:57,grooney,NikitaEkb,1778,1957,180+0,C65,Ruy Lopez: Berlin Defense,27,Time forfeit,1-0,1,False,False,https://lichess.org/t5aEPtrw
+504,2019.02.13,11:20:58,grooney,Drbutterbrod,1760,1595,180+0,C64,Ruy Lopez: Classical Variation,22,Resign,1-0,1,False,False,https://lichess.org/BLI8P8yy
+505,2019.02.12,13:38:29,grooney,kuti69,1775,1689,180+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,38,Time forfeit,1-0,1,False,False,https://lichess.org/3SCs4fv3
+506,2019.02.12,13:15:04,grooney,AA2009,1774,1742,300+0,B01,Scandinavian Defense: Main Line,35,Checkmate,0-1,0,False,False,https://lichess.org/kUeSLZeX
+507,2019.02.12,12:36:44,grooney,damci,1762,1784,300+0,B70,Sicilian Defense: Dragon Variation,37,Time forfeit,1-0,1,False,False,https://lichess.org/ln83mE4o
+508,2019.01.26,20:10:06,grooney,BobbyFischer1970,1752,1679,180+0,C42,Russian Game: French Attack,57,Resign,1-0,1,False,False,https://lichess.org/AVRYAZCC
+509,2019.01.26,13:14:26,grooney,lits7,1748,1833,300+0,C62,Ruy Lopez: Steinitz Defense,22,Resign,1-0,1,False,False,https://lichess.org/ligHpcio
+510,2019.01.25,17:01:06,grooney,Andorracountry,1748,1700,180+0,B15,Caro-Kann Defense: Main Line,28,Resign,1-0,1,False,False,https://lichess.org/On2y63cF
+511,2019.01.23,16:04:26,grooney,vogel_15,1743,1504,180+0,B06,Modern Defense,43,Resign,1-0,1,False,False,https://lichess.org/IfUJoHcA
+512,2019.01.22,11:18:59,grooney,Jovan1234,1733,1713,180+0,C68,Ruy Lopez: Exchange Variation,88,Checkmate,0-1,0,False,False,https://lichess.org/P4l8w1bD
+513,2019.01.21,20:53:09,grooney,AbrahaNov,1745,1743,180+0,C64,Ruy Lopez: Classical Variation,12,Time forfeit,1-0,1,False,False,https://lichess.org/ol0S8r80
+514,2019.01.21,18:19:17,grooney,yacineXs,1733,1722,180+0,C68,Ruy Lopez: Exchange Variation,45,Time forfeit,1-0,1,False,False,https://lichess.org/MvkyAOfn
+515,2019.01.21,12:32:00,grooney,veedaf,1734,1687,300+0,B01,Scandinavian Defense: Modern Variation,20,Checkmate,0-1,0,True,False,https://lichess.org/mF4JNGP4
+516,2019.01.20,19:20:15,grooney,Mothar_Latthaeus,1759,1718,300+0,C77,"Ruy Lopez: Morphy Defense, Anderssen Variation",42,Resign,0-1,0,False,False,https://lichess.org/Ni1dVahe
+517,2019.01.19,10:09:52,grooney,YOURMOMSHUSBAND,1762,1701,300+0,C42,Russian Game: Stafford Gambit,7,Resign,0-1,0,False,False,https://lichess.org/NrRT9LeZ
+518,2019.01.16,12:38:13,grooney,vicenteTQ,1724,1691,300+0,B00,"Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation",33,Checkmate,1-0,1,False,False,https://lichess.org/aQs5T4Cw
+519,2019.01.14,14:05:50,grooney,malondra,1697,1657,300+0,C01,French Defense: Exchange Variation,28,Resign,1-0,1,False,False,https://lichess.org/TjSKUntI
+520,2019.01.14,13:58:24,grooney,Csipisz,1714,1716,300+0,B01,Scandinavian Defense: Modern Variation,43,Checkmate,0-1,0,False,False,https://lichess.org/mGD4TM8W
+521,2019.01.11,14:30:27,grooney,Nasermohamed,1746,1785,300+0,B06,Modern Defense: Standard Line,53,Checkmate,0-1,0,False,False,https://lichess.org/vj7DaY0X
+522,2019.01.04,09:17:37,grooney,udemski,1767,1791,180+0,A06,Zukertort Opening: Tennison Gambit,32,Time forfeit,0-1,0,False,False,https://lichess.org/ESSAnEGa
+523,2019.01.03,13:21:23,grooney,HU14,1769,1735,300+0,B00,King's Pawn Game: Nimzowitsch Defense,43,Resign,1/2-1/2,0.5,False,False,https://lichess.org/SZ2QdSw7
+524,2019.01.03,12:53:19,grooney,Juliov,1743,1735,300+0,C62,Ruy Lopez: Steinitz Defense,37,Resign,1-0,1,False,False,https://lichess.org/CP0X6kwP
+525,2019.01.03,08:52:58,grooney,Grammatyk,1771,1781,300+0,B90,"Sicilian Defense: Najdorf Variation, Lipnitsky Attack",15,Resign,0-1,0,False,False,https://lichess.org/JhoaSYy0
+526,2019.01.02,11:53:38,grooney,pacochesscebr,1778,1736,180+0,B44,Sicilian Defense: Taimanov Variation,46,Checkmate,0-1,0,False,False,https://lichess.org/lVfzfbnx
+527,2018.12.28,16:22:22,grooney,deusxmachina,1752,1655,300+0,C65,"Ruy Lopez: Berlin Defense, Anderssen Variation",35,Checkmate,1-0,1,True,False,https://lichess.org/2cKefRiw
+528,2018.12.27,12:27:41,grooney,Umutunal,1724,1623,300+0,B33,"Sicilian Defense: Lasker-Pelikan Variation, Exchange Variation",60,Checkmate,1-0,1,True,False,https://lichess.org/7ZjFEtJC
+529,2018.12.17,14:26:58,grooney,edgarcabas,1723,1730,180+0,C01,French Defense: Exchange Variation,64,Time forfeit,1/2-1/2,0.5,False,False,https://lichess.org/LXDw2E9Y
+530,2018.12.14,13:27:36,grooney,fanefane,1673,1678,180+2,C45,Scotch Game: Modern Defense,36,Time forfeit,1-0,1,True,True,https://lichess.org/OoldaCQY
+531,2018.12.14,13:13:10,grooney,dj000,1618,1606,180+2,B31,"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",42,Resign,1-0,1,False,True,https://lichess.org/V1NiOg9y
+532,2018.11.30,10:51:11,grooney,kamileo96,1720,1279,300+3,A41,King's Pawn Game: MarĂłczy Defense,14,Resign,1-0,1,False,True,https://lichess.org/PvlJYlAR
+533,2018.11.30,08:58:37,grooney,kamileo96,1662,1337,300+3,C44,Scotch Game,20,Checkmate,1-0,1,False,True,https://lichess.org/v3CKVx5a
+534,2018.11.29,12:07:54,grooney,kamileo96,1500,1500,180+2,C44,Scotch Game,66,Checkmate,1-0,1,False,True,https://lichess.org/H4vrR2Kk

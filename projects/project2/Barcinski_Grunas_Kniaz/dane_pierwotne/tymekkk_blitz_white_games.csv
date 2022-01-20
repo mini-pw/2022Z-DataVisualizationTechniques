@@ -1,0 +1,428 @@
+id,date,time,white,black,white elo,black elo,time control,opening code,opening name,length,termination,result,hero points,has eval,has increment,link
+1,2021.12.22,16:21:57,tymekkk,jtravella5,1592,1547,180+2,C55,Italian Game: Two Knights Scotch Gambit,16,-,0-1,0,False,True,Chess.com
+2,2021.07.01,11:12:36,tymekkk,Fithking,1657,1670,180+2,B01,Scandinavian Defense:,54,-,1-0,1,False,True,Chess.com
+3,2021.07.01,11:22:33,tymekkk,gaiedtalaat10s,1652,1795,180+2,C05,French Defense: Tarrasch Closed...5.Bd3 c5 6.c3 Nc6 7.Ne2,39,-,0-1,0,False,True,Chess.com
+4,2021.07.02,16:26:15,tymekkk,toplay4,1618,1630,180+2,C08,French Defense: Tarrasch Open Delayed Exchange Variation,36,-,0-1,0,False,True,Chess.com
+5,2021.07.02,16:50:47,tymekkk,Seshubabu6,1608,1539,180+2,B00,Kings Pawn: Opening Owens Defense,20,-,0-1,0,False,True,Chess.com
+6,2021.06.01,19:19:32,tymekkk,aliaazi,1699,1764,180+2,B31,Sicilian Defense: Nyezhmetdinov Rossolimo Fianchetto Variation 4.O O Bg7 5.Re1 Nf6 6.c3,62,-,0-1,0,False,True,Chess.com
+7,2021.06.03,15:07:47,tymekkk,Fris1tail,1706,1663,180+2,B51,Sicilian Defense: Canal Attack 3...Nc6,32,-,1-0,1,False,True,Chess.com
+8,2021.06.03,15:23:19,tymekkk,srekangpai,1704,1683,180+2,C53,Giuoco Piano: Game Center Attack 5...exd4 6.e5,34,-,0-1,0,False,True,Chess.com
+9,2021.06.04,19:12:14,tymekkk,MENDOZAFREDDY1974,1687,1719,180+2,B07,Pirc Defense: 2.d4 Nf6,49,-,0-1,0,False,True,Chess.com
+10,2021.06.06,17:17:27,tymekkk,PetrDPK,1682,1809,180+2,C07,French Defense: Tarrasch Open 4.dxc5,27,-,0-1,0,False,True,Chess.com
+11,2021.06.09,16:05:22,tymekkk,Krith6,1676,1798,180+2,B31,Sicilian Defense: Nyezhmetdinov Rossolimo Fianchetto Variation 4.O O Bg7 5.Re1 Nf6 6.c3,22,-,0-1,0,False,True,Chess.com
+12,2021.06.09,19:04:30,tymekkk,boyilaga,1685,1733,180+2,C41,Philidor Defense: 3.Bc4,32,-,1/2-1/2,0.5,False,True,Chess.com
+13,2021.06.13,09:04:54,tymekkk,arunachalampalani78,1683,1655,180+2,B01,Scandinavian Defense:,36,-,0-1,0,False,True,Chess.com
+14,2021.06.22,10:06:27,tymekkk,StepPA2020,1685,1681,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,26,-,0-1,0,False,True,Chess.com
+15,2021.06.23,18:41:22,tymekkk,powerador,1672,1715,180+2,B51,Sicilian Defense: Canal Attack...4.O O Nf6 5.Re1 a6,38,-,1/2-1/2,0.5,False,True,Chess.com
+16,2021.06.24,15:51:41,tymekkk,pasundan2017,1680,1663,180+2,B07,Pirc Defense: 2.d4 c6,47,-,1-0,1,False,True,Chess.com
+17,2021.06.28,09:57:40,tymekkk,GREAT_UTSAV0,1695,1587,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,39,-,1-0,1,False,True,Chess.com
+18,2021.06.28,10:06:24,tymekkk,arthur460,1685,1607,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,39,-,0-1,0,False,True,Chess.com
+19,2021.06.28,12:36:11,tymekkk,ponder11930,1676,1648,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Qxd7 5.O O,20,-,1-0,1,False,True,Chess.com
+20,2021.06.28,12:39:43,tymekkk,Jakobsara,1668,1678,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,49,-,0-1,0,False,True,Chess.com
+21,2021.06.28,14:51:06,tymekkk,jmrv01,1653,1432,180+2,C42,Petrovs Defense: Classical Stafford Gambit,14,-,0-1,0,False,True,Chess.com
+22,2021.06.28,19:52:06,tymekkk,Hirschpirsch,1646,1691,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O,43,-,0-1,0,False,True,Chess.com
+23,2021.05.02,17:37:57,tymekkk,Dybbe,1687,1664,180+2,C53,Giuoco Piano: Game Main Line 4...d6,32,-,0-1,0,False,True,Chess.com
+24,2021.05.03,15:18:26,tymekkk,Fenrir911,1695,1668,180+2,C53,Giuoco Piano: Game Main Line 4...d6 5.d4 exd4 6.cxd4,49,-,1-0,1,False,True,Chess.com
+25,2021.05.05,16:00:27,tymekkk,nimzothebest,1681,1682,180+2,C50,Italian Game: Hungarian Defense,70,-,1/2-1/2,0.5,False,True,Chess.com
+26,2021.05.05,17:06:56,tymekkk,AbdelkabirMenani,1672,1645,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...e6 4.O O,23,-,0-1,0,False,True,Chess.com
+27,2021.05.05,19:14:47,tymekkk,zoncolan,1663,1656,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,37,-,0-1,0,False,True,Chess.com
+28,2021.05.05,20:06:28,tymekkk,Deephouse,1685,1774,180+2,C53,Giuoco Piano: Game Center Attack 5...exd4 6.e5,56,-,0-1,0,False,True,Chess.com
+29,2021.05.06,07:06:37,tymekkk,AnastFIN,1676,1646,180+2,C58,Italian Game: Knight Attack Polerio Bishop Check Line 6...c6 7.dxc6 bxc6 8.Be2,33,-,0-1,0,False,True,Chess.com
+30,2021.05.06,16:15:18,tymekkk,Simleman20,1699,1626,180+2,C54,Giuoco Piano: Game Center Attack...6.e5 d5 7.Bb5 Ne4 8.cxd4,22,-,1-0,1,False,True,Chess.com
+31,2021.05.06,16:19:23,tymekkk,Kalaboum,1709,1783,180+2,B31,Sicilian Defense: Nyezhmetdinov Rossolimo Fianchetto Variation 4.O O Bg7 5.Re1 Nf6 6.c3,44,-,1-0,1,False,True,Chess.com
+32,2021.05.06,17:50:20,tymekkk,arunprakashk,1722,1618,180+2,B01,Scandinavian Defense:,44,-,1-0,1,False,True,Chess.com
+33,2021.05.07,06:23:04,tymekkk,bjelica1951,1706,1646,180+2,B06,Modern Defense: with 1 e4 2.d4 d6,39,-,0-1,0,False,True,Chess.com
+34,2021.05.07,13:05:59,tymekkk,sauleamarius,1714,1707,180+2,C05,French Defense: Tarrasch Closed...5.Bd3 c5 6.c3 Nc6 7.Ne2,37,-,1-0,1,False,True,Chess.com
+35,2021.05.09,18:42:52,tymekkk,RollingBishop2002,1714,1766,180+2,B07,Pirc Defense: 2.d4 Nf6,68,-,1/2-1/2,0.5,False,True,Chess.com
+36,2021.05.10,18:49:26,tymekkk,MilosRadevic,1722,1704,180+2,C50,Italian Game: Hungarian Defense,35,-,1-0,1,False,True,Chess.com
+37,2021.05.10,18:56:56,tymekkk,serrucho57,1713,1680,180+2,C59,Italian Game: Knight Attack Polerio Bishop Check Suhle Defense...10.Ne5 Bd6 11.d4 Qc7,23,-,0-1,0,False,True,Chess.com
+38,2021.05.11,10:08:11,tymekkk,prutis,1706,1757,180+2,B06,Modern Defense: with 1 d4 2.c4 Bg7 3.e4 d6,15,-,0-1,0,False,True,Chess.com
+39,2021.05.11,12:27:29,tymekkk,fragar,1701,1774,180+2,C08,French Defense: Tarrasch Open Delayed Exchange Variation,37,-,0-1,0,False,True,Chess.com
+40,2021.05.11,13:08:56,tymekkk,yansto94,1717,1882,180+2,B01,Scandinavian Defense:,19,-,0-1,0,False,True,Chess.com
+41,2021.05.11,13:12:22,tymekkk,PawntiffMaximus,1724,1669,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,21,-,1-0,1,False,True,Chess.com
+42,2021.05.11,13:21:14,tymekkk,PawntiffMaximus,1706,1687,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,43,-,0-1,0,False,True,Chess.com
+43,2021.05.11,16:56:12,tymekkk,rs_n4k,1718,1863,180+2,C42,Petrovs Defense: Classical Stafford Gambit,40,-,1-0,1,False,True,Chess.com
+44,2021.05.11,17:04:30,tymekkk,phdhao,1723,1583,180+2,B01,Scandinavian Defense:,37,-,1-0,1,False,True,Chess.com
+45,2021.05.11,17:18:13,tymekkk,Jeev1977,1736,1470,180+2,C42,Petrovs Defense: Classical Attack Marshall Variation 7.O O O O,24,-,1-0,1,False,True,Chess.com
+46,2021.05.11,17:54:16,tymekkk,Samarytan,1713,1672,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O Ngf6,37,-,0-1,0,False,True,Chess.com
+47,2021.05.11,18:35:52,tymekkk,skrunkey,1715,1677,180+2,B03,Alekhines Defense: Four Pawns Main Line 7...Bf5,45,-,0-1,0,False,True,Chess.com
+48,2021.05.12,11:16:40,tymekkk,lousdad,1720,1593,180+2,B51,Sicilian Defense: Canal Attack 3...Nc6 4.O O,21,-,1-0,1,False,True,Chess.com
+49,2021.05.12,13:36:00,tymekkk,zenitzenit,1710,1656,180+2,B03,Alekhines Defense: Normal Variation 3.d4,38,-,0-1,0,False,True,Chess.com
+50,2021.05.12,13:53:37,tymekkk,EduardHalili,1700,1627,180+2,C54,Giuoco Piano: Game Center Attack Anderssen Variation,37,-,0-1,0,False,True,Chess.com
+51,2021.05.13,08:26:55,tymekkk,nikolasu,1701,1711,180+2,C42,Petrovs Defense: Classical Stafford Gambit,44,-,1-0,1,False,True,Chess.com
+52,2021.05.13,08:50:35,tymekkk,miklpikl,1704,1631,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,20,-,1-0,1,False,True,Chess.com
+53,2021.05.13,08:55:59,tymekkk,Rognons,1695,1655,180+2,C57,Italian Game: Knight Attack Ulvestad Variation,26,-,0-1,0,False,True,Chess.com
+54,2021.05.13,13:28:06,tymekkk,Ettertje,1701,1602,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...e6 4.O O,58,-,1-0,1,False,True,Chess.com
+55,2021.05.13,13:52:58,tymekkk,Hosain2000,1717,1770,180+2,B27,Sicilian Defense: Hyperaccelerated Dragon Fianchetto Variation 3...cxd4 4.Nxd4,29,-,1-0,1,False,True,Chess.com
+56,2021.05.13,14:00:46,tymekkk,marrar76,1708,1702,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,39,-,0-1,0,False,True,Chess.com
+57,2021.05.13,14:46:39,tymekkk,alib5072,1726,1682,180+2,B07,Pirc Defense: 2.d4 Nf6,68,-,1-0,1,False,True,Chess.com
+58,2021.05.14,18:13:47,tymekkk,bamba-2001,1710,1766,180+2,B01,Scandinavian Defense:,31,-,0-1,0,False,True,Chess.com
+59,2021.05.14,18:22:15,tymekkk,aleksandrsen79,1700,1630,180+2,B06,Modern Defense: with 1 d4 2.c4 Bg7 3.e4 d6,35,-,0-1,0,False,True,Chess.com
+60,2021.05.15,13:07:26,tymekkk,Devastator8501,1694,1801,180+2,B01,Scandinavian Defense:,34,-,0-1,0,False,True,Chess.com
+61,2021.05.16,08:31:08,tymekkk,Victor3435,1705,1806,180+2,B51,Sicilian Defense: Canal Attack 3...Nd7 4.O O,12,-,1-0,1,False,True,Chess.com
+62,2021.05.16,14:45:15,tymekkk,CujbescuRadu_oldplayer,1714,1713,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,35,-,1-0,1,False,True,Chess.com
+63,2021.05.17,20:35:48,tymekkk,vaincoeur,1722,1700,180+2,C50,Italian Game: Hungarian Defense,54,-,1-0,1,False,True,Chess.com
+64,2021.05.22,16:59:20,tymekkk,inferno_kpi,1717,1660,180+2,B51,Sicilian Defense: Canal Attack 3...Nc6 4.O O,29,-,1-0,1,False,True,Chess.com
+65,2021.05.23,09:37:09,tymekkk,play08,1710,1793,180+2,B80,Sicilian Defense: Open Scheveningen Variation,24,-,0-1,0,False,True,Chess.com
+66,2021.05.23,09:40:06,tymekkk,Alexandr09876,1718,1711,180+2,C57,Italian Game: Knight Attack Fritz Variation,52,-,1-0,1,False,True,Chess.com
+67,2021.05.23,12:05:10,tymekkk,JeanPripri,1704,1837,180+2,B01,Scandinavian Defense:,50,-,0-1,0,False,True,Chess.com
+68,2021.05.24,17:50:13,tymekkk,yesssir71,1704,1647,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O Ngf6,59,-,1-0,1,False,True,Chess.com
+69,2021.05.27,15:50:18,tymekkk,mrgh1338,1697,1581,180+2,C02,French Defense: Advance Variation 3...c5 4.c3,74,-,1-0,1,False,True,Chess.com
+70,2021.05.29,10:17:33,tymekkk,hoganjack11,1699,1767,180+2,C53,Giuoco Piano: Game Main Line 4...d6,41,-,1/2-1/2,0.5,False,True,Chess.com
+71,2021.04.03,17:35:00,tymekkk,Sasageyo_1,1575,1460,180+2,B51,Sicilian Defense: Canal Attack 3...Nd7 4.O O,15,-,0-1,0,False,True,Chess.com
+72,2021.04.09,10:18:51,tymekkk,std500,1594,1768,180+2,C05,French Defense: Tarrasch Closed...5.Bd3 c5 6.c3 Nc6 7.Ne2,13,-,1-0,1,False,True,Chess.com
+73,2021.04.09,10:31:29,tymekkk,Kolaev_Evgeny,1599,1707,180+2,B01,Scandinavian Defense:,20,-,0-1,0,False,True,Chess.com
+74,2021.04.09,10:43:33,tymekkk,Goingforgold1,1608,1628,180+2,B00,Kings Pawn: Opening Owens Defense 2.d4 Bb7 3.Bd3,32,-,1-0,1,False,True,Chess.com
+75,2021.04.09,17:40:51,tymekkk,Grishchyk,1621,1552,180+2,B40,Sicilian Defense: French Variation 3.d4 cxd4 4.Nxd4,69,-,1-0,1,False,True,Chess.com
+76,2021.04.09,18:49:49,tymekkk,jiojio,1621,1626,180+2,B07,Pirc Defense: 2.d4 c6,71,-,1-0,1,False,True,Chess.com
+77,2021.04.10,13:22:26,tymekkk,EminZarbiev,1627,1537,180+2,B01,Scandinavian Defense:,31,-,1-0,1,False,True,Chess.com
+78,2021.04.10,14:01:42,tymekkk,grandmetr23,1634,1576,180+2,C58,Italian Game: Knight Attack Polerio Bishop Check Line 6...c6 7.dxc6 bxc6 8.Be2,50,-,1-0,1,False,True,Chess.com
+79,2021.04.10,14:09:58,tymekkk,River137,1626,1623,180+2,B43,Sicilian Defense: Kan Knight Variation 5...Qc7 6.Bd3 Nf6 7.O O,24,-,0-1,0,False,True,Chess.com
+80,2021.04.10,15:06:28,tymekkk,chansoondae,1617,1610,180+2,B01,Scandinavian Defense:,22,-,0-1,0,False,True,Chess.com
+81,2021.04.10,15:57:45,tymekkk,pauldumass,1617,1631,180+2,B31,Sicilian Defense: Nyezhmetdinov Rossolimo Brooklyn Retreat Defense,23,-,0-1,0,False,True,Chess.com
+82,2021.04.10,20:02:22,tymekkk,manuel1600,1609,1662,180+2,C10,French Defense: Rubinstein Variation 4.Nxe4,6,-,0-1,0,False,True,Chess.com
+83,2021.04.11,12:43:10,tymekkk,Dmitry_Barnaul,1617,1592,180+2,C58,Italian Game: Knight Attack Polerio Bishop Check Line 6...c6 7.dxc6 bxc6 8.Be2,39,-,1-0,1,False,True,Chess.com
+84,2021.04.11,17:18:42,tymekkk,angar69,1603,1627,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,41,-,0-1,0,False,True,Chess.com
+85,2021.04.12,16:12:57,tymekkk,Julius122376,1613,1692,180+2,B28,Sicilian Defense: OKelly Normal System 3...cxd4 4.Nxd4 Nf6,40,-,1-0,1,False,True,Chess.com
+86,2021.04.13,08:54:41,tymekkk,Fallensoul108,1604,1562,180+2,B43,Sicilian Defense: Kan Knight Variation 5...Qc7,19,-,0-1,0,False,True,Chess.com
+87,2021.04.15,12:04:18,tymekkk,WedMiss,1621,1600,180+2,C42,Petrovs Defense: Classical Attack Mason Showalter Variation,37,-,1-0,1,False,True,Chess.com
+88,2021.04.15,16:25:55,tymekkk,sduhan,1622,1589,180+2,C02,French Defense: Advance Paulsen Main Line,33,-,0-1,0,False,True,Chess.com
+89,2021.04.16,12:34:42,tymekkk,MatthewVolkwyn,1648,1620,180+2,B07,Pirc Defense: 2.d4 Nf6,30,-,1-0,1,False,True,Chess.com
+90,2021.04.16,12:47:27,tymekkk,Antoine772,1641,1683,180+2,C41,Philidor Defense: 3.Bc4 Be7,37,-,0-1,0,False,True,Chess.com
+91,2021.04.16,13:06:08,tymekkk,GM_capivara_da_estivinha,1632,1687,180+2,C57,Italian Game: Knight Attack Ponziani Steinitz Gambit,10,-,0-1,0,False,True,Chess.com
+92,2021.04.16,13:34:38,tymekkk,64idi0t,1623,1610,180+2,C55,Italian Game: Two Knights Defense 4.O O Bc5,34,-,0-1,0,False,True,Chess.com
+93,2021.04.19,08:07:18,tymekkk,grgsw,1613,1553,180+2,C08,French Defense: Tarrasch Open Delayed Exchange Variation,41,-,1-0,1,False,True,Chess.com
+94,2021.04.19,08:24:37,tymekkk,LeventK11111111,1625,1592,180+2,B51,Sicilian Defense: Canal Attack 3...Nd7 4.O O,44,-,1/2-1/2,0.5,False,True,Chess.com
+95,2021.04.19,09:46:43,tymekkk,halvardgb,1617,1571,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...Qb6,57,-,1-0,1,False,True,Chess.com
+96,2021.04.19,10:34:56,tymekkk,themagicianbg,1617,1629,180+2,B45,Sicilian Defense: Taimanov Variation 5.Nc3,52,-,1/2-1/2,0.5,False,True,Chess.com
+97,2021.04.19,10:43:00,tymekkk,Kotof6000,1610,1672,180+2,C50,Italian Game: Hungarian Defense,10,-,0-1,0,False,True,Chess.com
+98,2021.04.19,13:01:17,tymekkk,kikiyof47,1610,1625,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...e6 4.O O,30,-,0-1,0,False,True,Chess.com
+99,2021.04.19,16:21:47,tymekkk,Taxichris,1633,1620,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O Ngf6,28,-,1-0,1,False,True,Chess.com
+100,2021.04.19,18:16:45,tymekkk,PeteLawolf123,1646,1605,180+2,C57,Italian Game: Traxler Knight Sacrifice Line 5...Bxf2 6.Kxf2 Nxe4,11,-,0-1,0,False,True,Chess.com
+101,2021.04.19,18:19:31,tymekkk,the_one_in-between,1655,1685,180+2,B00,Nimzowitsch Defense: 2.d4 e6,26,-,1-0,1,False,True,Chess.com
+102,2021.04.19,18:25:05,tymekkk,CPTsopiens,1664,1678,180+2,C54,Giuoco Piano: Game Center Attack Anderssen Variation,33,-,1-0,1,False,True,Chess.com
+103,2021.04.19,18:32:56,tymekkk,zolabloony,1672,1635,180+2,B01,Scandinavian Defense:,65,-,1-0,1,False,True,Chess.com
+104,2021.04.19,19:25:40,tymekkk,Artem160771,1682,1748,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,46,-,1-0,1,False,True,Chess.com
+105,2021.04.19,19:35:20,tymekkk,HenryHorizon,1675,1715,180+2,B12,Caro Kann: Defense Advance Botvinnik Carls Defense,21,-,0-1,0,False,True,Chess.com
+106,2021.04.19,20:41:19,tymekkk,Grob_Zombie,1668,1707,180+2,C55,Italian Game: Two Knights Defense 4.O O,15,-,0-1,0,False,True,Chess.com
+107,2021.04.20,08:55:34,tymekkk,zwozwo,1665,1645,180+2,C42,Petrovs Defense: Classical Stafford Gambit,70,-,0-1,0,False,True,Chess.com
+108,2021.04.20,09:26:46,tymekkk,flashlock,1683,1691,180+2,B51,Sicilian Defense: Canal Attack 3...Nd7 4.O O,41,-,1-0,1,False,True,Chess.com
+109,2021.04.20,09:44:31,tymekkk,flashlock,1668,1721,180+2,B03,Alekhines Defense: Normal Variation 3.d4,42,-,0-1,0,False,True,Chess.com
+110,2021.04.20,10:27:51,tymekkk,Azgar2,1660,1684,180+2,B01,Scandinavian Defense:,26,-,0-1,0,False,True,Chess.com
+111,2021.04.20,15:29:14,tymekkk,souravchakraborty007,1650,1563,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,29,-,1/2-1/2,0.5,False,True,Chess.com
+112,2021.04.20,15:41:13,tymekkk,TincSLO,1670,1729,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O,28,-,1-0,1,False,True,Chess.com
+113,2021.04.20,17:38:47,tymekkk,Sagar1976,1671,1647,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,30,-,1-0,1,False,True,Chess.com
+114,2021.04.20,17:57:36,tymekkk,brish_s,1671,1667,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,66,-,0-1,0,False,True,Chess.com
+115,2021.04.22,10:05:45,tymekkk,antonchekurov,1672,1666,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,27,-,1-0,1,False,True,Chess.com
+116,2021.04.22,11:57:26,tymekkk,3o16oo,1655,1635,180+2,B07,Pirc Defense: 2.d4 Nf6,29,-,0-1,0,False,True,Chess.com
+117,2021.04.22,18:45:48,tymekkk,David07072010,1663,1653,180+2,C07,French Defense: Tarrasch Open Chistyakov Defense,64,-,1/2-1/2,0.5,False,True,Chess.com
+118,2021.04.22,18:57:10,tymekkk,hamadisamet,1656,1713,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,39,-,0-1,0,False,True,Chess.com
+119,2021.04.24,10:50:24,tymekkk,jerry1381,1632,1730,180+2,B12,Caro Kann: Defense Advance Botvinnik Carls Defense,40,-,0-1,0,False,True,Chess.com
+120,2021.04.24,14:44:41,tymekkk,MatchuRowgers,1639,1585,180+2,B36,Sicilian Defense: Old Sicilian Open Accelerated Dragon Variation,13,-,1-0,1,False,True,Chess.com
+121,2021.04.24,15:05:47,tymekkk,TomaszZagorski,1662,1626,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,34,-,1-0,1,False,True,Chess.com
+122,2021.04.24,16:04:10,tymekkk,iska_es,1656,1847,180+2,C06,French Defense: Tarrasch Closed Main Line 8...f6,46,-,0-1,0,False,True,Chess.com
+123,2021.04.24,18:22:39,tymekkk,CheckOverflow,1663,1618,180+2,B01,Scandinavian Defense:,29,-,1-0,1,False,True,Chess.com
+124,2021.04.25,05:40:50,tymekkk,nqminhh,1673,1670,180+2,C53,Giuoco Piano: Game Center Attack 5...exd4 6.e5,6,-,1-0,1,False,True,Chess.com
+125,2021.04.25,05:49:43,tymekkk,nqminhh,1689,1654,180+2,C53,Giuoco Piano: Game Center Attack 5...exd4 6.e5 Ne4,11,-,1-0,1,False,True,Chess.com
+126,2021.04.25,14:12:20,tymekkk,ANTMAGNI,1699,1546,180+2,C50,Italian Game:,11,-,1-0,1,False,True,Chess.com
+127,2021.04.25,18:03:10,tymekkk,ephy250,1705,1205,180+2,C55,Italian Game: Anti Fried Liver Defense,50,-,1-0,1,False,True,Chess.com
+128,2021.04.25,18:18:44,tymekkk,ammarsantoso,1699,1815,180+2,C53,Giuoco Piano: Game Main Line 4...d6,55,-,0-1,0,False,True,Chess.com
+129,2021.04.26,13:22:37,tymekkk,Luz-Amor1m,1720,1642,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,52,-,1-0,1,False,True,Chess.com
+130,2021.04.26,13:50:37,tymekkk,ale3009,1723,1862,180+2,C05,French Defense: Tarrasch Closed...5.Bd3 c5 6.c3 Nc6 7.Ne2,28,-,0-1,0,False,True,Chess.com
+131,2021.04.26,15:34:43,tymekkk,Shkodnik56,1727,1724,180+2,C50,Italian Game: Blackburne Shilling Gambit,29,-,0-1,0,False,True,Chess.com
+132,2021.04.26,15:52:17,tymekkk,Surapole,1725,1789,180+2,B00,Nimzowitsch Defense: Kennedy Linksspringer Variation,17,-,0-1,0,False,True,Chess.com
+133,2021.04.27,14:03:03,tymekkk,MYasin455,1711,1839,180+2,B07,Pirc Defense: 2.d4 Nf6,41,-,0-1,0,False,True,Chess.com
+134,2021.03.05,12:09:47,tymekkk,Carlos_239,1624,1746,180+2,C42,Petrovs Defense: Classical Variation,19,-,0-1,0,False,True,Chess.com
+135,2021.03.08,17:02:09,tymekkk,rjacobs89,1622,1550,180+2,B00,Kings Pawn: Opening Owens Defense 2.d4 Bb7 3.Bd3,24,-,0-1,0,False,True,Chess.com
+136,2021.03.10,10:21:43,tymekkk,gabrieleFF,1615,1613,180+2,B31,Sicilian Defense: Nyezhmetdinov Rossolimo Fianchetto Variation 4.O O Bg7 5.Re1 Nf6 6.c3,27,-,0-1,0,False,True,Chess.com
+137,2021.03.11,16:55:05,tymekkk,mmkhouri,1615,1597,180+2,B06,Modern Defense: with 1 e4 2.d4 d6,25,-,0-1,0,False,True,Chess.com
+138,2021.03.12,13:49:26,tymekkk,HDarvish96,1608,1656,180+2,C41,Philidor Defense: 3.Bc4 Be7,29,-,0-1,0,False,True,Chess.com
+139,2021.03.19,10:47:07,tymekkk,vsegure,1598,1532,180+2,B40,Sicilian Defense: Marshall Counterattack,46,-,0-1,0,False,True,Chess.com
+140,2021.03.21,15:27:51,tymekkk,Yuriy1949-1,1598,1694,180+2,B28,Sicilian Defense: OKelly Venice System 3...d5,57,-,0-1,0,False,True,Chess.com
+141,2021.03.23,06:41:36,tymekkk,0Fu,1607,1629,180+2,B51,Sicilian Defense: Canal Attack 3...Nc6,32,-,1-0,1,False,True,Chess.com
+142,2021.03.23,06:59:31,tymekkk,kerzzatan,1607,1645,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,35,-,0-1,0,False,True,Chess.com
+143,2021.03.23,07:26:17,tymekkk,jaredchin,1608,1638,180+2,C03,French Defense: Tarrasch Guimard Defense,62,-,1/2-1/2,0.5,False,True,Chess.com
+144,2021.03.23,07:43:17,tymekkk,NBerbari,1600,1595,180+2,C55,Italian Game: Two Knights Open,24,-,0-1,0,False,True,Chess.com
+145,2021.03.23,10:38:45,tymekkk,kangikhwan,1592,1598,180+2,C42,Petrovs Defense: Classical Stafford Gambit,7,-,0-1,0,False,True,Chess.com
+146,2021.03.29,13:59:17,tymekkk,wisnuuwisnuu,1587,1386,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...e6 4.O O,61,-,1-0,1,False,True,Chess.com
+147,2021.03.30,18:30:31,tymekkk,Itz_SzuminSavage,1592,1496,180+2,B40,Sicilian Defense: French Variation,30,-,1-0,1,False,True,Chess.com
+148,2021.03.30,18:37:43,tymekkk,supiversdssdso,1603,1594,180+2,B06,Modern Defense: with 1 d4 2.c4 Bg7 3.e4 d6,45,-,1-0,1,False,True,Chess.com
+149,2021.03.30,18:59:27,tymekkk,bramgoethals,1585,1659,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Qxd7 5.O O,28,-,0-1,0,False,True,Chess.com
+150,2021.03.31,19:25:14,tymekkk,nawazkhuzdar,1587,1729,180+2,C58,Italian Game: Knight Attack Polerio Bishop Check Line,64,-,1-0,1,False,True,Chess.com
+151,2021.02.01,20:02:18,tymekkk,barrassMD,1661,1585,180+2,C55,Italian Game: Anti Fried Liver Defense,32,-,1-0,1,False,True,Chess.com
+152,2021.02.03,20:27:27,tymekkk,misko1231,1646,1670,180+2,C53,Giuoco Piano: Game Main Line Giuoco Pianissimo Variation,27,-,0-1,0,False,True,Chess.com
+153,2021.02.04,19:25:13,tymekkk,BishopPeter,1640,1745,180+2,C03,French Defense: Tarrasch Modern System,52,-,0-1,0,False,True,Chess.com
+154,2021.02.07,18:32:21,tymekkk,chessrobbie1212,1643,1667,180+2,B01,Scandinavian Defense:,29,-,0-1,0,False,True,Chess.com
+155,2021.02.08,20:43:35,tymekkk,Esalberto,1643,1665,180+2,C55,Italian Game: Max Lange Attack,18,-,0-1,0,False,True,Chess.com
+156,2021.02.17,20:50:40,tymekkk,dusan64,1653,1714,180+2,B51,Sicilian Defense: Canal Attack 3...Nc6,28,-,1-0,1,False,True,Chess.com
+157,2021.02.25,19:20:56,tymekkk,AllVadoZ,1648,1772,180+2,B43,Sicilian Defense: Kan Knight Variation Wing Attack,38,-,0-1,0,False,True,Chess.com
+158,2021.01.02,18:47:57,tymekkk,AV210,1627,1636,180+2,C42,Petrovs Defense: Classical Stafford Gambit,28,-,0-1,0,False,True,Chess.com
+159,2021.01.03,18:31:33,tymekkk,bartek20102362,1611,1577,180+2,B27,Sicilian Defense: Hyperaccelerated Dragon Fianchetto Variation 3...cxd4 4.Nxd4,31,-,0-1,0,False,True,Chess.com
+160,2021.01.05,17:59:55,tymekkk,bankaiiiii,1599,1547,180+2,B01,Scandinavian Defense:,33,-,0-1,0,False,True,Chess.com
+161,2021.01.05,20:59:07,tymekkk,economist2010us,1584,1654,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,33,-,0-1,0,False,True,Chess.com
+162,2021.01.07,19:18:33,tymekkk,Feniks85,1592,1560,180+2,C42,Petrovs Defense: Classical Attack,27,-,1-0,1,False,True,Chess.com
+163,2021.01.07,19:25:39,tymekkk,ayaz666,1582,1506,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,22,-,0-1,0,False,True,Chess.com
+164,2021.01.11,13:07:07,tymekkk,okocak,1588,1558,180+2,C53,Giuoco Piano: Game Center Attack 5...exd4 6.e5,31,-,1-0,1,False,True,Chess.com
+165,2021.01.11,13:21:55,tymekkk,grish4903,1601,1513,180+2,C50,Italian Game: Hungarian Defense,34,-,1-0,1,False,True,Chess.com
+166,2021.01.11,13:50:20,tymekkk,zakichessould,1600,1560,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,46,-,0-1,0,False,True,Chess.com
+167,2021.01.11,14:05:41,tymekkk,ValeryVictorovich,1608,1575,180+2,C55,Italian Game: Two Knights Open 4...d6,55,-,1-0,1,False,True,Chess.com
+168,2021.01.11,15:50:23,tymekkk,ehsan_shahabi,1599,1561,180+2,C50,Italian Game: Blackburne Shilling Gambit,21,-,0-1,0,False,True,Chess.com
+169,2021.01.11,16:01:35,tymekkk,dnelub,1600,1597,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O,33,-,0-1,0,False,True,Chess.com
+170,2021.01.11,18:01:33,tymekkk,nezhfredodinov,1601,1610,180+2,A00,Vant Kruijs: Opening,47,-,1-0,1,False,True,Chess.com
+171,2021.01.11,18:15:35,tymekkk,Dasdirov,1617,1631,180+2,C08,French Defense: Tarrasch Open Delayed Exchange Variation,37,-,1-0,1,False,True,Chess.com
+172,2021.01.11,18:36:03,tymekkk,christzaferis,1626,1650,180+2,B40,Sicilian Defense: Marshall Counterattack,32,-,0-1,0,False,True,Chess.com
+173,2021.01.12,19:18:02,tymekkk,tejass555,1618,1616,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...Qb6,37,-,0-1,0,False,True,Chess.com
+174,2021.01.14,19:18:34,tymekkk,Heinrich_63,1627,1631,180+2,C07,French Defense: Tarrasch Open Suchting Line,27,-,1-0,1,False,True,Chess.com
+175,2021.01.15,21:15:18,tymekkk,Chess_CTO,1626,1607,180+2,B48,Sicilian Defense: Taimanov Bastrikov English Attack 7...Nf6,31,-,0-1,0,False,True,Chess.com
+176,2021.01.15,21:24:53,tymekkk,ANGELCONTADOR01,1633,1565,180+2,C08,French Defense: Tarrasch Open Delayed Exchange Variation,32,-,1-0,1,False,True,Chess.com
+177,2021.01.16,10:39:59,tymekkk,Ollarov,1636,1699,180+2,B48,Sicilian Defense: Taimanov Bastrikov English Attack 7...Nf6 8.f3,20,-,0-1,0,False,True,Chess.com
+178,2021.01.16,11:51:38,tymekkk,PanOdSzachowXD,1628,1570,180+2,B51,Sicilian Defense: Canal Attack...4.O O Nf6 5.Re1 a6 6.Bf1,77,-,1-0,1,False,True,Chess.com
+179,2021.01.16,12:02:29,tymekkk,new-werewolf,1621,1670,180+2,B51,Sicilian Defense: Canal Attack 3...Nc6,48,-,0-1,0,False,True,Chess.com
+180,2021.01.16,16:43:36,tymekkk,JackDAurizio,1629,1612,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O Ngf6,37,-,1-0,1,False,True,Chess.com
+181,2021.01.16,17:00:16,tymekkk,danikio,1644,1548,180+2,C42,Petrovs Defense: Classical Attack,27,-,1-0,1,False,True,Chess.com
+182,2021.01.16,17:54:06,tymekkk,bnc3,1622,1616,180+2,B51,Sicilian Defense: Canal Attack 3...Nd7 4.O O,53,-,0-1,0,False,True,Chess.com
+183,2021.01.16,20:29:45,tymekkk,Szitu,1611,1474,180+2,B45,Sicilian Defense: Taimanov Variation 5.Nc3 Nf6 6.Be3,18,-,0-1,0,False,True,Chess.com
+184,2021.01.19,15:28:51,tymekkk,mikibene,1633,1538,180+2,B31,Sicilian Defense: Nyezhmetdinov Rossolimo Fianchetto Variation 4.O O Bg7 5.Re1 Nf6 6.c3,33,-,1-0,1,False,True,Chess.com
+185,2021.01.19,19:52:33,tymekkk,ChessEmpire8271,1618,1679,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Qxd7 5.O O Nc6 6.c3,30,-,0-1,0,False,True,Chess.com
+186,2021.01.20,07:21:15,tymekkk,Isaacrov24,1626,1596,180+2,C55,Italian Game: Anti Fried Liver Defense,20,-,1-0,1,False,True,Chess.com
+187,2021.01.20,08:30:20,tymekkk,Parsina88,1622,1721,180+2,B20,Sicilian Defense:,44,-,0-1,0,False,True,Chess.com
+188,2021.01.20,12:24:19,tymekkk,wahyuputro19,1617,1684,180+2,B12,Caro Kann: Defense 2.d4,36,-,1-0,1,False,True,Chess.com
+189,2021.01.20,12:32:51,tymekkk,limzxs,1608,1568,180+2,B27,Sicilian Defense: Hyperaccelerated Dragon Variation 3.c3,15,-,0-1,0,False,True,Chess.com
+190,2021.01.20,12:35:11,tymekkk,pradeep20chess,1600,1624,180+2,B28,Sicilian Defense: OKelly Venice Ljubojevic Line,17,-,0-1,0,False,True,Chess.com
+191,2021.01.20,20:21:57,tymekkk,bennasr_chahine,1609,1657,180+2,B06,Modern Defense: with 1 d4 2.c4 Bg7 3.e4 d6,30,-,1-0,1,False,True,Chess.com
+192,2021.01.20,20:30:37,tymekkk,TheBoltonBullet,1600,1582,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O,49,-,0-1,0,False,True,Chess.com
+193,2021.01.21,09:14:17,tymekkk,vp19160,1607,1550,180+2,C53,Giuoco Piano: Game Main Line 4...d6,32,-,1-0,1,False,True,Chess.com
+194,2021.01.21,17:33:24,tymekkk,AntonVento,1595,1666,180+2,B03,Alekhines Defense: Four Pawns Attack 5...dxe5 6.fxe5 c5,23,-,1-0,1,False,True,Chess.com
+195,2021.01.21,18:09:53,tymekkk,defrimajazi,1600,1435,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,27,-,1-0,1,False,True,Chess.com
+196,2021.01.21,18:27:26,tymekkk,nishant30,1600,1573,180+2,C08,French Defense: Tarrasch Open Delayed Exchange Variation,21,-,0-1,0,False,True,Chess.com
+197,2021.01.21,19:12:29,tymekkk,irritantje2002,1610,1682,180+2,C55,Italian Game: Max Lange Attack,31,-,1-0,1,False,True,Chess.com
+198,2021.01.21,19:28:23,tymekkk,hadepisan,1609,1572,180+2,C53,Giuoco Piano: Game Center Attack 5...exd4 6.e5,16,-,1-0,1,False,True,Chess.com
+199,2021.01.22,18:35:25,tymekkk,hippopo17,1609,1613,180+2,C05,French Defense: Tarrasch Closed...5.Bd3 c5 6.c3 Nc6 7.Ne2,36,-,1-0,1,False,True,Chess.com
+200,2021.01.22,21:05:43,tymekkk,pegasus0917,1607,1558,180+2,B01,Scandinavian Defense:,32,-,1-0,1,False,True,Chess.com
+201,2021.01.22,21:13:51,tymekkk,ssshhhIammakingaMove,1614,1565,180+2,C53,Giuoco Piano: Game Center Attack 5...exd4 6.e5,44,-,1-0,1,False,True,Chess.com
+202,2021.01.23,15:09:00,tymekkk,Marcus_Malek,1631,1589,180+2,C55,Italian Game: Max Lange Attack 6.e5 d5,23,-,1-0,1,False,True,Chess.com
+203,2021.01.23,15:19:48,tymekkk,caieuaine,1631,1587,180+2,B01,Scandinavian Defense:,19,-,1-0,1,False,True,Chess.com
+204,2021.01.23,15:59:09,tymekkk,Bigselber,1639,1628,180+2,C53,Giuoco Piano: Game Main Line,30,-,1-0,1,False,True,Chess.com
+205,2021.01.23,17:23:00,tymekkk,gheorghe_predescu_67,1648,1664,180+2,C41,Philidor Defense: 3.Bc4,36,-,1-0,1,False,True,Chess.com
+206,2021.01.25,20:28:22,tymekkk,vdz60,1648,1658,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O,26,-,1-0,1,False,True,Chess.com
+207,2021.01.26,16:38:51,tymekkk,karamaz2008,1657,1657,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Qxd7 5.O O Nc6 6.c3,31,-,1/2-1/2,0.5,False,True,Chess.com
+208,2021.01.26,20:27:54,tymekkk,tarjei,1665,1650,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,50,-,1/2-1/2,0.5,False,True,Chess.com
+209,2021.01.26,20:38:11,tymekkk,Jalapeno84,1673,1654,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,45,-,1-0,1,False,True,Chess.com
+210,2021.01.27,10:29:12,tymekkk,Hellobug,1673,1624,180+2,B43,Sicilian Defense: Kan Knight Variation Wing Attack,44,-,1-0,1,False,True,Chess.com
+211,2021.01.27,11:00:42,tymekkk,Raglag20,1655,1648,180+2,C00,Pirc Defense: Small Center Defense,46,-,0-1,0,False,True,Chess.com
+212,2021.01.27,14:39:38,tymekkk,benj_licup,1655,1671,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,43,-,0-1,0,False,True,Chess.com
+213,2021.01.27,18:33:26,tymekkk,Mlodziak77,1657,1001,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...e6 4.O O,28,-,1-0,1,False,True,Chess.com
+214,2021.01.28,09:28:44,tymekkk,chinagr,1649,1686,180+2,C53,Giuoco Piano: Game Main Line,35,-,0-1,0,False,True,Chess.com
+215,2021.01.28,21:01:22,tymekkk,gjertrud,1656,1588,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...Nf6,24,-,1-0,1,False,True,Chess.com
+216,2021.01.30,15:13:54,tymekkk,nulled,1647,1628,180+2,B07,Pirc Defense: 2.d4 c6,34,-,0-1,0,False,True,Chess.com
+217,2021.01.31,10:19:27,tymekkk,Aikidoman85,1645,1609,180+2,B28,Sicilian Defense: OKelly Venice System 3...d5,28,-,1-0,1,False,True,Chess.com
+218,2021.01.31,10:26:58,tymekkk,methusa,1636,1623,180+2,C08,French Defense: Tarrasch Open Delayed Exchange Variation,17,-,0-1,0,False,True,Chess.com
+219,2021.01.31,10:49:17,tymekkk,tsilma,1652,1648,180+2,B03,Alekhines Defense: Four Pawns Fianchetto Variation,33,-,1-0,1,False,True,Chess.com
+220,2021.01.31,13:19:35,tymekkk,hameed00,1652,1623,180+2,C03,French Defense: Tarrasch Variation,28,-,1-0,1,False,True,Chess.com
+221,2021.01.31,13:27:08,tymekkk,zoelov,1644,1639,180+2,B31,Sicilian Defense: Nyezhmetdinov Rossolimo Fianchetto Variation 4.O O,31,-,0-1,0,False,True,Chess.com
+222,2020.12.02,17:37:05,tymekkk,jancicho,1597,1237,300+5,C10,French Defense: Rubinstein Variation 4.Nxe4,44,-,1-0,1,False,True,Chess.com
+223,2020.12.02,18:06:48,tymekkk,jancicho,1586,1272,300+5,C08,French Defense: Tarrasch Open Delayed Exchange Variation,28,-,1-0,1,False,True,Chess.com
+224,2020.12.02,19:50:21,tymekkk,lucard85,1580,1614,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...e6 4.O O,22,-,0-1,0,False,True,Chess.com
+225,2020.12.05,16:57:09,tymekkk,tazanel,1574,1579,180+2,B12,Caro Kann: Defense 2.d4,29,-,1-0,1,False,True,Chess.com
+226,2020.12.05,17:10:39,tymekkk,tazanel,1590,1563,180+2,C00,Pirc Defense: Small Center Defense,26,-,1-0,1,False,True,Chess.com
+227,2020.12.05,17:17:35,tymekkk,peterparker1962,1581,1561,300,B01,Scandinavian Defense:,48,-,0-1,0,False,False,Chess.com
+228,2020.12.06,20:32:25,tymekkk,PICHININO,1589,1576,180+2,C55,Italian Game: Two Knights Scotch Gambit Janowski Defense,30,-,1-0,1,False,True,Chess.com
+229,2020.12.07,11:44:05,tymekkk,Alifizadi,1582,1521,180+2,B12,Caro Kann: Defense Advance Variation,30,-,1-0,1,False,True,Chess.com
+230,2020.12.07,11:52:53,tymekkk,DrEisenstein1,1575,1621,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,47,-,0-1,0,False,True,Chess.com
+231,2020.12.07,12:03:28,tymekkk,Mbuyi,1568,1606,180+2,B51,Sicilian Defense: Canal Attack 3...Nc6,19,-,0-1,0,False,True,Chess.com
+232,2020.12.07,12:07:52,tymekkk,ChessTurtleNinja,1575,1538,180+2,C56,Italian Game: Two Knights Scotch Gambit Anderssen Attack,35,-,1-0,1,False,True,Chess.com
+233,2020.12.07,12:25:15,tymekkk,ChessTurtleNinja,1589,1524,180+2,C55,Italian Game: Max Lange Attack 6.e5 d5,36,-,1-0,1,False,True,Chess.com
+234,2020.12.07,12:41:44,tymekkk,ChessTurtleNinja,1587,1526,180+2,C59,Italian Game: Knight Attack Polerio Bishop Check Suhle Defense 9.Nf3 e4 10.Ne5,41,-,1-0,1,False,True,Chess.com
+235,2020.12.07,12:56:34,tymekkk,ChessTurtleNinja,1600,1513,180+2,C50,Giuoco Piano: Game Giuoco Pianissimo Variation 4...Nf6,43,-,1-0,1,False,True,Chess.com
+236,2020.12.07,16:00:17,tymekkk,tojestjacek,1597,1505,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O Ngf6,48,-,1-0,1,False,True,Chess.com
+237,2020.12.07,16:18:27,tymekkk,kabekov,1597,1636,180+2,C50,Italian Game: Hungarian Defense 4.d4 exd4,56,-,1-0,1,False,True,Chess.com
+238,2020.12.07,16:36:49,tymekkk,MykolaFilkevych,1597,1576,180+2,C53,Giuoco Piano: Game Main Line 4...d6,56,-,1-0,1,False,True,Chess.com
+239,2020.12.07,16:46:59,tymekkk,FcoJavier1983,1591,1672,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,33,-,0-1,0,False,True,Chess.com
+240,2020.12.07,16:56:24,tymekkk,JosMoreno95,1576,1686,180+2,C54,Giuoco Piano: Game Center Attack...6.e5 d5 7.Bb5 Ne4 8.cxd4,35,-,0-1,0,False,True,Chess.com
+241,2020.12.07,17:18:03,tymekkk,rindane25,1583,1525,300+5,C08,French Defense: Tarrasch Open Delayed Exchange Variation,43,-,1-0,1,False,True,Chess.com
+242,2020.12.07,17:49:39,tymekkk,beaver100,1594,1593,180+2,B07,Pirc Defense: 2.d4 Nf6,28,-,0-1,0,False,True,Chess.com
+243,2020.12.07,18:06:13,tymekkk,spostalegna,1618,1622,180+2,C55,Italian Game: Two Knights Scotch Gambit Janowski Defense,23,-,1-0,1,False,True,Chess.com
+244,2020.12.07,18:21:24,tymekkk,spostalegna,1618,1622,180+2,B43,Sicilian Defense: Kan Knight Variation 5...Qc7,17,-,1-0,1,False,True,Chess.com
+245,2020.12.07,18:36:18,tymekkk,Brain_pog_Damaged,1610,1623,180+2,C50,Italian Game: Hungarian Defense,45,-,0-1,0,False,True,Chess.com
+246,2020.12.07,18:52:43,tymekkk,osama1980ss204,1610,1575,180+2,B01,Scandinavian Defense:,39,-,1-0,1,False,True,Chess.com
+247,2020.12.07,19:00:21,tymekkk,ivan97273,1618,1615,180+2,B70,Sicilian Defense: Open Dragon Variation 6.Bc4 Bg7,32,-,1-0,1,False,True,Chess.com
+248,2020.12.07,19:13:20,tymekkk,ivan97273,1634,1599,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O Ngf6,43,-,1-0,1,False,True,Chess.com
+249,2020.12.07,19:32:14,tymekkk,jinxotx,1633,1536,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...e6 4.O O,49,-,1-0,1,False,True,Chess.com
+250,2020.12.07,20:44:42,tymekkk,AlehhMoreira99,1615,1637,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,22,-,0-1,0,False,True,Chess.com
+251,2020.12.07,20:55:43,tymekkk,azleo,1619,1539,180+2,B45,Sicilian Defense: Taimanov Variation 5.Nc3,39,-,1-0,1,False,True,Chess.com
+252,2020.12.08,16:08:23,tymekkk,Greedy_Queen,1622,1595,180+2,C55,Italian Game: Two Knights Scotch Gambit,14,-,1-0,1,False,True,Chess.com
+253,2020.12.08,16:11:17,tymekkk,CaissaKnight64,1613,1588,180+2,B00,Kings Pawn: Opening Owens Defense 2.d4 Bb7 3.Bd3 f5,21,-,0-1,0,False,True,Chess.com
+254,2020.12.08,18:10:28,tymekkk,Joakoaan,1597,1634,180+2,C05,French Defense: Tarrasch Closed 4.e5 Nfd7 5.Bd3 c5 6.c3,26,-,0-1,0,False,True,Chess.com
+255,2020.12.08,19:51:00,tymekkk,jvedreno,1587,1582,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,30,-,0-1,0,False,True,Chess.com
+256,2020.12.09,19:41:03,tymekkk,thareak,1587,1586,180+2,C56,Italian Game: Max Lange Spielmann Defense,10,-,1-0,1,False,True,Chess.com
+257,2020.12.09,19:43:25,tymekkk,sirappleby,1579,1585,180+2,B01,Scandinavian Defense:,25,-,0-1,0,False,True,Chess.com
+258,2020.12.09,21:44:51,tymekkk,JanoIktos,1566,1657,180+2,C55,Italian Game: Two Knights Scotch Gambit,28,-,0-1,0,False,True,Chess.com
+259,2020.12.10,13:25:46,tymekkk,mr_rookes,1550,1554,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,18,-,0-1,0,False,True,Chess.com
+260,2020.12.10,13:46:37,tymekkk,Anat1950,1575,1506,180+2,C40,Kings Pawn: Opening Kings Knight Variation,70,-,1-0,1,False,True,Chess.com
+261,2020.12.10,14:07:20,tymekkk,m_mokashi1,1591,1582,180+2,C50,Italian Game: Hungarian Defense,37,-,1-0,1,False,True,Chess.com
+262,2020.12.10,14:35:18,tymekkk,sujith93,1606,1607,180+2,B34,Sicilian Defense: Open Accelerated Dragon Modern Variation 5...Bg7 6.Be3 d6,22,-,1-0,1,False,True,Chess.com
+263,2020.12.10,14:47:47,tymekkk,sujith93,1590,1623,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Qxd7 5.O O,56,-,0-1,0,False,True,Chess.com
+264,2020.12.10,20:13:30,tymekkk,harra,1583,1665,180+2,B52,Sicilian Defense: Canal Main Line...5.O O Nc6 6.c3 Nf6,22,-,0-1,0,False,True,Chess.com
+265,2020.12.11,08:16:47,tymekkk,Serg21,1591,1567,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,45,-,1-0,1,False,True,Chess.com
+266,2020.12.11,08:31:58,tymekkk,Serg21,1574,1584,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,60,-,0-1,0,False,True,Chess.com
+267,2020.12.11,08:50:27,tymekkk,Serg21,1574,1584,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,37,-,0-1,0,False,True,Chess.com
+268,2020.12.11,09:19:15,tymekkk,Zimorodok174,1576,1677,180+2,B12,Caro Kann: Defense Advance Botvinnik Carls Defense,35,-,0-1,0,False,True,Chess.com
+269,2020.12.11,09:31:06,tymekkk,Zimorodok174,1581,1672,180+2,B12,Caro Kann: Defense Advance Botvinnik Carls Defense,21,-,1-0,1,False,True,Chess.com
+270,2020.12.11,14:25:09,tymekkk,prasad_2989,1575,1606,180+2,C55,Italian Game: Two Knights Open 4...Nxe4,23,-,0-1,0,False,True,Chess.com
+271,2020.12.11,14:30:52,tymekkk,anhedoniac,1568,1614,180+2,B43,Sicilian Defense: Kan Knight Variation,39,-,0-1,0,False,True,Chess.com
+272,2020.12.12,08:55:55,tymekkk,Sgolkhar,1575,1520,180+2,C50,Giuoco Piano: Game 4.O O,26,-,1-0,1,False,True,Chess.com
+273,2020.12.12,09:06:08,tymekkk,Sgolkhar,1572,1523,180+2,C53,Giuoco Piano: Game Main Line,26,-,0-1,0,False,True,Chess.com
+274,2020.12.13,15:00:02,tymekkk,Gesninovich,1564,1513,180+2,C00,Pirc Defense: Small Center Defense,38,-,1-0,1,False,True,Chess.com
+275,2020.12.13,15:16:41,tymekkk,Gesninovich,1578,1499,180+2,C00,Pirc Defense: Small Center Defense,57,-,1-0,1,False,True,Chess.com
+276,2020.12.13,20:34:23,tymekkk,Medwill,1563,1554,180+2,B70,Sicilian Defense: Open Dragon Variation 6.Bc4 Bg7,23,-,0-1,0,False,True,Chess.com
+277,2020.12.14,17:00:03,tymekkk,drzak1970,1579,1593,180+2,C00,Pirc Defense: Small Center Defense,36,-,1-0,1,False,True,Chess.com
+278,2020.12.14,18:23:30,tymekkk,Kuddendeckel,1578,1563,180+2,B01,Scandinavian Defense:,57,-,0-1,0,False,True,Chess.com
+279,2020.12.14,18:33:12,tymekkk,armenios,1584,1487,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,44,-,1-0,1,False,True,Chess.com
+280,2020.12.14,18:51:57,tymekkk,Baktess,1575,1594,180+2,C50,Italian Game: Blackburne Shilling Gambit,44,-,0-1,0,False,True,Chess.com
+281,2020.12.14,19:21:15,tymekkk,DarkHit210,1569,1599,180+2,B31,Sicilian Defense: Nyezhmetdinov Rossolimo Fianchetto Gufeld Gambit,8,-,0-1,0,False,True,Chess.com
+282,2020.12.14,19:25:32,tymekkk,Hehe1111,1584,1578,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...e6 4.O O Nge7 5.c3,38,-,1-0,1,False,True,Chess.com
+283,2020.12.14,19:41:07,tymekkk,patrice76,1584,1605,180+2,B12,Caro Kann: Defense Advance Botvinnik Carls Defense,19,-,0-1,0,False,True,Chess.com
+284,2020.12.14,19:46:02,tymekkk,Baktess,1592,1580,180+2,C50,Italian Game: Blackburne Shilling Gambit,55,-,1-0,1,False,True,Chess.com
+285,2020.12.14,19:57:13,tymekkk,brainstormingkb,1592,1595,180+2,B00,Kings Pawn: Opening Duras Gambit,14,-,0-1,0,False,True,Chess.com
+286,2020.12.14,20:22:58,tymekkk,Diyanka,1576,1578,180+2,B34,Sicilian Defense: Open Accelerated Dragon Modern Variation 5...Bg7 6.Be3 Nf6 7.f3,46,-,0-1,0,False,True,Chess.com
+287,2020.12.15,08:51:23,tymekkk,bbakers1,1574,1611,180+2,B27,Sicilian Defense: Hyperaccelerated Dragon Variation 3.c3 Bg7 4.d4 cxd4 5.cxd4,50,-,0-1,0,False,True,Chess.com
+288,2020.12.15,10:34:39,tymekkk,Vietcong68,1581,1544,180+2,B40,Sicilian Defense: Marshall Counterattack,38,-,1-0,1,False,True,Chess.com
+289,2020.12.15,10:45:19,tymekkk,Numicius77,1583,1612,180+2,C55,Italian Game: Two Knights Scotch Gambit,14,-,1-0,1,False,True,Chess.com
+290,2020.12.15,10:52:37,tymekkk,krzysztop,1564,1507,180+2,C55,Italian Game: Two Knights Open 4...Nxe4,25,-,0-1,0,False,True,Chess.com
+291,2020.12.15,12:54:24,tymekkk,gari_garinjo,1581,1531,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O,22,-,1-0,1,False,True,Chess.com
+292,2020.12.15,13:01:20,tymekkk,spartakus2010,1575,1682,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O,45,-,0-1,0,False,True,Chess.com
+293,2020.12.15,20:53:22,tymekkk,mhdmdy8,1592,1580,180+2,C50,Italian Game:,37,-,1-0,1,False,True,Chess.com
+294,2020.12.16,19:14:39,tymekkk,gobdaw,1609,1564,180+2,B40,Sicilian Defense: Pin Variation Koch Variation,25,-,1-0,1,False,True,Chess.com
+295,2020.12.16,19:59:01,tymekkk,geargoat,1604,1593,180+2,B00,Nimzowitsch Defense: 2.d4,34,-,0-1,0,False,True,Chess.com
+296,2020.12.17,21:20:13,tymekkk,nflink,1613,1661,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,40,-,1-0,1,False,True,Chess.com
+297,2020.12.18,07:03:22,tymekkk,radu80rp,1604,1585,180+2,C55,Italian Game: Max Lange Attack,26,-,0-1,0,False,True,Chess.com
+298,2020.12.18,09:27:16,tymekkk,jacks_raging_mind,1605,1600,180+2,C53,Giuoco Piano: Game Main Line 4...d6 5.d4 exd4 6.cxd4,28,-,0-1,0,False,True,Chess.com
+299,2020.12.18,20:58:09,tymekkk,Mrvon1,1621,1586,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...Qb6,50,-,1-0,1,False,True,Chess.com
+300,2020.12.19,21:38:51,tymekkk,Leildorine,1621,1599,180+2,B01,Scandinavian Defense:,23,-,1-0,1,False,True,Chess.com
+301,2020.12.20,15:23:27,tymekkk,Panalexis,1621,1570,180+2,B31,Sicilian Defense: Nyezhmetdinov Rossolimo Fianchetto Variation 4.O O Bg7 5.Re1 e5 6.c3,31,-,1-0,1,False,True,Chess.com
+302,2020.12.20,15:58:15,tymekkk,MichalAlexa,1639,1652,180+2,C42,Petrovs Defense: Classical Attack 5...d5 6.Bd3,44,-,1-0,1,False,True,Chess.com
+303,2020.12.21,19:02:17,tymekkk,cristoferjesuan,1645,1678,180+2,B07,Pirc Defense: Antal Defense,36,-,0-1,0,False,True,Chess.com
+304,2020.12.21,19:29:01,tymekkk,silviuanghel38,1653,1654,180+2,C54,Giuoco Piano: Game Center Attack Anderssen Variation,36,-,1-0,1,False,True,Chess.com
+305,2020.12.21,19:59:06,tymekkk,blennorragie,1636,1654,180+2,B07,Pirc Defense: 2.d4 Nf6,24,-,0-1,0,False,True,Chess.com
+306,2020.12.22,10:24:51,tymekkk,GGsaba,1629,1670,180+2,B31,Sicilian Defense: Nyezhmetdinov Rossolimo Fianchetto Variation 4.O O Bg7 5.c3,28,-,0-1,0,False,True,Chess.com
+307,2020.12.22,10:32:01,tymekkk,nadav5001,1638,1685,180+2,C08,French Defense: Tarrasch Open Delayed Exchange Variation,39,-,1-0,1,False,True,Chess.com
+308,2020.12.22,10:51:38,tymekkk,Lattesechecsplayer,1638,1616,180+2,B01,Scandinavian Defense:,22,-,1-0,1,False,True,Chess.com
+309,2020.12.22,12:47:36,tymekkk,jenis_sky47,1638,1643,180+2,B06,Modern Defense: with 1 e4 2.d4 Bg7 3.c4,32,-,1-0,1,False,True,Chess.com
+310,2020.12.22,13:01:21,tymekkk,sandro975,1627,1514,180+2,C54,Giuoco Piano: Game Center Attack Anderssen Variation,25,-,0-1,0,False,True,Chess.com
+311,2020.12.22,21:07:44,tymekkk,ESP_Jaimitu,1611,1645,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,8,-,0-1,0,False,True,Chess.com
+312,2020.12.23,18:05:28,tymekkk,gummyshot,1611,1575,180+2,C42,Petrovs Defense: Classical Attack Marshall Variation 7.O O O O,51,-,1-0,1,False,True,Chess.com
+313,2020.12.23,18:22:46,tymekkk,Hibrove2025,1627,1608,180+2,C50,Italian Game: Hungarian Defense,24,-,1-0,1,False,True,Chess.com
+314,2020.12.23,21:14:09,tymekkk,akhelg,1610,1622,180+2,B06,Modern Defense: with 1 e4 2.d4 d6,27,-,0-1,0,False,True,Chess.com
+315,2020.12.24,20:32:35,tymekkk,Diego0710,1617,1564,180+2,C41,Philidor Defense: 3.Bc4,28,-,1-0,1,False,True,Chess.com
+316,2020.12.25,11:29:36,tymekkk,MuchammadYunus,1601,1612,180+2,B01,Scandinavian Defense:,31,-,0-1,0,False,True,Chess.com
+317,2020.12.25,22:00:35,tymekkk,vladancibrev,1593,1550,180+2,C02,French Defense: Advance Nimzowitsch System,21,-,0-1,0,False,True,Chess.com
+318,2020.12.26,13:55:24,tymekkk,gumbel1,1593,1600,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,59,-,1/2-1/2,0.5,False,True,Chess.com
+319,2020.12.27,11:35:14,tymekkk,damil,1585,1584,180+2,C00,French Defense: Normal Variation,35,-,0-1,0,False,True,Chess.com
+320,2020.12.27,15:07:15,tymekkk,Drunk_Bish,1570,1590,180+2,B51,Sicilian Defense: Canal Attack 3...Nc6 4.O O,32,-,0-1,0,False,True,Chess.com
+321,2020.12.27,16:01:06,tymekkk,mojtabagharibi,1579,1548,180+2,C55,Italian Game: Anti Fried Liver Defense,67,-,1/2-1/2,0.5,False,True,Chess.com
+322,2020.12.28,19:54:36,tymekkk,Pezz35,1586,1540,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,59,-,1/2-1/2,0.5,False,True,Chess.com
+323,2020.12.29,20:03:48,tymekkk,Agus_arte,1607,1554,180+2,C53,Giuoco Piano: Game Center Attack 5...exd4 6.e5,38,-,1-0,1,False,True,Chess.com
+324,2020.12.31,20:55:37,tymekkk,MarcioSaito,1614,1597,180+2,B27,Sicilian Defense: Hyperaccelerated Dragon Fianchetto Variation 3...cxd4 4.Nxd4,55,-,1/2-1/2,0.5,False,True,Chess.com
+325,2020.12.31,23:16:01,tymekkk,acayan,1630,1650,180+2,B01,Scandinavian Defense:,72,-,1-0,1,False,True,Chess.com
+326,2020.11.13,20:15:14,tymekkk,Szachrajec,1407,1298,180,B00,Nimzowitsch Defense: Scandinavian Advance Variation 3...Bf5 4.c3,35,-,1-0,1,False,False,Chess.com
+327,2020.11.13,20:28:20,tymekkk,6ug4y,1336,726,180,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,23,-,1-0,1,False,False,Chess.com
+328,2020.11.22,11:02:57,tymekkk,tanewaiwai,1418,1237,180+2,C53,Giuoco Piano: Game Center Attack 5...exd4 6.e5,24,-,1-0,1,False,True,Chess.com
+329,2020.11.22,11:14:29,tymekkk,sanket1c,1462,1435,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,36,-,1-0,1,False,True,Chess.com
+330,2020.11.22,11:23:58,tymekkk,pawniel,1507,1536,180+2,B01,Scandinavian Defense:,40,-,1-0,1,False,True,Chess.com
+331,2020.11.22,19:33:33,tymekkk,Panalexis,1552,1532,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...e6 4.O O Nge7 5.c3,68,-,1/2-1/2,0.5,False,True,Chess.com
+332,2020.11.23,08:51:08,tymekkk,ManifestForce,1546,1603,180+2,B09,Pirc Defense: Main Line Austrian Attack 4...Bg7 5.Nf3,32,-,1-0,1,False,True,Chess.com
+333,2020.11.23,13:36:51,tymekkk,kittuchennai,1526,1574,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,26,-,0-1,0,False,True,Chess.com
+334,2020.11.23,13:46:08,tymekkk,fontepandy,1491,1609,180+2,C53,Giuoco Piano: Game Center Attack 5...exd4 6.e5,27,-,0-1,0,False,True,Chess.com
+335,2020.11.23,19:14:47,tymekkk,makaya31,1520,1454,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Qxd7 5.O O Nc6 6.c3,23,-,1-0,1,False,True,Chess.com
+336,2020.11.23,20:12:03,tymekkk,Mangasverdes,1522,1590,180+2,B07,Pirc Defense: 2.d4 Nf6,12,-,0-1,0,False,True,Chess.com
+337,2020.11.24,21:14:31,tymekkk,muntadhar,1527,1536,180+2,C55,Italian Game: Two Knights Scotch Gambit,20,-,1-0,1,False,True,Chess.com
+338,2020.11.24,21:21:59,tymekkk,muntadhar,1527,1535,180+2,C55,Italian Game: Anti Fried Liver Defense,49,-,1-0,1,False,True,Chess.com
+339,2020.11.26,20:22:21,tymekkk,chikysan,1540,1556,180+2,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Nxd7 5.O O,16,-,1-0,1,False,True,Chess.com
+340,2020.11.26,20:24:57,tymekkk,erwin788,1551,1535,180+2,C55,Italian Game: Max Lange Attack,19,-,1-0,1,False,True,Chess.com
+341,2020.11.26,20:29:32,tymekkk,Kolinova,1562,1545,180+2,C05,French Defense: Tarrasch Closed 4.e5 Nfd7 5.Bd3,22,-,1-0,1,False,True,Chess.com
+342,2020.11.26,20:56:24,tymekkk,Pawndaemonium,1591,1559,180+2,B12,Caro Kann: Defense Advance Botvinnik Carls Defense,38,-,1-0,1,False,True,Chess.com
+343,2020.11.26,21:09:58,tymekkk,TotoLeBigorneau,1599,1524,180+2,C53,Giuoco Piano: Game Main Line Giuoco Pianissimo Variation,18,-,1-0,1,False,True,Chess.com
+344,2020.11.27,12:09:22,tymekkk,kajan1,1600,1619,180+2,B06,Modern Defense: with 1 d4 2.c4 Bg7 3.e4 d6,54,-,0-1,0,False,True,Chess.com
+345,2020.11.27,14:04:05,tymekkk,RickSanchezUltimate,1600,1589,180+2,B07,Pirc Defense: 2.d4 Nf6,52,-,1-0,1,False,True,Chess.com
+346,2020.11.27,14:12:52,tymekkk,padraig1943,1608,1581,180+2,B12,Caro Kann: Defense Advance Variation 3...Bf5 4.Bd3,31,-,1-0,1,False,True,Chess.com
+347,2020.11.27,14:19:19,tymekkk,Denis_1,1605,1882,180+2,B01,Scandinavian Defense:,37,-,0-1,0,False,True,Chess.com
+348,2020.11.27,19:22:52,tymekkk,psycholog03,1596,1593,180+2,C42,Petrovs Defense: Classical Variation,30,-,0-1,0,False,True,Chess.com
+349,2020.11.28,10:37:36,tymekkk,skakman78,1609,1568,180+2,C55,Italian Game: Two Knights Scotch Gambit Janowski Defense,23,-,1-0,1,False,True,Chess.com
+350,2020.11.28,10:56:30,tymekkk,vizir1989,1595,1696,180+2,C55,Italian Game: Two Knights Open,58,-,0-1,0,False,True,Chess.com
+351,2020.11.28,11:17:01,tymekkk,south17,1586,1539,180+2,C50,Italian Game: Rousseau Gambit,31,-,0-1,0,False,True,Chess.com
+352,2020.11.28,13:31:34,tymekkk,nukel,1592,1508,180+2,C41,Philidor Defense: 3.Bc4 Be7,31,-,1-0,1,False,True,Chess.com
+353,2020.11.28,13:45:28,tymekkk,seve95,1576,1510,180+2,C08,French Defense: Tarrasch Open Delayed Exchange Variation,18,-,0-1,0,False,True,Chess.com
+354,2020.11.28,18:45:35,tymekkk,yozpalabg,1575,1478,180+2,C55,Italian Game: Anti Fried Liver Defense,30,-,1-0,1,False,True,Chess.com
+355,2020.11.28,19:10:29,tymekkk,Montalban-Tal,1590,1528,180+2,C50,Italian Game:,25,-,1-0,1,False,True,Chess.com
+356,2020.11.28,19:34:30,tymekkk,anfisa061114,1590,1519,180+2,C10,French Defense: Rubinstein Variation 4.Nxe4,21,-,1-0,1,False,True,Chess.com
+357,2020.11.28,19:39:10,tymekkk,Not_pregnant,1581,1564,180+2,B51,Sicilian Defense: Canal Attack 3...Nc6,14,-,0-1,0,False,True,Chess.com
+358,2020.11.28,19:42:46,tymekkk,fortune11,1590,1598,180+2,B51,Sicilian Defense: Canal Attack 3...Nd7 4.O O,29,-,1-0,1,False,True,Chess.com
+359,2020.11.28,22:10:49,tymekkk,racso44,1593,1150,300+5,B50,Sicilian Defense: 2.Nf3 d6,39,-,1-0,1,False,True,Chess.com
+360,2020.11.28,22:40:28,tymekkk,KacperPolOK,1596,2349,300+5,C06,French Defense: Tarrasch Closed Main Line 8...f6,38,-,0-1,0,False,True,Chess.com
+361,2020.11.28,23:24:03,tymekkk,Ammophila,1603,1599,180+2,B03,Alekhines Defense: Four Pawns Cambridge Gambit,35,-,0-1,0,False,True,Chess.com
+362,2020.11.30,16:45:22,tymekkk,connat,1595,1627,180+2,B00,Nimzowitsch Defense: Scandinavian Advance Variation,34,-,0-1,0,False,True,Chess.com
+363,2018.08.20,03:15:44,tymekkk,TricksyRicky,1348,1313,180+2,C58,Italian Game: Knight Attack Polerio Bishop Check Line 6...c6 7.dxc6 bxc6,39,-,0-1,0,False,True,Chess.com
+364,2018.08.22,14:27:20,tymekkk,Swiper,1342,1329,180+2,C02,French Defense: Advance Variation,28,-,0-1,0,False,True,Chess.com
+365,2018.07.02,11:43:14,tymekkk,loveless27,1384,1333,180+2,B01,Scandinavian Defense: Mieses Kotrc Main Line 4.d4,41,-,1-0,1,False,True,Chess.com
+366,2018.06.12,09:29:40,tymekkk,StarShopping03,1419,1482,180+2,B51,Sicilian Defense: Canal Attack 3...Nd7 4.O O,25,-,0-1,0,False,True,Chess.com
+367,2018.06.12,09:33:33,tymekkk,EldarsB,1397,1452,180+2,B03,Alekhines Defense: Four Pawns Attack...6.fxe5 Nc6 7.Nf3 Bg4,20,-,0-1,0,False,True,Chess.com
+368,2018.06.12,10:04:55,tymekkk,rejzer,1392,1359,600,C57,Italian Game: Knight Attack Fritz Variation 6.c3 b5,15,-,0-1,0,False,False,Chess.com
+369,2018.06.18,09:59:14,tymekkk,yosmn,1373,1432,600,C41,Philidor Defense: 3.d4,26,-,0-1,0,False,False,Chess.com
+370,2018.06.18,14:36:59,tymekkk,Adig1899,1409,1340,600,C41,Philidor Defense: Exchange Variation 4.Nxd4,25,-,1-0,1,False,False,Chess.com
+371,2018.06.22,23:40:21,tymekkk,Calinounou,1387,1399,180+2,C57,Italian Game: Knight Attack Fritz Variation,31,-,0-1,0,False,True,Chess.com
+372,2018.06.22,23:53:16,tymekkk,Calinounou,1418,1383,180+2,C50,Giuoco Piano: Game Giuoco Pianissimo Variation 4...Nf6,32,-,1-0,1,False,True,Chess.com
+373,2018.06.24,22:11:38,tymekkk,kakofigueiredo9988,1381,1267,180+2,B29,Sicilian Defense: Nimzowitsch Closed,6,-,0-1,0,False,True,Chess.com
+374,2018.06.30,14:47:20,tymekkk,jhordans,1369,1435,180+2,C41,Philidor Defense: 3.Bc4,19,-,0-1,0,False,True,Chess.com
+375,2018.06.30,20:27:17,tymekkk,redPillz,1373,1485,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,27,-,0-1,0,False,True,Chess.com
+376,2018.04.05,09:04:02,tymekkk,goldenmidoo,1377,1271,600,C50,Italian Game: Blackburne Shilling Gambit,37,-,1-0,1,False,False,Chess.com
+377,2018.04.06,08:55:47,tymekkk,Parth191,1414,1296,600,B86,Sicilian Defense: Open Scheveningen Sozin Attack 6...a6,16,-,1-0,1,False,False,Chess.com
+378,2017.10.01,10:06:51,tymekkk,Coldest92,1404,1383,300+5,C57,Italian Game: Knight Attack Ponziani Steinitz Gambit,7,-,0-1,0,False,True,Chess.com
+379,2017.09.16,21:27:43,tymekkk,brunoffski,1443,1407,180+2,C58,Italian Game: Knight Attack Polerio Bishop Check Line 6...c6 7.dxc6 bxc6,21,-,0-1,0,False,True,Chess.com
+380,2017.09.22,11:23:05,tymekkk,Jay_Capablanca,1442,1420,300+5,B18,Caro Kann: Defense Classical Variation 5.Ng3 Bg6 6.Nf3,48,-,1/2-1/2,0.5,False,True,Chess.com
+381,2017.08.19,18:51:30,tymekkk,Gentilchevalier,1480,1495,180+2,B07,Pirc Defense: Modern Defense Geller System,35,-,1-0,1,False,True,Chess.com
+382,2017.08.30,19:55:38,tymekkk,batspider99,1463,1455,180+2,B51,Sicilian Defense: Canal Attack...4.O O Nf6 5.Re1 a6 6.Bf1,22,-,0-1,0,False,True,Chess.com
+383,2017.04.04,20:02:29,tymekkk,armadatheo,1458,1515,180+2,C26,Vienna Game: Falkbeer Variation,28,-,1-0,1,False,True,Chess.com
+384,2017.04.05,10:47:29,tymekkk,Bhargav03,1454,1418,180+2,C41,Philidor Defense: 3.Bc4,19,-,0-1,0,False,True,Chess.com
+385,2017.04.06,06:02:58,tymekkk,Shubham4848,1460,1346,180+2,C55,Italian Game: Two Knights Defense 4.O O,47,-,1-0,1,False,True,Chess.com
+386,2017.04.12,09:50:28,tymekkk,nikkakka,1445,1334,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,74,-,0-1,0,False,True,Chess.com
+387,2017.04.14,13:21:57,tymekkk,tybi,1439,1528,180+2,C53,Giuoco Piano: Game Center Attack 5...exd4 6.e5 d5 7.Bb5,14,-,0-1,0,False,True,Chess.com
+388,2017.04.18,07:39:40,tymekkk,IanMarkind,1436,1390,300+5,B02,Alekhines Defense: Scandinavian Variation 3.exd5,25,-,1-0,1,False,True,Chess.com
+389,2017.04.18,14:53:10,tymekkk,martingilavyan,1444,1439,180+2,C55,Italian Game: Anti Fried Liver Defense,30,-,1-0,1,False,True,Chess.com
+390,2017.04.19,11:15:24,tymekkk,Judofyr,1451,1392,180+2,C55,Italian Game: Max Lange Attack,23,-,1-0,1,False,True,Chess.com
+391,2017.04.20,21:48:26,tymekkk,martindepa,1465,1646,180+2,C01,French Defense: Exchange Variation 3...exd5 4.Bd3,28,-,1-0,1,False,True,Chess.com
+392,2017.03.06,14:10:37,tymekkk,KinLovesFoxes,1323,1049,600,C42,Petrovs Defense: Classical Damiano Variation 4.Qe2,15,-,1-0,1,False,False,Chess.com
+393,2017.03.06,14:20:50,tymekkk,dgantul,1250,1290,600,C50,Italian Game:,16,-,0-1,0,False,False,Chess.com
+394,2017.03.06,16:27:44,tymekkk,Portanov,1426,1385,600,B52,Sicilian Defense: Canal Main Line 4.Bxd7 Qxd7 5.O O Nc6 6.c3,21,-,1-0,1,False,False,Chess.com
+395,2017.03.06,21:28:48,tymekkk,Rugaki,1429,1315,600,C41,Philidor Defense: Exchange Variation 4.Nxd4,21,-,0-1,0,False,False,Chess.com
+396,2017.03.07,07:27:12,tymekkk,pankajkumarrahini,1382,1402,600,B00,Kings Pawn: Opening Owens Defense 2.d4 Bb7,60,-,0-1,0,False,False,Chess.com
+397,2017.03.07,07:57:52,tymekkk,togab,1424,1404,600,C55,Italian Game: Anti Fried Liver Defense,55,-,1-0,1,False,False,Chess.com
+398,2017.03.07,08:13:58,tymekkk,astrsomirpaul,1393,1479,600,C40,Kings Pawn: Opening Kings Knight Elephant Paulsen Countergambit,27,-,0-1,0,False,False,Chess.com
+399,2017.03.07,12:51:43,tymekkk,Baboosh,1425,1380,600,B15,Caro Kann: Defense 2.d4 d5 3.Nc3,28,-,1-0,1,False,False,Chess.com
+400,2017.03.08,20:34:32,tymekkk,PAULOSERIO,1481,1414,600,C41,Philidor Defense:,49,-,1-0,1,False,False,Chess.com
+401,2017.03.10,06:36:10,tymekkk,Arman898,1397,1422,600,C41,Philidor Defense:,13,-,0-1,0,False,False,Chess.com
+402,2017.03.10,10:27:49,tymekkk,MikeRobb,1401,1310,600,C58,Italian Game: Knight Attack Polerio Bishop Check Line 6...c6 7.dxc6 bxc6,23,-,0-1,0,False,False,Chess.com
+403,2017.03.11,13:44:53,tymekkk,VX13,1419,1244,600,C55,Italian Game: Anti Fried Liver Defense,28,-,1-0,1,False,False,Chess.com
+404,2017.03.11,19:56:31,tymekkk,coopherfer,1444,1396,600,C00,French Defense: Normal Variation,23,-,1-0,1,False,False,Chess.com
+405,2017.03.11,20:05:45,tymekkk,gregorybfell,1464,1502,600,B54,Sicilian Defense: Open Variation,24,-,1-0,1,False,False,Chess.com
+406,2017.03.11,22:40:18,tymekkk,sanudi1871,1476,1434,600,B06,Modern Defense: with 1 e4 2.d4 Bg7 3.c4 d5,41,-,1-0,1,False,False,Chess.com
+407,2017.03.12,17:23:58,tymekkk,Rezzzachess,1514,1457,600,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack 3...e6 4.O O,29,-,1-0,1,False,False,Chess.com
+408,2017.03.13,07:14:27,tymekkk,hungdoan,1513,1516,600,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,36,-,1-0,1,False,False,Chess.com
+409,2017.03.13,22:43:54,tymekkk,KPLEEDS,1483,1432,600,C57,Italian Game: Traxler Knight Sacrifice Line...7.Nxh8 d5 8.exd5 Nd4,18,-,0-1,0,False,False,Chess.com
+410,2017.03.16,12:11:20,tymekkk,solito1984,1485,1525,600,C50,Italian Game: Blackburne Shilling Gambit...6.Rf1 Qxe4 7.Be2 Nf3,7,-,0-1,0,False,False,Chess.com
+411,2017.03.16,12:13:35,tymekkk,RodinNikolay,1472,1448,600,C00,Pirc Defense: Small Center Defense,19,-,0-1,0,False,False,Chess.com
+412,2017.03.17,10:54:32,tymekkk,jawygra,1498,1215,600,C53,Giuoco Piano: Game Main Line Giuoco Pianissimo Variation,14,-,1-0,1,False,False,Chess.com
+413,2017.03.17,11:11:56,tymekkk,jawygra,1504,1209,180+2,C65,Ruy Lopez: Opening Berlin Beverwijk Variation 5.c3,32,-,1-0,1,False,True,Chess.com
+414,2017.03.17,11:18:27,tymekkk,ridiredubh,1504,1508,180+2,B31,Sicilian Defense: Nyezhmetdinov Rossolimo Fianchetto Variation 4.O O Bg7 5.c3,7,-,1/2-1/2,0.5,False,True,Chess.com
+415,2017.03.17,11:29:25,tymekkk,jawygra,1491,1220,300+5,C65,Ruy Lopez: Opening Berlin Beverwijk Variation 5.c3,45,-,0-1,0,False,True,Chess.com
+416,2017.03.17,19:51:09,tymekkk,flashu74,1498,1450,180+2,C41,Philidor Defense:,61,-,1/2-1/2,0.5,False,True,Chess.com
+417,2017.03.17,19:57:45,tymekkk,Bjarte78,1490,1523,180+2,C10,French Defense: Rubinstein Variation 4.Nxe4 Nf6,11,-,0-1,0,False,True,Chess.com
+418,2017.03.18,00:00:25,tymekkk,jsphello,1481,1500,180+2,C14,French Defense: Main Line Steinitz Variation,35,-,0-1,0,False,True,Chess.com
+419,2017.03.18,00:50:35,tymekkk,jawygra,1470,1230,300+5,C47,Four Knights: Game Scotch Variation Accepted 5.Nxd4,45,-,0-1,0,False,True,Chess.com
+420,2017.03.20,11:05:10,tymekkk,Knightdesaster,1448,1489,180+2,B06,Modern Defense: with 1 d4 2.c4 Bg7 3.e4 d6,8,-,0-1,0,False,True,Chess.com
+421,2017.03.26,21:44:59,tymekkk,EmadFekryMohamed,1445,1535,180+2,B40,Sicilian Defense: Marshall Counterattack,29,-,0-1,0,False,True,Chess.com
+422,2017.03.29,09:56:02,tymekkk,amod_sahu,1440,1577,180+2,C00,Pirc Defense: Small Center Defense,27,-,0-1,0,False,True,Chess.com
+423,2017.03.29,10:54:48,tymekkk,corres,1425,1373,180+2,C55,Italian Game: Anti Fried Liver Defense,24,-,0-1,0,False,True,Chess.com
+424,2017.03.29,10:59:46,tymekkk,vaibhavrise,1435,1485,180+2,C57,Italian Game: Fried Liver Attack 6...Kxf7 7.Qf3,35,-,1-0,1,False,True,Chess.com
+425,2017.03.30,08:23:08,tymekkk,bolasamenazadoras,1436,1471,180+2,C02,French Defense: Advance Paulsen Attack 5...Nge7,49,-,0-1,0,False,True,Chess.com
+426,2017.03.30,17:44:40,tymekkk,ssaiyang,1446,1446,180+2,B30,Sicilian Defense: Nyezhmetdinov Rossolimo Attack,24,-,1-0,1,False,True,Chess.com
+427,2017.03.30,17:57:53,tymekkk,ivann7,1448,1493,180+2,C41,Philidor Defense: 3.Bc4,44,-,0-1,0,False,True,Chess.com

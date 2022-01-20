@@ -1,0 +1,116 @@
+id,date,time,white,black,white elo,black elo,time control,opening code,opening name,length,termination,result,hero points,has eval,has increment,link
+1,2021.11.11,21:15:02,Mlodziak77,amarildo1990,2014,2028,600+0,B32,Sicilian Defense: Franco-Sicilian Variation,28,Resign,0-1,0,False,False,https://lichess.org/bF0WLshk
+2,2021.11.01,18:19:32,Mlodziak77,fer76chess,2016,2045,600+0,C00,French Defense: Orthoschnapp Gambit,28,Resign,1-0,1,True,False,https://lichess.org/ihmhTGCg
+3,2021.11.01,17:26:52,Mlodziak77,CookieNomfNomf,2004,2061,600+0,B06,Modern Defense,44,Resign,1-0,1,True,False,https://lichess.org/3KrtybXo
+4,2021.11.01,16:07:20,Mlodziak77,Masudkhan,1996,1964,600+0,C46,Three Knights Opening,39,Resign,1/2-1/2,0.5,False,False,https://lichess.org/HF6FyzlC
+5,2021.10.07,13:06:47,Mlodziak77,Kazimichess,2029,2087,600+0,C46,Three Knights Opening,78,Resign,0-1,0,False,False,https://lichess.org/WrBiB1rj
+6,2021.10.07,11:12:49,Mlodziak77,suhail79,2025,2051,600+0,C00,French Defense: Steiner Variation,32,Checkmate,1-0,1,True,False,https://lichess.org/XLcqShzo
+7,2021.10.07,11:05:42,Mlodziak77,mahmoudatia31987,2031,2124,600+0,C62,Ruy Lopez: Steinitz Defense,33,Resign,0-1,0,False,False,https://lichess.org/MLrIvTEt
+8,2021.10.02,10:50:25,Mlodziak77,astromight,2003,2004,600+0,B01,Scandinavian Defense: Modern Variation,2,Resign,1-0,1,False,False,https://lichess.org/v9Kf8btE
+9,2021.10.01,19:25:17,Mlodziak77,motamime,2006,1902,600+0,C46,Three Knights Opening,19,Resign,0-1,0,False,False,https://lichess.org/gmGoJfF8
+10,2021.09.27,20:48:57,Mlodziak77,G685,1989,1954,600+0,C00,French Defense: Orthoschnapp Gambit,22,Resign,1-0,1,False,False,https://lichess.org/hnCLr8hT
+11,2021.09.27,17:48:56,Mlodziak77,Taicosta,1962,1961,600+0,B23,Sicilian Defense: Grand Prix Attack,31,Checkmate,1-0,1,True,False,https://lichess.org/F3n22K9E
+12,2021.09.27,17:41:24,Mlodziak77,KingCob29,1948,2069,600+0,C41,Philidor Defense,10,Checkmate,1-0,1,False,False,https://lichess.org/MpVV7naX
+13,2021.09.24,14:37:39,Mlodziak77,Mastermind111,1925,1940,600+0,B22,Sicilian Defense: Alapin Variation,47,Checkmate,1-0,1,True,False,https://lichess.org/LajJWf60
+14,2021.09.12,13:14:59,Mlodziak77,Mnukovic,1947,1928,600+0,C41,Philidor Defense,17,Checkmate,0-1,0,False,False,https://lichess.org/jsPS2VVt
+15,2021.09.12,13:11:12,Mlodziak77,ekalencemmboy,1935,1967,600+0,C64,Ruy Lopez: Classical Variation,15,Resign,1-0,1,True,False,https://lichess.org/eAm31iEP
+16,2021.08.20,21:25:17,Mlodziak77,julietaben,1940,1867,600+0,B12,"Caro-Kann Defense: MarĂłczy Variation, MarĂłczy Gambit",40,Checkmate,1-0,1,False,False,https://lichess.org/FsUUHPH7
+17,2021.08.18,14:59:05,Mlodziak77,las40vachas,1955,1936,600+0,C42,Russian Game: Three Knights Game,16,Checkmate,0-1,0,False,False,https://lichess.org/oFz2o9wO
+18,2021.08.18,14:41:52,Mlodziak77,Francisco87,1945,2024,600+0,C46,Four Knights Game: Halloween Gambit,31,Resign,1-0,1,True,False,https://lichess.org/2laeo3u5
+19,2021.08.18,14:35:05,Mlodziak77,Corista,1937,1917,600+0,B12,Caro-Kann Defense: MarĂłczy Variation,20,Checkmate,1-0,1,True,False,https://lichess.org/X88tfjLf
+20,2021.08.18,13:16:28,Mlodziak77,JonSimpson27007,1936,1961,600+0,C46,Four Knights Game: Halloween Gambit,21,Resign,1-0,1,True,False,https://lichess.org/k1q5czZY
+21,2021.08.18,12:49:12,Mlodziak77,shmelev_nick,1917,1959,600+0,C41,Philidor Defense,25,Checkmate,1-0,1,True,False,https://lichess.org/xFFwTpq4
+22,2021.08.17,18:18:58,Mlodziak77,TacticGame,1926,1917,600+0,C42,Russian Game: Nimzowitsch Attack,18,Resign,0-1,0,False,False,https://lichess.org/FecFydo0
+23,2021.07.30,10:55:06,Mlodziak77,vasular,1934,1898,600+0,C37,King's Gambit Accepted: King's Knight Gambit,20,Resign,0-1,0,False,False,https://lichess.org/bk5d3wK9
+24,2021.07.30,10:35:21,Mlodziak77,amid-008,1940,1941,600+0,C34,King's Gambit Accepted: King's Knight Gambit,40,Checkmate,0-1,0,True,False,https://lichess.org/Ae82SMLu
+25,2021.07.27,18:13:08,Mlodziak77,matgor1962,1953,1962,600+0,C46,Three Knights Opening,35,Resign,0-1,0,True,False,https://lichess.org/bjoz0Snf
+26,2021.07.25,13:37:50,Mlodziak77,Ashari_Pawn,1941,1924,600+0,B22,Sicilian Defense: Alapin Variation,39,Checkmate,1-0,1,True,False,https://lichess.org/kuASjJBv
+27,2021.07.25,13:29:47,Mlodziak77,Forklifter,1931,2059,600+0,C46,Four Knights Game: Halloween Gambit,20,Resign,1-0,1,True,False,https://lichess.org/6B5ouS92
+28,2021.07.24,19:55:06,Mlodziak77,vitalson077777,1933,1803,600+0,C00,"St. George Defense: New St. George, Three Pawn Attack",47,Checkmate,0-1,0,True,False,https://lichess.org/uYk9dMPC
+29,2021.07.24,18:53:17,Mlodziak77,adrianquilmes,1936,1949,600+0,B22,Sicilian Defense: Alapin Variation,36,Checkmate,1-0,1,True,False,https://lichess.org/mcSjA6CZ
+30,2021.07.24,17:29:17,Mlodziak77,seyfahmadi,1928,1954,600+0,C00,French Defense: Steiner Variation,32,Resign,1-0,1,True,False,https://lichess.org/hid82ruw
+31,2021.07.24,16:53:59,Mlodziak77,anandkb,1921,1879,600+0,C41,Philidor Defense,37,Resign,1-0,1,True,False,https://lichess.org/BANUh8kf
+32,2021.07.24,14:18:30,Mlodziak77,keuchess,1928,1921,600+0,C00,French Defense: Orthoschnapp Gambit,21,Resign,0-1,0,False,False,https://lichess.org/T82BpXD1
+33,2021.07.24,10:39:44,Mlodziak77,Chss19,1941,1858,600+0,C00,French Defense: Orthoschnapp Gambit,39,Checkmate,1-0,1,True,False,https://lichess.org/IcIXXsUf
+34,2021.07.24,10:37:00,Mlodziak77,bacchusworm,1949,1958,600+0,B22,Sicilian Defense: Alapin Variation,10,Resign,0-1,0,False,False,https://lichess.org/nEaiQwhP
+35,2021.07.24,10:34:28,Mlodziak77,MrNurkestein,1954,2096,600+0,C46,Three Knights Opening,6,Checkmate,0-1,0,False,False,https://lichess.org/XOh8mTcq
+36,2021.07.24,09:19:06,Mlodziak77,Nay6789,1954,1959,600+0,C42,Russian Game: Three Knights Game,24,Checkmate,1-0,1,True,False,https://lichess.org/7xYv0vPL
+37,2021.07.22,10:55:04,Mlodziak77,paresh29,1934,1944,600+0,C46,Three Knights Opening,24,Checkmate,1-0,1,True,False,https://lichess.org/fravhdDV
+38,2021.07.20,18:20:40,Mlodziak77,prunus46,1935,1911,600+0,C34,King's Gambit Accepted: MacLeod Defense,20,Resign,1-0,1,True,False,https://lichess.org/Yfe3R1A7
+39,2021.07.13,16:33:57,Mlodziak77,MfundoKasparov,1937,1895,600+0,C46,Three Knights Opening,10,Resign,1-0,1,True,False,https://lichess.org/hpgpVBvL
+40,2021.07.13,15:22:06,Mlodziak77,Skkar,1956,1958,600+0,C46,Three Knights Opening,24,Resign,0-1,0,True,False,https://lichess.org/Ky3B6tPi
+41,2021.07.13,12:38:50,Mlodziak77,lombado,1936,1968,600+0,B22,Sicilian Defense: Alapin Variation,34,Checkmate,1-0,1,True,False,https://lichess.org/TrHcawMO
+42,2021.06.20,13:55:07,Mlodziak77,r131474528,1890,1824,600+0,B22,"Sicilian Defense: Smith-Morra Gambit Declined, Center Formation",18,Checkmate,1-0,1,True,False,https://lichess.org/wToVIFLb
+43,2021.06.20,13:44:33,Mlodziak77,Hh66,1881,1901,600+0,C46,Three Knights Opening,24,Resign,1-0,1,True,False,https://lichess.org/mliu1Mu7
+44,2021.06.19,10:37:25,Mlodziak77,fabricechess,1896,1914,600+0,C41,Philidor Defense,53,Time forfeit,0-1,0,True,False,https://lichess.org/i8J1PZug
+45,2021.06.19,10:14:59,Mlodziak77,vudpeker1,1881,1828,600+0,C46,Three Knights Opening,19,Checkmate,1-0,1,True,False,https://lichess.org/G5VilDyX
+46,2021.06.18,21:05:06,Mlodziak77,Abelz,1873,1881,600+0,B22,Sicilian Defense: Alapin Variation,22,Checkmate,1-0,1,True,False,https://lichess.org/MsAPsQ3E
+47,2021.06.18,20:05:00,Mlodziak77,caminante,1849,1805,600+0,C42,Russian Game: Three Knights Game,50,Checkmate,1-0,1,True,False,https://lichess.org/iqxUhbvC
+48,2021.06.18,19:46:49,Mlodziak77,F2F2F2F2,1837,1950,600+0,B22,Sicilian Defense: Alapin Variation,51,Checkmate,1-0,1,True,False,https://lichess.org/I6pLl4xG
+49,2021.06.18,18:58:27,Mlodziak77,KELEMORTO-VI,1826,1846,600+0,A06,Zukertort Opening: Tennison Gambit,31,Resign,1-0,1,False,False,https://lichess.org/MaP0Ay35
+50,2021.06.18,18:49:14,Mlodziak77,JorgeBarrios,1816,1803,600+0,B22,Sicilian Defense: Alapin Variation,18,Checkmate,1-0,1,True,False,https://lichess.org/oXZzJMR7
+51,2021.06.18,18:35:17,Mlodziak77,Jumgal,1793,1827,600+0,C46,Three Knights Opening: Steinitz Defense,34,Resign,1-0,1,True,False,https://lichess.org/REvxVYZF
+52,2021.06.18,18:29:35,Mlodziak77,Nahipsi,1815,1788,600+0,C46,Four Knights Game: Halloween Gambit,19,Resign,0-1,0,False,False,https://lichess.org/lfztCDki
+53,2021.05.23,17:12:34,Mlodziak77,xSiviz,1787,1782,600+0,C46,Three Knights Opening,24,Checkmate,1-0,1,True,False,https://lichess.org/p1rRIBe3
+54,2021.05.22,20:19:19,Mlodziak77,Pesco20,1773,1684,600+0,C41,Philidor Defense,7,Checkmate,1-0,1,False,False,https://lichess.org/wSEVQ89T
+55,2021.05.22,19:10:59,Mlodziak77,junkyardgerard,1766,1736,600+0,C00,French Defense: Orthoschnapp Gambit,41,Resign,1-0,1,True,False,https://lichess.org/tVKq4NFT
+56,2021.05.15,21:28:31,Mlodziak77,enguita13,1772,1734,600+0,B22,Sicilian Defense: Alapin Variation,33,Checkmate,1-0,1,True,False,https://lichess.org/ZDL13lkW
+57,2021.05.13,20:07:50,Mlodziak77,lupin1980,1778,1861,600+0,C42,Russian Game: Three Knights Game,21,Resign,0-1,0,True,False,https://lichess.org/TefCM58Z
+58,2021.05.12,22:49:29,Mlodziak77,dudapeste10,1784,1803,600+0,A06,Zukertort Opening: Tennison Gambit,26,Time forfeit,0-1,0,False,False,https://lichess.org/0OkrepJX
+59,2021.05.12,12:46:04,Mlodziak77,sgunes,1791,1801,600+0,B23,Sicilian Defense: Grand Prix Attack,48,Resign,1-0,1,True,False,https://lichess.org/VQ5MDclu
+60,2021.05.12,12:09:48,Mlodziak77,MrMatic,1783,1788,600+0,B12,Caro-Kann Defense: MarĂłczy Variation,44,Checkmate,1-0,1,True,False,https://lichess.org/YIap5JP3
+61,2021.05.12,11:48:06,Mlodziak77,reqdjd,1797,1871,600+0,B12,Caro-Kann Defense: MarĂłczy Variation,18,Resign,0-1,0,True,False,https://lichess.org/VTcFOFyx
+62,2021.05.05,21:29:47,Mlodziak77,Peasant1729,1769,1907,600+0,C46,Three Knights Opening,17,Checkmate,1-0,1,False,False,https://lichess.org/3KpotAsc
+63,2021.05.05,20:19:24,Mlodziak77,Karthik-M,1751,1736,600+0,C46,Three Knights Opening,31,Checkmate,1-0,1,True,False,https://lichess.org/0KKb5zbd
+64,2021.05.05,19:53:10,Mlodziak77,nejdeath,1731,1704,600+0,C41,Philidor Defense,26,Resign,1-0,1,True,False,https://lichess.org/FZK4UDmN
+65,2021.05.05,19:36:54,Mlodziak77,carlorizz,1737,1500,600+0,C42,Russian Game: Three Knights Game,30,Checkmate,1-0,1,True,False,https://lichess.org/n8JwnGT0
+66,2021.05.05,19:30:11,Mlodziak77,panmarek12,1746,1735,600+0,C46,Four Knights Game: Halloween Gambit,15,Resign,0-1,0,True,False,https://lichess.org/nZoVPSls
+67,2021.05.04,17:51:02,Mlodziak77,Cheermove,1726,1703,600+0,C40,King's Pawn Game: Busch-Gass Gambit,18,Checkmate,1-0,1,True,False,https://lichess.org/4Lt5hFVM
+68,2021.05.04,11:37:25,Mlodziak77,Smilex,1733,1828,600+0,C00,French Defense: Orthoschnapp Gambit,6,Resign,0-1,0,False,False,https://lichess.org/5lTBRIyN
+69,2021.04.14,19:51:42,Mlodziak77,cuks,1740,1727,600+0,C21,Danish Gambit Accepted: Chigorin Defense,11,Resign,0-1,0,False,False,https://lichess.org/UVFVbAsP
+70,2021.04.03,16:04:44,Mlodziak77,ROBOTSMOKE,1746,1790,600+0,B23,Sicilian Defense: Grand Prix Attack,12,Resign,0-1,0,False,False,https://lichess.org/cBDvPpBu
+71,2021.04.03,12:50:12,Mlodziak77,Khasbayar,1739,1728,600+0,C41,Philidor Defense,22,Checkmate,1-0,1,False,False,https://lichess.org/lTBLRRF2
+72,2021.03.30,22:26:43,Mlodziak77,takishan,1733,1745,600+0,B23,Sicilian Defense: Closed,25,Resign,1-0,1,False,False,https://lichess.org/B5fWEr1p
+73,2021.03.30,22:16:42,Mlodziak77,Lapo1991,1738,1795,600+0,C46,Four Knights Game: Halloween Gambit,21,Resign,0-1,0,True,False,https://lichess.org/FQxhNjoZ
+74,2021.03.30,21:58:59,Mlodziak77,Dreaa,1730,1816,600+0,C46,Four Knights Game: Halloween Gambit,28,Checkmate,1-0,1,True,False,https://lichess.org/Zsx9OPj7
+75,2021.03.30,21:13:50,Mlodziak77,CarlosdeSouza,1711,1757,600+0,C46,Three Knights Opening,61,Checkmate,1-0,1,True,False,https://lichess.org/RlkcuFC7
+76,2021.03.30,20:18:26,Mlodziak77,Aramis65,1711,1669,600+0,B00,Owen Defense,28,Resign,0-1,0,False,False,https://lichess.org/2soO9Mv7
+77,2021.03.30,19:45:24,Mlodziak77,Sujoy123,1696,1772,600+0,C46,Four Knights Game: Halloween Gambit,57,Checkmate,1-0,1,True,False,https://lichess.org/siRkw7m8
+78,2021.03.28,17:42:46,Mlodziak77,autodidact2000,1704,1784,600+1,C46,Three Knights Opening,27,Checkmate,0-1,0,True,True,https://lichess.org/52u32L3f
+79,2021.03.28,16:56:46,Mlodziak77,Pablooo123,1696,1905,600+1,C41,Philidor Defense,41,Time forfeit,1-0,1,True,True,https://lichess.org/CHjeGXoV
+80,2021.03.28,16:09:08,Mlodziak77,hombre69,1690,1393,600+1,C46,Three Knights Opening,11,Checkmate,1-0,1,False,True,https://lichess.org/f2Qp4HSO
+81,2021.03.28,15:22:38,Mlodziak77,jacekchess2,1701,2179,600+1,C46,Four Knights Game: Halloween Gambit,32,Checkmate,0-1,0,True,True,https://lichess.org/bfmCoiJb
+82,2021.03.21,19:07:03,Mlodziak77,Wierabiej,1698,1807,600+1,B23,Sicilian Defense: Closed,40,Resign,0-1,0,True,True,https://lichess.org/Yasg02uq
+83,2021.03.21,18:19:04,Mlodziak77,Elohell_kg,1691,1854,600+1,C46,Three Knights Opening,39,Resign,1-0,1,False,True,https://lichess.org/6O6qBHfo
+84,2021.03.21,17:32:20,Mlodziak77,Expert0_7,1684,1892,600+1,C46,Three Knights Opening,39,Checkmate,1-0,1,False,True,https://lichess.org/kwZziUmY
+85,2021.03.21,16:46:26,Mlodziak77,Glosniewski,1677,2026,600+1,C46,Three Knights Opening,45,Checkmate,1-0,1,False,True,https://lichess.org/IYrShFjc
+86,2021.03.21,16:00:03,Mlodziak77,Nedvedi,1674,1344,600+1,C42,Russian Game: Three Knights Game,26,Checkmate,1-0,1,False,True,https://lichess.org/AFPWrBZL
+87,2021.03.21,15:14:30,Mlodziak77,D8r4llik4,1679,1802,600+0,C46,Three Knights Opening,24,Resign,0-1,0,False,False,https://lichess.org/ManuNrEp
+88,2021.03.21,14:36:49,Mlodziak77,swastik2305,1685,1686,600+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,14,Resign,0-1,0,False,False,https://lichess.org/bJer5zTY
+89,2021.03.21,14:16:24,Mlodziak77,udungtea,1686,1659,600+0,B01,Scandinavian Defense: Blackburne Gambit,10,Resign,0-1,0,False,False,https://lichess.org/5Y3LgAeY
+90,2021.03.21,14:10:34,Mlodziak77,Ervis10,1693,1706,600+0,C41,Philidor Defense,22,Resign,0-1,0,False,False,https://lichess.org/jnF02A45
+91,2021.03.21,12:18:29,Mlodziak77,acasecnikovs,1677,1680,600+0,C46,Three Knights Opening,31,Checkmate,1-0,1,True,False,https://lichess.org/IypoMrpE
+92,2021.03.21,11:52:22,Mlodziak77,yourwife,1666,1714,600+0,B12,Caro-Kann Defense: MarĂłczy Variation,19,Resign,1-0,1,True,False,https://lichess.org/iPN0RTVB
+93,2021.03.21,11:34:39,Mlodziak77,MTHendrix,1666,1681,600+0,B00,St. George Defense,25,Resign,0-1,0,False,False,https://lichess.org/32QslKcs
+94,2021.03.20,17:28:50,Mlodziak77,rahimkomeyli85,1655,1704,600+0,B23,Sicilian Defense: Grand Prix Attack,59,Checkmate,1-0,1,False,False,https://lichess.org/S09PnzE5
+95,2021.03.18,11:58:14,Mlodziak77,PAs34,1637,1624,600+0,C70,"Ruy Lopez: Morphy Defense, Caro Variation",18,Checkmate,0-1,0,False,False,https://lichess.org/8woi8Cek
+96,2021.03.17,14:14:28,Mlodziak77,svos17,1609,1505,600+0,C60,Ruy Lopez,30,Checkmate,1-0,1,True,False,https://lichess.org/RDVZwJeM
+97,2021.03.17,13:21:47,Mlodziak77,qazaqpynqo,1585,1596,600+0,C60,Ruy Lopez: Cozio Defense,47,Resign,1-0,1,True,False,https://lichess.org/4OiELQrq
+98,2021.03.17,11:05:57,Mlodziak77,kozkoz,1595,1596,600+0,C10,Sicilian Defense: Marshall Gambit,11,Resign,0-1,0,True,False,https://lichess.org/zETrgKag
+99,2021.03.17,10:39:30,Mlodziak77,BestTanoEU,1584,1571,600+0,B23,Sicilian Defense: Closed,32,Checkmate,1-0,1,True,False,https://lichess.org/LKzeL5fs
+100,2021.03.16,16:48:16,Mlodziak77,PatrycjaJadwiga,1573,1586,600+0,C46,Three Knights Opening,9,Resign,1-0,1,False,False,https://lichess.org/jHF0FrE2
+101,2021.03.16,16:20:37,Mlodziak77,anjartea,1595,1549,600+0,B01,Scandinavian Defense: Blackburne Gambit,42,Checkmate,0-1,0,True,False,https://lichess.org/c4DA0VcS
+102,2021.03.16,14:21:39,Mlodziak77,ArgoN0,1621,1602,600+0,C60,Ruy Lopez: Cozio Defense,30,Checkmate,0-1,0,True,False,https://lichess.org/xpond12Z
+103,2021.03.16,13:56:16,Mlodziak77,reacherd,1606,1627,600+0,C65,Ruy Lopez: Berlin Defense,27,Checkmate,1-0,1,True,False,https://lichess.org/d1EIRoBK
+104,2021.03.16,13:35:07,Mlodziak77,ProrokPiwnicy,1573,1567,600+0,C42,Russian Game,26,Checkmate,1-0,1,True,False,https://lichess.org/CRCUDKYd
+105,2021.03.16,11:56:06,Mlodziak77,Capnquint,1536,1555,600+0,B23,Sicilian Defense: Closed,47,Checkmate,1-0,1,True,False,https://lichess.org/jHcHPHK4
+106,2021.03.16,10:36:19,Mlodziak77,sardes84,1519,1517,600+0,C00,French Defense,80,Checkmate,1-0,1,False,False,https://lichess.org/6iSjqrMX
+107,2021.03.16,10:23:25,Mlodziak77,waseem_abdo,1536,1539,600+0,C64,Ruy Lopez: Classical Variation,21,Resign,0-1,0,False,False,https://lichess.org/yLOsMz9C
+108,2021.03.16,10:03:32,Mlodziak77,damirka13,1496,1476,600+0,C60,Ruy Lopez: Cozio Defense,39,Checkmate,1-0,1,True,False,https://lichess.org/n2G4fwQd
+109,2021.03.14,13:37:12,Mlodziak77,Renatoffprata,1643,1680,600+0,C40,King's Pawn Game: Busch-Gass Gambit,25,Resign,0-1,0,False,False,https://lichess.org/sM2R166D
+110,2021.03.10,10:27:22,Mlodziak77,olivier609,1671,1656,600+0,B23,Sicilian Defense: Grand Prix Attack,22,Checkmate,1-0,1,True,False,https://lichess.org/h0RcHXSj
+111,2021.01.30,16:04:38,Mlodziak77,AlioctGoku,1651,1752,600+0,B10,Caro-Kann Defense,14,Resign,1-0,1,False,False,https://lichess.org/0XJRK6sI
+112,2021.01.29,16:44:04,Mlodziak77,BigArabDaddy,1496,1480,600+0,C62,Ruy Lopez: Steinitz Defense,15,Resign,1-0,1,False,False,https://lichess.org/VM4CtYdw
+113,2021.01.26,12:56:47,Mlodziak77,Joydipsarkar,1463,1507,600+0,C62,Ruy Lopez: Steinitz Defense,24,Resign,1-0,1,True,False,https://lichess.org/dxHYhWQ8
+114,2021.01.25,20:07:32,Mlodziak77,MuchoBueno,1360,1426,600+0,C67,"Ruy Lopez: Berlin Defense, Rio Gambit Accepted",27,Checkmate,1-0,1,True,False,https://lichess.org/uZIdqxUh
+115,2021.01.05,14:06:35,Mlodziak77,Joshijayesh,1500,1696,600+0,C77,"Ruy Lopez: Morphy Defense, Anderssen Variation",24,Resign,0-1,0,False,False,https://lichess.org/4KsVekWE

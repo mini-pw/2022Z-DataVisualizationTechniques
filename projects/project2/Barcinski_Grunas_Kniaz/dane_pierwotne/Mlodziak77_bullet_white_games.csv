@@ -1,0 +1,102 @@
+id,date,time,white,black,white elo,black elo,time control,opening code,opening name,length,termination,result,hero points,has eval,has increment,link
+1,2021.11.21,22:14:14,Mlodziak77,UPessencia,1758,1692,60+0,A04,Zukertort Opening: Queenside Fianchetto Variation,44,Time forfeit,1-0,1,False,False,https://lichess.org/pRkwORJk
+2,2021.11.05,14:49:36,Mlodziak77,huyman9102,1760,1763,60+0,B20,Sicilian Defense: Myers Attack,31,Time forfeit,1-0,1,False,False,https://lichess.org/sehclAcJ
+3,2021.11.02,18:07:00,Mlodziak77,PapiChuca,1771,1787,60+0,B00,Goldsmith Defense,21,Time forfeit,0-1,0,False,False,https://lichess.org/Kb6CsTkq
+4,2021.11.02,17:25:50,Mlodziak77,sten1955,1771,1766,60+0,B10,Caro-Kann Defense: Two Knights Attack,22,Resign,1-0,1,False,False,https://lichess.org/VPdSPLSY
+5,2021.11.01,19:12:07,Mlodziak77,ChessVik1,1776,1800,60+0,B06,Modern Defense,53,Time forfeit,1/2-1/2,0.5,False,False,https://lichess.org/gF8EkEfp
+6,2021.11.01,19:10:00,Mlodziak77,King-Richard-III,1770,1789,60+0,B00,Pirc Defense,39,Time forfeit,1-0,1,False,False,https://lichess.org/bz4YdrKm
+7,2021.11.01,19:06:58,Mlodziak77,Ronduro,1764,1770,60+0,B50,"Sicilian Defense: Wing Gambit, Deferred Variation",34,Time forfeit,1-0,1,False,False,https://lichess.org/s83r7SI9
+8,2021.11.01,16:04:07,Mlodziak77,Blitzkrie,1758,1763,60+0,A04,Zukertort Opening: Sicilian Invitation,8,Resign,1-0,1,False,False,https://lichess.org/Ca3TXjcO
+9,2021.11.01,14:21:14,Mlodziak77,Stressconfuse,1757,1817,60+0,C00,French Defense: Wing Gambit,29,Checkmate,1-0,1,False,False,https://lichess.org/rHmQw0YP
+10,2021.11.01,14:17:06,Mlodziak77,pseudoplayer,1745,1747,60+0,C46,Three Knights Opening,23,Resign,1-0,1,False,False,https://lichess.org/FnNduIT8
+11,2021.10.31,17:28:22,Mlodziak77,gamakichi,1750,1760,60+0,A04,Zukertort Opening: Kingside Fianchetto,46,Time forfeit,0-1,0,False,False,https://lichess.org/WlyY0QKW
+12,2021.10.31,17:26:15,Mlodziak77,burunduk45,1756,1748,60+0,A04,Zukertort Opening: Queen's Gambit Invitation,49,Time forfeit,0-1,0,False,False,https://lichess.org/8P9QNPHU
+13,2021.10.30,21:11:45,Mlodziak77,Rho_chess,1750,1720,60+0,A01,Nimzo-Larsen Attack: Modern Variation,45,Time forfeit,0-1,0,False,False,https://lichess.org/WcjXWo98
+14,2021.10.30,21:07:30,Mlodziak77,bezveze,1760,1812,60+0,B00,Owen Defense,36,Time forfeit,0-1,0,False,False,https://lichess.org/74PPJuNm
+15,2021.10.30,17:41:35,Mlodziak77,T2ARNOLD_FIIS,1767,1786,60+0,C46,Three Knights Opening,35,Time forfeit,0-1,0,True,False,https://lichess.org/Sgdv3Hjy
+16,2021.10.30,16:56:15,Mlodziak77,RakeshMB,1777,1825,60+0,A06,Zukertort Opening: Tennison Gambit,42,Time forfeit,0-1,0,True,False,https://lichess.org/xYsWgQvj
+17,2021.10.30,16:51:32,Mlodziak77,yuksel077,1789,1783,60+0,C46,Three Knights Opening: Winawer Defense,46,Time forfeit,0-1,0,False,False,https://lichess.org/Zlk9lwKf
+18,2021.10.30,13:55:25,Mlodziak77,Tim-mega,1782,1812,60+0,B06,Modern Defense,24,Resign,1-0,1,False,False,https://lichess.org/iPw2rGl9
+19,2021.10.30,13:45:46,Mlodziak77,Anonim1976,1788,1788,60+0,B20,Sicilian Defense: Wing Gambit,24,Checkmate,0-1,0,False,False,https://lichess.org/2sy1PerO
+20,2021.10.30,13:41:33,Mlodziak77,jeremygalland,1789,1723,60+0,C00,French Defense: Steiner Variation,26,Time forfeit,1-0,1,False,False,https://lichess.org/4ip97lTp
+21,2021.10.30,13:39:36,Mlodziak77,benghis,1784,1765,60+0,A06,Zukertort Opening: Tennison Gambit,25,Resign,1-0,1,False,False,https://lichess.org/Uzgmi8r4
+22,2021.10.30,13:37:06,Mlodziak77,Moriarty91,1773,1750,60+0,B06,Modern Defense,4,Resign,1-0,1,False,False,https://lichess.org/WprdLyUc
+23,2021.10.30,13:33:08,Mlodziak77,akash07_bestha,1767,1763,60+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,37,Time forfeit,1-0,1,False,False,https://lichess.org/X2e1CJjU
+24,2021.10.30,13:28:23,Mlodziak77,protozoa2019,1762,1731,60+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,17,Time forfeit,1-0,1,False,False,https://lichess.org/GefC4Z6S
+25,2021.10.30,13:26:14,Mlodziak77,rogo69,1768,1767,60+0,B00,Pirc Defense,38,Checkmate,0-1,0,False,False,https://lichess.org/1qyeOsHD
+26,2021.10.30,13:23:18,Mlodziak77,aliosha88,1780,1739,60+0,B50,"Sicilian Defense: Wing Gambit, Deferred Variation",17,Checkmate,0-1,0,False,False,https://lichess.org/QmNIbLgd
+27,2021.10.30,13:04:57,Mlodziak77,Galegao,1780,1801,60+0,B10,Caro-Kann Defense,22,Time forfeit,0-1,0,False,False,https://lichess.org/0uRsaHz1
+28,2021.10.29,20:58:36,Mlodziak77,ivan_stepanov1010,1787,1744,60+0,B40,Sicilian Defense: Wing Gambit Deferred,45,Time forfeit,0-1,0,False,False,https://lichess.org/fKdTvxy2
+29,2021.10.28,19:44:40,Mlodziak77,OrchidTheRipper7,1774,1772,60+0,B20,Sicilian Defense: Wing Gambit,35,Time forfeit,1-0,1,False,False,https://lichess.org/rdfgG9aE
+30,2021.10.22,18:21:42,Mlodziak77,eddyband1972,1763,1774,60+0,B11,"Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line",32,Checkmate,1-0,1,False,False,https://lichess.org/ZNGtSANa
+31,2021.10.22,18:15:18,Mlodziak77,JonasK19,1767,1748,60+0,C00,French Defense: Steiner Variation,28,Time forfeit,0-1,0,False,False,https://lichess.org/EX5zXcnG
+32,2021.10.22,18:10:18,Mlodziak77,amroo99,1755,1796,60+0,B40,Sicilian Defense: Wing Gambit Deferred,37,Time forfeit,1-0,1,False,False,https://lichess.org/pkpQKQOK
+33,2021.10.18,21:10:46,Mlodziak77,tornamuhendisi,1746,1744,60+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,25,Checkmate,1-0,1,False,False,https://lichess.org/ydVJ4Mv1
+34,2021.10.18,21:08:43,Mlodziak77,bezveze,1739,1803,60+0,B00,Owen Defense,30,Time forfeit,1-0,1,False,False,https://lichess.org/R47i2PzI
+35,2021.10.18,21:05:15,Mlodziak77,Badabheem69,1740,1727,60+0,C46,Three Knights Opening,31,Time forfeit,1-0,1,False,False,https://lichess.org/8aZTgjbT
+36,2021.10.18,20:45:03,Mlodziak77,WandererFlint,1746,1732,60+0,C00,French Defense: Orthoschnapp Gambit,27,Checkmate,0-1,0,False,False,https://lichess.org/EnPUx4fK
+37,2021.10.18,20:40:52,Mlodziak77,TaxiDriverVegas,1745,1767,60+0,B00,Pirc Defense,28,Time forfeit,1-0,1,False,False,https://lichess.org/P3NM7lbZ
+38,2021.10.18,20:37:02,Mlodziak77,d8336,1726,1733,60+0,A06,Zukertort Opening: Tennison Gambit,8,Resign,1-0,1,False,False,https://lichess.org/OIrHsoJR
+39,2021.10.18,20:34:56,Mlodziak77,Danilka99,1720,1688,60+0,C00,French Defense: Orthoschnapp Gambit,45,Time forfeit,1-0,1,False,False,https://lichess.org/Iv13De7O
+40,2021.10.18,20:17:44,Mlodziak77,NorocLa3L,1713,1711,60+0,B00,Pirc Defense,49,Checkmate,0-1,0,False,False,https://lichess.org/Q0U0BNN3
+41,2021.10.18,20:13:58,Mlodziak77,HirokRaza,1713,1743,60+0,B20,Sicilian Defense: Wing Gambit,13,Resign,1-0,1,False,False,https://lichess.org/DZtgsjpZ
+42,2021.10.18,20:12:23,Mlodziak77,juzba23,1704,1763,60+0,A45,"Indian Defense: Paleface Attack, Blackmar-Diemer Gambit Deferred",24,Checkmate,1-0,1,False,False,https://lichess.org/zjIQapns
+43,2021.10.18,20:10:28,Mlodziak77,juliusgrettir,1688,1619,60+0,B00,Pirc Defense,10,Resign,1-0,1,False,False,https://lichess.org/ZBrmpCJs
+44,2021.10.18,20:06:03,Mlodziak77,YanBlanc,1672,1655,60+0,B01,Scandinavian Defense: Blackburne-Kloosterboer Gambit,35,Checkmate,1-0,1,False,False,https://lichess.org/JqzwJjL3
+45,2021.10.18,15:15:19,Mlodziak77,Bennag,1662,1658,60+0,B20,Sicilian Defense: Wing Gambit,39,Time forfeit,0-1,0,False,False,https://lichess.org/VrJzEmD0
+46,2021.10.15,08:35:39,Mlodziak77,Yeezygus,1636,1657,60+0,B20,Sicilian Defense: Wing Gambit,7,Resign,1-0,1,False,False,https://lichess.org/Z4AdrcrU
+47,2021.10.14,13:46:17,Mlodziak77,Rogue96,1617,1615,60+0,C46,Three Knights Opening,45,Time forfeit,1-0,1,False,False,https://lichess.org/KSPZf13I
+48,2021.10.12,15:36:30,Mlodziak77,philhobs,1595,1611,60+0,C46,Four Knights Game: Halloween Gambit,9,Resign,1-0,1,False,False,https://lichess.org/VwQcEgyw
+49,2021.10.12,15:33:05,Mlodziak77,needalift,1619,1575,60+0,B12,Caro-Kann Defense: MarĂłczy Variation,56,Time forfeit,0-1,0,False,False,https://lichess.org/ij7GNLdB
+50,2021.10.12,15:30:42,Mlodziak77,rockza,1632,1616,60+0,B20,Sicilian Defense: Wing Gambit,38,Time forfeit,0-1,0,False,False,https://lichess.org/Opacj93E
+51,2021.10.12,09:11:54,Mlodziak77,b_yusupov,1591,1673,60+0,B02,Alekhine Defense: Two Pawn Attack,29,Time forfeit,1-0,1,False,False,https://lichess.org/IE4unCPE
+52,2021.10.07,10:21:32,Mlodziak77,Nicolas94,1564,1542,60+0,A00,Hungarian Opening: Symmetrical Variation,17,Checkmate,1-0,1,True,False,https://lichess.org/0OW8TKUK
+53,2021.10.07,09:52:41,Mlodziak77,Man12890,1521,1506,60+0,A01,Nimzo-Larsen Attack: Modern Variation,30,Checkmate,1-0,1,False,False,https://lichess.org/Jq95UKxC
+54,2021.09.26,20:29:20,Mlodziak77,shivi_0,1522,1512,60+0,C00,French Defense: Orthoschnapp Gambit,19,Checkmate,0-1,0,False,False,https://lichess.org/wSTrlvle
+55,2021.09.13,17:48:17,Mlodziak77,cengizcozturk,1527,1497,60+0,B01,Scandinavian Defense: Modern Variation,46,Time forfeit,1-0,1,False,False,https://lichess.org/MauUhZAI
+56,2021.09.13,17:45:44,Mlodziak77,PeterHendrix,1528,1509,60+0,A40,Englund Gambit Complex: Hartlaub-Charlick Gambit,50,Time forfeit,1/2-1/2,0.5,False,False,https://lichess.org/oiLyzNqa
+57,2021.08.18,15:20:44,Mlodziak77,tanertaner13,1540,1522,60+0,A01,Nimzo-Larsen Attack: Symmetrical Variation,31,Time forfeit,0-1,0,False,False,https://lichess.org/choDBA9G
+58,2021.08.18,15:19:49,Mlodziak77,babapremnath12,1527,1569,60+0,A01,Nimzo-Larsen Attack: Pachman Gambit,15,Resign,1-0,1,False,False,https://lichess.org/FBAr1mJT
+59,2021.08.17,19:18:13,Mlodziak77,superfastchess93,1519,1437,60+0,B22,Sicilian Defense: Alapin Variation,25,Resign,1-0,1,False,False,https://lichess.org/Jd4FL1BK
+60,2021.08.15,20:57:38,Mlodziak77,ukunsun,1533,1519,60+0,C34,King's Gambit Accepted: MacLeod Defense,14,Resign,0-1,0,False,False,https://lichess.org/EMregcqZ
+61,2021.07.25,17:19:42,Mlodziak77,evusal,1563,1461,60+0,C40,Elephant Gambit,20,Resign,0-1,0,False,False,https://lichess.org/Vv8zlqw6
+62,2021.07.25,16:14:53,Mlodziak77,symbiotee,1550,1560,60+0,C46,Three Knights Opening,43,Checkmate,1-0,1,False,False,https://lichess.org/OU3uokFF
+63,2021.07.25,15:06:03,Mlodziak77,Simply-Xiong,1542,1499,60+0,C41,Philidor Defense: Exchange Variation,23,Checkmate,1-0,1,True,False,https://lichess.org/QOFNFy0s
+64,2021.07.25,14:52:25,Mlodziak77,stranger_fellow,1526,1539,60+0,B22,Sicilian Defense: Alapin Variation,32,Time forfeit,1-0,1,False,False,https://lichess.org/vZ2qvDjn
+65,2021.06.06,20:29:14,Mlodziak77,addicted_nah,1527,1484,60+0,C42,Russian Game: Three Knights Game,39,Time forfeit,1-0,1,True,False,https://lichess.org/A3XXYTRV
+66,2021.06.02,21:07:58,Mlodziak77,TRexCupcake,1508,1569,60+0,C46,Four Knights Game: Halloween Gambit,37,Checkmate,1-0,1,False,False,https://lichess.org/Zr8TSObs
+67,2021.06.01,11:38:02,Mlodziak77,raelst,1525,1545,60+0,B22,Sicilian Defense: Alapin Variation,38,Resign,0-1,0,False,False,https://lichess.org/dpNCJyx8
+68,2021.06.01,11:35:49,Mlodziak77,itoiz,1535,1512,60+0,C40,King's Knight Opening,28,Time forfeit,0-1,0,False,False,https://lichess.org/c8GBosHm
+69,2021.06.01,11:30:27,Mlodziak77,NoisyBoy73,1506,1528,60+0,A06,Zukertort Opening: Tennison Gambit,21,Time forfeit,1-0,1,False,False,https://lichess.org/Se7NMCHv
+70,2021.06.01,11:25:14,Mlodziak77,shameboy,1505,1487,60+0,B22,Sicilian Defense: Alapin Variation,22,Checkmate,1-0,1,False,False,https://lichess.org/o9RvlIG7
+71,2021.06.01,11:21:10,Mlodziak77,avnialakas,1486,1422,60+0,C46,Three Knights Opening,20,Checkmate,1-0,1,False,False,https://lichess.org/l7xqRzzS
+72,2021.06.01,11:19:11,Mlodziak77,addisinia,1476,1461,60+0,C46,Four Knights Game: Halloween Gambit,25,Checkmate,1-0,1,False,False,https://lichess.org/qUSHtQVA
+73,2021.05.22,13:40:04,Mlodziak77,S1b,1508,1509,60+0,C00,French Defense: Orthoschnapp Gambit,30,Checkmate,0-1,0,False,False,https://lichess.org/xhiULaCJ
+74,2021.05.22,12:43:24,Mlodziak77,dr_warren,1485,1484,60+0,C41,Philidor Defense,35,Time forfeit,1-0,1,False,False,https://lichess.org/ibBp9pYD
+75,2021.05.22,12:39:52,Mlodziak77,Mjrew13,1485,1489,60+0,C46,Four Knights Game: Halloween Gambit,30,Checkmate,0-1,0,False,False,https://lichess.org/PCcxBNK5
+76,2021.05.22,12:35:24,Mlodziak77,ywetrytywerywtry,1511,1508,60+0,B12,Caro-Kann Defense: MarĂłczy Variation,38,Time forfeit,0-1,0,False,False,https://lichess.org/lxdBN7Ae
+77,2021.05.22,12:32:32,Mlodziak77,dhruvaranjan,1484,1499,60+0,C42,Russian Game: Three Knights Game,9,Resign,1-0,1,False,False,https://lichess.org/B51pMNj7
+78,2021.05.07,11:51:57,Mlodziak77,Ahmed_pawn,1484,1493,60+0,C46,Three Knights Opening,30,Time forfeit,0-1,0,False,False,https://lichess.org/DT65GQ4t
+79,2021.05.07,11:47:15,Mlodziak77,attoretorico,1470,1472,60+0,B21,Sicilian Defense: Smith-Morra Gambit,28,Checkmate,1-0,1,False,False,https://lichess.org/3z3jCJfA
+80,2021.04.05,12:54:05,Mlodziak77,klopfk1,1485,1406,60+0,B00,Nimzowitsch Defense: French Connection,33,Checkmate,1-0,1,False,False,https://lichess.org/U5nT5xBO
+81,2021.04.01,15:39:00,Mlodziak77,Ysfevn,1497,1477,60+0,B06,Modern Defense,36,Time forfeit,0-1,0,False,False,https://lichess.org/DFIO8h3Z
+82,2021.03.27,11:33:05,Mlodziak77,Semtration,1497,1476,60+0,A00,Hungarian Opening,31,Time forfeit,0-1,0,False,False,https://lichess.org/nJx4qrzO
+83,2021.03.27,10:37:14,Mlodziak77,MasterMind07,1488,1465,60+0,B01,Scandinavian Defense: Modern Variation,25,Checkmate,1-0,1,False,False,https://lichess.org/XcRjh04B
+84,2021.03.24,14:13:25,Mlodziak77,GrepVyne,1497,1527,60+0,B01,Scandinavian Defense: Main Line,35,Time forfeit,0-1,0,False,False,https://lichess.org/Uy34vHEZ
+85,2021.03.22,21:39:09,Mlodziak77,jmarie,1506,1527,60+0,C00,Rat Defense: Small Center Defense,22,Resign,0-1,0,False,False,https://lichess.org/0lTWuzEQ
+86,2021.03.22,21:34:54,Mlodziak77,jmarie,1528,1515,60+0,C00,Rat Defense: Small Center Defense,29,Time forfeit,0-1,0,False,False,https://lichess.org/4ibSHQqy
+87,2021.03.22,21:32:08,Mlodziak77,jmarie,1504,1527,60+0,B00,Pirc Defense,27,Checkmate,1-0,1,False,False,https://lichess.org/qZzOR2hq
+88,2021.03.22,21:28:13,Mlodziak77,houssam,1528,1508,60+0,C46,Three Knights Opening,24,Time forfeit,0-1,0,False,False,https://lichess.org/U9O60v2X
+89,2021.03.22,18:11:51,Mlodziak77,Vasiliy1951,1528,1516,60+0,B12,Caro-Kann Defense: MarĂłczy Variation,20,Time forfeit,1-0,1,False,False,https://lichess.org/zOKjvwhO
+90,2021.03.14,13:34:46,Mlodziak77,Borees99,1570,1594,60+0,B01,Scandinavian Defense: Mieses-Kotroc Variation,23,Time forfeit,0-1,0,False,False,https://lichess.org/HBK1JmQp
+91,2021.03.14,13:15:54,Mlodziak77,Yaric2011,1552,1551,60+0,C01,French Defense: Exchange Variation,50,Time forfeit,1-0,1,False,False,https://lichess.org/gyyQH5kg
+92,2021.03.14,13:13:43,Mlodziak77,Talga195,1572,1519,60+0,C40,Elephant Gambit,42,Time forfeit,0-1,0,False,False,https://lichess.org/Qlbq52Qy
+93,2021.03.10,10:05:55,Mlodziak77,greg_the_girl,1588,1611,60+0,B40,Sicilian Defense: Delayed Alapin Variation,42,Time forfeit,0-1,0,False,False,https://lichess.org/Wqr4xW3Q
+94,2021.03.08,20:42:36,Mlodziak77,Zxclnic,1604,1604,60+0,B00,Pirc Defense,7,Resign,0-1,0,False,False,https://lichess.org/8pERwsVl
+95,2021.03.08,00:21:53,Mlodziak77,ryargeldi,1611,1609,60+0,B06,Modern Defense,10,Resign,0-1,0,False,False,https://lichess.org/GVUsAEE4
+96,2021.03.06,10:13:52,Mlodziak77,YuriPimentel64,1575,1650,60+0,C50,Four Knights Game: Italian Variation,47,Checkmate,1-0,1,False,False,https://lichess.org/Ld1NjbJF
+97,2021.03.03,18:51:47,Mlodziak77,ApPeRo,1605,1618,60+0,B12,Caro-Kann Defense: Ulysses Gambit,32,Time forfeit,0-1,0,False,False,https://lichess.org/FrGH6sot
+98,2021.03.02,20:30:57,Mlodziak77,juanli,1600,1581,60+0,B01,Scandinavian Defense: Blackburne-Kloosterboer Gambit,34,Time forfeit,1-0,1,False,False,https://lichess.org/2oS7WYJy
+99,2021.03.02,20:15:50,Mlodziak77,MC2015,1500,1501,60+0,C41,Philidor Defense,36,Time forfeit,1-0,1,False,False,https://lichess.org/Rrd3HeMZ
+100,2021.01.25,20:32:09,Mlodziak77,wizo753,1494,1574,120+1,B34,"Sicilian Defense: Accelerated Dragon, Exchange Variation",38,Resign,0-1,0,False,True,https://lichess.org/7RncgHqU
+101,2021.01.25,20:24:52,Mlodziak77,Eli-veliyev1234,1648,1532,60+0,B01,Scandinavian Defense: Gubinsky-Melts Defense,25,Time forfeit,0-1,0,False,False,https://lichess.org/edcp6LqS

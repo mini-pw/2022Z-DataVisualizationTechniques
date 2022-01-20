@@ -1,0 +1,106 @@
+id,date,time,white,black,white elo,black elo,time control,opening code,opening name,length,termination,result,hero points,has eval,has increment,link
+1,2021.12.16,11:47:26,AuntieSoshel,Mlodziak77,1765,1776,60+0,D02,Queen's Pawn Game: Symmetrical Variation,37,Time forfeit,1-0,0,False,False,https://lichess.org/0UkQKQEi
+2,2021.12.10,14:08:24,Shakhuev,Mlodziak77,1791,1764,60+0,C42,Russian Game: Stafford Gambit,27,Time forfeit,0-1,1,False,False,https://lichess.org/SWg5x1Dh
+3,2021.11.19,12:41:49,Apostrofree,Mlodziak77,1747,1766,60+0,A01,Nimzo-Larsen Attack: Modern Variation,20,Checkmate,1-0,0,False,False,https://lichess.org/e1KmmMBo
+4,2021.11.03,09:33:04,iamkruk,Mlodziak77,1785,1765,60+0,C24,Bishop's Opening: Ponziani Gambit,37,Time forfeit,1-0,0,False,False,https://lichess.org/bRTq5Auo
+5,2021.11.02,17:27:13,Igorukraine,Mlodziak77,1756,1777,60+0,A00,Englund Gambit Declined: Reversed French,42,Time forfeit,1-0,0,False,False,https://lichess.org/fXHx3MtV
+6,2021.11.01,19:14:29,alaasy321,Mlodziak77,1812,1776,60+0,A00,Hungarian Opening: Indian Defense,29,Checkmate,1-0,0,False,False,https://lichess.org/SAImVXk2
+7,2021.11.01,16:02:01,banercat,Mlodziak77,1781,1764,60+0,A45,Indian Defense,44,Time forfeit,1-0,0,False,False,https://lichess.org/QwnpqSi6
+8,2021.11.01,14:18:38,dr_moeldesouki,Mlodziak77,1787,1750,60+0,A00,Van't Kruijs Opening,43,Time forfeit,0-1,1,False,False,https://lichess.org/nRuDWcU8
+9,2021.10.31,17:24:09,burunduk45,Mlodziak77,1754,1750,60+0,A42,Modern Defense: Averbakh System,47,Time forfeit,0-1,1,False,False,https://lichess.org/vLdlyXfb
+10,2021.10.31,17:22:06,Toastbrod007,Mlodziak77,1771,1744,60+0,A51,Indian Defense: Budapest Defense,38,Time forfeit,0-1,1,False,False,https://lichess.org/TYD7TDKv
+11,2021.10.30,21:09:34,PILCV,Mlodziak77,1768,1755,60+0,A51,Indian Defense: Budapest Defense,27,Checkmate,1-0,0,False,False,https://lichess.org/gZtf4ouu
+12,2021.10.30,21:05:20,Haze1998,Mlodziak77,1685,1756,60+0,A40,Modern Defense,40,Checkmate,0-1,1,False,False,https://lichess.org/2ZUltTBx
+13,2021.10.30,21:01:45,ruby24c,Mlodziak77,1766,1761,60+0,A51,Indian Defense: Budapest Defense,34,Checkmate,1-0,0,False,False,https://lichess.org/JtLPvuVd
+14,2021.10.30,16:58:56,UT-Superman,Mlodziak77,1814,1772,60+0,C43,Russian Game: Modern Attack,33,Resign,1-0,0,False,False,https://lichess.org/ub591aj4
+15,2021.10.30,16:54:03,fmarko,Mlodziak77,1749,1783,60+0,A42,Modern Defense: Averbakh System,38,Time forfeit,1-0,0,False,False,https://lichess.org/q4lrxNxo
+16,2021.10.30,13:43:38,danende-dan,Mlodziak77,1793,1794,60+0,B06,Modern Defense: Two Knights Variation,36,Time forfeit,1-0,0,False,False,https://lichess.org/UATJneKr
+17,2021.10.30,13:37:20,Admos,Mlodziak77,1745,1778,60+0,C50,"Italian Game: Giuoco Pianissimo, Italian Four Knights Variation",43,Checkmate,0-1,1,False,False,https://lichess.org/EC0XSUzp
+18,2021.10.30,13:32:12,berbarkembu,Mlodziak77,1780,1773,60+0,B06,Modern Defense,17,Resign,1-0,0,False,False,https://lichess.org/rdPQxeta
+19,2021.10.30,13:30:10,kumaster,Mlodziak77,1771,1767,60+0,B06,Modern Defense: Two Knights Variation,27,Time forfeit,0-1,1,False,False,https://lichess.org/RJEuog8l
+20,2021.10.30,13:24:09,Kralj_Matjaz,Mlodziak77,1787,1774,60+0,A00,Hungarian Opening,44,Time forfeit,1-0,0,False,False,https://lichess.org/6xqqKej6
+21,2021.10.30,13:21:07,gumieS2evimie10,Mlodziak77,1769,1774,60+0,A51,Indian Defense: Budapest Defense,27,Resign,0-1,1,False,False,https://lichess.org/TNvrFlug
+22,2021.10.28,20:44:03,fellipedsg,Mlodziak77,1804,1781,60+0,C21,Center Game: Kieseritzky Variation,25,Time forfeit,0-1,1,False,False,https://lichess.org/72XFck6D
+23,2021.10.22,18:23:29,ZeusExMachina,Mlodziak77,1754,1768,60+0,A10,English Opening: Anglo-Dutch Defense,44,Time forfeit,0-1,1,False,False,https://lichess.org/Tn6v8PfM
+24,2021.10.22,18:19:27,Aramis81,Mlodziak77,1845,1767,60+0,C43,Russian Game: Modern Attack,34,Time forfeit,1-0,0,False,False,https://lichess.org/I8el1dTo
+25,2021.10.22,18:17:16,fisben,Mlodziak77,1763,1761,60+0,A00,Hungarian Opening: Symmetrical Variation,38,Time forfeit,0-1,1,False,False,https://lichess.org/zOPrfuoL
+26,2021.10.22,18:12:38,Andrea171063,Mlodziak77,1718,1762,60+0,A45,Trompowsky Attack,47,Time forfeit,0-1,1,False,False,https://lichess.org/rQhTCGvi
+27,2021.10.22,10:08:21,elangputih,Mlodziak77,1721,1762,60+0,C00,French Defense: La Bourdonnais Variation,13,Checkmate,1-0,0,False,False,https://lichess.org/pd8PBUab
+28,2021.10.18,21:14:23,Kunkka7,Mlodziak77,1754,1756,60+0,C46,Four Knights Game,16,Resign,0-1,1,False,False,https://lichess.org/NmXCikDe
+29,2021.10.18,21:12:33,hiihigh,Mlodziak77,1664,1752,60+0,A00,Hungarian Opening,29,Checkmate,0-1,1,False,False,https://lichess.org/YSBBhVLD
+30,2021.10.18,21:07:32,CorwinCZ,Mlodziak77,1734,1745,60+0,A40,Englund Gambit,20,Checkmate,1-0,0,False,False,https://lichess.org/05NCzLDv
+31,2021.10.18,20:46:45,Kyronit,Mlodziak77,1760,1739,60+0,C57,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",57,Time forfeit,1/2-1/2,0.5,False,False,https://lichess.org/nvIQTBgf
+32,2021.10.18,20:42:50,DevilGigatron,Mlodziak77,1770,1752,60+0,A00,Hungarian Opening,42,Checkmate,1-0,0,False,False,https://lichess.org/xb5ckZC7
+33,2021.10.18,20:39:18,shandar,Mlodziak77,1714,1739,60+0,C26,Vienna Game: Falkbeer Variation,37,Checkmate,0-1,1,False,False,https://lichess.org/3sJRxUhX
+34,2021.10.18,20:37:45,Tomas_el_apostol,Mlodziak77,1672,1733,60+0,A45,Indian Defense: Pawn Push Variation,35,Resign,0-1,1,False,False,https://lichess.org/hiOlcGET
+35,2021.10.18,20:32:47,Cee-loooow,Mlodziak77,1692,1713,60+0,A45,Indian Defense,32,Time forfeit,0-1,1,False,False,https://lichess.org/FnnQiZru
+36,2021.10.18,20:19:31,CommEngineer,Mlodziak77,1706,1706,60+0,C43,Russian Game: Modern Attack,21,Checkmate,0-1,1,False,False,https://lichess.org/bdRQxt8F
+37,2021.10.18,20:15:29,DilekRamazan2112,Mlodziak77,1692,1721,60+0,C34,King's Gambit Accepted: Schallopp Defense,40,Time forfeit,1-0,0,False,False,https://lichess.org/lKYzDWXM
+38,2021.10.18,20:10:52,HR-Schaper,Mlodziak77,1739,1695,60+0,A45,Indian Defense,27,Resign,0-1,1,False,False,https://lichess.org/Qli5D7A8
+39,2021.10.18,20:08:09,mendu8055,Mlodziak77,1677,1680,60+0,A00,Mieses Opening,51,Time forfeit,0-1,1,False,False,https://lichess.org/vTmPyubV
+40,2021.10.18,20:04:53,Wojtasmistrz,Mlodziak77,1659,1663,60+0,C53,"Italian Game: Classical Variation, Giuoco Pianissimo",21,Resign,0-1,1,False,False,https://lichess.org/WK2uXsNJ
+41,2021.10.18,15:17:45,EdisBihorac,Mlodziak77,1680,1653,60+0,A40,Englund Gambit,27,Time forfeit,0-1,1,False,False,https://lichess.org/WPLym0bf
+42,2021.10.18,15:13:58,EyeKey29,Mlodziak77,1627,1654,60+0,C42,Russian Game: Stafford Gambit,16,Checkmate,0-1,1,False,False,https://lichess.org/xyKbehBh
+43,2021.10.15,08:36:09,defriz,Mlodziak77,1580,1646,60+0,A00,Ware Opening,36,Time forfeit,0-1,1,False,False,https://lichess.org/0bc5SwYU
+44,2021.10.14,17:02:25,PRIETOBETIS,Mlodziak77,1601,1627,60+0,B06,Modern Defense,40,Time forfeit,0-1,1,False,False,https://lichess.org/G3BkSpr9
+45,2021.10.14,13:38:13,rachitb05,Mlodziak77,1624,1627,60+0,A45,Indian Defense,47,Time forfeit,1-0,0,False,False,https://lichess.org/tqxegTQy
+46,2021.10.12,15:46:38,Khanmohammadiamirali,Mlodziak77,1623,1617,60+0,C57,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",41,Time forfeit,0-1,1,False,False,https://lichess.org/nVdADZb4
+47,2021.10.12,15:37:03,Grpr1995,Mlodziak77,1608,1606,60+0,A45,Indian Defense,27,Resign,0-1,1,False,False,https://lichess.org/wAULSQMZ
+48,2021.10.12,15:35:21,ostdejan,Mlodziak77,1595,1607,60+0,C49,Four Knights Game: Double Spanish,23,Checkmate,1-0,0,False,False,https://lichess.org/GyB9dBEt
+49,2021.10.12,15:22:33,JackHanley,Mlodziak77,1602,1620,60+0,C50,Four Knights Game: Italian Variation,28,Time forfeit,0-1,1,True,False,https://lichess.org/4f50P3Na
+50,2021.10.12,09:13:51,ForeverBeginner46,Mlodziak77,1618,1607,60+0,B06,Modern Defense,17,Checkmate,0-1,1,False,False,https://lichess.org/zgKgBDw0
+51,2021.10.08,21:27:43,KQRBH2000P,Mlodziak77,1586,1577,60+0,C44,Ponziani Opening: Jaenisch Counterattack,27,Resign,0-1,1,False,False,https://lichess.org/IjOvzRj4
+52,2021.10.07,09:57:03,mirrlivv,Mlodziak77,1534,1551,60+0,B06,Modern Defense,38,Time forfeit,0-1,1,False,False,https://lichess.org/e9Fu1EDQ
+53,2021.10.07,09:54:18,mckyam,Mlodziak77,1542,1536,60+0,A04,Zukertort Opening: Kingside Fianchetto,29,Time forfeit,0-1,1,False,False,https://lichess.org/TZhiB8OM
+54,2021.09.26,20:31:45,George1235,Mlodziak77,1504,1507,60+0,B06,Modern Defense: Three Pawns Attack,39,Time forfeit,0-1,1,False,False,https://lichess.org/t6kFEQ31
+55,2021.09.26,20:23:55,JINAWA,Mlodziak77,1462,1541,60+0,C42,Russian Game,41,Time forfeit,1-0,0,False,False,https://lichess.org/nR28jQ5c
+56,2021.08.18,15:19:35,Rohit782,Mlodziak77,1518,1514,60+0,B06,Modern Defense,3,Resign,0-1,1,False,False,https://lichess.org/KuHXsWiJ
+57,2021.08.17,19:30:03,sgray10,Mlodziak77,1449,1530,60+0,A03,Bird Opening: Williams Gambit,33,Time forfeit,1-0,0,False,False,https://lichess.org/P0XkEaJy
+58,2021.08.15,20:55:20,Malakio,Mlodziak77,1519,1519,60+0,A04,Zukertort Opening: Lisitsyn Gambit,22,Resign,0-1,1,False,False,https://lichess.org/wYScNfZM
+59,2021.08.15,20:51:08,Severino_420,Mlodziak77,1524,1534,60+0,A04,Zukertort Opening: Lisitsyn Gambit,32,Time forfeit,1-0,0,False,False,https://lichess.org/DGPXg5P9
+60,2021.07.25,17:21:22,HossamBarakat,Mlodziak77,1504,1547,60+0,C21,Center Game: Kieseritzky Variation,33,Time forfeit,1-0,0,False,False,https://lichess.org/2hVPYYq1
+61,2021.07.25,15:10:41,PatriVasco,Mlodziak77,1418,1541,60+0,A45,Indian Defense,30,Time forfeit,0-1,1,False,False,https://lichess.org/qrHqXE85
+62,2021.07.25,15:08:41,salihahmedov,Mlodziak77,1560,1554,60+0,C48,Four Knights Game: Ranken Variation,31,Resign,1-0,0,False,False,https://lichess.org/6zDxhD6z
+63,2021.06.08,21:27:17,DanteHoneymoon,Mlodziak77,1527,1534,60+0,A52,"Indian Defense: Budapest Defense, Adler Variation",21,Time forfeit,1-0,0,False,False,https://lichess.org/8ueFQjUG
+64,2021.06.02,21:09:40,violet44,Mlodziak77,1582,1518,60+0,A51,Indian Defense: Budapest Defense,22,Resign,0-1,1,False,False,https://lichess.org/QTCVhZxI
+65,2021.06.02,21:04:42,FernandoPascual,Mlodziak77,1544,1516,60+0,C25,Vienna Game: Max Lange Defense,20,Checkmate,1-0,0,False,False,https://lichess.org/NNRmtO7r
+66,2021.06.02,21:01:53,stichchess,Mlodziak77,1450,1508,60+0,D02,Queen's Pawn Game: Chigorin Variation,43,Time forfeit,0-1,1,False,False,https://lichess.org/cMKde2dU
+67,2021.06.01,11:39:44,beastking77,Mlodziak77,1500,1517,60+0,C42,Russian Game: Stafford Gambit,43,Time forfeit,1-0,0,False,False,https://lichess.org/m58M5lI9
+68,2021.06.01,11:34:56,itoiz,Mlodziak77,1518,1526,60+0,C42,Russian Game,9,Resign,0-1,1,False,False,https://lichess.org/P007e7EY
+69,2021.06.01,11:32:44,patrickch,Mlodziak77,1527,1516,60+0,A51,Indian Defense: Budapest Defense,30,Time forfeit,0-1,1,False,False,https://lichess.org/ie4DlGQn
+70,2021.06.01,11:26:44,danfjd,Mlodziak77,1532,1515,60+0,A51,Indian Defense: Budapest Defense,33,Time forfeit,1-0,0,False,False,https://lichess.org/EMjc4mxc
+71,2021.06.01,11:23:10,molchun3,Mlodziak77,1474,1495,60+0,C55,Italian Game: Two Knights Defense,25,Time forfeit,0-1,1,False,False,https://lichess.org/yqDJLtj1
+72,2021.06.01,11:18:09,johann1832,Mlodziak77,1499,1487,60+0,A52,Indian Defense: Budapest Defense,18,Resign,1-0,0,False,False,https://lichess.org/anl4yu3V
+73,2021.05.22,13:42:21,DANIMARchees,Mlodziak77,1483,1497,60+0,C22,Center Game: Paulsen Attack Variation,28,Time forfeit,1-0,0,False,False,https://lichess.org/mIC0k02e
+74,2021.05.22,12:45:42,xAnmolx12,Mlodziak77,1492,1497,60+0,A51,Indian Defense: Budapest Defense,43,Time forfeit,0-1,1,False,False,https://lichess.org/slW6ESw8
+75,2021.05.22,12:41:38,endgame_sadeness,Mlodziak77,1478,1473,60+0,A45,Indian Defense,31,Checkmate,0-1,1,False,False,https://lichess.org/ICXxakF8
+76,2021.05.22,12:37:35,doctorbrume,Mlodziak77,1502,1498,60+0,A40,Englund Gambit Complex: Englund Gambit,39,Time forfeit,1-0,0,False,False,https://lichess.org/t9eTdDy8
+77,2021.05.22,12:33:08,Jeherila,Mlodziak77,1443,1499,60+0,C24,Bishop's Opening: Berlin Defense,41,Time forfeit,0-1,1,False,False,https://lichess.org/8nFgkuXm
+78,2021.05.07,11:54:14,ascholl17,Mlodziak77,1480,1471,60+0,C27,Bishop's Opening: Boden-Kieseritzky Gambit,29,Time forfeit,0-1,1,False,False,https://lichess.org/5dm5tZWI
+79,2021.05.02,20:50:40,mecdoce,Mlodziak77,1536,1481,60+0,D02,Queen's Pawn Game: Zukertort Variation,28,Time forfeit,1-0,0,True,False,https://lichess.org/6cdNl1uY
+80,2021.04.13,15:54:15,jdtrumpet,Mlodziak77,1471,1493,60+0,D08,"Queen's Gambit Declined: Albin Countergambit, Lasker Trap",18,Resign,1-0,0,False,False,https://lichess.org/avy5Sd4R
+81,2021.04.03,16:41:24,hllsahin,Mlodziak77,1449,1496,60+0,B06,Modern Defense,33,Time forfeit,1-0,0,False,False,https://lichess.org/hTFrCH0Q
+82,2021.04.03,13:02:36,vicvicslim,Mlodziak77,1466,1486,60+0,B00,Owen Defense,42,Time forfeit,0-1,1,False,False,https://lichess.org/rL57kDJB
+83,2021.03.27,21:31:17,User8998,Mlodziak77,1492,1487,60+0,C24,Bishop's Opening: Berlin Defense,57,Time forfeit,0-1,1,False,False,https://lichess.org/9k7bcg3T
+84,2021.03.22,21:36:59,jmarie,Mlodziak77,1521,1517,60+0,C42,Russian Game,50,Time forfeit,1-0,0,False,False,https://lichess.org/qw4GnKlQ
+85,2021.03.22,21:33:51,jmarie,Mlodziak77,1521,1516,60+0,B00,Goldsmith Defense,17,Checkmate,0-1,1,False,False,https://lichess.org/8ZtLZdgu
+86,2021.03.22,21:30:06,jmarie,Mlodziak77,1521,1516,60+0,A00,Mieses Opening: Reversed Rat,32,Time forfeit,1-0,0,False,False,https://lichess.org/BaRfHf5F
+87,2021.03.22,21:25:52,good4090,Mlodziak77,1544,1541,60+0,A05,King's Indian Attack: Symmetrical Defense,23,Time forfeit,1-0,0,False,False,https://lichess.org/BKBE3q2U
+88,2021.03.22,17:32:47,giorgiogiuseppe,Mlodziak77,1529,1542,60+0,C42,Russian Game: Stafford Gambit,31,Time forfeit,1-0,0,False,False,https://lichess.org/Q2QrwVhb
+89,2021.03.22,17:32:03,doting_atom4,Mlodziak77,1483,1530,60+0,A00,Englund Gambit Declined: Reversed French,10,Resign,0-1,1,False,False,https://lichess.org/YVdG3ovZ
+90,2021.03.21,15:25:55,sadhurangam,Mlodziak77,1605,1541,60+0,D00,Queen's Pawn Game: Levitsky Attack,46,Time forfeit,1-0,0,False,False,https://lichess.org/xIQu8w68
+91,2021.03.16,18:10:59,ketencie,Mlodziak77,1552,1556,60+0,D02,Queen's Pawn Game: Zukertort Variation,26,Time forfeit,1-0,0,False,False,https://lichess.org/O04QIMT4
+92,2021.03.14,13:20:34,RichardLoewenherz,Mlodziak77,1561,1554,60+0,D00,Queen's Pawn Game,42,Checkmate,0-1,1,False,False,https://lichess.org/dAeyvj12
+93,2021.03.14,13:18:17,pouryafard75,Mlodziak77,1596,1568,60+0,A06,Zukertort Opening: Old Indian Attack,44,Time forfeit,1-0,0,False,False,https://lichess.org/wfJPUPGC
+94,2021.03.14,13:12:47,rachfan,Mlodziak77,1625,1589,60+0,B01,Scandinavian Defense: Modern Variation,22,Resign,1-0,0,False,False,https://lichess.org/Kahwre5X
+95,2021.03.13,14:02:54,Arife7209,Mlodziak77,1554,1570,60+0,A06,Zukertort Opening: Tennison Gambit,33,Resign,0-1,1,False,False,https://lichess.org/ZoYiWB9F
+96,2021.03.09,21:02:45,Yalinnn,Mlodziak77,1636,1608,60+0,A20,English Opening: King's English Variation,33,Time forfeit,1-0,0,False,False,https://lichess.org/FlMqDQGz
+97,2021.03.09,19:57:06,AzzamMonster,Mlodziak77,1648,1581,60+0,B01,Scandinavian Defense: Modern Variation,30,Checkmate,0-1,1,True,False,https://lichess.org/ysonPdfg
+98,2021.03.08,00:22:43,calipal,Mlodziak77,1518,1583,60+0,A06,Zukertort Opening: Tennison Gambit,19,Checkmate,0-1,1,False,False,https://lichess.org/JlhiC5VZ
+99,2021.03.02,20:33:19,TeamErz,Mlodziak77,1663,1637,60+0,B01,Scandinavian Defense: Modern Variation,32,Time forfeit,1-0,0,False,False,https://lichess.org/IU2rH639
+100,2021.03.02,20:18:24,umut_rex,Mlodziak77,1620,1549,60+0,D00,Queen's Pawn Game: Mason Variation,30,Time forfeit,0-1,1,True,False,https://lichess.org/eTOghWVo
+101,2021.03.02,20:04:37,MlgLeprechaun69,Mlodziak77,1479,1451,60+0,B01,Scandinavian Defense: Modern Variation,10,Resign,0-1,1,False,False,https://lichess.org/04TL7nsi
+102,2021.01.25,20:30:56,tillertill,Mlodziak77,1444,1423,120+1,C20,King's Pawn Game: King's Head Opening,10,Resign,0-1,1,False,True,https://lichess.org/iKzNW6Cf
+103,2021.01.25,20:26:59,Dzigli,Mlodziak77,1499,1507,120+1,A40,Englund Gambit,40,Resign,1-0,0,False,True,https://lichess.org/kBmPpsMG
+104,2021.01.22,23:17:46,substancep,Mlodziak77,1865,1749,60+0,B10,Caro-Kann Defense,24,Time forfeit,1-0,0,False,False,https://lichess.org/cNuE75vS
+105,2021.01.20,22:12:57,Louvid,Mlodziak77,1515,1500,60+0,B12,Caro-Kann Defense: Advance Variation,11,Resign,0-1,1,False,False,https://lichess.org/9S1GUwLC
