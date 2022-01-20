@@ -1,0 +1,4425 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519321629,
+        "longitudeE7" : 219723499,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519638504,
+        "longitudeE7" : 219678965,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1612969657007",
+        "endTimestampMs" : "1612975469758"
+      },
+      "distance" : 3540,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 87.32436299324036
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.713097542524338
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.2859370335936546
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.1908624097704887
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.7221713662147522
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.2800494199618697
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.17671711975708604
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.13184300623834133
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.07601442630402744
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.05471108597703278
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0327482441207394
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006270228914218023
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.003760296749533154
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0014431621821131557
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.125282755864987E-7
+      } ],
+      "parkingEvent" : {
+        "timestampMs" : "1612975447493",
+        "location" : {
+          "latitudeE7" : 519638386,
+          "longitudeE7" : 219680165,
+          "accuracyMetres" : 87
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519639164,
+        "longitudeE7" : 219675890,
+        "placeId" : "ChIJIQdwN1iyGEcRb5WKz2F_aKg",
+        "address" : "Piłsudskiego 2\n21-450 Stoczek Łukowski\nPolska",
+        "name" : "Ochotnicza Straż Pożarna w Stoczku Łukowskim",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 25.87797
+      },
+      "duration" : {
+        "startTimestampMs" : "1612975469758",
+        "endTimestampMs" : "1612975981189"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 519637775,
+      "centerLngE7" : 219679925,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519640830,
+        "longitudeE7" : 219679780,
+        "placeId" : "ChIJD8ZxN1iyGEcRGUuzw6ztolM",
+        "locationConfidence" : 19.743963
+      }, {
+        "latitudeE7" : 519640845,
+        "longitudeE7" : 219681731,
+        "placeId" : "ChIJZfjkgZmzGEcRTdH_FGhTYfE",
+        "locationConfidence" : 16.883247
+      }, {
+        "latitudeE7" : 519620581,
+        "longitudeE7" : 219693407,
+        "placeId" : "ChIJH_8IOViyGEcRYxdcjzYVx2I",
+        "locationConfidence" : 9.385237
+      }, {
+        "latitudeE7" : 519635023,
+        "longitudeE7" : 219683730,
+        "placeId" : "ChIJRdQPSliyGEcRHoqpyf5kPw0",
+        "locationConfidence" : 9.187425
+      }, {
+        "latitudeE7" : 519631000,
+        "longitudeE7" : 219698796,
+        "placeId" : "ChIJ5ZpzVFiyGEcRxmudgWXSnZY",
+        "locationConfidence" : 6.075184
+      }, {
+        "latitudeE7" : 519648297,
+        "longitudeE7" : 219670160,
+        "placeId" : "ChIJ4zJ-IViyGEcRB4smIQr1yPI",
+        "locationConfidence" : 4.688929
+      }, {
+        "latitudeE7" : 519638528,
+        "longitudeE7" : 219674548,
+        "placeId" : "ChIJB9mGRliyGEcRybxaiuDYak0",
+        "locationConfidence" : 4.145892
+      }, {
+        "latitudeE7" : 519613694,
+        "longitudeE7" : 219668978,
+        "placeId" : "ChIJj6L7jVmyGEcRsatddph3t2E",
+        "locationConfidence" : 2.3054743
+      }, {
+        "latitudeE7" : 519634161,
+        "longitudeE7" : 219675661,
+        "placeId" : "ChIJvTDhjquzGEcRJJlFCt4T1Is",
+        "locationConfidence" : 1.7066779
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519637918,
+        "longitudeE7" : 219679321,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324620,
+        "longitudeE7" : 223828432,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1612975981189",
+        "endTimestampMs" : "1612978575210"
+      },
+      "distance" : 28798,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 92.0765221118927
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.837580256164074
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.8028881177306175
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.9939747862517834
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.6796246860176325
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.31989284325391054
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.10023533832281828
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0950920395553112
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.047038894263096154
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.015478632121812552
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.01207913737744093
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.00922375256777741
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.006507615034934133
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0038617639802396297
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.818117517122687E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519637718,
+          "lngE7" : 219680366
+        }, {
+          "latE7" : 519253120,
+          "lngE7" : 223649463
+        }, {
+          "latE7" : 519324455,
+          "lngE7" : 223832874
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1612978991837",
+        "location" : {
+          "latitudeE7" : 519324585,
+          "longitudeE7" : 223826638,
+          "accuracyMetres" : 105
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 42.520557
+      },
+      "duration" : {
+        "startTimestampMs" : "1612978575210",
+        "endTimestampMs" : "1612979442968"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 519324443,
+      "centerLngE7" : 223827457,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 27.466341
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 18.606773
+      }, {
+        "latitudeE7" : 519305890,
+        "longitudeE7" : 223822980,
+        "placeId" : "ChIJu5uFx1__IUcR21wNkSgrq-s",
+        "locationConfidence" : 3.3249152
+      }, {
+        "latitudeE7" : 519330800,
+        "longitudeE7" : 223830074,
+        "placeId" : "ChIJowe_G17_IUcRMUK9TmVhSwA",
+        "locationConfidence" : 0.8119452
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519323843,
+        "longitudeE7" : 223830399,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324877,
+        "longitudeE7" : 223832814,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1612979442968",
+        "endTimestampMs" : "1612988233468"
+      },
+      "distance" : 2667,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 81.37999773025513
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 12.08992674946785
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.133581578731537
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.729164645075798
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.8441532962024212
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.3808419918641448
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.13677760725840926
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.09479355067014694
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.07139634108170867
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.047788527444936335
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.047068006824702024
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.020397373009473085
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.013902431237511337
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.010179951641475782
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.6517457740737882E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519324874,
+          "lngE7" : 223830947
+        }, {
+          "latE7" : 519325637,
+          "lngE7" : 223827438
+        }, {
+          "latE7" : 519331550,
+          "lngE7" : 223836708
+        }, {
+          "latE7" : 519272041,
+          "lngE7" : 223829631
+        }, {
+          "latE7" : 519263954,
+          "lngE7" : 223831634
+        }, {
+          "latE7" : 519264717,
+          "lngE7" : 223819713
+        }, {
+          "latE7" : 519270362,
+          "lngE7" : 223766994
+        }, {
+          "latE7" : 519278755,
+          "lngE7" : 223799343
+        }, {
+          "latE7" : 519304885,
+          "lngE7" : 223818302
+        }, {
+          "latE7" : 519305534,
+          "lngE7" : 223812618
+        }, {
+          "latE7" : 519320449,
+          "lngE7" : 223798294
+        }, {
+          "latE7" : 519320640,
+          "lngE7" : 223820629
+        }, {
+          "latE7" : 519324836,
+          "lngE7" : 223832664
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519331932,
+          "lngE7" : 223836040,
+          "timestampMs" : "1612981176691",
+          "accuracyMeters" : 56
+        }, {
+          "latE7" : 519264984,
+          "lngE7" : 223832550,
+          "timestampMs" : "1612983123313",
+          "accuracyMeters" : 29
+        }, {
+          "latE7" : 519269638,
+          "lngE7" : 223760929,
+          "timestampMs" : "1612984326791",
+          "accuracyMeters" : 69
+        }, {
+          "latE7" : 519306259,
+          "lngE7" : 223818665,
+          "timestampMs" : "1612986292342",
+          "accuracyMeters" : 38
+        }, {
+          "latE7" : 519319000,
+          "lngE7" : 223796692,
+          "timestampMs" : "1612986815000",
+          "accuracyMeters" : 11
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 41.187965
+      },
+      "duration" : {
+        "startTimestampMs" : "1612988233468",
+        "endTimestampMs" : "1613070334145"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519324235,
+      "centerLngE7" : 223827861,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 30.371506
+      }, {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 24.778913
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 0.8751028
+      }, {
+        "latitudeE7" : 519334879,
+        "longitudeE7" : 223839992,
+        "placeId" : "ChIJZ-zQCF7_IUcRB-xE_Dt-uGw",
+        "locationConfidence" : 0.8060409
+      }, {
+        "latitudeE7" : 519305890,
+        "longitudeE7" : 223822980,
+        "placeId" : "ChIJu5uFx1__IUcR21wNkSgrq-s",
+        "locationConfidence" : 0.5105556
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519324025,
+        "longitudeE7" : 223829889,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519275026,
+        "longitudeE7" : 223781301,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613070334145",
+        "endTimestampMs" : "1613073507364"
+      },
+      "distance" : 1391,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 52.56252884864807
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 37.41367757320404
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 5.822615697979927
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.8405718728899956
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.9741714224219322
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.5973156541585922
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.25461907498538494
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.2539623063057661
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.18800987163558602
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.044079378130845726
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.017771580314729363
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.01479863713029772
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.011236584396101534
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.004588203955790959
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.565843821386807E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519324455,
+          "lngE7" : 223832874
+        }, {
+          "latE7" : 519332122,
+          "lngE7" : 223871974
+        }, {
+          "latE7" : 519338073,
+          "lngE7" : 223883743
+        }, {
+          "latE7" : 519340209,
+          "lngE7" : 223887233
+        }, {
+          "latE7" : 519278335,
+          "lngE7" : 223781280
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519338608,
+          "lngE7" : 223881969,
+          "timestampMs" : "1613071931000",
+          "accuracyMeters" : 5
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1613073507364",
+        "location" : {
+          "latitudeE7" : 519275026,
+          "longitudeE7" : 223781301,
+          "accuracyMetres" : 160,
+          "sourceInfo" : {
+            "deviceTag" : 1279789313
+          }
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519266727,
+        "longitudeE7" : 223767203,
+        "placeId" : "ChIJv_k_Kt4BIkcR4bKbUbm81Ac",
+        "address" : "Warszawska 20\n21-400 Łuków\nPolska",
+        "name" : "Kebabownia Dubaj",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 79.291
+      },
+      "duration" : {
+        "startTimestampMs" : "1613073507364",
+        "endTimestampMs" : "1613078355706"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519269080,
+      "centerLngE7" : 223770840,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519267863,
+        "longitudeE7" : 223764977,
+        "placeId" : "ChIJa4YO0eEBIkcRWiEz-nMCqtY",
+        "locationConfidence" : 6.740614
+      }, {
+        "latitudeE7" : 519266700,
+        "longitudeE7" : 223768400,
+        "placeId" : "ChIJJzBeQL8BIkcRZCFztKIR80A",
+        "locationConfidence" : 4.5283666
+      }, {
+        "latitudeE7" : 519273975,
+        "longitudeE7" : 223768465,
+        "placeId" : "ChIJp5EJzN8BIkcR6TUfGl6L2iA",
+        "locationConfidence" : 4.2312465
+      }, {
+        "latitudeE7" : 519265001,
+        "longitudeE7" : 223763598,
+        "placeId" : "ChIJmw0wbeABIkcRZK66O-4-xVc",
+        "locationConfidence" : 2.758592
+      }, {
+        "latitudeE7" : 519259455,
+        "longitudeE7" : 223795683,
+        "placeId" : "ChIJMTai-eABIkcR5uOpdjNdyzQ",
+        "locationConfidence" : 0.70489186
+      }, {
+        "latitudeE7" : 519272246,
+        "longitudeE7" : 223762050,
+        "placeId" : "ChIJr5EJzN8BIkcRBuaUFfHmEhY",
+        "locationConfidence" : 0.5768525
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519267670,
+        "longitudeE7" : 223768032,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519365705,
+        "longitudeE7" : 223768634,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613078355706",
+        "endTimestampMs" : "1613079218226"
+      },
+      "distance" : 2026,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 69.6762204170227
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 20.391172170639038
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 7.779912650585175
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.8594363927841187
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.49563893117010593
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.38989363238215446
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.21866317838430405
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.08230742532759905
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.07136498461477458
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.012801357661373913
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.008600750152254477
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.007501376967411488
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.004424837970873341
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.002062710154859815
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.051908757991441E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519267845,
+          "lngE7" : 223768272
+        }, {
+          "latE7" : 519332122,
+          "lngE7" : 223871974
+        }, {
+          "latE7" : 519352569,
+          "lngE7" : 223883419
+        }, {
+          "latE7" : 519386901,
+          "lngE7" : 223841972
+        }, {
+          "latE7" : 519367065,
+          "lngE7" : 223768348
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519352112,
+          "lngE7" : 223879108,
+          "timestampMs" : "1613078528688",
+          "accuracyMeters" : 50
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1613079479426",
+        "location" : {
+          "latitudeE7" : 519361010,
+          "longitudeE7" : 223827085,
+          "accuracyMetres" : 152
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519369360,
+        "longitudeE7" : 223767709,
+        "placeId" : "ChIJ41c4J2T_IUcRFpU-Z-84Ezs",
+        "address" : "Siedlecka 21\n21-400 Łuków\nPolska",
+        "name" : "Petrol Station ORLEN",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 75.1216
+      },
+      "duration" : {
+        "startTimestampMs" : "1613079218226",
+        "endTimestampMs" : "1613080806013"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519372175,
+      "centerLngE7" : 223772100,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519383733,
+        "longitudeE7" : 223803681,
+        "placeId" : "ChIJG6kpQmb_IUcRimmArFvAx3Q",
+        "locationConfidence" : 10.345629
+      }, {
+        "latitudeE7" : 519390020,
+        "longitudeE7" : 223770580,
+        "placeId" : "ChIJdTUBdQL_IUcRa9yK98VOoDA",
+        "locationConfidence" : 8.728294
+      }, {
+        "latitudeE7" : 519371493,
+        "longitudeE7" : 223766019,
+        "placeId" : "ChIJedi0mGb_IUcR1FmMsFx41NA",
+        "locationConfidence" : 0.91913164
+      }, {
+        "latitudeE7" : 519385649,
+        "longitudeE7" : 223841869,
+        "semanticType" : "TYPE_WORK",
+        "locationConfidence" : 0.70875764
+      }, {
+        "latitudeE7" : 519385700,
+        "longitudeE7" : 223803500,
+        "placeId" : "ChIJWelnV83_IUcRrF2HcPliHNE",
+        "locationConfidence" : 0.46418804
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519372200,
+        "longitudeE7" : 223773608,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324424,
+        "longitudeE7" : 223827390,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613080806013",
+        "endTimestampMs" : "1613081851485"
+      },
+      "distance" : 646,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 56.521666049957275
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 30.940258502960205
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 9.975432604551315
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.4190097339451313
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.4234644118696451
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.3770161420106888
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.21857009269297123
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.05985659663565457
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.030627174419350922
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.010140277299797162
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.00916908829822205
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0071439717430621386
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0041000908822752535
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0035430410207482055
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.2618657996863476E-6
+      } ],
+      "parkingEvent" : {
+        "timestampMs" : "1613081991977",
+        "location" : {
+          "latitudeE7" : 519323828,
+          "longitudeE7" : 223829909,
+          "accuracyMetres" : 86
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 44.75761
+      },
+      "duration" : {
+        "startTimestampMs" : "1613081851485",
+        "endTimestampMs" : "1613119688000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519323710,
+      "centerLngE7" : 223827445,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 22.259384
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 21.231796
+      }, {
+        "latitudeE7" : 519304500,
+        "longitudeE7" : 223809850,
+        "placeId" : "ChIJyZzj3F__IUcRSmLOAWy135A",
+        "locationConfidence" : 4.26194
+      }, {
+        "latitudeE7" : 519331395,
+        "longitudeE7" : 223812177,
+        "placeId" : "ChIJvQwbvGD_IUcROJVSfahpaNs",
+        "address" : "Osiedle Bronisława Chącińskiego 1A\n21-400 pawilon\nPolska",
+        "name" : "Studio Fryzur AGNES Agnieszka Olejniczak",
+        "locationConfidence" : 3.2749135
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 1.05895
+      }, {
+        "latitudeE7" : 519305890,
+        "longitudeE7" : 223822980,
+        "placeId" : "ChIJu5uFx1__IUcR21wNkSgrq-s",
+        "locationConfidence" : 1.0018888
+      }, {
+        "latitudeE7" : 519334879,
+        "longitudeE7" : 223839992,
+        "placeId" : "ChIJZ-zQCF7_IUcRB-xE_Dt-uGw",
+        "locationConfidence" : 0.750901
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519324327,
+        "longitudeE7" : 223828780,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519332477,
+        "longitudeE7" : 223807048,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613119688000",
+        "endTimestampMs" : "1613120009790"
+      },
+      "distance" : 174,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 84.29641127586365
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 12.671934068202972
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.2407910078763962
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.129901222884655
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.2615202683955431
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.20487415604293346
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.09054708643816411
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04927690024487674
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.015920611622277647
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.012822127609979361
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0102879355836194
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.008425219857599586
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0044994623749516904
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0027836176741402596
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.096609025807993E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519325218,
+          "lngE7" : 223829250
+        }, {
+          "latE7" : 519328575,
+          "lngE7" : 223816108
+        }, {
+          "latE7" : 519332199,
+          "lngE7" : 223807220
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519331395,
+        "longitudeE7" : 223812177,
+        "placeId" : "ChIJvQwbvGD_IUcROJVSfahpaNs",
+        "address" : "Osiedle Bronisława Chącińskiego 1A\n21-400 pawilon\nPolska",
+        "name" : "Studio Fryzur AGNES Agnieszka Olejniczak",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 96.45403
+      },
+      "duration" : {
+        "startTimestampMs" : "1613120009790",
+        "endTimestampMs" : "1613124993400"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 519331320,
+      "centerLngE7" : 223807820,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 1.3804
+      }, {
+        "latitudeE7" : 519304500,
+        "longitudeE7" : 223809850,
+        "placeId" : "ChIJyZzj3F__IUcRSmLOAWy135A",
+        "locationConfidence" : 0.3658837
+      }, {
+        "latitudeE7" : 519331352,
+        "longitudeE7" : 223811465,
+        "placeId" : "ChIJGaeNM-ABIkcROZ4Ro7Z9_1Y",
+        "locationConfidence" : 0.34559363
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 0.289451
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519327636,
+        "longitudeE7" : 223803834,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324139,
+        "longitudeE7" : 223828507,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613124993400",
+        "endTimestampMs" : "1613134250074"
+      },
+      "distance" : 365,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 57.725220918655396
+      }, {
+        "activityType" : "STILL",
+        "probability" : 23.53390008211136
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 17.404505610466003
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.5586873274296522
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.5392271094024181
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.07555907941423357
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.05780723877251148
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.046950249816291034
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.021282219677232206
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.013319721620064229
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.007819347229087725
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.007706642645644024
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.006705515261273831
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0013126795238349587
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 9.433645864476148E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519328384,
+          "lngE7" : 223802146
+        }, {
+          "latE7" : 519325637,
+          "lngE7" : 223827438
+        }, {
+          "latE7" : 519325256,
+          "lngE7" : 223829116
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519324139,
+        "longitudeE7" : 223828507,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 512694158,
+        "longitudeE7" : 225780340,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613134250074",
+        "endTimestampMs" : "1613142591672"
+      },
+      "distance" : 78549,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 80.48431873321533
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 13.385950028896332
+      }, {
+        "activityType" : "STILL",
+        "probability" : 4.64746467769146
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.588087784126401
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.2941362326964736
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.26210001669824123
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.1420905697159469
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0747505808249116
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.05139862187206745
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.029413949232548475
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.018398548127152026
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.011329655535519123
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0069580266426783055
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.003592462235246785
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.7084164483094355E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519324455,
+          "lngE7" : 223832874
+        }, {
+          "latE7" : 519338951,
+          "lngE7" : 223888702
+        }, {
+          "latE7" : 519343414,
+          "lngE7" : 223878993
+        }, {
+          "latE7" : 519157867,
+          "lngE7" : 223781661
+        }, {
+          "latE7" : 518750762,
+          "lngE7" : 223494510
+        }, {
+          "latE7" : 515627174,
+          "lngE7" : 225030860
+        }, {
+          "latE7" : 514797859,
+          "lngE7" : 225920772
+        }, {
+          "latE7" : 514720649,
+          "lngE7" : 226062221
+        }, {
+          "latE7" : 514716796,
+          "lngE7" : 226064071
+        }, {
+          "latE7" : 514358558,
+          "lngE7" : 226247425
+        }, {
+          "latE7" : 512696266,
+          "lngE7" : 225779628
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519342842,
+          "lngE7" : 223878403,
+          "timestampMs" : "1613135277190",
+          "accuracyMeters" : 92
+        }, {
+          "latE7" : 518750687,
+          "lngE7" : 223495560,
+          "timestampMs" : "1613136141728",
+          "accuracyMeters" : 36
+        }, {
+          "latE7" : 514798660,
+          "lngE7" : 225922585,
+          "timestampMs" : "1613139036781",
+          "accuracyMeters" : 72
+        }, {
+          "latE7" : 514717064,
+          "lngE7" : 226068592,
+          "timestampMs" : "1613139158063",
+          "accuracyMeters" : 23
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1613142716366",
+        "location" : {
+          "latitudeE7" : 512694257,
+          "longitudeE7" : 225780444,
+          "accuracyMetres" : 75
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 512693726,
+        "longitudeE7" : 225772969,
+        "placeId" : "ChIJUxKjyLJQIkcRM3v3lKzg9Ps",
+        "address" : "Bazylianówka 58\n20-144 Lublin\nPolska",
+        "name" : "Apteka CURATE",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 39.422924
+      },
+      "duration" : {
+        "startTimestampMs" : "1613142591672",
+        "endTimestampMs" : "1613143379310"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 512694100,
+      "centerLngE7" : 225780340,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 512695049,
+        "longitudeE7" : 225779779,
+        "placeId" : "ChIJpSUR27JQIkcRGVS4cZTcZE8",
+        "locationConfidence" : 11.391199
+      }, {
+        "latitudeE7" : 512701730,
+        "longitudeE7" : 225819070,
+        "placeId" : "ChIJRa6qdLNQIkcRxfvUUT-fl2Q",
+        "locationConfidence" : 5.911867
+      }, {
+        "latitudeE7" : 512691359,
+        "longitudeE7" : 225771489,
+        "placeId" : "ChIJAfz5qlJXIkcRoP_OuAiHuDE",
+        "locationConfidence" : 4.540277
+      }, {
+        "latitudeE7" : 512697692,
+        "longitudeE7" : 225778404,
+        "placeId" : "ChIJJwHMw7JQIkcRhmNM6vDdJw4",
+        "address" : "4\nStanisława Węglarza\n20-147 Lublin\nPolska",
+        "name" : "Jednostka Ratowniczo-Gaśnicza nr. 4",
+        "locationConfidence" : 3.580922
+      }, {
+        "latitudeE7" : 512695049,
+        "longitudeE7" : 225779779,
+        "placeId" : "ChIJpSUR27JQIkcRUFFPUL6nfxU",
+        "locationConfidence" : 3.1694014
+      }, {
+        "latitudeE7" : 512692367,
+        "longitudeE7" : 225772455,
+        "placeId" : "ChIJ5QL7thhXIkcR7ZWyJXLUmX4",
+        "locationConfidence" : 2.5025082
+      }, {
+        "latitudeE7" : 512689329,
+        "longitudeE7" : 225740040,
+        "placeId" : "ChIJNchyU61QIkcRx66h0qoiGHw",
+        "locationConfidence" : 1.6446086
+      }, {
+        "latitudeE7" : 512702137,
+        "longitudeE7" : 225791181,
+        "placeId" : "ChIJ59hEnK1RIkcRwt3afyOtVz4",
+        "locationConfidence" : 1.2575505
+      }, {
+        "latitudeE7" : 512694571,
+        "longitudeE7" : 225770773,
+        "placeId" : "ChIJkSdJybJQIkcRq17UnBbAc3A",
+        "locationConfidence" : 0.9310699
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 512694172,
+        "longitudeE7" : 225780353,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 512694057,
+        "longitudeE7" : 225780536,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613143379310",
+        "endTimestampMs" : "1613148815359"
+      },
+      "distance" : 8314,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 88.80985975265503
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.852863311767578
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.2928025797009468
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3872876986861229
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.32739758025854826
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.13144121039658785
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0981936464086175
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04723906167782843
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.027377918013371527
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.008493677887599915
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006298325752140954
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.005403317118179984
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.00473563268315047
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 6.024003141646972E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.132500037139607E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 512696266,
+          "lngE7" : 225779647
+        }, {
+          "latE7" : 512396697,
+          "lngE7" : 225924797
+        }, {
+          "latE7" : 512355194,
+          "lngE7" : 225954570
+        }, {
+          "latE7" : 512396278,
+          "lngE7" : 225927162
+        }, {
+          "latE7" : 512696266,
+          "lngE7" : 225779781
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 512353783,
+          "lngE7" : 225957298,
+          "timestampMs" : "1613146126653",
+          "accuracyMeters" : 51
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1613149353349",
+        "location" : {
+          "latitudeE7" : 512694123,
+          "longitudeE7" : 225780384,
+          "accuracyMetres" : 76
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 512693726,
+        "longitudeE7" : 225772969,
+        "placeId" : "ChIJUxKjyLJQIkcRM3v3lKzg9Ps",
+        "address" : "Bazylianówka 58\n20-144 Lublin\nPolska",
+        "name" : "Apteka CURATE",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 30.91208
+      },
+      "duration" : {
+        "startTimestampMs" : "1613148815359",
+        "endTimestampMs" : "1613202117220"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 512693871,
+      "centerLngE7" : 225780490,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 512697692,
+        "longitudeE7" : 225778404,
+        "placeId" : "ChIJJwHMw7JQIkcRhmNM6vDdJw4",
+        "address" : "4\nStanisława Węglarza\n20-147 Lublin\nPolska",
+        "name" : "Jednostka Ratowniczo-Gaśnicza nr. 4",
+        "locationConfidence" : 12.512861
+      }, {
+        "latitudeE7" : 512695049,
+        "longitudeE7" : 225779779,
+        "placeId" : "ChIJpSUR27JQIkcRGVS4cZTcZE8",
+        "locationConfidence" : 11.322906
+      }, {
+        "latitudeE7" : 512692367,
+        "longitudeE7" : 225772455,
+        "placeId" : "ChIJ5QL7thhXIkcR7ZWyJXLUmX4",
+        "locationConfidence" : 10.643442
+      }, {
+        "latitudeE7" : 512691359,
+        "longitudeE7" : 225771489,
+        "placeId" : "ChIJAfz5qlJXIkcRoP_OuAiHuDE",
+        "locationConfidence" : 9.976166
+      }, {
+        "latitudeE7" : 512689329,
+        "longitudeE7" : 225740040,
+        "placeId" : "ChIJNchyU61QIkcRx66h0qoiGHw",
+        "locationConfidence" : 8.084512
+      }, {
+        "latitudeE7" : 512695049,
+        "longitudeE7" : 225779779,
+        "placeId" : "ChIJpSUR27JQIkcRUFFPUL6nfxU",
+        "locationConfidence" : 4.520746
+      }, {
+        "latitudeE7" : 512702137,
+        "longitudeE7" : 225791181,
+        "placeId" : "ChIJ59hEnK1RIkcRwt3afyOtVz4",
+        "locationConfidence" : 3.6445954
+      }, {
+        "latitudeE7" : 512701730,
+        "longitudeE7" : 225819070,
+        "placeId" : "ChIJRa6qdLNQIkcRxfvUUT-fl2Q",
+        "locationConfidence" : 2.9126153
+      }, {
+        "latitudeE7" : 512697667,
+        "longitudeE7" : 225783700,
+        "placeId" : "ChIJu4Y43bJQIkcR2WCH9h6GPSo",
+        "locationConfidence" : 1.984079
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 512697692,
+        "longitudeE7" : 225778404,
+        "placeId" : "ChIJJwHMw7JQIkcRhmNM6vDdJw4",
+        "address" : "4\nStanisława Węglarza\n20-147 Lublin\nPolska",
+        "name" : "Jednostka Ratowniczo-Gaśnicza nr. 4",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 28.61729
+      },
+      "duration" : {
+        "startTimestampMs" : "1613202117220",
+        "endTimestampMs" : "1613209961828"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 512694181,
+      "centerLngE7" : 225778963,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 512693926,
+        "longitudeE7" : 225772275,
+        "placeId" : "ChIJM3KdyLJQIkcR4XTaIyJGx0I",
+        "locationConfidence" : 12.153777
+      }, {
+        "latitudeE7" : 512693726,
+        "longitudeE7" : 225772969,
+        "placeId" : "ChIJUxKjyLJQIkcRM3v3lKzg9Ps",
+        "address" : "Bazylianówka 58\n20-144 Lublin\nPolska",
+        "name" : "Apteka CURATE",
+        "locationConfidence" : 7.78113
+      }, {
+        "latitudeE7" : 512692367,
+        "longitudeE7" : 225772455,
+        "placeId" : "ChIJ5QL7thhXIkcR7ZWyJXLUmX4",
+        "locationConfidence" : 5.3819647
+      }, {
+        "latitudeE7" : 512691359,
+        "longitudeE7" : 225771489,
+        "placeId" : "ChIJAfz5qlJXIkcRoP_OuAiHuDE",
+        "locationConfidence" : 4.496785
+      }, {
+        "latitudeE7" : 512702137,
+        "longitudeE7" : 225791181,
+        "placeId" : "ChIJ59hEnK1RIkcRwt3afyOtVz4",
+        "locationConfidence" : 1.8943594
+      }, {
+        "latitudeE7" : 512689329,
+        "longitudeE7" : 225740040,
+        "placeId" : "ChIJNchyU61QIkcRx66h0qoiGHw",
+        "locationConfidence" : 1.7498717
+      }, {
+        "latitudeE7" : 512682094,
+        "longitudeE7" : 225766304,
+        "placeId" : "ChIJW6f5xr9XIkcRbqX2-4D89dU",
+        "locationConfidence" : 1.2243199
+      }, {
+        "latitudeE7" : 512677270,
+        "longitudeE7" : 225774262,
+        "placeId" : "ChIJGcvb30xXIkcRjsJQRl14as8",
+        "locationConfidence" : 0.46004295
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 512693697,
+        "longitudeE7" : 225780709,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 512693851,
+        "longitudeE7" : 225780363,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613209961828",
+        "endTimestampMs" : "1613215100485"
+      },
+      "distance" : 2,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 61.53516173362732
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 20.120924711227417
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.538572907447815
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 2.9948795214295387
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 2.520233578979969
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.5102874264121056
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.8038244917988777
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.0201307013630867
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.5234301090240479
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.15225555980578065
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.1078482368029654
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.07752938545309007
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.06495639681816101
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.029965679277665913
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.457869534097881E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 512696266,
+          "lngE7" : 225779838
+        }, {
+          "latE7" : 512696266,
+          "lngE7" : 225779685
+        }, {
+          "latE7" : 512696228,
+          "lngE7" : 225779533
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1613215100486",
+        "location" : {
+          "latitudeE7" : 512693838,
+          "longitudeE7" : 225780360,
+          "accuracyMetres" : 78
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 512693726,
+        "longitudeE7" : 225772969,
+        "placeId" : "ChIJUxKjyLJQIkcRM3v3lKzg9Ps",
+        "address" : "Bazylianówka 58\n20-144 Lublin\nPolska",
+        "name" : "Apteka CURATE",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 22.689217
+      },
+      "duration" : {
+        "startTimestampMs" : "1613215100485",
+        "endTimestampMs" : "1613227682502"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 512694216,
+      "centerLngE7" : 225779800,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 512697692,
+        "longitudeE7" : 225778404,
+        "placeId" : "ChIJJwHMw7JQIkcRhmNM6vDdJw4",
+        "address" : "4\nStanisława Węglarza\n20-147 Lublin\nPolska",
+        "name" : "Jednostka Ratowniczo-Gaśnicza nr. 4",
+        "locationConfidence" : 15.372708
+      }, {
+        "latitudeE7" : 512691359,
+        "longitudeE7" : 225771489,
+        "placeId" : "ChIJAfz5qlJXIkcRoP_OuAiHuDE",
+        "locationConfidence" : 6.280504
+      }, {
+        "latitudeE7" : 512692367,
+        "longitudeE7" : 225772455,
+        "placeId" : "ChIJ5QL7thhXIkcR7ZWyJXLUmX4",
+        "locationConfidence" : 4.97736
+      }, {
+        "latitudeE7" : 512693926,
+        "longitudeE7" : 225772275,
+        "placeId" : "ChIJM3KdyLJQIkcR4XTaIyJGx0I",
+        "locationConfidence" : 2.8012028
+      }, {
+        "latitudeE7" : 512695049,
+        "longitudeE7" : 225779779,
+        "placeId" : "ChIJpSUR27JQIkcRGVS4cZTcZE8",
+        "locationConfidence" : 2.180275
+      }, {
+        "latitudeE7" : 512689329,
+        "longitudeE7" : 225740040,
+        "placeId" : "ChIJNchyU61QIkcRx66h0qoiGHw",
+        "locationConfidence" : 2.0949674
+      }, {
+        "latitudeE7" : 512702137,
+        "longitudeE7" : 225791181,
+        "placeId" : "ChIJ59hEnK1RIkcRwt3afyOtVz4",
+        "locationConfidence" : 1.611652
+      }, {
+        "latitudeE7" : 512695049,
+        "longitudeE7" : 225779779,
+        "placeId" : "ChIJpSUR27JQIkcRUFFPUL6nfxU",
+        "locationConfidence" : 1.2153765
+      }, {
+        "latitudeE7" : 512677270,
+        "longitudeE7" : 225774262,
+        "placeId" : "ChIJGcvb30xXIkcRjsJQRl14as8",
+        "locationConfidence" : 0.8237945
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 512699017,
+        "longitudeE7" : 225776340,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519322406,
+        "longitudeE7" : 223826778,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613227682502",
+        "endTimestampMs" : "1613244671000"
+      },
+      "distance" : 81118,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 82.24462866783142
+      }, {
+        "activityType" : "STILL",
+        "probability" : 11.21572032570839
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.010800063610077
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.46880822628736496
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.3332145279273391
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.24984346237033606
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.24642988573759794
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.07419536705128849
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.06507672369480133
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.054426450515165925
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.01830428809626028
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.010020274930866435
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0063217383285518736
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0021772319087176584
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.562207382401539E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 512698745,
+          "lngE7" : 225776786
+        }, {
+          "latE7" : 512525482,
+          "lngE7" : 225751667
+        }, {
+          "latE7" : 512498474,
+          "lngE7" : 225628166
+        }, {
+          "latE7" : 514361572,
+          "lngE7" : 226248893
+        }, {
+          "latE7" : 519348602,
+          "lngE7" : 223865966
+        }, {
+          "latE7" : 519332122,
+          "lngE7" : 223871974
+        }, {
+          "latE7" : 519324455,
+          "lngE7" : 223832874
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 512499390,
+          "lngE7" : 225630150,
+          "timestampMs" : "1613228237663",
+          "accuracyMeters" : 82
+        }, {
+          "latE7" : 519348869,
+          "lngE7" : 223866272,
+          "timestampMs" : "1613240179418",
+          "accuracyMeters" : 60
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1613244671000",
+        "location" : {
+          "latitudeE7" : 519322406,
+          "longitudeE7" : 223826778,
+          "accuracyMetres" : 81
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 52.521767
+      },
+      "duration" : {
+        "startTimestampMs" : "1613244671000",
+        "endTimestampMs" : "1613317555179"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519323567,
+      "centerLngE7" : 223827600,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 11.693301
+      }, {
+        "latitudeE7" : 519327705,
+        "longitudeE7" : 223869540,
+        "placeId" : "ChIJb-sUiF7_IUcRutEVjqZX1g8",
+        "locationConfidence" : 11.450047
+      }, {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 7.149437
+      }, {
+        "latitudeE7" : 519331395,
+        "longitudeE7" : 223812177,
+        "placeId" : "ChIJvQwbvGD_IUcROJVSfahpaNs",
+        "address" : "Osiedle Bronisława Chącińskiego 1A\n21-400 pawilon\nPolska",
+        "name" : "Studio Fryzur AGNES Agnieszka Olejniczak",
+        "locationConfidence" : 1.2100288
+      }, {
+        "latitudeE7" : 519334879,
+        "longitudeE7" : 223839992,
+        "placeId" : "ChIJZ-zQCF7_IUcRB-xE_Dt-uGw",
+        "locationConfidence" : 1.0424052
+      }, {
+        "latitudeE7" : 519304500,
+        "longitudeE7" : 223809850,
+        "placeId" : "ChIJyZzj3F__IUcRSmLOAWy135A",
+        "locationConfidence" : 0.5621445
+      }, {
+        "latitudeE7" : 519305890,
+        "longitudeE7" : 223822980,
+        "placeId" : "ChIJu5uFx1__IUcR21wNkSgrq-s",
+        "locationConfidence" : 0.47047105
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519324074,
+        "longitudeE7" : 223829597,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324493,
+        "longitudeE7" : 223826842,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613317555179",
+        "endTimestampMs" : "1613322740113"
+      },
+      "distance" : 688,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 78.1991183757782
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 10.336266458034515
+      }, {
+        "activityType" : "STILL",
+        "probability" : 8.263552188873291
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.87256820499897
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.47594616189599037
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.2965522464364767
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.2640682738274336
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.11904928833246231
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.050414109136909246
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.04746405757032335
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.02597948187030852
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.01986129063880071
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.017028843285515904
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0121293545817025
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.79206489040007E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519325027,
+          "lngE7" : 223830127
+        }, {
+          "latE7" : 519324569,
+          "lngE7" : 223826789
+        }, {
+          "latE7" : 519300689,
+          "lngE7" : 223797492
+        }, {
+          "latE7" : 519300231,
+          "lngE7" : 223809127
+        }, {
+          "latE7" : 519324531,
+          "lngE7" : 223826751
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519300995,
+          "lngE7" : 223795109,
+          "timestampMs" : "1613318271489",
+          "accuracyMeters" : 24
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 39.537617
+      },
+      "duration" : {
+        "startTimestampMs" : "1613322740113",
+        "endTimestampMs" : "1613399773929"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519324014,
+      "centerLngE7" : 223828614,
+      "visitConfidence" : 65,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 22.935314
+      }, {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 19.935844
+      }, {
+        "latitudeE7" : 519331395,
+        "longitudeE7" : 223812177,
+        "placeId" : "ChIJvQwbvGD_IUcROJVSfahpaNs",
+        "address" : "Osiedle Bronisława Chącińskiego 1A\n21-400 pawilon\nPolska",
+        "name" : "Studio Fryzur AGNES Agnieszka Olejniczak",
+        "locationConfidence" : 1.0157361
+      }, {
+        "latitudeE7" : 519259455,
+        "longitudeE7" : 223795683,
+        "placeId" : "ChIJMTai-eABIkcR5uOpdjNdyzQ",
+        "locationConfidence" : 0.9936316
+      }, {
+        "latitudeE7" : 519273975,
+        "longitudeE7" : 223768465,
+        "placeId" : "ChIJp5EJzN8BIkcR6TUfGl6L2iA",
+        "locationConfidence" : 0.6951002
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJS9pmPF7_IUcR-4UKWBArRlM",
+        "locationConfidence" : 0.6905205
+      }, {
+        "latitudeE7" : 519334879,
+        "longitudeE7" : 223839992,
+        "placeId" : "ChIJZ-zQCF7_IUcRB-xE_Dt-uGw",
+        "locationConfidence" : 0.5722017
+      }, {
+        "latitudeE7" : 519270790,
+        "longitudeE7" : 223787060,
+        "placeId" : "ChIJUybRCWD_IUcRIp-zh0c0fxE",
+        "locationConfidence" : 0.5022637
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519324522,
+        "longitudeE7" : 223826876,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324395,
+        "longitudeE7" : 223827493,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613399773929",
+        "endTimestampMs" : "1613401441618"
+      },
+      "distance" : 912,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 57.11725950241089
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 27.236971259117126
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 10.914285480976105
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.5783607959747314
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.1164161376655102
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.9671390056610107
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.790419802069664
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.09135287837125361
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.045531007344834507
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.04547004646155983
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.04158473457209766
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.02749559935182333
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.020062411203980446
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0076429161708801985
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.864001740794265E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519324569,
+          "lngE7" : 223826789
+        }, {
+          "latE7" : 519302940,
+          "lngE7" : 223798236
+        }, {
+          "latE7" : 519290618,
+          "lngE7" : 223789710
+        }, {
+          "latE7" : 519324645,
+          "lngE7" : 223826904
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519290695,
+          "lngE7" : 223789024,
+          "timestampMs" : "1613400628412",
+          "accuracyMeters" : 29
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 47.1343
+      },
+      "duration" : {
+        "startTimestampMs" : "1613401441618",
+        "endTimestampMs" : "1613418187529"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519324238,
+      "centerLngE7" : 223827825,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 13.999252
+      }, {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 8.015639
+      }, {
+        "latitudeE7" : 519330800,
+        "longitudeE7" : 223830074,
+        "placeId" : "ChIJowe_G17_IUcRMUK9TmVhSwA",
+        "locationConfidence" : 2.0669935
+      }, {
+        "latitudeE7" : 519331395,
+        "longitudeE7" : 223812177,
+        "placeId" : "ChIJvQwbvGD_IUcROJVSfahpaNs",
+        "address" : "Osiedle Bronisława Chącińskiego 1A\n21-400 pawilon\nPolska",
+        "name" : "Studio Fryzur AGNES Agnieszka Olejniczak",
+        "locationConfidence" : 1.6176482
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 1.11279
+      }, {
+        "latitudeE7" : 519332327,
+        "longitudeE7" : 223809857,
+        "placeId" : "ChIJc_A_rmD_IUcRFNHn3cVs3A0",
+        "locationConfidence" : 0.797176
+      }, {
+        "latitudeE7" : 519341621,
+        "longitudeE7" : 223869591,
+        "placeId" : "ChIJF-mhRBL_IUcRYcWGWI__0i0",
+        "locationConfidence" : 0.65532154
+      }, {
+        "latitudeE7" : 519335887,
+        "longitudeE7" : 223838710,
+        "placeId" : "ChIJHbvwCF3_IUcRWYmkQD-0brw",
+        "address" : "Osiedle L. Klimeckiego 4\n21-400 Łuków\nPolska",
+        "name" : "Stokrotka",
+        "locationConfidence" : 0.6139179
+      }, {
+        "latitudeE7" : 519327705,
+        "longitudeE7" : 223869540,
+        "placeId" : "ChIJb-sUiF7_IUcRutEVjqZX1g8",
+        "locationConfidence" : 0.556517
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519324555,
+        "longitudeE7" : 223828213,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324134,
+        "longitudeE7" : 223828571,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613418187529",
+        "endTimestampMs" : "1613424208762"
+      },
+      "distance" : 1843,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 72.21869230270386
+      }, {
+        "activityType" : "STILL",
+        "probability" : 15.980859100818634
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.603055030107498
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.0039333030581474
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.7358893286436796
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.17120997654274106
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.15332000330090523
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.056666077580302954
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.03380517300684005
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.02464488206896931
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.008255185093730688
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.005661775139742531
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0029519183954107575
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0010509313142392784
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.290148123535346E-7
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519326784,
+          "lngE7" : 223854621,
+          "timestampMs" : "1613418307619",
+          "accuracyMeters" : 34
+        }, {
+          "latE7" : 520031550,
+          "lngE7" : 223827848,
+          "timestampMs" : "1613419074377",
+          "accuracyMeters" : 47
+        }, {
+          "latE7" : 519268966,
+          "lngE7" : 223765370,
+          "timestampMs" : "1613422693279",
+          "accuracyMeters" : 68
+        }, {
+          "latE7" : 519274137,
+          "lngE7" : 223782749,
+          "timestampMs" : "1613422984144",
+          "accuracyMeters" : 59
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1613424332150",
+        "location" : {
+          "latitudeE7" : 519324083,
+          "longitudeE7" : 223829105,
+          "accuracyMetres" : 88
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 55.42217
+      },
+      "duration" : {
+        "startTimestampMs" : "1613424208762",
+        "endTimestampMs" : "1613487773394"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519323623,
+      "centerLngE7" : 223827700,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 18.666296
+      }, {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 12.678866
+      }, {
+        "latitudeE7" : 519319397,
+        "longitudeE7" : 223825761,
+        "placeId" : "ChIJBx7OV2f_IUcRkrTz7JEvlFI",
+        "locationConfidence" : 0.8693382
+      }, {
+        "latitudeE7" : 519330800,
+        "longitudeE7" : 223830074,
+        "placeId" : "ChIJowe_G17_IUcRMUK9TmVhSwA",
+        "locationConfidence" : 0.78696793
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519323841,
+        "longitudeE7" : 223830404,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519319230,
+        "longitudeE7" : 219724481,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613487773394",
+        "endTimestampMs" : "1613491783281"
+      },
+      "distance" : 28151,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.58154344558716
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.247506193816662
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.107473112642765
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.6348667200654745
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.16541017685085535
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.15658277552574873
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.05006216233596206
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.029885556432418525
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.010327657219022512
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006317984662018716
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.003259101140429266
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0025930277843144722
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0023666616471018642
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0018075064872391522
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.676617178425488E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519324455,
+          "lngE7" : 223832874
+        }, {
+          "latE7" : 519533615,
+          "lngE7" : 219845390
+        }, {
+          "latE7" : 519319000,
+          "lngE7" : 219727382
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1613491871335",
+        "location" : {
+          "latitudeE7" : 519319939,
+          "longitudeE7" : 219724217,
+          "accuracyMetres" : 152
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519320449,
+        "longitudeE7" : 219723769,
+        "placeId" : "ChIJU--GdhCyGEcRXDxg6KJlxMA",
+        "address" : "Wola Kisielska 1A\n21-450\nPolska",
+        "name" : "1A",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 86.82778
+      },
+      "duration" : {
+        "startTimestampMs" : "1613491783281",
+        "endTimestampMs" : "1613720215000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 519321584,
+      "centerLngE7" : 219723539,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519318389,
+        "longitudeE7" : 219730328,
+        "placeId" : "ChIJq2DxChCyGEcRwJfWt4ctmiE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 12.103242
+      }, {
+        "latitudeE7" : 519318240,
+        "longitudeE7" : 219730241,
+        "placeId" : "ChIJC9vyChCyGEcRjM-AS4K0-Wk",
+        "locationConfidence" : 0.48634294
+      }, {
+        "latitudeE7" : 520156615,
+        "longitudeE7" : 216692800,
+        "placeId" : "ChIJnbqkFQArGUcR0SKIobl-124",
+        "locationConfidence" : 0.21731609
+      }, {
+        "latitudeE7" : 519314764,
+        "longitudeE7" : 219733892,
+        "placeId" : "ChIJz0XEjQKyGEcRRErkEu4azgo",
+        "locationConfidence" : 0.07867922
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519319808,
+        "longitudeE7" : 219720897,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519308027,
+        "longitudeE7" : 223812797,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613720215000",
+        "endTimestampMs" : "1613723464000"
+      },
+      "distance" : 29161,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 57.05696940422058
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 34.28702652454376
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.276874825358391
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.9912346489727497
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.983873475342989
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.46487567014992237
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.3887765109539032
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.21869130432605743
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.11229785159230232
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.07271274807862937
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0724193814676255
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.05851524765603244
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.01097571657737717
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.00472199208161328
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.940300873888191E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519316215,
+          "lngE7" : 219720745
+        }, {
+          "latE7" : 519407043,
+          "lngE7" : 219747962
+        }, {
+          "latE7" : 519604263,
+          "lngE7" : 219717388
+        }, {
+          "latE7" : 519253120,
+          "lngE7" : 223649463
+        }, {
+          "latE7" : 519305725,
+          "lngE7" : 223811225
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519605255,
+          "lngE7" : 219715481,
+          "timestampMs" : "1613721100836",
+          "accuracyMeters" : 60
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1613723445582",
+        "location" : {
+          "latitudeE7" : 519305881,
+          "longitudeE7" : 223810481,
+          "accuracyMetres" : 82
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519308027,
+        "longitudeE7" : 223812797,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324139,
+        "longitudeE7" : 223829148,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613723464000",
+        "endTimestampMs" : "1613723982236"
+      },
+      "distance" : 248,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 48.47393035888672
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 29.980763792991638
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 13.068176805973053
+      }, {
+        "activityType" : "STILL",
+        "probability" : 5.9099216014146805
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.1116685345768929
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.40559819899499416
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.3783527994528413
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.20679521840065718
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.1608902821317315
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.09786119917407632
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.09492104290984571
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.07978243520483375
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.017984806618187577
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.013311422662809491
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.835698692000733E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519307975,
+          "lngE7" : 223813018
+        }, {
+          "latE7" : 519313392,
+          "lngE7" : 223815250
+        }, {
+          "latE7" : 519325141,
+          "lngE7" : 223829689
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 50.940342
+      },
+      "duration" : {
+        "startTimestampMs" : "1613723982236",
+        "endTimestampMs" : "1613753473958"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519323747,
+      "centerLngE7" : 223828068,
+      "visitConfidence" : 71,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 23.794758
+      }, {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 12.993518
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 1.8610206
+      }, {
+        "latitudeE7" : 519330800,
+        "longitudeE7" : 223830074,
+        "placeId" : "ChIJowe_G17_IUcRMUK9TmVhSwA",
+        "locationConfidence" : 1.7274681
+      }, {
+        "latitudeE7" : 519331395,
+        "longitudeE7" : 223812177,
+        "placeId" : "ChIJvQwbvGD_IUcROJVSfahpaNs",
+        "address" : "Osiedle Bronisława Chącińskiego 1A\n21-400 pawilon\nPolska",
+        "name" : "Studio Fryzur AGNES Agnieszka Olejniczak",
+        "locationConfidence" : 1.0779732
+      }, {
+        "latitudeE7" : 519335887,
+        "longitudeE7" : 223838710,
+        "placeId" : "ChIJHbvwCF3_IUcRWYmkQD-0brw",
+        "address" : "Osiedle L. Klimeckiego 4\n21-400 Łuków\nPolska",
+        "name" : "Stokrotka",
+        "locationConfidence" : 0.49082512
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519324156,
+        "longitudeE7" : 223829205,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519323970,
+        "longitudeE7" : 223829816,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613753473958",
+        "endTimestampMs" : "1613762869011"
+      },
+      "distance" : 692,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 36.90468668937683
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 34.95378494262695
+      }, {
+        "activityType" : "STILL",
+        "probability" : 15.74934870004654
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 10.052203387022018
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.6848583929240704
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.6631798576563597
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.6591351702809334
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.1258227275684476
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.06567951058968902
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.04756402922794223
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.04122123937122524
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.024831315386109054
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.015306865680031478
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.012377604434732348
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.4950044636161692E-6
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519352514,
+          "lngE7" : 223850050,
+          "timestampMs" : "1613754428291",
+          "accuracyMeters" : 32
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1613762971771",
+        "location" : {
+          "latitudeE7" : 519324545,
+          "longitudeE7" : 223826734,
+          "accuracyMetres" : 80
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 46.69337
+      },
+      "duration" : {
+        "startTimestampMs" : "1613762869011",
+        "endTimestampMs" : "1613843278145"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519324171,
+      "centerLngE7" : 223826819,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 25.292984
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 21.023407
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 1.810242
+      }, {
+        "latitudeE7" : 519305890,
+        "longitudeE7" : 223822980,
+        "placeId" : "ChIJu5uFx1__IUcR21wNkSgrq-s",
+        "locationConfidence" : 1.2438798
+      }, {
+        "latitudeE7" : 519304500,
+        "longitudeE7" : 223809850,
+        "placeId" : "ChIJyZzj3F__IUcRSmLOAWy135A",
+        "locationConfidence" : 1.1455041
+      }, {
+        "latitudeE7" : 519324509,
+        "longitudeE7" : 223782745,
+        "placeId" : "ChIJ_x6--WD_IUcRACMt2pgy9HA",
+        "locationConfidence" : 0.50086135
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519324446,
+        "longitudeE7" : 223827105,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519428191,
+        "longitudeE7" : 224160998,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613843278145",
+        "endTimestampMs" : "1613845740078"
+      },
+      "distance" : 2915,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 46.41674757003784
+      }, {
+        "activityType" : "STILL",
+        "probability" : 37.00719475746155
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.584348231554031
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 3.2211653888225555
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.7813417352735996
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.33124301116913557
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.2761800307780504
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.1871989923529327
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.07724466850049794
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.04409052198752761
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.03004526370204985
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0190951963304542
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.01616339577594772
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.007866178202675655
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 6.9297016125347E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519324455,
+          "lngE7" : 223832874
+        }, {
+          "latE7" : 519334716,
+          "lngE7" : 223834018
+        }, {
+          "latE7" : 519337654,
+          "lngE7" : 223825988
+        }, {
+          "latE7" : 519344406,
+          "lngE7" : 223807640
+        }, {
+          "latE7" : 519330406,
+          "lngE7" : 223869094
+        }, {
+          "latE7" : 519352607,
+          "lngE7" : 223923664
+        }, {
+          "latE7" : 519425010,
+          "lngE7" : 224162330
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519338036,
+          "lngE7" : 223826351,
+          "timestampMs" : "1613843566188",
+          "accuracyMeters" : 37
+        }, {
+          "latE7" : 519330254,
+          "lngE7" : 223868999,
+          "timestampMs" : "1613843871000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1613845740079",
+        "location" : {
+          "latitudeE7" : 519428154,
+          "longitudeE7" : 224161065,
+          "accuracyMetres" : 108
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519427010,
+        "longitudeE7" : 224161910,
+        "placeId" : "ChIJp8osjUn_IUcRPHWcF0cX-oU",
+        "address" : "Międzyrzecka 168\n21-400 Łuków\nPolska",
+        "name" : "Międzyrzecka 168",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 62.87255
+      },
+      "duration" : {
+        "startTimestampMs" : "1613845740078",
+        "endTimestampMs" : "1613872782000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519428356,
+      "centerLngE7" : 224160489,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519427419,
+        "longitudeE7" : 224161946,
+        "placeId" : "ChIJo3rE8kn_IUcRDo3euUlnAgI",
+        "locationConfidence" : 15.408087
+      }, {
+        "latitudeE7" : 519427020,
+        "longitudeE7" : 224161890,
+        "placeId" : "ChIJFzPT8kn_IUcRtZmWp_t9asw",
+        "locationConfidence" : 6.5337896
+      }, {
+        "latitudeE7" : 519512053,
+        "longitudeE7" : 224115067,
+        "placeId" : "ChIJkxsfXDn_IUcRD8ykkXl5krQ",
+        "locationConfidence" : 1.1685436
+      }, {
+        "latitudeE7" : 519386675,
+        "longitudeE7" : 224237851,
+        "placeId" : "ChIJXyfElbT4IUcRLgCwlYOSA4g",
+        "locationConfidence" : 0.5742148
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519426511,
+        "longitudeE7" : 224161880,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324084,
+        "longitudeE7" : 223829797,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613872782000",
+        "endTimestampMs" : "1613879785570"
+      },
+      "distance" : 2545,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 66.25210642814636
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 20.075255632400513
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 6.234308332204819
+      }, {
+        "activityType" : "STILL",
+        "probability" : 4.5610461384058
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.9570933878421783
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.5796044133603573
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.5120034795254469
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.5023220088332891
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.07552934112027287
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.06707356660626829
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.06571520934812725
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.06123313796706498
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.031762802973389626
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.024934214889071882
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.4147909155326488E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519425048,
+          "lngE7" : 224162483
+        }, {
+          "latE7" : 519340209,
+          "lngE7" : 223887233
+        }, {
+          "latE7" : 519324455,
+          "lngE7" : 223832874
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1613880006807",
+        "location" : {
+          "latitudeE7" : 519322031,
+          "longitudeE7" : 223828993,
+          "accuracyMetres" : 113
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 42.617233
+      },
+      "duration" : {
+        "startTimestampMs" : "1613879785570",
+        "endTimestampMs" : "1613990739657"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519323773,
+      "centerLngE7" : 223828947,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 32.21553
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 19.658846
+      }, {
+        "latitudeE7" : 519319397,
+        "longitudeE7" : 223825761,
+        "placeId" : "ChIJBx7OV2f_IUcRkrTz7JEvlFI",
+        "locationConfidence" : 2.24535
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 1.0775751
+      }, {
+        "latitudeE7" : 519314509,
+        "longitudeE7" : 223825273,
+        "placeId" : "ChIJ28rQCWD_IUcRqv2f6MDoi7E",
+        "locationConfidence" : 0.4931314
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519324003,
+        "longitudeE7" : 223829921,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324348,
+        "longitudeE7" : 223826493,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1613990739657",
+        "endTimestampMs" : "1614039923988"
+      },
+      "distance" : 597,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 43.744054436683655
+      }, {
+        "activityType" : "STILL",
+        "probability" : 30.984756350517273
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 20.83771675825119
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.2241249680519104
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.8054341189563274
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.4679382313042879
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.4511818755418062
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.1342943636700511
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.1268972409889102
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.09672503801994026
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.05673213163390756
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.05077211535535753
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.010082037624670193
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.009067016799235716
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.2052313397580292E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519324455,
+          "lngE7" : 223832874
+        }, {
+          "latE7" : 519323616,
+          "lngE7" : 223857231
+        }, {
+          "latE7" : 519305610,
+          "lngE7" : 223811969
+        }, {
+          "latE7" : 519224510,
+          "lngE7" : 223873119
+        }, {
+          "latE7" : 519106483,
+          "lngE7" : 223815975
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519304657,
+          "lngE7" : 223809566,
+          "timestampMs" : "1613998390177",
+          "accuracyMeters" : 21
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1614039984315",
+        "location" : {
+          "latitudeE7" : 519324409,
+          "longitudeE7" : 223826721,
+          "accuracyMetres" : 86,
+          "sourceInfo" : {
+            "deviceTag" : 1279789313
+          }
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 43.308784
+      },
+      "duration" : {
+        "startTimestampMs" : "1614039923988",
+        "endTimestampMs" : "1614090250504"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519323536,
+      "centerLngE7" : 223827821,
+      "visitConfidence" : 70,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 31.562483
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 14.657619
+      }, {
+        "latitudeE7" : 519319397,
+        "longitudeE7" : 223825761,
+        "placeId" : "ChIJBx7OV2f_IUcRkrTz7JEvlFI",
+        "locationConfidence" : 3.0644376
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 1.2908652
+      }, {
+        "latitudeE7" : 519304500,
+        "longitudeE7" : 223809850,
+        "placeId" : "ChIJyZzj3F__IUcRSmLOAWy135A",
+        "locationConfidence" : 0.58837295
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519098200,
+        "longitudeE7" : 223905870,
+        "placeId" : "ChIJ1UWYG_QBIkcRmy2A7jeBT1I",
+        "address" : "Radzyńska 28A\n21-400 Łuków\nPolska",
+        "name" : "Radzyńska 28A",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 5.0600586
+      },
+      "duration" : {
+        "startTimestampMs" : "1614090250504",
+        "endTimestampMs" : "1614114300350"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 519331804,
+      "centerLngE7" : 223776741,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519102559,
+        "longitudeE7" : 223907530,
+        "placeId" : "ChIJ81ftp_YBIkcRrGv1GbNkSV4",
+        "locationConfidence" : 3.5612755
+      }, {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 2.629754
+      }, {
+        "latitudeE7" : 519123075,
+        "longitudeE7" : 223902863,
+        "placeId" : "ChIJRznz2fABIkcROMvFVApOV0c",
+        "locationConfidence" : 0.9445614
+      }, {
+        "latitudeE7" : 519104999,
+        "longitudeE7" : 223885553,
+        "placeId" : "ChIJjcAkIyQBIkcRi5UfiTaim4s",
+        "locationConfidence" : 0.71622974
+      }, {
+        "latitudeE7" : 519223577,
+        "longitudeE7" : 223791095,
+        "placeId" : "ChIJ-amowuYBIkcRSHzND49ZbDQ",
+        "locationConfidence" : 0.67837936
+      }, {
+        "latitudeE7" : 519204455,
+        "longitudeE7" : 223819221,
+        "placeId" : "ChIJ95Viy-UBIkcRMvnsjtSyGVM",
+        "locationConfidence" : 0.48862487
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 42.160122
+      },
+      "duration" : {
+        "startTimestampMs" : "1614114300350",
+        "endTimestampMs" : "1614154507764"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519324114,
+      "centerLngE7" : 223827943,
+      "visitConfidence" : 71,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 27.207104
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 15.055874
+      }, {
+        "latitudeE7" : 519319397,
+        "longitudeE7" : 223825761,
+        "placeId" : "ChIJBx7OV2f_IUcRkrTz7JEvlFI",
+        "locationConfidence" : 1.1374172
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 0.90843666
+      }, {
+        "latitudeE7" : 519324509,
+        "longitudeE7" : 223782745,
+        "placeId" : "ChIJ_x6--WD_IUcRACMt2pgy9HA",
+        "locationConfidence" : 0.5384355
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519323900,
+        "longitudeE7" : 223828764,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519336557,
+        "longitudeE7" : 223837263,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1614154507764",
+        "endTimestampMs" : "1614154802100"
+      },
+      "distance" : 152,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 58.7645947933197
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 30.47664165496826
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 5.110204964876175
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 4.79760579764843
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.2887297887355089
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.26083928532898426
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.25830406229943037
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.015370962501037866
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.013382610632106662
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.00778679532231763
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.004619247192749754
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.001319902094110148
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 3.595365342334844E-4
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 2.3887705538072623E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.515578464596274E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519324722,
+          "lngE7" : 223826961
+        }, {
+          "latE7" : 519333267,
+          "lngE7" : 223838043
+        }, {
+          "latE7" : 519337654,
+          "lngE7" : 223838348
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519335887,
+        "longitudeE7" : 223838710,
+        "placeId" : "ChIJHbvwCF3_IUcRWYmkQD-0brw",
+        "address" : "Osiedle L. Klimeckiego 4\n21-400 Łuków\nPolska",
+        "name" : "Stokrotka",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 94.51789
+      },
+      "duration" : {
+        "startTimestampMs" : "1614154802100",
+        "endTimestampMs" : "1614155177710"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 519336275,
+      "centerLngE7" : 223839075,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 2.4358428
+      }, {
+        "latitudeE7" : 519330800,
+        "longitudeE7" : 223830074,
+        "placeId" : "ChIJowe_G17_IUcRMUK9TmVhSwA",
+        "locationConfidence" : 1.3510299
+      }, {
+        "latitudeE7" : 519334879,
+        "longitudeE7" : 223839992,
+        "placeId" : "ChIJZ-zQCF7_IUcRB-xE_Dt-uGw",
+        "locationConfidence" : 0.5365209
+      }, {
+        "latitudeE7" : 519335497,
+        "longitudeE7" : 223837760,
+        "placeId" : "ChIJN3-5fGr_IUcRy2RhgacM9NA",
+        "locationConfidence" : 0.34303123
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519337161,
+        "longitudeE7" : 223841937,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324021,
+        "longitudeE7" : 223827888,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1614155177710",
+        "endTimestampMs" : "1614155873372"
+      },
+      "distance" : 175,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 68.93290877342224
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 26.612886786460876
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.2822586819529533
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.8915864862501621
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.7909232750535011
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.2979586133733392
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.1358333509415388
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.020800296624656767
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.014334947627503425
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.011708426609402522
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0038868613046361133
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0025937106329365633
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0013711003703065217
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 9.541738108964637E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.287262290678882E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519337158,
+          "lngE7" : 223841819
+        }, {
+          "latE7" : 519325027,
+          "lngE7" : 223827342
+        }, {
+          "latE7" : 519324569,
+          "lngE7" : 223826770
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 37.847992
+      },
+      "duration" : {
+        "startTimestampMs" : "1614155873372",
+        "endTimestampMs" : "1614258159642"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519323889,
+      "centerLngE7" : 223828692,
+      "visitConfidence" : 69,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 19.976194
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 12.319302
+      }, {
+        "latitudeE7" : 519319397,
+        "longitudeE7" : 223825761,
+        "placeId" : "ChIJBx7OV2f_IUcRkrTz7JEvlFI",
+        "locationConfidence" : 8.992701
+      }, {
+        "latitudeE7" : 519330800,
+        "longitudeE7" : 223830074,
+        "placeId" : "ChIJowe_G17_IUcRMUK9TmVhSwA",
+        "locationConfidence" : 2.955791
+      }, {
+        "latitudeE7" : 519335887,
+        "longitudeE7" : 223838710,
+        "placeId" : "ChIJHbvwCF3_IUcRWYmkQD-0brw",
+        "address" : "Osiedle L. Klimeckiego 4\n21-400 Łuków\nPolska",
+        "name" : "Stokrotka",
+        "locationConfidence" : 2.1244664
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 1.8155155
+      }, {
+        "latitudeE7" : 519331395,
+        "longitudeE7" : 223812177,
+        "placeId" : "ChIJvQwbvGD_IUcROJVSfahpaNs",
+        "address" : "Osiedle Bronisława Chącińskiego 1A\n21-400 pawilon\nPolska",
+        "name" : "Studio Fryzur AGNES Agnieszka Olejniczak",
+        "locationConfidence" : 1.2940515
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519323515,
+        "longitudeE7" : 223830178,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519323716,
+        "longitudeE7" : 223829392,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1614258159642",
+        "endTimestampMs" : "1614268000526"
+      },
+      "distance" : 1946,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 51.64448618888855
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 34.67532694339752
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 7.2740234434604645
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.1731072813272476
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.711486093699932
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.79423813149333
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.2624325454235077
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.19622012041509151
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.16089609125629067
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.05225776694715023
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.02056655357591808
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.016051327111199498
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.010573247709544376
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.007869501860113814
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 4.6277941692096647E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519324455,
+          "lngE7" : 223832874
+        }, {
+          "latE7" : 519331817,
+          "lngE7" : 223842067
+        }, {
+          "latE7" : 519334449,
+          "lngE7" : 223810501
+        }, {
+          "latE7" : 519323616,
+          "lngE7" : 223857231
+        }, {
+          "latE7" : 519310455,
+          "lngE7" : 223840694
+        }, {
+          "latE7" : 519386138,
+          "lngE7" : 223840866
+        }, {
+          "latE7" : 519380226,
+          "lngE7" : 223851337
+        }, {
+          "latE7" : 519340209,
+          "lngE7" : 223887233
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519332924,
+          "lngE7" : 223809452,
+          "timestampMs" : "1614259600193",
+          "accuracyMeters" : 12
+        }, {
+          "latE7" : 519308968,
+          "lngE7" : 223847637,
+          "timestampMs" : "1614260092117",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 519377747,
+          "lngE7" : 223847408,
+          "timestampMs" : "1614261873603",
+          "accuracyMeters" : 20
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1614267984628",
+        "location" : {
+          "latitudeE7" : 519323874,
+          "longitudeE7" : 223828371,
+          "accuracyMetres" : 94
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 45.321404
+      },
+      "duration" : {
+        "startTimestampMs" : "1614268000526",
+        "endTimestampMs" : "1614331900514"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519323982,
+      "centerLngE7" : 223827605,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 23.668613
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 21.041956
+      }, {
+        "latitudeE7" : 519319397,
+        "longitudeE7" : 223825761,
+        "placeId" : "ChIJBx7OV2f_IUcRkrTz7JEvlFI",
+        "locationConfidence" : 2.5650706
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 1.9997371
+      }, {
+        "latitudeE7" : 519335887,
+        "longitudeE7" : 223838710,
+        "placeId" : "ChIJHbvwCF3_IUcRWYmkQD-0brw",
+        "address" : "Osiedle L. Klimeckiego 4\n21-400 Łuków\nPolska",
+        "name" : "Stokrotka",
+        "locationConfidence" : 1.1470393
+      }, {
+        "latitudeE7" : 519305890,
+        "longitudeE7" : 223822980,
+        "placeId" : "ChIJu5uFx1__IUcR21wNkSgrq-s",
+        "locationConfidence" : 0.89764017
+      }, {
+        "latitudeE7" : 519327705,
+        "longitudeE7" : 223869540,
+        "placeId" : "ChIJb-sUiF7_IUcRutEVjqZX1g8",
+        "locationConfidence" : 0.82157886
+      }, {
+        "latitudeE7" : 519304500,
+        "longitudeE7" : 223809850,
+        "placeId" : "ChIJyZzj3F__IUcRSmLOAWy135A",
+        "locationConfidence" : 0.73514706
+      }, {
+        "latitudeE7" : 519331395,
+        "longitudeE7" : 223812177,
+        "placeId" : "ChIJvQwbvGD_IUcROJVSfahpaNs",
+        "address" : "Osiedle Bronisława Chącińskiego 1A\n21-400 pawilon\nPolska",
+        "name" : "Studio Fryzur AGNES Agnieszka Olejniczak",
+        "locationConfidence" : 0.6993802
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519324271,
+        "longitudeE7" : 223827155,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519335538,
+        "longitudeE7" : 223841607,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1614331900514",
+        "endTimestampMs" : "1614332020475"
+      },
+      "distance" : 162,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 70.67315578460693
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 20.3221395611763
+      }, {
+        "activityType" : "STILL",
+        "probability" : 4.535502195358276
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.616601251065731
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.0276216082274914
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.38954433985054493
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.31432462856173515
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.031533691799268126
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.030716689070686698
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.022677151719108224
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.012473035894799978
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.011502682900754735
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.007974501204444095
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.00424191566708032
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.117836928050565E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519324493,
+          "lngE7" : 223826675
+        }, {
+          "latE7" : 519331588,
+          "lngE7" : 223836746
+        }, {
+          "latE7" : 519335517,
+          "lngE7" : 223841743
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519335887,
+        "longitudeE7" : 223838710,
+        "placeId" : "ChIJHbvwCF3_IUcRWYmkQD-0brw",
+        "address" : "Osiedle L. Klimeckiego 4\n21-400 Łuków\nPolska",
+        "name" : "Stokrotka",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 95.626
+      },
+      "duration" : {
+        "startTimestampMs" : "1614332020475",
+        "endTimestampMs" : "1614333674289"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 519336050,
+      "centerLngE7" : 223839350,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 1.4235218
+      }, {
+        "latitudeE7" : 519335497,
+        "longitudeE7" : 223837760,
+        "placeId" : "ChIJN3-5fGr_IUcRy2RhgacM9NA",
+        "locationConfidence" : 0.89253104
+      }, {
+        "latitudeE7" : 519330800,
+        "longitudeE7" : 223830074,
+        "placeId" : "ChIJowe_G17_IUcRMUK9TmVhSwA",
+        "locationConfidence" : 0.52084523
+      }, {
+        "latitudeE7" : 519334879,
+        "longitudeE7" : 223839992,
+        "placeId" : "ChIJZ-zQCF7_IUcRB-xE_Dt-uGw",
+        "locationConfidence" : 0.4277865
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 43.02796
+      },
+      "duration" : {
+        "startTimestampMs" : "1614333674289",
+        "endTimestampMs" : "1614378008236"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519323787,
+      "centerLngE7" : 223828792,
+      "visitConfidence" : 69,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 25.34105
+      }, {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 14.674115
+      }, {
+        "latitudeE7" : 519319397,
+        "longitudeE7" : 223825761,
+        "placeId" : "ChIJBx7OV2f_IUcRkrTz7JEvlFI",
+        "locationConfidence" : 3.9644797
+      }, {
+        "latitudeE7" : 519304660,
+        "longitudeE7" : 223826600,
+        "placeId" : "ChIJ39iEkV__IUcR5DP5Ca8WX3U",
+        "locationConfidence" : 3.044717
+      }, {
+        "latitudeE7" : 519330800,
+        "longitudeE7" : 223830074,
+        "placeId" : "ChIJowe_G17_IUcRMUK9TmVhSwA",
+        "locationConfidence" : 2.4357586
+      }, {
+        "latitudeE7" : 519335887,
+        "longitudeE7" : 223838710,
+        "placeId" : "ChIJHbvwCF3_IUcRWYmkQD-0brw",
+        "address" : "Osiedle L. Klimeckiego 4\n21-400 Łuków\nPolska",
+        "name" : "Stokrotka",
+        "locationConfidence" : 2.0725698
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 2.0428755
+      }, {
+        "latitudeE7" : 519332327,
+        "longitudeE7" : 223809857,
+        "placeId" : "ChIJc_A_rmD_IUcRFNHn3cVs3A0",
+        "locationConfidence" : 1.1451834
+      }, {
+        "latitudeE7" : 519314509,
+        "longitudeE7" : 223825273,
+        "placeId" : "ChIJ28rQCWD_IUcRqv2f6MDoi7E",
+        "locationConfidence" : 0.91733617
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519323612,
+        "longitudeE7" : 223829534,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324391,
+        "longitudeE7" : 223826405,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1614378008236",
+        "endTimestampMs" : "1614390196540"
+      },
+      "distance" : 55,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 47.40995466709137
+      }, {
+        "activityType" : "STILL",
+        "probability" : 36.20636761188507
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.445143610239029
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.5654275193810463
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.9761098772287369
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.5950517021119595
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.34796756226569414
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.1307664904743433
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.11634028051048517
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.09294951451011002
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.06842856528237462
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.03432378580328077
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.006146516534499824
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.004920428909827024
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.0641264225341729E-4
+      } ],
+      "parkingEvent" : {
+        "timestampMs" : "1614390198652",
+        "location" : {
+          "latitudeE7" : 519324316,
+          "longitudeE7" : 223826437,
+          "accuracyMetres" : 86
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519032334,
+        "longitudeE7" : 223834061,
+        "placeId" : "ChIJqZu5rw8BIkcRa1zjxeTwnR8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Cmentarz żydowski w Lesie Malcanowskim",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 36.975407
+      },
+      "duration" : {
+        "startTimestampMs" : "1614390196540",
+        "endTimestampMs" : "1614421779567"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519323380,
+      "centerLngE7" : 223828940,
+      "visitConfidence" : 65,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 17.248901
+      }, {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 12.26207
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 7.025192
+      }, {
+        "latitudeE7" : 519042698,
+        "longitudeE7" : 223838433,
+        "placeId" : "ChIJqQAnU-EBIkcRFrsIC8APx7o",
+        "locationConfidence" : 3.7462392
+      }, {
+        "latitudeE7" : 519038832,
+        "longitudeE7" : 223832780,
+        "placeId" : "ChIJs9SdmowBIkcR71pHBFQcpvQ",
+        "locationConfidence" : 2.8715436
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 1.0734346
+      }, {
+        "latitudeE7" : 519304660,
+        "longitudeE7" : 223826600,
+        "placeId" : "ChIJ39iEkV__IUcR5DP5Ca8WX3U",
+        "locationConfidence" : 1.0379888
+      }, {
+        "latitudeE7" : 519319397,
+        "longitudeE7" : 223825761,
+        "placeId" : "ChIJBx7OV2f_IUcRkrTz7JEvlFI",
+        "locationConfidence" : 0.9337831
+      }, {
+        "latitudeE7" : 519314509,
+        "longitudeE7" : 223825273,
+        "placeId" : "ChIJ28rQCWD_IUcRqv2f6MDoi7E",
+        "locationConfidence" : 0.46479428
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 44.275146
+      },
+      "duration" : {
+        "startTimestampMs" : "1614421779567",
+        "endTimestampMs" : "1614472285192"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519323916,
+      "centerLngE7" : 223827059,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 18.406305
+      }, {
+        "latitudeE7" : 519304660,
+        "longitudeE7" : 223826600,
+        "placeId" : "ChIJ39iEkV__IUcR5DP5Ca8WX3U",
+        "locationConfidence" : 4.128665
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 3.2045443
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.5021143
+      }, {
+        "latitudeE7" : 519305110,
+        "longitudeE7" : 223827960,
+        "placeId" : "ChIJH_L1ul__IUcRV5lBv-AdF7U",
+        "locationConfidence" : 2.358811
+      }, {
+        "latitudeE7" : 519304500,
+        "longitudeE7" : 223809850,
+        "placeId" : "ChIJyZzj3F__IUcRSmLOAWy135A",
+        "locationConfidence" : 1.4629375
+      }, {
+        "latitudeE7" : 519331395,
+        "longitudeE7" : 223812177,
+        "placeId" : "ChIJvQwbvGD_IUcROJVSfahpaNs",
+        "address" : "Osiedle Bronisława Chącińskiego 1A\n21-400 pawilon\nPolska",
+        "name" : "Studio Fryzur AGNES Agnieszka Olejniczak",
+        "locationConfidence" : 0.9833501
+      }, {
+        "latitudeE7" : 519335887,
+        "longitudeE7" : 223838710,
+        "placeId" : "ChIJHbvwCF3_IUcRWYmkQD-0brw",
+        "address" : "Osiedle L. Klimeckiego 4\n21-400 Łuków\nPolska",
+        "name" : "Stokrotka",
+        "locationConfidence" : 0.8264841
+      }, {
+        "latitudeE7" : 519341621,
+        "longitudeE7" : 223869591,
+        "placeId" : "ChIJF-mhRBL_IUcRYcWGWI__0i0",
+        "locationConfidence" : 0.75491196
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

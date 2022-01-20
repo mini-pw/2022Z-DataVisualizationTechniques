@@ -1,0 +1,400 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519345107,
+        "longitudeE7" : 224844910,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519323286,
+        "longitudeE7" : 223829681,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1609467881000",
+        "endTimestampMs" : "1609470350827"
+      },
+      "distance" : 6964,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 72.52275347709656
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 19.128677248954773
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.641508683562279
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.1099941805005074
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.7564030587673187
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.44787004590034485
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.12619991321116686
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.11439587688073516
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.04619483952410519
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.044174573849886656
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.031557289185002446
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.012251193402335048
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.009062187746167183
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.008931005868362263
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.132838628516765E-5
+      } ],
+      "parkingEvent" : {
+        "timestampMs" : "1609470482263",
+        "location" : {
+          "latitudeE7" : 519323403,
+          "longitudeE7" : 223829770,
+          "accuracyMetres" : 83
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Lubelskie",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 36.93641
+      },
+      "duration" : {
+        "startTimestampMs" : "1609470350827",
+        "endTimestampMs" : "1609569394139"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519323433,
+      "centerLngE7" : 223829260,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 31.597202
+      }, {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "locationConfidence" : 24.76554
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJS9pmPF7_IUcR-4UKWBArRlM",
+        "locationConfidence" : 1.4692488
+      }, {
+        "latitudeE7" : 519334879,
+        "longitudeE7" : 223839992,
+        "placeId" : "ChIJZ-zQCF7_IUcRB-xE_Dt-uGw",
+        "locationConfidence" : 0.24160345
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519323339,
+        "longitudeE7" : 223829766,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 521612104,
+        "longitudeE7" : 222750514,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1609569394139",
+        "endTimestampMs" : "1609571672490"
+      },
+      "distance" : 26499,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.42301106452942
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.8210289292037487
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.3990584518760443
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.3816011594608426
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.3585946513339877
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.26293264236301184
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.2577710896730423
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04292095545679331
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.024183826462831348
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.013791545643471181
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.006658089114353061
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.006306845898507163
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0014886444660078268
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 6.268007382459473E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.413458162209281E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519324455,
+          "lngE7" : 223832874
+        }, {
+          "latE7" : 521330261,
+          "lngE7" : 222916297
+        }, {
+          "latE7" : 521611366,
+          "lngE7" : 222749557
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1609571795307",
+        "location" : {
+          "latitudeE7" : 521612249,
+          "longitudeE7" : 222750793,
+          "accuracyMetres" : 89
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 521611700,
+        "longitudeE7" : 222750700,
+        "placeId" : "ChIJQ6W6XEVaH0cRuxqoVOK4Bcw",
+        "address" : "Kolejowa 20\n08-110 Siedlce\nPolska",
+        "name" : "Kolejowa 20",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 56.536346
+      },
+      "duration" : {
+        "startTimestampMs" : "1609571672490",
+        "endTimestampMs" : "1609574390126"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 521612105,
+      "centerLngE7" : 222750536,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 521622813,
+        "longitudeE7" : 222718561,
+        "placeId" : "ChIJmVSinlpaH0cR3tK5tw9tA4c",
+        "locationConfidence" : 20.656012
+      }, {
+        "latitudeE7" : 521601349,
+        "longitudeE7" : 222772007,
+        "placeId" : "ChIJ6wjcn0VaH0cRkEHJ4pBirqA",
+        "locationConfidence" : 9.760766
+      }, {
+        "latitudeE7" : 521610860,
+        "longitudeE7" : 222752380,
+        "placeId" : "ChIJl4wqXUVaH0cRBATMSGAl2RU",
+        "locationConfidence" : 8.6728735
+      }, {
+        "latitudeE7" : 521614490,
+        "longitudeE7" : 222750590,
+        "placeId" : "ChIJb3ShXkVaH0cR0SGxGpzZJEk",
+        "locationConfidence" : 2.1709437
+      }, {
+        "latitudeE7" : 521616986,
+        "longitudeE7" : 222742060,
+        "placeId" : "ChIJrzhyVEVaH0cRZvmIfdWjivA",
+        "locationConfidence" : 0.5368549
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 521611147,
+        "longitudeE7" : 222751929,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519318957,
+        "longitudeE7" : 219725469,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1609574390126",
+        "endTimestampMs" : "1609591991563"
+      },
+      "distance" : 33327,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 92.21785068511963
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.503675013780594
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.9192321226000786
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.9970678016543388
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.4286790266633034
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.4053879529237747
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.2630793023854494
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.16431332333013415
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.049589358968660235
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0312756048515439
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.014479913807008415
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.003442868182901293
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0012782484191120602
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 6.381383627740433E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.593672617962511E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 521610565,
+          "lngE7" : 222751159
+        }, {
+          "latE7" : 520726242,
+          "lngE7" : 220948734
+        }, {
+          "latE7" : 519318809,
+          "lngE7" : 219727344
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1609592102527",
+        "location" : {
+          "latitudeE7" : 519318914,
+          "longitudeE7" : 219725272,
+          "accuracyMetres" : 108
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519320449,
+        "longitudeE7" : 219723769,
+        "placeId" : "ChIJU--GdhCyGEcRXDxg6KJlxMA",
+        "address" : "Wola Kisielska 1A\n21-450\nPolska",
+        "name" : "1A",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 78.04184
+      },
+      "duration" : {
+        "startTimestampMs" : "1609591991563",
+        "endTimestampMs" : "1612969657007"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 519318898,
+      "centerLngE7" : 219725395,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519318389,
+        "longitudeE7" : 219730328,
+        "placeId" : "ChIJq2DxChCyGEcRwJfWt4ctmiE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 9.903315
+      }, {
+        "latitudeE7" : 519318240,
+        "longitudeE7" : 219730241,
+        "placeId" : "ChIJC9vyChCyGEcRjM-AS4K0-Wk",
+        "locationConfidence" : 1.2704899
+      }, {
+        "latitudeE7" : 520156615,
+        "longitudeE7" : 216692800,
+        "placeId" : "ChIJnbqkFQArGUcR0SKIobl-124",
+        "locationConfidence" : 0.15249646
+      }, {
+        "latitudeE7" : 519314764,
+        "longitudeE7" : 219733892,
+        "placeId" : "ChIJz0XEjQKyGEcRRErkEu4azgo",
+        "locationConfidence" : 0.13062426
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

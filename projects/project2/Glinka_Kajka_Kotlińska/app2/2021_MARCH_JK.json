@@ -1,0 +1,406 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 54.50737
+      },
+      "duration" : {
+        "startTimestampMs" : "1616875867807",
+        "endTimestampMs" : "1616938331870"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519324222,
+      "centerLngE7" : 223826350,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 27.188322
+      }, {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 14.558532
+      }, {
+        "latitudeE7" : 519319397,
+        "longitudeE7" : 223825761,
+        "placeId" : "ChIJBx7OV2f_IUcRkrTz7JEvlFI",
+        "locationConfidence" : 1.2454785
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 0.71094984
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519323489,
+        "longitudeE7" : 223829280,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519324482,
+        "longitudeE7" : 223826227,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1616938331870",
+        "endTimestampMs" : "1616939413283"
+      },
+      "distance" : 746,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 87.14750409126282
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.0166438817977905
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.94260473549366
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.9737091138958931
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.38915707264095545
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.24024674203246832
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.11321749771013856
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0511852849740535
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0395383860450238
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.024433081853203475
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.023755859001539648
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.01676544052315876
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.015740052913315594
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.00550094191567041
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 4.83764628356198E-7
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519322547,
+          "lngE7" : 223828163
+        }, {
+          "latE7" : 519314804,
+          "lngE7" : 223815841
+        }, {
+          "latE7" : 519292526,
+          "lngE7" : 223822975
+        }, {
+          "latE7" : 519290809,
+          "lngE7" : 223832530
+        }, {
+          "latE7" : 519304656,
+          "lngE7" : 223837738
+        }, {
+          "latE7" : 519306488,
+          "lngE7" : 223838520
+        }, {
+          "latE7" : 519324340,
+          "lngE7" : 223826522
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 519293442,
+          "lngE7" : 223822269,
+          "timestampMs" : "1616938842926",
+          "accuracyMeters" : 12
+        }, {
+          "latE7" : 519304695,
+          "lngE7" : 223837452,
+          "timestampMs" : "1616939010440",
+          "accuracyMeters" : 28
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 50.6397
+      },
+      "duration" : {
+        "startTimestampMs" : "1616939413283",
+        "endTimestampMs" : "1616993378857"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519324333,
+      "centerLngE7" : 223826533,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 34.611504
+      }, {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 8.52598
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 0.6677314
+      }, {
+        "latitudeE7" : 519304660,
+        "longitudeE7" : 223826654,
+        "placeId" : "ChIJ39iEkV__IUcR5DP5Ca8WX3U",
+        "locationConfidence" : 0.53653264
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 519104118,
+        "longitudeE7" : 223871554,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 519104118,
+        "longitudeE7" : 223871554,
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1616993378857",
+        "endTimestampMs" : "1617043218299"
+      },
+      "distance" : 4938,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 43.67496371269226
+      }, {
+        "activityType" : "STILL",
+        "probability" : 40.72241187095642
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.315206229686737
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.7623674124479294
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.7692080922424793
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.26231904048472643
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.20496626384556293
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.10647226590663195
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.06871091318316758
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.052115414291620255
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.030163500923663378
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.023416263866238296
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.00403838166675996
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0034011391107924283
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.3944546683196677E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 519324455,
+          "lngE7" : 223832874
+        }, {
+          "latE7" : 519352531,
+          "lngE7" : 223795871
+        }, {
+          "latE7" : 519424934,
+          "lngE7" : 223822059
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1617043190575",
+        "location" : {
+          "latitudeE7" : 519324390,
+          "longitudeE7" : 223826162,
+          "accuracyMetres" : 89,
+          "sourceInfo" : {
+            "deviceTag" : 1279789313
+          }
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 33.516014
+      },
+      "duration" : {
+        "startTimestampMs" : "1617043218299",
+        "endTimestampMs" : "1617131677976"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519324300,
+      "centerLngE7" : 223826150,
+      "visitConfidence" : 63,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 22.66443
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 9.984914
+      }, {
+        "latitudeE7" : 519112431,
+        "longitudeE7" : 223920514,
+        "placeId" : "ChIJ596eJ_sBIkcRwFnucB62LFM",
+        "locationConfidence" : 7.7231503
+      }, {
+        "latitudeE7" : 519304660,
+        "longitudeE7" : 223826654,
+        "placeId" : "ChIJ39iEkV__IUcR5DP5Ca8WX3U",
+        "locationConfidence" : 3.116877
+      }, {
+        "latitudeE7" : 519123075,
+        "longitudeE7" : 223902863,
+        "placeId" : "ChIJRznz2fABIkcROMvFVApOV0c",
+        "locationConfidence" : 1.2598448
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 1.1341393
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 519323845,
+        "longitudeE7" : 223828735,
+        "address" : "",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1279789313
+        },
+        "locationConfidence" : 43.03936
+      },
+      "duration" : {
+        "startTimestampMs" : "1617131677976",
+        "endTimestampMs" : "1617232380991"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 519324344,
+      "centerLngE7" : 223826611,
+      "visitConfidence" : 73,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 519325904,
+        "longitudeE7" : 223820043,
+        "placeId" : "ChIJ7_aUIF7_IUcRB3tY9LK64Zs",
+        "address" : "21-400 Łuków\nPolska",
+        "name" : "Osiedle Chącińskiego",
+        "locationConfidence" : 23.431627
+      }, {
+        "latitudeE7" : 519323868,
+        "longitudeE7" : 223830592,
+        "placeId" : "ChIJC1n0PF7_IUcRcBaF_t-zEZ8",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 17.241594
+      }, {
+        "latitudeE7" : 519334879,
+        "longitudeE7" : 223839992,
+        "placeId" : "ChIJZ-zQCF7_IUcRB-xE_Dt-uGw",
+        "locationConfidence" : 0.98736
+      }, {
+        "latitudeE7" : 519330800,
+        "longitudeE7" : 223830074,
+        "placeId" : "ChIJowe_G17_IUcRMUK9TmVhSwA",
+        "locationConfidence" : 0.9788533
+      }, {
+        "latitudeE7" : 519316773,
+        "longitudeE7" : 223805803,
+        "placeId" : "ChIJz_B44l__IUcRZKzJpoJT2sQ",
+        "locationConfidence" : 0.7824529
+      }, {
+        "latitudeE7" : 519183403,
+        "longitudeE7" : 223897393,
+        "placeId" : "ChIJUXmclPYBIkcRhYQfkrgIZb4",
+        "locationConfidence" : 0.46668285
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
