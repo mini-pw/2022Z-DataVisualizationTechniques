@@ -1,9 +1,7 @@
-Link do filmu: https://www.youtube.com/watch?v=gSZ_5kf4L8E
+Link do filmu: https://www.youtube.com/watch?v=_JTJy8OUjjU
 
 
-Strona, na razie nie udalo sie postawic nowej wersji, bo za duzo pamieci: https://skowronski.shinyapps.io/messenger/
+Strona: https://skowronski.shinyapps.io/messenger/
 
-
-(bedziemy starac sie to naprawic)
 
 
