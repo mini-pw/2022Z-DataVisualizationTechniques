@@ -1,0 +1,1 @@
+Załączam pracę domową w dwóch formatach, ponieważ raport dużo lepiej wygląda w .jpynb, ale analiza została przeprowadzona w R. Na wypadek jakichkolwiek problemów załączam również .html.
