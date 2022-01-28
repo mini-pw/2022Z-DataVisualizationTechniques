@@ -339,8 +339,8 @@ Previous: [Winter Semester 2020/21](https://github.com/mini-pw/2021Z-DataVisuali
   <tr>
     <td>01-31</td>
     <td rowspan="3"></td>
-    <td rowspan="3"></td>
-    <td>---</td>
+    <td rowspan="3">Consultations</td>
+    <td>Consultations</td>
     <td rowspan="3"></td>
   </tr>
   <tr>
