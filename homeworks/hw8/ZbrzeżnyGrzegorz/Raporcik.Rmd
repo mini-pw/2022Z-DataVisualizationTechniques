@@ -1,0 +1,121 @@
+---
+title: "Raporcik_PR08"
+author: "Grzegorz Zbrzeżny"
+date: "19 01 2022"
+output:
+  html_document:
+    toc: yes
+    theme: paper
+    number_sections: yes
+    toc_depth: 3
+    toc_float: yes
+    highlight: tango
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+source("analiza.R")
+```
+
+W raporcie przeprowadzam analizę zbioru danych odnośnie wyniku zadowolenia mieszkańców danych państw z życia pod kątem różnych aspektów
+
+# Rodzaje zmiennych
+
++ Overall.rank - miejsce w rankingu danego kraju pod względem wyniku ogólnego zadowolenia mieszkańców, nie będę przeprowadzał dokładniejszej analizy wyników, gdyż jest to po prostu wektor składający się z wartości od 1 do ilości badanych krajów
+
++ Country.or.region - kraj, bądź region, do którego on należy, również nie będę przeprowadzał dokładniejszej analizy, gdyż to po prostu lista krajów.
+
++ Score - średnia odpowiedź mieszkańcóW danego kraju na pytanie "Jak ocenia Pan/Pani własne zadowolenie  w skali od 0 do 10"
+
++ GDP.per.capita - Jak bardzo PKB na mieszkańca w kraju wpływa na wynik zadowolenia
+
++ Social.support - Jak bardzo pomoc socjalna w kraju wpływa na wynik zadowolenia
+
++ Healthy.life.expectancy - Jak bardzo oczekiwana długość życia w kraju wpływa na wynik zadowolenia
+
++ Freedom.to.make.life.choices - Jak bardzo możliwość podejmowania wolnych wyboróW w kraju wpływa na wynik zadowolenia
+
++ Generosity - Jak bardzo ogólnie pojęta szczodrość obecna w kraju wpływa na wynik zadowolenia
+
++ Perceptions.of.corruption - Jak bardzo postrzeganie korupcji w rządzie kraju wpływa na wynik zadowolenia
+
+# Tabela podsumowująca
+```{r, echo=FALSE}
+knitr::kable(secik)
+```
+
+# Dokładniejsza analiza zmiennych
+
+## Score
+```{r, echo=FALSE}
+data %>% ggplot(aes(Score)) + geom_histogram(bins= 30)
+knitr::kable(statsScore)
+```
+
+Wynik ogólnego zadowolenia utrzymuje się w większości w okolicy połowy maksymalnej ilości punktów i na lewo oraz prawo od tej wartości, ilość krajóW o poszczególnych wynikach maleje co może przypominać rozkład normalny.
+
+## GDP.per.capita
+```{r, echo=FALSE}
+data %>% ggplot(aes(GDP.per.capita)) + geom_histogram(bins= 30)
+knitr::kable(statsGDP.per.capita)
+```
+Sytuacja podobna jak poprzednio z tym, że najwięcej krajów oscyluje wokół wartości trochę większej niż połowa wartości maksymalnej.
+
+## Social.support
+```{r, echo=FALSE}
+data %>% ggplot(aes(Social.support)) + geom_histogram(bins= 30)
+knitr::kable(statsSocial.support)
+```
+W tym przypadku widać, że w naprawdę wielu krajach jest dobra opieka społeczna.
+
+## Healthy.life.expectancy
+```{r, echo=FALSE}
+data %>% ggplot(aes(Healthy.life.expectancy)) + geom_histogram(bins= 30)
+knitr::kable(statsHealthy.life.expectancy)
+```
+Największa wartość oczekiwanej długości życia jest w okolicy 3 kwartyla.
+
+## Freedom.to.make.life.choices
+```{r, echo=FALSE}
+data %>% ggplot(aes(Freedom.to.make.life.choices)) + geom_histogram(bins= 30)
+knitr::kable(statsFreedom.to.make.life.choices)
+```
+W znaczącej większości ankietowanych krajóW ludzie uznają możliwość podejmowania samodzielnych decyzji za dość istotną.
+
+## Generosity
+```{r, echo=FALSE}
+data %>% ggplot(aes(Generosity)) + geom_histogram(bins = 30)
+knitr::kable(statsGenerosity)
+```
+Niestety histogram szczodrości jest podobny do rozkładu normalnego przesuniętego w lewo, co sugeruje, że zdecydowanie nie żyjemy w miłym świecie.
+
+## Perceptions.of.corruption
+```{r, echo=FALSE}
+data %>% ggplot(aes(Perceptions.of.corruption)) + geom_histogram(bins= 30)
+knitr::kable(statsPerceptions.of.corruption)
+```
+Jak widać ludzie nie przejmują się bardzo korupcją w rządzie, co jednak może wynikać z tego, że rządy starają się ją niewątpliwie ukrywać co znacząco wpływa na postrzeganie problemu przez społeczeństwo
+
+# Analizy zależności
+
+## PKB, a długość życia
+```{r}
+data %>% ggplot(aes(GDP.per.capita, Healthy.life.expectancy)) + geom_hex()
+```
+W krajach o dużym PKB w teorii długość życia powinna być ważnym czynnikiem wpływającym na zadowolenie, ponieważ oznaczałoby to, że pieniądze te są inwestowane również w bezpieczeństwo, czy zdrowie mieszkańców. Okazuje się, że faktycznie stanowcza większość krajów o wyższym PKB ma również duże wartości w oczekiwanej długości życia.
+
+## PKB, a wynik ogólnego zadowolenia
+```{r}
+data %>% ggplot(aes(GDP.per.capita, color = cut(Score, breaks = c(2.5, 4.5, 6.5, 8)))) + geom_freqpoly(bins = 30) + 
+  guides(color = guide_legend(title="Score"))
+```
+PKB na mieszkańca powinno wpływać na zamożność kraju, a co za tym idzie na komfort i zadowolenie jego mieszkańców. Dzięki przeprowadzonym ankietom faktycznie można zauważyć taką zależność. Kraje o największym poziomie zadowolenia stanowią znaczącą większość spośród tych, które mają największe PKB na mieszkańca. Natomiast kraje z zakresu wyniku od 4.5 do 6.5, których jest zdecydowanie najwięcej zajmują środkowe wyniki pod względem PKB.
+
+## Szczodrość, a opieka socjalna
+```{r}
+data %>% filter(Social.support != 0) %>% ggplot(aes(Generosity, color = cut(Social.support, breaks = c(0, 0.550, 1.1, 1.65)))) + geom_freqpoly(bins = 30) + guides(color = guide_legend(title="Social.support"))
+```
+Ogólnie można zauważyć, że szczdrość w danym kraju nie jest jedną z najbardziej zadowalających ludzi rzeczy, natomiast z analizy pojedyńczych zmiennych okazało się, że opieka socjalna często wpływa pozytywnie na zadowolenie. Kiedy porównamy ze sobą te dane okazuje się, że opieka socjalna największym wpływem na zadowolenie cieszy się w krajach o przeciętnej szczodrości.
